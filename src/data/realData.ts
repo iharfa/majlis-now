@@ -1,128 +1,136 @@
 // ---------------------------------------------------------------------------
-// REAL, sourced parliamentary data fetched from majlis.gov.mv.
+// REAL, sourced parliamentary data from majlis.gov.mv.
 //
-// parliament-work/1845 — "Bill to amend the Maldivian Land Act (1/2002)".
-// The per-member roll call is built from the official vote-record PDF, so this
-// bill + vote are genuinely real (not illustrative). The same pipeline
-// (page → vote PDF → roll call) applies to every bill on the site.
+// Built from official vote-record PDFs (OCR'd, mapped to the roster by
+// constituency, and validated so row tallies match each PDF's printed summary).
+// See scripts/build_real_votes.py + src/data/realRollcalls.ts.
 // ---------------------------------------------------------------------------
 import type {
   Bill,
+  BillTimelineEvent,
   MPVote,
   PartyVoteBreakdown,
   SourceDocument,
   Vote,
-  VoteChoice,
 } from '@/types'
 import { mps } from './roster'
-import { ROLLCALL_1845 } from './rollcall1845'
+import { REAL_ROLLCALLS, type RealRollcall } from './realRollcalls'
 
-const WORK_URL = 'https://majlis.gov.mv/en/20-parliament/parliament-work/1845'
-const VOTE_PDF = 'https://majlis.gov.mv/storage/action_files/1845/qcVvV56lun3HtGc9Cd3z0wh3Yi1wn585U7qRhKYt.pdf'
-const BILL_PDF = 'https://majlis.gov.mv/storage/action_files/1845/WuJHehbjieZ10hErpnYlgtYDprIxXlrg7gF4AJZu.pdf'
+const mpByConstituency = new Map(mps.map((m) => [m.constituencyId, m]))
 
-const officialSource = (id: string, label: string, url: string): SourceDocument => ({
+const src = (id: string, label: string, url: string, date: string): SourceDocument => ({
   id,
   label,
   url,
-  lastUpdated: '2026-04-13',
+  lastUpdated: date,
   kind: 'official',
 })
 
-// Resolve each roll-call row to a real MP via constituency.
-const mpByConstituency = new Map(mps.map((m) => [m.constituencyId, m]))
+function buildVote(rc: RealRollcall): Vote {
+  const voteId = `vote-${rc.id}`
+  const mpVotes: MPVote[] = rc.rows.flatMap((row) => {
+    const mp = mpByConstituency.get(row.constituencyId)
+    if (!mp) return []
+    return [
+      {
+        mpId: mp.id,
+        voteId,
+        choice: row.choice,
+        partyId: mp.partyId,
+        constituencyId: row.constituencyId,
+        detail: row.detail,
+      },
+    ]
+  })
 
-const realMpVotes: MPVote[] = ROLLCALL_1845.flatMap((row) => {
-  const mp = mpByConstituency.get(row.constituencyId)
-  if (!mp) return []
-  return [
+  const partyBreakdown: PartyVoteBreakdown[] = Object.values(
+    mpVotes.reduce<Record<string, PartyVoteBreakdown>>((acc, v) => {
+      const b = (acc[v.partyId] ??= { partyId: v.partyId, yes: 0, no: 0, abstain: 0, absent: 0 })
+      if (v.choice === 'Yes') b.yes++
+      else if (v.choice === 'No') b.no++
+      else if (v.choice === 'Abstain') b.abstain++
+      else b.absent++
+      return acc
+    }, {}),
+  )
+
+  const passed = rc.result === 'Passed'
+  return {
+    id: voteId,
+    title: rc.title,
+    billId: `bill-${rc.id}`,
+    date: rc.date,
+    result: rc.result,
+    yesCount: rc.yes,
+    noCount: rc.no,
+    abstainCount: rc.abstain,
+    absentCount: rc.absent,
+    themeId: rc.theme,
+    summary: `Recorded floor vote on the ${rc.title}. Result: ${rc.result.toLowerCase()} (${rc.yes} in favour, ${rc.no} against).`,
+    whatItDecided: `This was the recorded vote on the ${rc.title}. It was ${rc.result.toLowerCase()} — ${rc.no} members voted against and ${rc.yes} in favour${
+      passed ? ', so the change takes effect' : ', so it did not pass'
+    }. Each member’s position is on the public record below.`,
+    keyEffects: [
+      `${passed ? 'Passed' : 'Rejected'} with ${rc.yes} in favour and ${rc.no} against.`,
+      'Recorded as an open vote — every member’s position is public.',
+      '“Absent” combines members recorded as not present or not voted.',
+    ],
+    partyBreakdown,
+    mpVotes,
+    provenance: 'official-rollcall',
+    sources: [
+      src(`src-${rc.id}-vote`, 'Official vote record (PDF)', rc.votePdf, rc.date),
+      src(`src-${rc.id}-work`, 'Parliament work item — People’s Majlis', rc.workUrl, rc.date),
+    ],
+  }
+}
+
+function buildBill(rc: RealRollcall): Bill {
+  const passed = rc.result === 'Passed'
+  const timeline: BillTimelineEvent[] = [
     {
-      mpId: mp.id,
-      voteId: 'vote-land-act-1845',
-      choice: row.choice,
-      partyId: mp.partyId,
-      constituencyId: row.constituencyId,
-      detail: row.detail,
+      id: `t-${rc.id}-vote`,
+      billId: `bill-${rc.id}`,
+      stage: 'Vote',
+      title: `Floor vote — ${rc.result.toLowerCase()}`,
+      date: rc.date,
+      state: 'completed',
+      source: src(`s-${rc.id}-vote`, 'Official vote record (PDF)', rc.votePdf, rc.date),
+    },
+    {
+      id: `t-${rc.id}-result`,
+      billId: `bill-${rc.id}`,
+      stage: 'Passed or rejected',
+      title: passed ? 'Passed at Parliament' : 'Rejected by vote',
+      date: rc.date,
+      daysSincePreviousStage: 0,
+      state: 'completed',
     },
   ]
-})
-
-function tally(choice: VoteChoice) {
-  return realMpVotes.filter((v) => v.choice === choice).length
+  return {
+    id: `bill-${rc.id}`,
+    ref: `Majlis work #${rc.id}`,
+    title: rc.title,
+    summary: `${rc.title}. Decided by recorded vote in the 20th Parliament — ${rc.result.toLowerCase()} (${rc.yes}–${rc.no}).`,
+    whyItMatters:
+      'This was decided by a recorded, open vote, so you can see exactly how each MP acted — the core accountability record this platform exists to surface.',
+    themeId: rc.theme,
+    sponsor: 'See official record',
+    status: passed ? 'Passed' : 'Rejected',
+    currentStage: 'Passed or rejected',
+    introducedDate: rc.date,
+    lastActionDate: rc.date,
+    voteIds: [`vote-${rc.id}`],
+    documents: [
+      { id: `doc-${rc.id}-vote`, label: 'Vote record (PDF)', url: rc.votePdf, kind: 'report', lastUpdated: rc.date },
+    ],
+    signalIds: [],
+    context:
+      'Real data: this bill and its member-by-member vote are sourced from the People’s Majlis and validated against the official tally.',
+    timeline,
+    sources: [src(`src-${rc.id}-billwork`, 'Parliament work item — People’s Majlis', rc.workUrl, rc.date)],
+  }
 }
 
-// Party breakdown computed from the real roll call.
-const partyBreakdown: PartyVoteBreakdown[] = Object.values(
-  realMpVotes.reduce<Record<string, PartyVoteBreakdown>>((acc, v) => {
-    const b = (acc[v.partyId] ??= { partyId: v.partyId, yes: 0, no: 0, abstain: 0, absent: 0 })
-    if (v.choice === 'Yes') b.yes++
-    else if (v.choice === 'No') b.no++
-    else if (v.choice === 'Abstain') b.abstain++
-    else b.absent++
-    return acc
-  }, {}),
-)
-
-export const realVote1845: Vote = {
-  id: 'vote-land-act-1845',
-  title: 'Amendment to the Maldivian Land Act (1/2002)',
-  billId: 'bill-land-act-1845',
-  date: '2026-04-13',
-  result: 'Rejected',
-  yesCount: tally('Yes'),
-  noCount: tally('No'),
-  abstainCount: tally('Abstain'),
-  absentCount: tally('Absent'),
-  themeId: 'housing',
-  summary:
-    'Open vote on the amendment to the Maldivian Land Act. The amendment was rejected (10 in favour, 49 against).',
-  whatItDecided:
-    'This was the floor vote on a bill to amend the Maldivian Land Act (No. 1/2002). The amendment did not pass — 49 members voted against and 10 in favour, so the existing Land Act remains unchanged.',
-  keyEffects: [
-    'The proposed amendment to the Land Act was rejected.',
-    'Recorded as an open vote, so each member’s position is on the public record.',
-    'Voting split largely along party lines; the bill was sponsored by an opposition member.',
-  ],
-  partyBreakdown,
-  mpVotes: realMpVotes,
-  provenance: 'official-rollcall',
-  sources: [
-    officialSource('src-1845-vote', 'Official vote record (PDF)', VOTE_PDF),
-    officialSource('src-1845-work', 'Parliament work item — People’s Majlis', WORK_URL),
-  ],
-}
-
-export const realBill1845: Bill = {
-  id: 'bill-land-act-1845',
-  ref: '20/2026/ބ-7',
-  title: 'Amendment to the Maldivian Land Act (1/2002)',
-  summary:
-    'A bill proposing amendments to the Maldivian Land Act (No. 1/2002). Introduced in the 20th Parliament and rejected at the vote on 13 April 2026.',
-  whyItMatters:
-    'The Land Act governs how land is owned, allocated and transferred in the Maldives. Changes to it affect housing, development rights and who controls land.',
-  themeId: 'housing',
-  sponsor: 'Hon. Mohamed Ibrahim (North Galolhu)',
-  status: 'Rejected',
-  currentStage: 'Passed or rejected',
-  introducedDate: '2026-02-17',
-  lastActionDate: '2026-04-13',
-  voteIds: ['vote-land-act-1845'],
-  documents: [
-    { id: 'doc-1845-bill', label: 'Bill text (PDF)', url: BILL_PDF, kind: 'pdf', lastUpdated: '2026-02-17' },
-    { id: 'doc-1845-vote', label: 'Vote record (PDF)', url: VOTE_PDF, kind: 'report', lastUpdated: '2026-04-13' },
-  ],
-  signalIds: [],
-  context:
-    'Real data: this bill and its member-by-member vote are sourced from the People’s Majlis (parliament-work/1845). It was rejected at its first reading vote.',
-  timeline: [
-    { id: 't-1845-1', billId: 'bill-land-act-1845', stage: 'Introduced', title: 'Introduced (4th sitting)', date: '2026-02-17', state: 'completed', source: officialSource('s-1845-intro', 'Parliament work item', WORK_URL) },
-    { id: 't-1845-2', billId: 'bill-land-act-1845', stage: 'First reading', title: 'First reading', date: '2026-02-17', state: 'completed' },
-    { id: 't-1845-3', billId: 'bill-land-act-1845', stage: 'Debate', title: 'Parliamentary debate (6th sitting)', date: '2026-04-13', daysSincePreviousStage: 55, state: 'completed' },
-    { id: 't-1845-4', billId: 'bill-land-act-1845', stage: 'Vote', title: 'Vote — rejected', date: '2026-04-13', daysSincePreviousStage: 0, state: 'completed', source: officialSource('s-1845-vote', 'Official vote record (PDF)', VOTE_PDF) },
-    { id: 't-1845-5', billId: 'bill-land-act-1845', stage: 'Passed or rejected', title: 'Rejected by vote', date: '2026-04-13', daysSincePreviousStage: 0, state: 'completed' },
-  ],
-  sources: [
-    officialSource('src-1845-billwork', 'Parliament work item — People’s Majlis', WORK_URL),
-    officialSource('src-1845-billpdf', 'Bill text (PDF)', BILL_PDF),
-  ],
-}
+export const realVotes: Vote[] = REAL_ROLLCALLS.map(buildVote)
+export const realBills: Bill[] = REAL_ROLLCALLS.map(buildBill)

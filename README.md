@@ -9,19 +9,20 @@ A youth-focused civic transparency platform for the Maldives Parliament. It answ
 This prototype uses a **two-tier** dataset, clearly distinguished in the UI (a persistent banner) and in the data layer:
 
 - **Real (from the official source):** the entire 20th Majlis **MP roster** — names, constituencies, parties, official **photos**, leadership roles, and profile links — taken from [majlis.gov.mv/en/20-parliament/members](https://majlis.gov.mv/en/20-parliament/members). Atoll groupings are derived (best-effort); the constituency name is authoritative.
-- **Real votes (sourced from official PDFs):** each bill's page (e.g. `parliament-work/1845`) links a **vote-record PDF** giving the member-by-member roll call. The **Land Act amendment vote** is fully integrated from that PDF (`src/data/realData.ts` + `src/data/rollcall1845.ts`): real counts (Yes 10 / No 49), a searchable member table, and per-member results that surface on each MP's profile. Votes carry `provenance: 'official-rollcall'`; the UI shows an **"Official record"** badge and a real table for these.
+- **Real votes (sourced from official PDFs):** each bill's page (e.g. `parliament-work/1845`) links a **vote-record PDF** giving the member-by-member roll call. **7 real roll-call votes** are integrated (Land Act, Land Transport, two Constitution amendments, Decentralization, Pension, Employment) — each with real counts, a searchable member table, party split, and per-member results that surface on each MP's profile. Votes carry `provenance: 'official-rollcall'`; the UI shows an **"Official record"** badge and a real table. Data lives in `src/data/realRollcalls.ts` (generated) → built into `Bill`/`Vote` objects in `src/data/realData.ts`.
 - **Illustrative samples (clearly labelled):** the remaining bills, votes, Parliament Signals, and committee activity. Where a real source isn't wired yet, the app **never attributes a vote or attendance figure to a real, named MP** — it shows an honest "not yet open data" / "illustrative sample" notice instead.
 
 ### Adding more real votes (pipeline)
 
-The vote PDFs are **scanned images** (no text layer), so the roll call is read via OCR/vision, then mapped to the roster **by constituency** with a self-checking script:
+The vote PDFs are **scanned images** (no text layer), so the roll call is OCR'd ([RapidOCR](https://github.com/RapidAI/RapidOCR)), then mapped to the roster **by constituency** with a self-checking script. The whole batch is automated:
 
-1. Fetch the work page `…/parliament-work/<id>` → get the vote-record PDF URL.
-2. Render PDF pages to images; read the `ID · Name · Constituency · Result` table.
-3. Run `scripts/gen_vote_1845.py` (romanized constituency → roster slug) — it asserts every row matches exactly one constituency and that tallies match the printed summary.
-4. Emit a `rollcall<id>.ts` module and a `Vote`/`Bill` in `realData.ts`.
+```bash
+python scripts/build_real_votes.py   # downloads, OCRs, maps, validates, emits src/data/realRollcalls.ts
+```
 
-The mapping verified for bill 1845: **92/92 rows matched, 0 errors**, tallies (Yes 10 / No 49 / Not Voted 9) matching the official summary exactly.
+Per bill it: fetches the work page → gets the "Votes" PDF → renders pages at 300 dpi → OCRs the `ID · Name · Constituency · Result` table (`scripts/extract_vote.py`, column split by x-position) → normalises each romanized constituency to a roster slug → and **asserts the row tally matches the printed summary** on the PDF. Add more bills by appending to the `BILLS` list in the script.
+
+All 7 bills processed: **every row maps, 0 unmapped**, and Yes/No counts match the official summaries exactly (e.g. Land Act 10/49, Decentralization 44/5, Pension 51/0).
 
 ## Stack
 

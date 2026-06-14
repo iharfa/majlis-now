@@ -109,7 +109,12 @@ const RAW: Row[] = [
   ['Ahmed Azaan Marzooq', 'Central Hithadhoo', 'Addu City', 'pnc', 'qWe4pJV10K9uMKWBK7PiYiqfxohNrjSZxfV03SQo', '231'],
   ['Ibrahim Nazil', 'South Hithadhoo', 'Addu City', 'mdp', 'AuqET4joR0k0pLAIr3fm57iboHcedGkP6H62u912', '229', 'Minority Leader'],
   ['Abdul Rahman', 'Addu Meedhoo', 'Addu City', 'ind', 'QrSAHOyjySGGyj0QXjfMnrbFOVxhvThdLGQvATfh', '226'],
+  // Former member — seat since vacated; included so earlier roll-call votes map.
+  ['Mohamed Sinan', 'North Hithadhoo', 'Addu City', 'pnc', 'T3kVS5yDDQwPmSBy6TOj1gdSz7o0C4LsLdJkKynR', '233'],
 ]
+
+// Members no longer sitting (shown with a "Former member" badge).
+const FORMER = new Set(['233'])
 
 function slug(s: string): string {
   return s
@@ -144,7 +149,7 @@ export const mps: MP[] = RAW.map(([name, con, , partyId, photoHash, pid, role]) 
   constituencyId: slug(con),
   partyId,
   leadershipRole: role,
-  active: true,
+  active: !FORMER.has(pid),
   sources: [
     {
       id: `src-mp-${pid}`,
