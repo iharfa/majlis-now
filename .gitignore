@@ -24,3 +24,8 @@ npm-debug.log*
 
 # working scratch
 tmp/
+
+# python / ocr scratch
+__pycache__/
+*.pyc
+_ocr_p*.png
