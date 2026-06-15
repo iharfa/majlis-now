@@ -74,6 +74,17 @@ export const billsForCommittee = (committeeId: string): Bill[] =>
 export const mpsForCommittee = (committeeId: string): MP[] =>
   mps.filter((m) => m.committeeIds?.includes(committeeId) ?? false)
 
+/** Committees a given MP sits on, with their role, derived from real membership. */
+export function committeesForMP(mpId: string): Array<{ committee: Committee; role: 'Chair' | 'Vice Chair' | 'Member' }> {
+  return committees
+    .filter((c) => c.memberMpIds.includes(mpId) || c.chairMpId === mpId || c.viceChairMpId === mpId)
+    .map((committee) => ({
+      committee,
+      role:
+        committee.chairMpId === mpId ? 'Chair' : committee.viceChairMpId === mpId ? 'Vice Chair' : 'Member',
+    }))
+}
+
 export const mpsForParty = (partyId: string): MP[] =>
   mps.filter((m) => m.partyId === partyId)
 

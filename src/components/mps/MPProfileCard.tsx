@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import type { MP } from '@/types'
-import { constituencyById, partyById } from '@/data'
+import { constituencyById, partyById, committeesForMP } from '@/data'
 import { Avatar } from '@/components/ui/Avatar'
 import { PartyTag } from '@/components/ui/PartyTag'
 import { Icon } from '@/components/ui/Icon'
@@ -9,6 +9,7 @@ import { Icon } from '@/components/ui/Icon'
 export function MPProfileCard({ mp }: { mp: MP }) {
   const c = constituencyById(mp.constituencyId)
   const party = partyById(mp.partyId)
+  const committeeCount = committeesForMP(mp.id).length
   return (
     <Link
       to={`/mps/${mp.id}`}
@@ -31,7 +32,10 @@ export function MPProfileCard({ mp }: { mp: MP }) {
       </div>
 
       <div className="mt-4 pt-4 border-t border-outline-variant/40 flex items-center justify-between">
-        <span className="text-label-sm text-outline truncate">{c?.atoll} · {party?.shortName}</span>
+        <span className="text-label-sm text-outline truncate inline-flex items-center gap-1">
+          <Icon name="groups" className="text-[14px]" />
+          {committeeCount} committee{committeeCount === 1 ? '' : 's'} · {party?.shortName}
+        </span>
         <span className="inline-flex items-center gap-1 text-primary font-label-bold text-label-sm shrink-0">
           View record <Icon name="arrow_forward" className="text-[16px]" />
         </span>

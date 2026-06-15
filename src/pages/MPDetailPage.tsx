@@ -6,7 +6,7 @@ import { Icon } from '@/components/ui/Icon'
 import { DataMeta } from '@/components/ui/DataMeta'
 import { PartyTag } from '@/components/ui/PartyTag'
 import { NotFoundPage } from './NotFoundPage'
-import { mpById, partyById, constituencyById, votesByMP } from '@/data'
+import { mpById, partyById, constituencyById, votesByMP, committeesForMP } from '@/data'
 import { cn } from '@/utils/cn'
 import { formatDate } from '@/utils/format'
 
@@ -20,6 +20,11 @@ export function MPDetailPage() {
   const constituency = constituencyById(mp.constituencyId)
   // Only real, sourced roll-call votes are shown for a named member.
   const recordedVotes = votesByMP(mp.id).filter(({ vote }) => vote.provenance === 'official-rollcall')
+  // Real committee memberships (chair/vice first).
+  const committeeRoles = committeesForMP(mp.id).sort((a, b) => {
+    const rank = { Chair: 0, 'Vice Chair': 1, Member: 2 } as const
+    return rank[a.role] - rank[b.role] || a.committee.name.localeCompare(b.committee.name)
+  })
 
   return (
     <Container className="py-8">
@@ -96,6 +101,38 @@ export function MPDetailPage() {
         <Fact icon="map" label="Atoll / city" value={constituency?.atoll ?? '—'} />
         <Fact icon="diversity_3" label="Party" value={party?.name ?? '—'} />
       </section>
+
+      {/* Committee memberships (real) */}
+      {committeeRoles.length > 0 && (
+        <section className="bg-white rounded-2xl border border-outline-variant/30 p-6 mb-gutter">
+          <div className="flex items-center gap-2 mb-4">
+            <Icon name="groups" className="text-primary" />
+            <h2 className="font-headline-md text-headline-md">Committee memberships</h2>
+            <span className="text-label-sm text-outline">({committeeRoles.length})</span>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            {committeeRoles.map(({ committee, role }) => (
+              <Link
+                key={committee.id}
+                to={`/committees/${committee.id}`}
+                className="flex items-center justify-between gap-3 p-3 rounded-xl bg-surface-container-low hover:bg-surface-variant transition-colors"
+              >
+                <span className="font-label-bold text-on-surface text-sm min-w-0 truncate">{committee.name}</span>
+                <span
+                  className={cn(
+                    'shrink-0 text-label-sm font-label-bold px-2 py-0.5 rounded-full',
+                    role === 'Member'
+                      ? 'bg-surface-container text-on-surface-variant'
+                      : 'bg-primary-fixed text-on-primary-fixed-variant',
+                  )}
+                >
+                  {role}
+                </span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Real recorded votes (official roll calls only) */}
       {recordedVotes.length > 0 && (
