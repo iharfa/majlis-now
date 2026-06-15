@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import type { ParliamentSignal } from '@/types'
-import { SIGNAL_META, SEVERITY_STYLES } from '@/utils/signals'
+import { SIGNAL_META, SEVERITY_STYLES, SEVERITY_EVIDENCE } from '@/utils/signals'
 import { themeById } from '@/data'
 import { Icon } from '@/components/ui/Icon'
 import { SeverityBadge } from '@/components/ui/SignalBadge'
@@ -16,6 +16,7 @@ interface Props {
 export function ParliamentSignalCard({ signal, compact }: Props) {
   const meta = SIGNAL_META[signal.type]
   const sev = SEVERITY_STYLES[signal.severity]
+  const ev = SEVERITY_EVIDENCE[signal.severity]
   const theme = signal.themeId ? themeById(signal.themeId) : undefined
   const target = signal.billId
     ? `/bills/${signal.billId}`
@@ -44,9 +45,12 @@ export function ParliamentSignalCard({ signal, compact }: Props) {
 
       {!compact && (
         <div className="mt-5 grid grid-cols-1 sm:grid-cols-2 gap-3">
-          <div className="bg-surface-container-low rounded-xl p-4">
-            <p className="text-label-sm font-label-bold uppercase text-outline mb-1">Evidence</p>
-            <p className="font-label-bold text-on-surface">{signal.evidenceMetric}</p>
+          <div className={cn('rounded-xl p-4 flex gap-3', ev.box)}>
+            <Icon name={ev.icon} className={cn('text-2xl shrink-0 mt-0.5', ev.iconColor)} />
+            <div>
+              <p className={cn('text-label-sm font-label-bold uppercase mb-1', ev.label)}>Evidence</p>
+              <p className="font-label-bold text-on-surface">{signal.evidenceMetric}</p>
+            </div>
           </div>
           <div className="bg-surface-container-low rounded-xl p-4">
             <p className="text-label-sm font-label-bold uppercase text-outline mb-1">Comparison</p>

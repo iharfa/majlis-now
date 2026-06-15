@@ -66,6 +66,31 @@ export const SEVERITY_STYLES: Record<
   },
 }
 
+/** Evidence-box styling that escalates with severity (icon + colour hook). */
+export const SEVERITY_EVIDENCE: Record<
+  SignalSeverity,
+  { box: string; icon: string; iconColor: string; label: string }
+> = {
+  Watch: {
+    box: 'bg-tertiary-fixed/40 border border-tertiary/30',
+    icon: 'visibility',
+    iconColor: 'text-tertiary',
+    label: 'text-tertiary',
+  },
+  Concern: {
+    box: 'bg-tertiary-fixed border border-tertiary/50',
+    icon: 'warning',
+    iconColor: 'text-tertiary',
+    label: 'text-on-tertiary-fixed-variant',
+  },
+  'High concern': {
+    box: 'bg-error-container border border-error/50',
+    icon: 'priority_high',
+    iconColor: 'text-error',
+    label: 'text-on-error-container',
+  },
+}
+
 // --- Threshold helpers (from the brief) ------------------------------------
 
 /** Classify how fast a bill passed (days from introduction to passed). */
