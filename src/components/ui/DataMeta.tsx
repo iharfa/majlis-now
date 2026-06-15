@@ -2,6 +2,7 @@ import type { Confidence, SourceDocument } from '@/types'
 import { formatDate } from '@/utils/format'
 import { cn } from '@/utils/cn'
 import { ConfidenceBadge } from './ConfidenceBadge'
+import { effectiveConfidence } from '@/utils/confidence'
 import { SourceLink } from './SourceLink'
 import { ReportIssueButton } from './ReportIssueButton'
 
@@ -34,7 +35,7 @@ export function DataMeta({ sources, confidence, reportContext, className }: Data
       {lastUpdated && (
         <span className="text-label-sm font-label-sm text-outline">Updated {formatDate(lastUpdated)}</span>
       )}
-      {confidence && <ConfidenceBadge level={confidence} />}
+      {confidence && <ConfidenceBadge level={effectiveConfidence(confidence, sources)} />}
       <ReportIssueButton context={reportContext} className="ml-auto" />
     </div>
   )
