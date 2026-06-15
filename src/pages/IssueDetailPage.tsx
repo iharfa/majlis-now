@@ -3,6 +3,7 @@ import { Container } from '@/components/ui/Container'
 import { Icon } from '@/components/ui/Icon'
 import { DataMeta } from '@/components/ui/DataMeta'
 import { ConfidenceBadge } from '@/components/ui/ConfidenceBadge'
+import { effectiveConfidence } from '@/utils/confidence'
 import { NotFoundPage } from './NotFoundPage'
 import { issueById, themeById, billById, voteById } from '@/data'
 import { formatDate, pct } from '@/utils/format'
@@ -42,7 +43,7 @@ export function IssueDetailPage() {
             <div key={dp.id} className="bg-white rounded-2xl border border-outline-variant/30 p-6">
               <div className="flex items-start justify-between gap-3">
                 <h3 className="font-label-bold text-on-surface">{dp.question}</h3>
-                <ConfidenceBadge level={dp.confidence} />
+                <ConfidenceBadge level={effectiveConfidence(dp.confidence, dp.sources)} />
               </div>
               <div className="mt-3 flex flex-wrap gap-2">
                 {dp.classificationOptions.map((o) => (

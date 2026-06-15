@@ -27,6 +27,9 @@ export function BillDetailPage() {
   const committee = bill.committeeId ? committeeById(bill.committeeId) : undefined
   const sigs = signalsForBill(bill.id)
   const relatedVotes = votesForBill(bill.id)
+  // Reference link back to the bill's page on the official Majlis site, shown
+  // only when a real (official) source backs this bill.
+  const officialSource = bill.sources.find((s) => s.kind === 'official')
 
   const downloadCsv = () => {
     const rows = [
@@ -68,6 +71,16 @@ export function BillDetailPage() {
           </div>
           <h1 className="font-headline-lg text-headline-lg text-on-surface max-w-3xl">{bill.title}</h1>
           <p className="text-on-surface-variant font-body-lg mt-2 max-w-2xl">{bill.summary}</p>
+          {officialSource && (
+            <a
+              href={officialSource.url}
+              target="_blank"
+              rel="noreferrer noopener"
+              className="mt-3 inline-flex items-center gap-1.5 text-label-bold font-label-bold text-primary hover:underline"
+            >
+              <Icon name="open_in_new" className="text-[16px]" /> View on People’s Majlis
+            </a>
+          )}
         </div>
         <button
           onClick={() => setTracking((t) => !t)}

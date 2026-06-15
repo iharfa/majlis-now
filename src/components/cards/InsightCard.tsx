@@ -4,6 +4,7 @@ import { themeById } from '@/data'
 import { SEVERITY_STYLES, SIGNAL_META } from '@/utils/signals'
 import { SeverityBadge } from '@/components/ui/SignalBadge'
 import { ConfidenceBadge } from '@/components/ui/ConfidenceBadge'
+import { effectiveConfidence } from '@/utils/confidence'
 import { SourceLink } from '@/components/ui/SourceLink'
 import { Icon } from '@/components/ui/Icon'
 import { cn } from '@/utils/cn'
@@ -29,7 +30,7 @@ export function InsightCard({ signal }: { signal: ParliamentSignal }) {
       <p className="mt-1 text-sm text-on-surface-variant line-clamp-2">{signal.summary}</p>
       <div className="mt-3 flex items-center gap-3 flex-wrap text-label-sm">
         {theme && <span className="text-outline">{theme.name}</span>}
-        <ConfidenceBadge level={signal.confidence} />
+        <ConfidenceBadge level={effectiveConfidence(signal.confidence, signal.sources)} />
       </div>
       <div className="mt-auto pt-3">
         <SourceLink source={signal.sources[0]} className="!text-label-sm" />
