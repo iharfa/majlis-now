@@ -21,12 +21,14 @@ import { bills as illustrativeBills } from './bills'
 import { votes as illustrativeVotes } from './votes'
 import { signals, signalById } from './signals'
 import { issues, issueById } from './issues'
-import { activity } from './activity'
+import { activity as illustrativeActivity } from './activity'
+import { realActivity } from './realActivity'
 import { realBills, realVotes } from './realData'
 
 // Real, sourced records lead; illustrative samples follow.
 export const bills: Bill[] = [...realBills, ...illustrativeBills]
 export const votes: Vote[] = [...realVotes, ...illustrativeVotes]
+export const activity: ActivityFeedItem[] = [...realActivity, ...illustrativeActivity]
 export const billById = (id: string) => bills.find((b) => b.id === id)
 export const voteById = (id: string) => votes.find((v) => v.id === id)
 
@@ -45,7 +47,6 @@ export {
   signalById,
   issues,
   issueById,
-  activity,
 }
 
 // --- Derived selectors ------------------------------------------------------
