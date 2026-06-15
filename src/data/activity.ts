@@ -42,7 +42,7 @@ export const activity: ActivityFeedItem[] = [
     markerColor: 'bg-tertiary',
     themeId: 'environment',
     relatedEntityType: 'committee',
-    relatedEntityId: 'cmt-environment',
+    relatedEntityId: 'cmt-129',
     source: mockSource('src-feed-3', 'Committee schedule (mock)'),
   },
   {

@@ -22,7 +22,7 @@ export const bills: Bill[] = [
     currentStage: 'Vote',
     introducedDate: '2026-06-01',
     lastActionDate: '2026-06-13',
-    committeeId: 'cmt-finance',
+    committeeId: 'cmt-119',
     voteIds: ['vote-public-finance'],
     documents: [
       { id: 'doc-pf-1', label: 'bill_draft_v2.pdf', url: 'https://majlis.gov.mv/en/20-parliament', kind: 'pdf', lastUpdated: '2026-06-09' },
@@ -56,7 +56,7 @@ export const bills: Bill[] = [
     currentStage: 'Committee meetings',
     introducedDate: '2026-01-20',
     lastActionDate: '2026-02-16',
-    committeeId: 'cmt-rights',
+    committeeId: 'cmt-130',
     voteIds: [],
     documents: [
       { id: 'doc-ac-1', label: 'bill_text.pdf', url: 'https://majlis.gov.mv/en/20-parliament', kind: 'pdf', lastUpdated: '2026-01-20' },
@@ -85,7 +85,7 @@ export const bills: Bill[] = [
     currentStage: 'Passed or rejected',
     introducedDate: '2026-03-10',
     lastActionDate: '2026-06-13',
-    committeeId: 'cmt-environment',
+    committeeId: 'cmt-129',
     voteIds: ['vote-fisheries'],
     documents: [
       { id: 'doc-fi-1', label: 'fisheries_amendment.pdf', url: 'https://majlis.gov.mv/en/20-parliament', kind: 'pdf', lastUpdated: '2026-03-10' },
@@ -113,7 +113,7 @@ export const bills: Bill[] = [
     currentStage: 'Committee meetings',
     introducedDate: '2026-06-02',
     lastActionDate: '2026-06-05',
-    committeeId: 'cmt-economy',
+    committeeId: 'cmt-120',
     voteIds: [],
     documents: [
       { id: 'doc-ye-1', label: 'youth_employment_draft.pdf', url: 'https://majlis.gov.mv/en/20-parliament', kind: 'pdf', lastUpdated: '2026-06-02' },
@@ -140,7 +140,7 @@ export const bills: Bill[] = [
     currentStage: 'Vote',
     introducedDate: '2026-02-12',
     lastActionDate: '2026-04-28',
-    committeeId: 'cmt-economy',
+    committeeId: 'cmt-120',
     voteIds: ['vote-tourism-rent'],
     documents: [
       { id: 'doc-tr-1', label: 'tourism_rent.pdf', url: 'https://majlis.gov.mv/en/20-parliament', kind: 'pdf', lastUpdated: '2026-02-12' },
@@ -168,7 +168,7 @@ export const bills: Bill[] = [
     currentStage: 'Amendments',
     introducedDate: '2026-04-01',
     lastActionDate: '2026-06-08',
-    committeeId: 'cmt-rights',
+    committeeId: 'cmt-130',
     voteIds: ['vote-online-speech'],
     documents: [
       { id: 'doc-os-1', label: 'online_content_bill.pdf', url: 'https://majlis.gov.mv/en/20-parliament', kind: 'pdf', lastUpdated: '2026-04-01' },

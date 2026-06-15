@@ -74,7 +74,7 @@ export function HomePage() {
               icon="campaign"
               iconBg="bg-tertiary"
               kicker="Latest committee action"
-              to="/committees/cmt-environment"
+              to="/committees/cmt-129"
               whatHappened="Environment Committee closed waste-policy hearing"
               whyCare="Affects waste management decisions."
               whatChanged="Report now pending — flagged as quiet movement."

@@ -1,51 +1,74 @@
 import { Link } from 'react-router-dom'
 import { Container, PageHeader } from '@/components/ui/Container'
 import { Icon } from '@/components/ui/Icon'
-import { SignalBadge } from '@/components/ui/SignalBadge'
-import { committees, mpById, signalsForCommittee } from '@/data'
+import { committees, mpById } from '@/data'
 import { formatDate } from '@/utils/format'
 
+function shortCategory(c?: string): string {
+  if (!c) return 'Committee'
+  if (c.includes('Joint')) return 'Joint committee'
+  if (c.includes('Select')) return 'Select committee'
+  if (c.includes('Parliamentary work')) return 'Standing committee'
+  if (c.includes('State Institutions')) return 'Standing committee'
+  return 'Committee'
+}
+
 export function CommitteesPage() {
+  // Group: main standing committees first, then select/joint/sub-committees.
+  const standing = committees.filter((c) => c.category?.includes('Standing'))
+  const others = committees.filter((c) => !c.category?.includes('Standing'))
+
   return (
     <Container className="py-8">
       <PageHeader
         eyebrow="Committees"
         title="Where the detailed work happens"
-        description="Committee membership, meetings, attendance, and any process signals — stalled items, pending reports, or missing documents."
+        description="Real committee membership, leadership and meeting records from the People’s Majlis — all 39 committees of the 20th Parliament."
       />
+      <Section title="Standing committees" items={standing} />
+      <Section title="Select, joint & sub-committees" items={others} />
+    </Container>
+  )
+}
+
+function Section({ title, items }: { title: string; items: typeof committees }) {
+  if (items.length === 0) return null
+  return (
+    <section className="mb-section-gap">
+      <h2 className="font-headline-md text-headline-md mb-4">{title}</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-gutter">
-        {committees.map((c) => {
-          const chair = mpById(c.chairMpId)
-          const sigs = signalsForCommittee(c.id)
+        {items.map((c) => {
+          const chair = c.chairMpId ? mpById(c.chairMpId) : undefined
           return (
             <Link
               key={c.id}
               to={`/committees/${c.id}`}
               className="group block bg-white rounded-2xl border border-outline-variant/30 shadow-sm hover:shadow-md transition-all p-6"
             >
-              <div className="flex items-start justify-between gap-2 mb-2">
-                <h3 className="font-headline-md text-lg group-hover:text-primary transition-colors">{c.name}</h3>
-                {sigs.map((s) => (
-                  <SignalBadge key={s.id} type={s.type} severity={s.severity} showLabel={false} />
-                ))}
+              <div className="flex items-center gap-2 mb-2 flex-wrap">
+                <span className="text-label-sm font-label-bold uppercase tracking-wider text-primary">
+                  {shortCategory(c.category)}
+                </span>
+                {c.status === 'Completed' && (
+                  <span className="text-label-sm bg-surface-container text-on-surface-variant px-2 py-0.5 rounded-full font-label-bold">
+                    Completed
+                  </span>
+                )}
               </div>
-              <p className="text-sm text-on-surface-variant">Chair: {chair?.name ?? '—'} · {c.memberMpIds.length} members</p>
-              <p className="mt-3 text-sm text-on-surface">
-                <span className="font-label-bold">Latest:</span> {c.latestAction}
+              <h3 className="font-headline-md text-lg group-hover:text-primary transition-colors">{c.name}</h3>
+              <p className="mt-2 text-sm text-on-surface-variant">
+                {chair ? `Chair: ${chair.name}` : 'Chair: —'} · {c.memberMpIds.length} members
               </p>
               <div className="mt-4 pt-4 border-t border-outline-variant/40 flex items-center justify-between text-label-sm text-outline">
-                <span>{c.meetings.length} meetings · {c.attendance}% attendance</span>
-                <span>{formatDate(c.latestActionDate)}</span>
+                <span className="inline-flex items-center gap-1">
+                  <Icon name="event" className="text-[16px]" /> {c.meetings.length} meetings
+                </span>
+                {c.latestActionDate && <span>Last met {formatDate(c.latestActionDate)}</span>}
               </div>
-              {c.stalledItems.length > 0 && (
-                <p className="mt-2 text-label-sm text-error flex items-center gap-1">
-                  <Icon name="warning" className="text-[14px]" /> {c.stalledItems.length} stalled item(s)
-                </p>
-              )}
             </Link>
           )
         })}
       </div>
-    </Container>
+    </section>
   )
 }

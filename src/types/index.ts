@@ -273,24 +273,33 @@ export interface Vote {
 export interface CommitteeMeeting {
   id: string
   date: string
-  subject: string
-  attendance: number // 0–100
+  subject?: string
+  attendance?: number // 0–100, when published
   source?: SourceDocument
 }
 
 export interface Committee {
   id: string
   name: string
-  chairMpId: string
+  /** Grouping, e.g. "State Institutions related Standing Committees". */
+  category?: string
+  status?: 'Ongoing' | 'Completed'
+  chairMpId?: string
+  viceChairMpId?: string
   memberMpIds: string[]
+  formerMemberMpIds?: string[]
   meetings: CommitteeMeeting[]
-  attendance: number
-  billsReviewedIds: string[]
-  reportsProduced: number
-  latestAction: string
-  latestActionDate: string
-  stalledItems: string[]
-  signalIds: string[]
+  /** Average attendance, when published. */
+  attendance?: number
+  billsReviewedIds?: string[]
+  reportsProduced?: number
+  worksCount?: number
+  latestAction?: string
+  latestActionDate?: string
+  stalledItems?: string[]
+  signalIds?: string[]
+  /** Link to the official committee page. */
+  sourceUrl?: string
   sources: SourceDocument[]
 }
 
