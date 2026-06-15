@@ -55,11 +55,11 @@ export function HomePage() {
             <RecentActivityCard
               icon="how_to_vote"
               iconBg="bg-primary"
-              kicker="Latest vote"
-              to="/votes/vote-public-finance"
-              whatHappened="Public Finance amendment passed 54–22"
-              whyCare="Changes who approves new national debt."
-              whatChanged="Sub-$100M loans now go to committee, not the full chamber."
+              kicker="Latest vote · Official record"
+              to="/votes/vote-1873"
+              whatHappened="Decentralization Act amendment passed 44–5"
+              whyCare="Changes how island and atoll councils are run."
+              whatChanged="Recorded floor vote — every MP's position is on the public record."
             />
             <RecentActivityCard
               icon="trending_up"
