@@ -1,6 +1,7 @@
 import type { PartyVoteBreakdown } from '@/types'
 import { partyById } from '@/data'
 import { pct } from '@/utils/format'
+import { readableText } from '@/utils/contrast'
 
 export function PartyAlignmentCard({ breakdown }: { breakdown: PartyVoteBreakdown }) {
   const party = partyById(breakdown.partyId)
@@ -13,8 +14,8 @@ export function PartyAlignmentCard({ breakdown }: { breakdown: PartyVoteBreakdow
     <div className="bg-white p-6 rounded-xl shadow-sm border border-outline-variant">
       <div className="flex items-center gap-3 mb-4">
         <div
-          className="w-10 h-10 rounded-lg flex items-center justify-center text-white font-bold text-sm"
-          style={{ backgroundColor: party?.color }}
+          className="w-10 h-10 rounded-lg flex items-center justify-center font-bold text-sm"
+          style={{ backgroundColor: party?.color, color: party ? readableText(party.color) : '#fff' }}
         >
           {party?.shortName}
         </div>

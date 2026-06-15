@@ -1,6 +1,7 @@
 import type { MP } from '@/types'
 import { partyById } from '@/data'
 import { cn } from '@/utils/cn'
+import { readableText } from '@/utils/contrast'
 
 interface AvatarProps {
   mp: MP
@@ -29,14 +30,11 @@ export function Avatar({ mp, size = 'md', className }: AvatarProps) {
       />
     )
   }
+  const bg = party?.color ?? '#767586'
   return (
     <span
-      className={cn(
-        'rounded-full flex items-center justify-center font-bold text-white shrink-0',
-        SIZES[size],
-        className,
-      )}
-      style={{ backgroundColor: party?.color ?? '#767586' }}
+      className={cn('rounded-full flex items-center justify-center font-bold shrink-0', SIZES[size], className)}
+      style={{ backgroundColor: bg, color: readableText(bg) }}
       aria-hidden
     >
       {mp.initials}
