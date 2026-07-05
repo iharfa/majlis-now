@@ -1,96 +1,123 @@
 import { Link } from 'react-router-dom'
 import { Container } from '@/components/ui/Container'
-import { HeroBriefingCard } from '@/components/cards/HeroBriefingCard'
-import { InsightCard } from '@/components/cards/InsightCard'
-import { RecentActivityCard } from '@/components/cards/RecentActivityCard'
-import { ParliamentSignalCard } from '@/components/signals/ParliamentSignalCard'
-import { IssueThemeCard } from '@/components/cards/IssueThemeCard'
 import { ActivityItem } from '@/components/cards/ActivityItem'
 import { FindYourMP } from '@/components/mps/FindYourMP'
+import { IssueThemeCard } from '@/components/cards/IssueThemeCard'
 import { Icon } from '@/components/ui/Icon'
-import { billById, signalById, rankedSignals, activity, themes } from '@/data'
+import { votes, activity, themes, billById } from '@/data'
+import { formatDate, pct } from '@/utils/format'
+
+function ResultBadge({ result }: { result: string }) {
+  const passed = result === 'Passed'
+  return (
+    <span
+      className={`px-3 py-1 rounded-full text-label-sm font-label-bold ${
+        passed ? 'bg-primary-container text-on-primary-container' : 'bg-error-container text-on-error-container'
+      }`}
+    >
+      {result.toUpperCase()}
+    </span>
+  )
+}
+
+function CountBar({ v }: { v: (typeof votes)[number] }) {
+  const total = v.yesCount + v.noCount + v.abstainCount + v.absentCount
+  return (
+    <>
+      <div className="h-2 bg-surface-variant rounded-full overflow-hidden flex">
+        <div className="h-full bg-secondary" style={{ width: `${pct(v.yesCount, total)}%` }} />
+        <div className="h-full bg-error" style={{ width: `${pct(v.noCount, total)}%` }} />
+        <div className="h-full bg-tertiary" style={{ width: `${pct(v.abstainCount, total)}%` }} />
+        <div className="h-full bg-outline" style={{ width: `${pct(v.absentCount, total)}%` }} />
+      </div>
+      <div className="mt-2 flex items-center gap-4 text-label-sm">
+        <span className="text-secondary font-label-bold">{v.yesCount} Yes</span>
+        <span className="text-error font-label-bold">{v.noCount} No</span>
+        <span className="text-outline">{v.absentCount} Absent</span>
+      </div>
+    </>
+  )
+}
 
 export function HomePage() {
-  const heroBill = billById('bill-public-finance')!
-  const heroSignal = signalById('sig-finance-fast')!
-  const insights = rankedSignals().slice(0, 5)
-  const signalsGrid = rankedSignals().slice(0, 4)
+  const recent = [...votes].sort((a, b) => b.date.localeCompare(a.date))
+  const hero = recent[0]
+  const more = recent.slice(1, 5)
+  const heroBill = hero?.billId ? billById(hero.billId) : undefined
   const topThemes = themes.slice(0, 4)
 
   return (
     <Container className="py-8 grid grid-cols-1 md:grid-cols-12 gap-8">
       {/* Main column */}
       <div className="md:col-span-8 space-y-section-gap">
-        {/* Hero */}
-        <section className="space-y-stack-gap">
-          <div className="flex items-center justify-between">
-            <h2 className="font-headline-lg text-headline-lg text-on-surface">What Parliament is doing now</h2>
-            <span className="flex items-center gap-2 px-3 py-1 bg-primary/10 text-primary rounded-full shrink-0">
-              <span className="w-2 h-2 bg-primary rounded-full animate-pulse-dot" />
-              <span className="font-label-bold text-label-sm">IN SESSION</span>
-            </span>
-          </div>
-          <HeroBriefingCard bill={heroBill} signal={heroSignal} />
-        </section>
+        {/* Hero — latest recorded decision */}
+        {hero && (
+          <section className="space-y-stack-gap">
+            <div className="flex items-center justify-between">
+              <h2 className="font-headline-lg text-headline-lg text-on-surface">What Parliament is doing now</h2>
+              <span className="flex items-center gap-2 px-3 py-1 bg-primary/10 text-primary rounded-full shrink-0">
+                <Icon name="verified" className="text-[16px]" />
+                <span className="font-label-bold text-label-sm">OFFICIAL RECORD</span>
+              </span>
+            </div>
+            <div className="rounded-2xl bg-white shadow-[0_4px_20px_rgba(0,0,0,0.05)] border border-outline-variant/30 p-8">
+              <div className="flex items-center gap-3 flex-wrap mb-3">
+                <ResultBadge result={hero.result} />
+                <span className="text-on-surface-variant text-label-sm flex items-center gap-1">
+                  <Icon name="calendar_month" className="text-sm" /> {formatDate(hero.date)}
+                </span>
+              </div>
+              <h3 className="font-display-lg text-headline-lg leading-tight text-on-surface">{hero.title}</h3>
+              <p className="mt-3 font-body-lg text-on-surface-variant max-w-2xl">{hero.whatItDecided}</p>
+              <div className="mt-5 max-w-md">
+                <CountBar v={hero} />
+              </div>
+              <div className="mt-6 flex flex-wrap items-center gap-3">
+                <Link
+                  to={`/votes/${hero.id}`}
+                  className="bg-primary text-on-primary font-label-bold text-label-bold px-6 py-3 rounded-xl shadow-lg hover:brightness-110 active:scale-95 transition-all flex items-center gap-2"
+                >
+                  See how MPs voted <Icon name="how_to_vote" className="text-[18px]" />
+                </Link>
+                {heroBill && (
+                  <Link
+                    to={`/bills/${heroBill.id}`}
+                    className="border-2 border-primary text-primary font-label-bold text-label-bold px-6 py-3 rounded-xl hover:bg-primary-fixed transition-colors flex items-center gap-2"
+                  >
+                    View bill <Icon name="description" className="text-[18px]" />
+                  </Link>
+                )}
+              </div>
+            </div>
+          </section>
+        )}
 
-        {/* Key things to know */}
+        {/* Latest decisions */}
         <section className="space-y-stack-gap">
           <div className="flex items-center justify-between">
-            <h2 className="font-headline-lg text-headline-lg text-on-surface">Key things to know right now</h2>
-            <Link to="/issues" className="text-primary font-label-bold text-label-sm hover:underline">
-              All signals
+            <h2 className="font-headline-lg text-headline-lg text-on-surface">Latest decisions</h2>
+            <Link to="/votes" className="text-primary font-label-bold text-label-sm hover:underline">
+              All votes
             </Link>
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-gutter">
-            {insights.map((s) => (
-              <InsightCard key={s.id} signal={s} />
-            ))}
-          </div>
-        </section>
-
-        {/* Recent activity (what / why / changed) */}
-        <section className="space-y-stack-gap">
-          <h2 className="font-headline-lg text-headline-lg text-on-surface">Latest movements</h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-gutter">
-            <RecentActivityCard
-              icon="how_to_vote"
-              iconBg="bg-primary"
-              kicker="Latest vote · Official record"
-              to="/votes/vote-1873"
-              whatHappened="Decentralization Act amendment passed 44–5"
-              whyCare="Changes how island and atoll councils are run."
-              whatChanged="Recorded floor vote — every MP's position is on the public record."
-            />
-            <RecentActivityCard
-              icon="trending_up"
-              iconBg="bg-secondary"
-              kicker="Latest bill movement"
-              to="/bills/bill-online-speech"
-              whatHappened="Late amendment added to online speech bill"
-              whyCare="Late changes get less scrutiny."
-              whatChanged="A new 'harmful content' takedown clause was introduced."
-            />
-            <RecentActivityCard
-              icon="campaign"
-              iconBg="bg-tertiary"
-              kicker="Latest committee action"
-              to="/committees/cmt-129"
-              whatHappened="Environment Committee closed waste-policy hearing"
-              whyCare="Affects waste management decisions."
-              whatChanged="Report now pending — flagged as quiet movement."
-            />
-          </div>
-        </section>
-
-        {/* Parliament Signals */}
-        <section className="space-y-stack-gap">
-          <div className="flex items-center justify-between">
-            <h2 className="font-headline-lg text-headline-lg text-on-surface">Parliament Signals</h2>
-            <span className="text-label-sm text-outline">Evidence-based process flags</span>
-          </div>
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-gutter">
-            {signalsGrid.map((s) => (
-              <ParliamentSignalCard key={s.id} signal={s} />
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-gutter">
+            {more.map((v) => (
+              <Link
+                key={v.id}
+                to={`/votes/${v.id}`}
+                className="group block bg-white rounded-2xl border border-outline-variant/30 shadow-sm hover:shadow-md transition-all p-6"
+              >
+                <div className="flex items-center gap-2 mb-3">
+                  <ResultBadge result={v.result} />
+                  <span className="text-label-sm text-outline ml-auto">{formatDate(v.date)}</span>
+                </div>
+                <h3 className="font-headline-md text-lg text-on-surface group-hover:text-primary transition-colors line-clamp-2">
+                  {v.title}
+                </h3>
+                <div className="mt-4">
+                  <CountBar v={v} />
+                </div>
+              </Link>
             ))}
           </div>
         </section>

@@ -57,7 +57,7 @@ export function FindYourMP({ variant = 'panel' }: { variant?: 'panel' | 'plain' 
         <div className="mt-4 space-y-2">
           {results.length === 0 && (
             <p className={`text-label-sm ${onPanel ? 'opacity-80' : 'text-on-surface-variant'}`}>
-              No match in the mock dataset. Try an atoll like “Addu City”.
+              No match. Try an atoll like “Addu City”.
             </p>
           )}
           {results.map((mp) => {

@@ -69,7 +69,7 @@ export function SearchPage() {
         })}
       </div>
 
-      {!q && <p className="text-on-surface-variant py-10 text-center">Start typing to search the mock dataset.</p>}
+      {!q && <p className="text-on-surface-variant py-10 text-center">Start typing to search MPs, votes, committees and themes.</p>}
 
       {q && filtered.length === 0 && (
         <p className="text-on-surface-variant py-10 text-center">No results for “{q}”.</p>

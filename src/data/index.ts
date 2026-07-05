@@ -17,20 +17,20 @@ import { constituencies, constituencyById } from './constituencies'
 import { themes, themeById } from './themes'
 import { mps, mpById } from './mps'
 import { committees, committeeById } from './committees'
-import { bills as illustrativeBills } from './bills'
-import { votes as illustrativeVotes } from './votes'
-import { signals, signalById } from './signals'
-import { issues, issueById } from './issues'
-import { activity as illustrativeActivity } from './activity'
 import { realActivity } from './realActivity'
 import { realBills, realVotes } from './realData'
 
-// Real, sourced records lead; illustrative samples follow.
-export const bills: Bill[] = [...realBills, ...illustrativeBills]
-export const votes: Vote[] = [...realVotes, ...illustrativeVotes]
-export const activity: ActivityFeedItem[] = [...realActivity, ...illustrativeActivity]
+// Everything shown is real, sourced data from the People's Majlis.
+export const bills: Bill[] = realBills
+export const votes: Vote[] = realVotes
+export const activity: ActivityFeedItem[] = realActivity
+// No mock signals/issues yet; empty arrays keep the helper selectors valid.
+export const signals: ParliamentSignal[] = []
+export const issues: Issue[] = []
 export const billById = (id: string) => bills.find((b) => b.id === id)
 export const voteById = (id: string) => votes.find((v) => v.id === id)
+export const signalById = (id: string) => signals.find((s) => s.id === id)
+export const issueById = (id: string) => issues.find((i) => i.id === id)
 
 export {
   parties,
@@ -43,10 +43,6 @@ export {
   mpById,
   committees,
   committeeById,
-  signals,
-  signalById,
-  issues,
-  issueById,
 }
 
 // --- Derived selectors ------------------------------------------------------

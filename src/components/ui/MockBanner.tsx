@@ -12,8 +12,8 @@ export function MockBanner() {
       <div className="max-w-7xl mx-auto px-container-margin-mobile md:px-container-margin-desktop py-1.5 flex items-center justify-center gap-2 text-center">
         <Icon name="info" className="text-[16px]" />
         <p className="text-label-sm font-label-bold">
-          Real data (source: People’s Majlis): the full MP roster, photos, committees &amp; {realVotes.length} official
-          roll-call votes. Other bills &amp; signals are illustrative samples.
+          Live data from the People’s Majlis (majlis.gov.mv): the full MP roster, photos, all committees &amp;{' '}
+          {realVotes.length} official roll-call votes.
         </p>
       </div>
     </div>

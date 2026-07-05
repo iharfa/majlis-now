@@ -24,7 +24,7 @@ export function Footer() {
             >
               People’s Majlis
             </a>{' '}
-            · Development dataset is mock.
+            · Roster, committees &amp; roll-call votes are official records.
           </p>
         </div>
         <div className="flex gap-6 text-sm">
