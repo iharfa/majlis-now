@@ -1,4 +1,5 @@
 import { Icon } from './Icon'
+import { realVotes } from '@/data/realData'
 
 /**
  * Honest data-provenance banner. The MP roster is real (from majlis.gov.mv);
@@ -11,8 +12,8 @@ export function MockBanner() {
       <div className="max-w-7xl mx-auto px-container-margin-mobile md:px-container-margin-desktop py-1.5 flex items-center justify-center gap-2 text-center">
         <Icon name="info" className="text-[16px]" />
         <p className="text-label-sm font-label-bold">
-          Real data (source: People’s Majlis): the full MP roster, photos &amp; 7 official roll-call votes. Other
-          bills, signals &amp; committee activity are illustrative samples.
+          Real data (source: People’s Majlis): the full MP roster, photos, committees &amp; {realVotes.length} official
+          roll-call votes. Other bills &amp; signals are illustrative samples.
         </p>
       </div>
     </div>

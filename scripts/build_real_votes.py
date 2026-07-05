@@ -4,9 +4,15 @@ and emit src/data/realRollcalls.ts.
 
 Run from repo root: python scripts/build_real_votes.py
 """
-import json, re, urllib.request, os
-from collections import Counter
+import json, re, os, subprocess, html as ihtml
 from extract_vote import parse_rollcall
+
+def curl(url, out=None):
+    # urllib gets 403 from majlis.gov.mv; curl works.
+    if out:
+        subprocess.run(["curl", "-sL", "-o", out, url], check=True)
+        return None
+    return subprocess.run(["curl", "-sL", url], check=True, capture_output=True, text=True).stdout
 
 # --- roster constituencies (mirror src/data/roster.ts) ----------------------
 MYCONS = [
@@ -64,24 +70,58 @@ def iso_date(d):
         return None
     return f"{m.group(3)}-{MONTHS.get(m.group(2), '01')}-{int(m.group(1)):02d}"
 
-# --- bills to process -------------------------------------------------------
-BILLS = [
-    ("1845", "Amendment to the Maldivian Land Act (1/2002)", "housing", "Rejected", "qcVvV56lun3HtGc9Cd3z0wh3Yi1wn585U7qRhKYt"),
-    ("1846", "Amendment to the Land Transport Act (5/2009)", "economy", "Rejected", "5cbMaarny6JIDFy5U01RSZQZQ6rkCDhNquBwlzlz"),
-    ("1861", "Amendment to the Constitution (rejected)", "governance", "Rejected", "Rb5VPxIEujEONGvaAvDyxqq4dpW4DlnYEB8xHWUN"),
-    ("1873", "Amendment to the Decentralization Act (7/2010)", "councils", "Passed", "BfJFr7bUTWdfpS2m6njPCbdn3WheGSoqH3e1f7HP"),
-    ("1831", "Amendment to the Maldives Pension Act (8/2009)", "welfare", "Passed", "hW24DcgvLQo6wEcCtMb8IsfhWTpjP9v3CF9U6UmS"),
-    ("1832", "Amendment to the Constitution (passed)", "governance", "Passed", "XMZtyYItsdwhqM8x57XUheR9sNty2VDzKd5g0bq2"),
-    ("1837", "Amendment to the Employment Act (2/2008)", "economy", "Passed", "UQdYzavxiPtL5HgTiMbAxI5N177D7UWpOpmf10Rm"),
+# --- theme keyword map ------------------------------------------------------
+THEME_KEYWORDS = [
+    ("land", "housing"), ("housing", "housing"), ("transport", "economy"),
+    ("constitution", "governance"), ("decentralization", "councils"),
+    ("pension", "welfare"), ("employment", "economy"), ("export", "economy"),
+    ("import", "economy"), ("tourism", "economy"), ("fisheries", "environment"),
+    ("penal", "justice"), ("sexual", "justice"), ("residency", "security"),
+    ("national service", "security"), ("data", "media"), ("digital", "media"),
+    ("cyber", "media"), ("identity", "media"),
 ]
 
+def theme_of(title):
+    t = title.lower()
+    return next((th for kw, th in THEME_KEYWORDS if kw in t), "governance")
+
+def clean_title(raw):
+    t = re.sub(r"^Bills\s+", "", raw).strip()
+    t = re.sub(r"\s+(Parliamentary Debate|Committee Stage|Rejected by Vote|Passed at Parliament).*$", "", t).strip()
+    return t
+
+# --- discover voted bills from the list -------------------------------------
 os.makedirs("tmp", exist_ok=True)
+list_html = curl("https://majlis.gov.mv/en/20-parliament/parliament-works/type/1")
+open("tmp/bills.html", "w", encoding="utf-8").write(list_html)
+
+discovered = []  # (wid, result, title)
+for m in re.finditer(r'parliament-work/(\d+)"[^>]*>(.*?)</a>', list_html, re.S):
+    wid = m.group(1)
+    title = ihtml.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", m.group(2)))).strip()
+    window = ihtml.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", list_html[m.start():m.start() + 1200])))
+    result = "Passed" if "Passed at Parliament" in window else "Rejected" if "Rejected by Vote" in window else None
+    if result and wid not in {d[0] for d in discovered}:
+        discovered.append((wid, result, clean_title(title)))
+print(f"discovered {len(discovered)} voted bills")
+
+def vote_pdf_url(wid):
+    page = curl(f"https://majlis.gov.mv/en/20-parliament/parliament-work/{wid}")
+    vpos = page.find("Votes")
+    if vpos == -1:
+        return None
+    m = re.search(r"https://majlis\.gov\.mv/storage/action_files/\d+/[A-Za-z0-9]+\.pdf", page[vpos:])
+    return m.group(0) if m else None
+
 records = []
-for wid, title, theme, result, vhash in BILLS:
+for wid, result, title in discovered:
+    url = vote_pdf_url(wid)
+    if not url:
+        print(f"{wid} -- no vote PDF (skipped): {title[:40]}")
+        continue
+    theme = theme_of(title)
     pdf = f"tmp/v{wid}.pdf"
-    url = f"https://majlis.gov.mv/storage/action_files/{wid}/{vhash}.pdf"
-    if not os.path.exists(pdf):
-        urllib.request.urlretrieve(url, pdf)
+    curl(url, pdf)
     data = parse_rollcall(pdf)
     rows, summary = data["rows"], data["summary"]
     mapped, unmapped, seen = [], [], set()
