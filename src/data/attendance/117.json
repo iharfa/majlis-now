@@ -1,0 +1,308 @@
+{
+  "committeeId": "117",
+  "period": "2024-06-03 to 2026-08-04",
+  "meetings": 25,
+  "codes": {
+    "P": "present (attended)",
+    "S": "leave of absence (salaam)",
+    "L": "leave (chutti)",
+    "O": "official duty",
+    "@": "attended another committee's meeting at the same time (counted under officialTravel)",
+    "-": "did not attend (absent)",
+    "©": "not required to attend",
+    "N": "not a member of the committee at that meeting"
+  },
+  "members": [
+    {
+      "mpId": "mp-175",
+      "name": "Hussain Shareef",
+      "constituency": "North Hulhumale'",
+      "present": 22,
+      "onLeave": 1,
+      "absent": 1,
+      "officialTravel": 1,
+      "eligible": 25
+    },
+    {
+      "mpId": "mp-179",
+      "name": "Hussain Nasih",
+      "constituency": "Central Henveyru",
+      "present": 23,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 1,
+      "eligible": 25
+    },
+    {
+      "mpId": "mp-191",
+      "name": "Mohamed Ismail",
+      "constituency": "Vilimale'",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-195",
+      "name": "Abdul Latheef Mohamed",
+      "constituency": "Dhidhdhoo",
+      "present": 25,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 25
+    },
+    {
+      "mpId": "mp-202",
+      "name": "Adam Shafeeq",
+      "constituency": "Makunudhoo",
+      "present": 20,
+      "onLeave": 1,
+      "absent": 1,
+      "officialTravel": 3,
+      "eligible": 25
+    },
+    {
+      "mpId": "mp-203",
+      "name": "Ameen Faisal",
+      "constituency": "Kanditheemu",
+      "present": 1,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 1
+    },
+    {
+      "mpId": "mp-204",
+      "name": "Hassan Mufeed Abdul Gadir",
+      "constituency": "Milandhoo",
+      "present": 24,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 25
+    },
+    {
+      "mpId": "mp-215",
+      "name": "Ahmed Zahir",
+      "constituency": "Maduvvari",
+      "present": 22,
+      "onLeave": 1,
+      "absent": 1,
+      "officialTravel": 1,
+      "eligible": 25
+    },
+    {
+      "mpId": "mp-243",
+      "name": "Ahmed Aslam",
+      "constituency": "Bilehdhoo",
+      "present": 17,
+      "onLeave": 4,
+      "absent": 4,
+      "officialTravel": 0,
+      "eligible": 25
+    },
+    {
+      "mpId": "mp-253",
+      "name": "Ali Ashrag",
+      "constituency": "Kinbidhoo",
+      "present": 23,
+      "onLeave": 0,
+      "absent": 2,
+      "officialTravel": 0,
+      "eligible": 25
+    },
+    {
+      "mpId": "mp-260",
+      "name": "Ahmed Shakir",
+      "constituency": "Maavashu",
+      "present": 20,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 3,
+      "eligible": 24
+    },
+    {
+      "mpId": "mp-261",
+      "name": "Mohamed Shameez",
+      "constituency": "Madaveli",
+      "present": 25,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 25
+    },
+    {
+      "mpId": "mp-231",
+      "name": "Ahmed Azaan Marzooq",
+      "constituency": "Central Hithadhoo",
+      "present": 12,
+      "onLeave": 1,
+      "absent": 1,
+      "officialTravel": 4,
+      "eligible": 18
+    }
+  ],
+  "meetingsList": [
+    {
+      "date": "2024-06-03",
+      "n": 1,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2024-06-06",
+      "n": 2,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2024-07-09",
+      "n": 3,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2024-07-29",
+      "n": 4,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2024-08-13",
+      "n": 5,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2024-10-23",
+      "n": 6,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2025-02-18",
+      "n": 1,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-03-12",
+      "n": 2,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-04-15",
+      "n": 3,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2025-05-13",
+      "n": 4,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2025-06-18",
+      "n": 5,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2025-07-09",
+      "n": 6,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-08-27",
+      "n": 7,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-10-07",
+      "n": 8,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-10-20",
+      "n": 9,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-10-27",
+      "n": 10,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2025-11-25",
+      "n": 11,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-12-03",
+      "n": 12,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2025-12-11",
+      "n": 13,
+      "present": 5,
+      "total": 11
+    },
+    {
+      "date": "2026-02-11",
+      "n": 1,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2026-04-15",
+      "n": 2,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2026-05-06",
+      "n": 3,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2026-06-23",
+      "n": 4,
+      "present": 6,
+      "total": 11
+    },
+    {
+      "date": "2026-07-28",
+      "n": 5,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2026-08-04",
+      "n": 6,
+      "present": 8,
+      "total": 11
+    }
+  ],
+  "sourceDocs": [
+    "https://majlis.gov.mv/storage/committee_files/117/U7zuKbagxrUJ0oMAkbDOD0Zj0L91wQ5jyO1coRyC.xlsx",
+    "https://majlis.gov.mv/storage/committee_files/117/mese4tUYAOapulbzVqi2LeWtbx7z51JTwaoOIIAo.pdf"
+  ],
+  "pagesRead": 2,
+  "pagesTotal": 2,
+  "confidence": "High",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,51 @@
+{
+ "sittingId": "1034",
+ "date": "2026-05-31",
+ "title": "20th Sitting of First session of 2026",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 59,
+  "onLeave": 4,
+  "officialTravel": 4
+ },
+ "summary": "A very short sitting of about three minutes, opened by the Speaker with 59 members present, 4 on leave and 4 on official travel. The Speaker announced a change to a General Committee seat and noted that a motion to remove Dhiggaru MP Ahmed Nazim from the Deputy Speaker post was closed because he had already resigned from it. No votes were held, and the Speaker said another sitting would follow the same day at 13:00.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "59 present, 4 on leave, 4 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "announced by the Speaker"
+  },
+  {
+   "n": "4.1",
+   "title": "Change to General Committee membership (Rule 151(b))",
+   "outcome": "announced: Maavashu MP Ahmed Shakir replaces Kanditheemu MP Ameen Faisal as the MDP member"
+  },
+  {
+   "n": "5.1",
+   "title": "Motion to remove Dhiggaru MP Ahmed Nazim from the post of Deputy Speaker",
+   "outcome": "closed after he resigned from the post on this day"
+  },
+  {
+   "n": "6.1",
+   "title": "Items for voting",
+   "outcome": "none; another sitting set for 13:00 the same day"
+  }
+ ],
+ "speakers": [],
+ "decisions": [
+  "Maavashu MP Ahmed Shakir was named to the General Committee in place of Kanditheemu MP Ameen Faisal (MDP seat), effective 31 May 2026.",
+  "The motion to remove Dhiggaru MP Ahmed Nazim as Deputy Speaker was declared concluded because he resigned from the post.",
+  "A further sitting was scheduled for 13:00 the same day."
+ ],
+ "votes": [],
+ "pagesTotal": 4,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,285 @@
+{
+ "sittingId": "1060",
+ "date": "2026-08-10",
+ "title": "21st Sitting of second session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla (opening and after the recess); Deputy Speaker Ahmed Saleem took the chair from the later part of question time until the recess",
+ "attendance": {
+  "present": 27,
+  "onLeave": 6,
+  "officialTravel": 2
+ },
+ "summary": "Most of the sitting was question time with the Minister of Health, Family and Welfare, Geela Ali. MPs from many islands asked when hospitals and health centre extensions will be finished, how staff shortages and Aasandha spending on treatment abroad will be handled, and the minister gave project timelines and said earlier projects had been stalled or terminated. The House then received the President's two nominees for the Local Government Authority board and sent them to committee, and debated an independent MP's bill to amend the Decentralisation Act. After the vote the bill was accepted for committee study 55-8, and a government bill on uninhabited islands and lagoons was accepted 57-8. Some words in the text are garbled, so the attendance figures and the exact handover between the Speaker and Deputy Speaker are less certain.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened at 09:01 by the Speaker"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "27 present, 6 on leave, 2 on official travel as announced by the chair"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee meeting time announced under rule 174 (Environment and Climate Change committee, bill amending the Utility Regulatory Authority Act, Law 26/2020)",
+   "outcome": "announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Questions to the Minister of Health, Family and Welfare (question by Kendhoo MP Mauroof Zakir on Kihaadhoo health centre, with supplementary questions)",
+   "outcome": "answered; supplementary questions taken until time ran out"
+  },
+  {
+   "n": "5.2",
+   "title": "Second question by Mauroof Zakir to the Health Minister (stalled Kudarikilu health centre), with supplementary questions on hospitals, staffing and Aasandha",
+   "outcome": "answered; Deputy Speaker said advance-payment cases would go to the Finance committee"
+  },
+  {
+   "n": "6.1",
+   "title": "Speaker's table: President's nominees for the Local Government Authority board (terms of three members end 20 September 2026)",
+   "outcome": "letter with two nominees read and sent to the decentralisation committee under rule 128(d)"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on the bill to amend the Decentralisation Act (Law 7/2010), sponsored by Thulhaadhoo MP Abdul Hannan Aboobakuru",
+   "outcome": "debated before and after a 30-minute recess; points of order raised; debate closed when no more speakers"
+  },
+  {
+   "n": "8.1",
+   "title": "Unfinished business: government bill on uninhabited islands and lagoons (sponsor Saudulla Hilmy, North Thinadhoo)",
+   "outcome": "debate closed with no speakers; moved to vote"
+  },
+  {
+   "n": "9.1",
+   "title": "Vote on accepting the Decentralisation Act amendment bill",
+   "outcome": "accepted 55-8; sent to the decentralisation committee"
+  },
+  {
+   "n": "9.2",
+   "title": "Vote on accepting the uninhabited islands and lagoons bill",
+   "outcome": "accepted 57-8; sent to the committee of the whole House"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Geela Ali (Minister of Health, Family and Welfare)",
+   "constituency": "",
+   "turns": 28,
+   "positions": [
+    "Gave project timelines for hospitals and health centres across the atolls and said stalled earlier projects were terminated or re-awarded.",
+    "Said about 60% of doctors are foreign and training and recruitment are being expanded.",
+    "Said preventing disease, such as the vape and tobacco curbs, is the main way to cut overseas treatment spending."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 8,
+   "positions": [
+    "Asked when the Kihaadhoo and Kudarikilu health centre works will be finished and whether announced projects are budgeted.",
+    "Raised long waits for specialist doctors at IGMH and shortages of basic medicines.",
+    "Opposed the Decentralisation Act amendment as against the constitution and council powers; cited a petition against it."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 4,
+   "positions": [
+    "Presented the bill, arguing it speeds national projects, removes political obstruction and strengthens links between government and councils.",
+    "Said it lets government use land within island boundaries for national interest projects."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 3,
+   "positions": [
+    "Asked what is being done to expand private-sector care at home and to provide care for rising mental health caseloads.",
+    "Raised a point of order that a bill by an independent MP is a legitimate member's bill."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 2,
+   "positions": [
+    "Asked how many hospital beds were completed under the previous government and under this one.",
+    "Supported the bill, saying delays in using island land slow development projects."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Asked about stalled foundation work for the Velidhoo hospital and the Foahdhoo health centre.",
+    "Asked how staff shortages at Lhohi health centre will be handled."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked how the Nellaidhoo health centre work could be sped up and about eye-care equipment shortages.",
+    "Asked why the number of people registered for Aasandha special support rose sharply."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 2,
+   "positions": [
+    "Asked about extra health support for tourists visiting Thoddoo and when the stalled health centre will be completed.",
+    "Asked when the Rasdhoo atoll hospital will start after the dengue-related delay."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when practical work on the hospital in his constituency would begin.",
+    "Asked about the start date of that project after it was awarded to MTCC."
+   ]
+  },
+  {
+   "name": "Ahmed Xamyr",
+   "constituency": "Central Mahchangolhi",
+   "turns": 2,
+   "positions": [
+    "Asked about reducing reliance on foreign health workers to open opportunities for Maldivians.",
+    "Asked about the long-term prevention plan for cutting Aasandha spending on treatment abroad."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about work on CT, MRI and decompression chamber services across the atolls."
+   ]
+  },
+  {
+   "name": "Mohamed Ali",
+   "constituency": "Gadhdhoo",
+   "turns": 1,
+   "positions": [
+    "Asked for progress on the Gaddhoo hospital, the Vaadhoo health centre extension and dialysis and X-ray services."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why the Hanimaadhoo hospital work stalled and said residents want services more than buildings."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Welcomed new laboratory services in her islands and asked how far such services will be extended given overseas treatment costs."
+   ]
+  },
+  {
+   "name": "Hassan Waheed",
+   "constituency": "Vilifushi",
+   "turns": 1,
+   "positions": [
+    "Asked what services besides those in Male are planned in the atolls to cut Aasandha spending."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Criticised a previous contract for the Kelaa health centre and asked when the Filladhoo health centre will be finished."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what damage the previous government did to the health system."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Asked about laboratory service rollout in the atolls and the total cost of health projects signed before the 2023 election."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Asked about the status of promised hospitals in Laamu, an ambulance and a reply to his messages."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Asked about plans to add health workforce and for an update on the planned Mathiveri hospital."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when dialysis will start in Makunudhoo and when the health centre extension and 30-bed hospital works begin."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that independent members have the same right to propose bills and amendments as party members."
+   ]
+  }
+ ],
+ "decisions": [
+  "The President's two nominees for the Local Government Authority board were sent to the decentralisation committee.",
+  "The Decentralisation Act (Law 7/2010) amendment bill by Abdul Hannan Aboobakuru was accepted and sent to the decentralisation committee.",
+  "The government bill on uninhabited islands and lagoons was accepted and sent to the committee of the whole House.",
+  "Advance-payment cases for terminated health projects will be taken up by the Finance committee, per the Deputy Speaker.",
+  "The next sitting was set for 11 August 2026 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the bill to amend the Decentralisation Act (Law 7/2010) for committee study",
+   "yes": 55,
+   "no": 8,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the government bill on uninhabited islands and lagoons for committee study",
+   "yes": 57,
+   "no": 8,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 54,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

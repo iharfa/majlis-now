@@ -1,0 +1,64 @@
+{
+  "committeeId": "152",
+  "period": "2025-10-07 to 2025-10-07",
+  "meetings": 1,
+  "codes": {
+    "P": "present (attended)",
+    "S": "salaam (excused absence)",
+    "L": "leave",
+    "O": "official duty",
+    "@": "attending another committee's meeting",
+    "-": "absent (did not attend)",
+    "©": "not required to attend",
+    "N": "not a member of the committee at that meeting"
+  },
+  "members": [
+    {
+      "mpId": "mp-192",
+      "name": "Ali Moosa",
+      "constituency": "Hoarafushi",
+      "present": 1,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 1
+    },
+    {
+      "mpId": "mp-230",
+      "name": "Hussain Sameer",
+      "constituency": "Thoddoo",
+      "present": 1,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 1
+    },
+    {
+      "mpId": "mp-262",
+      "name": "Azim Abdul Azeez",
+      "constituency": "Vilingili",
+      "present": 1,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 1
+    }
+  ],
+  "meetingsList": [
+    {
+      "date": "2025-10-07",
+      "n": 1,
+      "present": 3,
+      "total": 3
+    }
+  ],
+  "sourceDocs": [
+    "https://majlis.gov.mv/storage/committee_files/152/hQ7yU01Z9jk1PELratphEhGuQyYJXqsF1j2G7xUN.xlsx",
+    "https://majlis.gov.mv/storage/committee_files/152/JSAo2Yvn2mv3hZnnT5EptrYB1tZMRZU2htlpL9gE.pdf"
+  ],
+  "pagesRead": 8,
+  "pagesTotal": 8,
+  "confidence": "High",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-06"
+}

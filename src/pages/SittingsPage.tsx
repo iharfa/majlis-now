@@ -10,12 +10,15 @@ export function SittingsPage() {
       <PageHeader
         eyebrow="Sittings"
         title="What was on the agenda"
-        description="Every sitting of the 20th Parliament, with its official agenda translated from Dhivehi into plain English."
+        description="Every sitting of the 20th Parliament since May 2024, with its agenda and a digest of the official minutes translated from Dhivehi."
       />
       <div className="space-y-3">
-        {sittings.map((s) => (
+        {sittings.map((s, i) => (
+          <div key={s.id}>
+          {(i === 0 || sittings[i - 1].term !== s.term) && (
+            <h2 className="font-label-bold text-label-bold uppercase tracking-widest text-on-surface-variant mt-6 mb-3">{s.term || 'Sittings'}</h2>
+          )}
           <Link
-            key={s.id}
             to={`/sittings/${s.id}`}
             className="flex items-start gap-4 bg-white rounded-2xl border border-outline-variant/30 p-5 hover:shadow-md transition-all"
           >
@@ -26,15 +29,19 @@ export function SittingsPage() {
               <p className="text-label-sm text-outline">{formatDate(s.date)}</p>
               <h3 className="font-headline-md text-lg text-on-surface">{s.title}</h3>
               <p className="text-sm text-on-surface-variant mt-1 line-clamp-2">
-                {s.agenda?.summary ?? 'Agenda not translated yet — official PDF linked on the sitting page.'}
+                {s.minutes?.summary ?? s.agenda?.summary ?? 'Not yet translated — official PDFs linked on the sitting page.'}
               </p>
               <p className="text-label-sm text-outline mt-2">
-                {s.agenda ? `${s.agenda.items.length} agenda items` : ''}
-                {s.billIds.length ? ` · ${s.billIds.length} bill${s.billIds.length === 1 ? '' : 's'}` : ''}
+                {[
+                  s.minutes ? `${s.minutes.speakers.length} speakers` : null,
+                  s.agenda ? `${s.agenda.items.length} agenda items` : null,
+                  s.billIds.length ? `${s.billIds.length} bill${s.billIds.length === 1 ? '' : 's'}` : null,
+                ].filter(Boolean).join(' · ')}
               </p>
             </div>
             <Icon name="arrow_forward" className="text-primary shrink-0" />
           </Link>
+          </div>
         ))}
       </div>
     </Container>

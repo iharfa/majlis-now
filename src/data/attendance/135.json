@@ -1,0 +1,73 @@
+{
+  "committeeId": "135",
+  "period": "2024-07-22 to 2024-07-22",
+  "meetings": 1,
+  "codes": {
+    "P": "present",
+    "@": "attended in another capacity; counted under officialTravel (the sheet counts it as attended, O+@+P)",
+    "S": "salaam (on leave / excused)",
+    "L": "leave",
+    "O": "official duty / travel (counted under officialTravel)",
+    "-": "absent without leave (counted in the sheet's eligible total and in its non-attendance group S+L+-)",
+    "N": "not a member / not included at that meeting (excluded from the sheet's totals; not counted here)",
+    "©": "not included (excluded from the sheet's totals; never occurs in these sheets)"
+  },
+  "members": [
+    {
+      "mpId": "mp-230",
+      "name": "Hussain Sameer",
+      "constituency": "Thoddoo",
+      "present": 1,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 1
+    },
+    {
+      "mpId": "mp-253",
+      "name": "Ali Ashrag",
+      "constituency": "Kinbidhoo",
+      "present": 1,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 1
+    },
+    {
+      "mpId": "mp-257",
+      "name": "Yoosuf Nasheed",
+      "constituency": "Gan",
+      "present": 1,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 1
+    },
+    {
+      "mpId": "mp-258",
+      "name": "Ashraf Rasheed",
+      "constituency": "Faresmaathodaa",
+      "present": 1,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 1
+    }
+  ],
+  "meetingsList": [
+    {
+      "date": "2024-07-22",
+      "n": 1,
+      "present": 4,
+      "total": 4
+    }
+  ],
+  "sourceDocs": [
+    "https://majlis.gov.mv/storage/committee_files/135/nKPodHwXil2hHEZ8kz9jsW4aUFhMHCuGGwiJuOeP.pdf"
+  ],
+  "pagesRead": 1,
+  "pagesTotal": 1,
+  "confidence": "High",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-06"
+}

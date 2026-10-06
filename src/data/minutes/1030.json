@@ -1,0 +1,121 @@
+{
+ "sittingId": "1030",
+ "date": "2026-05-11",
+ "title": "17th Sitting of First session of 2026",
+ "presiding": "Ahmed Nazim (Deputy Speaker, per the minutes header)",
+ "attendance": {
+  "present": 28,
+  "onLeave": 5,
+  "officialTravel": 4
+ },
+ "summary": "The sitting opened at 9:02 and closed at 9:30 on Monday 11 May 2026. The chair marked the death of former MP Mohamed Ramiz (Vilingili) with a moment of silence, and two government bills (a cyber security bill and a personal data protection bill) were introduced for first reading. MPs debated a motion by Abdul Sattar Mohamed calling for action against political parties' unlawful activities. It was accepted 41-8 and sent to the Independent Institutions Committee. Parliament also approved, 51-0, removing the substance Methylphenidate from the controlled drugs schedule, on a committee recommendation.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of the sitting",
+   "outcome": "opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "28 present, 5 on leave, 4 on official travel reported by the chair"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "announced"
+  },
+  {
+   "n": "4",
+   "title": "Passing the minutes of sittings 11 to 14 (minutes no. 2026/1/11 to 2026/1/14)",
+   "outcome": "accepted as no amendments were submitted"
+  },
+  {
+   "n": "5",
+   "title": "Announcements by the chair",
+   "outcome": "condolences on the death of former MP Mohamed Ramiz; moment of silence"
+  },
+  {
+   "n": "6.1",
+   "title": "Cyber Security Bill (government, submitted by Hussain Nasih)",
+   "outcome": "first reading"
+  },
+  {
+   "n": "6.2",
+   "title": "Personal Data Protection Bill (government, submitted by Ali Ibrahim)",
+   "outcome": "first reading"
+  },
+  {
+   "n": "7",
+   "title": "Unfinished business: motion on unlawful activities by political parties (Abdul Sattar Mohamed)",
+   "outcome": "debated, accepted 41-8, referred to the Independent Institutions Committee"
+  },
+  {
+   "n": "8",
+   "title": "Committee report: removal of Methylphenidate from the Schedule 1 list of the Controlled Drugs Act (Committee on Safety Services, presented by Ahmed Saleem)",
+   "outcome": "passed 51-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 6,
+   "positions": [
+    "Argued the motion was filed because a party was protesting with a sofa and that a motion cannot stop that.",
+    "Said courts and the executive should not restrict press freedom or free speech, and that the Constitution protects them.",
+    "Rejected the idea that party activities or journalists' freedom would be curbed."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Raised points of order, saying the motion concerns party activities against the law, not claims about the President.",
+    "Criticised the MDP's recent conduct in the chamber and asked that false statements not be spread."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "As mover, cited Articles 32, 33 and 45 of the Constitution, saying freedoms end where others' rights begin and courts' rulings must be respected."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the committee report recommending removal of Methylphenidate from the controlled drugs schedule, which the committee passed unanimously among members voting."
+   ]
+  }
+ ],
+ "decisions": [
+  "The minutes of sittings 11 to 14 were accepted without amendment.",
+  "The motion on unlawful activities by political parties was accepted and sent to the Independent Institutions Committee.",
+  "Methylphenidate (item 89 of Schedule 1) was approved for removal from the controlled drugs list of Law 17/2011.",
+  "The chair said the sitting would end, and that sittings will be held on every day of this final week of the session, with the next on Tuesday 12 May at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the motion by Abdul Sattar Mohamed on unlawful activities by political parties (93 members in total, 51 present, 25 needed)",
+   "yes": 41,
+   "no": 8,
+   "abstain": 0
+  },
+  {
+   "what": "Remove Methylphenidate from Schedule 1 of the Controlled Drugs Act, per committee report (52 present, 26 needed)",
+   "yes": 51,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 20,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

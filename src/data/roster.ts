@@ -111,12 +111,21 @@ const RAW: Row[] = [
   ['Ahmed Azaan Marzooq', 'Central Hithadhoo', 'Addu City', 'pnc', 'qWe4pJV10K9uMKWBK7PiYiqfxohNrjSZxfV03SQo', '231'],
   ['Ibrahim Nazil', 'South Hithadhoo', 'Addu City', 'mdp', 'AuqET4joR0k0pLAIr3fm57iboHcedGkP6H62u912', '229', 'Minority Leader'],
   ['Abdul Rahman', 'Addu Meedhoo', 'Addu City', 'ind', 'QrSAHOyjySGGyj0QXjfMnrbFOVxhvThdLGQvATfh', '226'],
-  // Former member — seat since vacated; included so earlier roll-call votes map.
+  // North Hithadhoo changed hands in 2026: Sinan's seat was declared vacant on 12 Apr 2026
+  // (Supreme Court ruling, per the committee attendance sheets) and Abdulla Sodig won the
+  // by-election; he first appears on a roll call on 15 Jun 2026. Both rows are kept so
+  // every roll-call row maps to the member who actually held the seat on that date.
   ['Mohamed Sinan', 'North Hithadhoo', 'Addu City', 'pnc', 'T3kVS5yDDQwPmSBy6TOj1gdSz7o0C4LsLdJkKynR', '233'],
+  ['Abdulla Sodig', 'North Hithadhoo', 'Addu City', 'mdp', 'Ce8JC8dShv0xFtSCqJjSun451JQA9HwhqfptnwJw', '268'],
 ]
 
 // Members no longer sitting (shown with a "Former member" badge).
 const FORMER = new Set(['233'])
+/** Seat tenure bounds (inclusive ISO dates) where a constituency had more than one member. */
+export const TENURE: Record<string, { from?: string; until?: string }> = {
+  '233': { until: '2026-04-12' },
+  '268': { from: '2026-06-01' },
+}
 
 export function slug(s: string): string {
   return s
@@ -131,13 +140,13 @@ function initials(name: string): string {
   return ((parts[0]?.[0] ?? '') + (parts[1]?.[0] ?? '')).toUpperCase()
 }
 
-// --- Build constituencies (one per row, unique) -----------------------------
+// --- Build constituencies (one per seat, unique) ----------------------------
 export const constituencies: Constituency[] = RAW.map(([, con, atoll]) => ({
   id: slug(con),
   name: con,
   atoll,
   islands: [con.replace(/^(North|Central|South|West)\s+/, '')],
-}))
+})).filter((c, i, arr) => arr.findIndex((x) => x.id === c.id) === i)
 
 export const constituencyById = (id: string) => constituencies.find((c) => c.id === id)
 

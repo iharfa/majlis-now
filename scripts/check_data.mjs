@@ -43,12 +43,36 @@ for (const w of works) {
 }
 for (const s of sittings) if (!s.date) errors.push(`sitting ${s.id}: no date`)
 
+// AI-digest JSON files must reference existing sittings/committees and carry provenance.
+const committees = read('src/data/realCommittees.ts')
+const sittingIds = new Set(sittings.map((s) => s.id))
+const committeeIds = new Set([...committees.matchAll(/"id": "(\d+)"/g)].map((m) => m[1]))
+for (const dir of ['src/data/minutes', 'src/data/agendas']) {
+  if (!existsSync(dir)) continue
+  for (const f of readdirSync(dir)) {
+    const d = JSON.parse(read(`${dir}/${f}`))
+    if (!sittingIds.has(d.sittingId)) errors.push(`${dir}/${f}: sittingId ${d.sittingId} not in sittings.json`)
+    if (!['High', 'Medium', 'Low'].includes(d.confidence) || !d.model || !d.generatedAt) errors.push(`${dir}/${f}: missing provenance`)
+    if (f.replace('.json', '') !== d.sittingId) errors.push(`${dir}/${f}: filename does not match sittingId`)
+  }
+}
+if (existsSync('src/data/attendance')) {
+  for (const f of readdirSync('src/data/attendance')) {
+    const d = JSON.parse(read(`src/data/attendance/${f}`))
+    if (!committeeIds.has(d.committeeId)) errors.push(`attendance/${f}: committeeId ${d.committeeId} unknown`)
+    for (const m of d.members) if (m.present > m.eligible) errors.push(`attendance/${f}: ${m.name} present ${m.present} > eligible ${m.eligible}`)
+    if (!['High', 'Medium', 'Low'].includes(d.confidence)) errors.push(`attendance/${f}: bad confidence`)
+  }
+}
+
 if (process.argv.includes('--list-missing')) {
   const have = (dir) => (existsSync(dir) ? new Set(readdirSync(dir).map((f) => f.replace('.json', ''))) : new Set())
   const ms = works.filter((w) => !have('src/data/summaries').has(w.id)).map((w) => w.id)
   const ma = sittings.filter((s) => !have('src/data/agendas').has(s.id)).map((s) => s.id)
+  const mm = sittings.filter((s) => s.minutesPdf && !have('src/data/minutes').has(s.id)).map((s) => s.id)
   console.log(`bills without AI summary: ${ms.join(', ') || 'none'}`)
-  console.log(`sittings without agenda translation: ${ma.join(', ') || 'none'}`)
+  console.log(`sittings without agenda translation (${ma.length}): ${ma.join(', ') || 'none'}`)
+  console.log(`sittings without minutes digest (${mm.length}): ${mm.join(', ') || 'none'}`)
 }
 
 if (errors.length) {

@@ -1,0 +1,41 @@
+{
+ "sittingId": "1032",
+ "date": "2026-05-13",
+ "title": "19h Sitting of first session of 2026",
+ "presiding": "Ahmed Nazim (Deputy Speaker, Dhiggaru)",
+ "attendance": {
+  "present": 9,
+  "onLeave": 0,
+  "officialTravel": 7
+ },
+ "summary": "The sitting due to start at 9:00 could not begin because there was no quorum, so the chair postponed the start to 10:00. At 10:00 quorum was still missing, so the Deputy Speaker cancelled the sitting under Rule 49(b) and said the next sitting would be at 9:00 the following day, 14 May 2026. The minutes list 9 members present, 7 on official travel, 13 more not attending for a reason that is garbled in the text, and 63 who neither took leave nor informed the chair; no business was taken and no votes were held.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Start of sitting postponed for lack of quorum",
+   "outcome": "start moved from 9:00 to 10:00"
+  },
+  {
+   "n": "2",
+   "title": "Sitting cancelled for lack of quorum (Rule 49(b))",
+   "outcome": "cancelled; next sitting set for 9:00 on 14 May 2026"
+  },
+  {
+   "n": "3",
+   "title": "Attendance record",
+   "outcome": "9 present, 7 on official travel, 63 absent without leave or notice"
+  }
+ ],
+ "speakers": [],
+ "decisions": [
+  "The sitting was postponed from 9:00 to 10:00 because quorum was not met.",
+  "At 10:00 quorum was still not met, so the sitting was cancelled under Rule 49(b) of the Majlis rules.",
+  "The next sitting was scheduled for 9:00 on 14 May 2026."
+ ],
+ "votes": [],
+ "pagesTotal": 4,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

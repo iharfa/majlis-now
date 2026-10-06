@@ -9,6 +9,7 @@
 import type {
   AgendaDoc,
   Bill,
+  MinutesDigest,
   BillDocument,
   BillStage,
   BillStatus,
@@ -20,7 +21,7 @@ import type {
   SourceDocument,
   Vote,
 } from '@/types'
-import { mps, slug } from './roster'
+import { mps, slug, TENURE } from './roster'
 import { REAL_ROLLCALLS, type RealRollcall } from './realRollcalls'
 import works from './works.json'
 import sittingsJson from './sittings.json'
@@ -31,7 +32,32 @@ const summaryByWork = new Map(
 const agendaBySitting = new Map(
   Object.values(import.meta.glob<AgendaDoc>('./agendas/*.json', { eager: true, import: 'default' })).map((a) => [a.sittingId, a]),
 )
+const minutesBySitting = new Map(
+  Object.values(import.meta.glob<MinutesDigest>('./minutes/*.json', { eager: true, import: 'default' })).map((m) => [m.sittingId, m]),
+)
+const mpBySlug = new Map(mps.map((m) => [m.constituencyId, m]))
+const mpByName = new Map(mps.map((m) => [m.name.toLowerCase().replace(/^dr\.?\s+/, ''), m]))
 
+/** Attach roster ids to the speakers Claude named in the minutes (by constituency, then by name). */
+function linkSpeakers(d: MinutesDigest): MinutesDigest {
+  return {
+    ...d,
+    speakers: d.speakers.map((sp) => {
+      const mp = mpBySlug.get(slug(sp.constituency || '')) ?? mpByName.get((sp.name || '').toLowerCase().replace(/^dr\.?\s+/, ''))
+      return mp ? { ...sp, mpId: mp.id } : sp
+    }),
+  }
+}
+
+/** The member who held a seat on a given date (seats that changed hands use TENURE). */
+function mpForSeat(constituencyId: string, date: string) {
+  const holders = mps.filter((m) => m.constituencyId === constituencyId)
+  if (holders.length <= 1) return holders[0]
+  return holders.find((m) => {
+    const t = TENURE[m.id.replace('mp-', '')] ?? {}
+    return (!t.from || date >= t.from) && (!t.until || date <= t.until)
+  })
+}
 const mpByConstituency = new Map(mps.map((m) => [m.constituencyId, m]))
 
 const src = (id: string, label: string, url: string, date: string): SourceDocument => ({
@@ -77,7 +103,7 @@ type Work = (typeof works)[number]
 function buildVote(rc: RealRollcall): Vote {
   const voteId = `vote-${rc.id}`
   const mpVotes: MPVote[] = rc.rows.flatMap((row) => {
-    const mp = mpByConstituency.get(row.constituencyId)
+    const mp = mpForSeat(row.constituencyId, rc.date)
     return mp ? [{ mpId: mp.id, voteId, choice: row.choice, partyId: mp.partyId, constituencyId: row.constituencyId, detail: row.detail }] : []
   })
   const partyBreakdown: PartyVoteBreakdown[] = Object.values(
@@ -191,14 +217,21 @@ function buildBill(w: Work): Bill {
 export const realBills: Bill[] = works.map(buildBill)
 
 // --- Sittings ----------------------------------------------------------------
-export const realSittings: Sitting[] = sittingsJson.map((s) => ({
-  id: `sitting-${s.id}`,
-  title: s.title,
-  date: s.date ?? '',
-  agendaNo: s.agendaNo,
-  agendaPdf: s.agendaPdf ?? undefined,
-  billIds: s.workIds.map((w) => `bill-${w}`),
-  url: s.url,
-  agenda: agendaBySitting.get(s.id),
-  sources: [src(`src-sitting-${s.id}`, 'Sitting page — People’s Majlis', s.url, s.fetchedAt)],
-}))
+export const realSittings: Sitting[] = sittingsJson.map((s) => {
+  const minutes = minutesBySitting.get(s.id)
+  return {
+    id: `sitting-${s.id}`,
+    title: s.title,
+    date: s.date ?? '',
+    term: s.term,
+    agendaNo: s.agendaNo,
+    agendaPdf: s.agendaPdf ?? undefined,
+    minutesPdf: s.minutesPdf ?? undefined,
+    pointOfOrderPdf: s.pointOfOrderPdf ?? undefined,
+    billIds: s.workIds.map((w) => `bill-${w}`),
+    url: s.url,
+    agenda: agendaBySitting.get(s.id),
+    minutes: minutes ? linkSpeakers(minutes) : undefined,
+    sources: [src(`src-sitting-${s.id}`, 'Sitting page — People’s Majlis', s.url, s.fetchedAt)],
+  }
+})

@@ -1,0 +1,102 @@
+{
+ "sittingId": "1035",
+ "date": "2026-06-01",
+ "title": "1st Sitting of Second session of 2026",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 59,
+  "onLeave": 4,
+  "officialTravel": 5
+ },
+ "summary": "The first sitting of the second session of 2026 opened with 59 members present. The only business was electing a new Deputy Speaker, a post left empty after the previous holder resigned. A five-member temporary committee was approved to count the secret ballot, and Ahmed Saleem (Eydhafushi) won with 62 votes against 10 for Hussain Ziyad (Vaikaradhoo), with 2 invalid ballots.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "59 present, 4 on leave, 5 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced by the chair"
+  },
+  {
+   "n": "5.1",
+   "title": "Election of a Deputy Speaker under Article 82 of the Constitution",
+   "outcome": "temporary vote-counting committee approved 65-0; Ahmed Saleem elected 62 votes to 10"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 3,
+   "positions": [
+    "Proposed the five-member vote-counting committee, including an independent member as no other small party was present.",
+    "Replaced an absent MDP nominee with Ibrahim Shujau.",
+    "Nominated Ahmed Saleem (Eydhafushi) for Deputy Speaker."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Seconded the proposed vote-counting committee."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Seconded the nomination of Ahmed Saleem for Deputy Speaker."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Nominated Hussain Ziyad (Vaikaradhoo) for Deputy Speaker."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Seconded the nomination of Hussain Ziyad for Deputy Speaker."
+   ]
+  }
+ ],
+ "decisions": [
+  "A temporary five-member committee to count the Deputy Speaker ballots was approved: Husnee Mubarik, Ibrahim Shujau, Dr. Anara Naeem, Ibrahim Nazil and Abdul Hannan Aboobakuru.",
+  "Ahmed Saleem (Eydhafushi) was elected Deputy Speaker of the 20th People's Majlis by secret ballot.",
+  "The next sitting was set for Monday 8 June 2026 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Vote-counting committee for the Deputy Speaker election (93 members in total, 68 present)",
+   "yes": 65,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Secret ballot for Deputy Speaker: Ahmed Saleem 62, Hussain Ziyad 10, 2 invalid ballots (72 valid votes)",
+   "yes": null,
+   "no": null,
+   "abstain": null
+  }
+ ],
+ "pagesTotal": 15,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

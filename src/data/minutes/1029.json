@@ -1,0 +1,229 @@
+{
+ "sittingId": "1029",
+ "date": "2026-05-05",
+ "title": "16th Sitting of first session of 2026",
+ "presiding": "Abdul Raheem Abdulla (Speaker, Fonadhoo); Ahmed Nazim (Deputy Speaker, Dhiggaru) after the recess",
+ "attendance": {
+  "present": 27,
+  "onLeave": 6,
+  "officialTravel": 2
+ },
+ "summary": "The sitting began at 9:00 on Tuesday 5 May 2026. Kendhoo MP Mauroof Zakir asked the house to debate government support for tourism businesses hit by the Middle East war, but the request failed 8 to 33 so no debate was held. The rest of this part was the preliminary debate on a resolution from Holhudhoo MP Abdul Sattar Mohamed, calling on state bodies to act against political parties that break the Constitution and the Political Parties Act, with MPs from both sides speaking for and against it. The recess ran from about 10:30 to 11:02 and the debate was still going when this part of the minutes ends; the text is partly garbled in places. This part continues the preliminary debate on a resolution from the Holhudhoo member calling for action against political parties that break the law and the Constitution in their activities, picking up mid-speech from Inguraidhoo's member. Members from Funadhoo, Mathiveri and Baarashu backed the resolution and argued institutions should act, while the Kanditheemu member said he would not support it because existing laws and penalties already apply. Much of the debate turned to party leaders, past protests and rhetoric, and the Chair once asked a member to stay on the resolution's subject. With nothing on the agenda to put to a vote, the Chair ended the sitting and said the next date would be announced later; the debate had not concluded.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers and start of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "27 present, 6 on leave, 2 on official travel at the start"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Motion by Kendhoo MP Mauroof Zakir on government support for tourism businesses hit by the Middle East war (Rule 201)",
+   "outcome": "request to debate failed 8-33; not accepted for debate"
+  },
+  {
+   "n": "6.1",
+   "title": "First reading of Abdul Sattar Mohamed's resolution calling for action against parties acting against the Constitution and Political Parties Act",
+   "outcome": "resolution introduced"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on the resolution on parties acting against the Constitution and Political Parties Act",
+   "outcome": "debated; continuing when this part ends"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on the resolution calling for action against political parties that act contrary to the Constitution and the Political Parties Act",
+   "outcome": "debated (continued from part 1); no vote taken; sitting adjourned"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 3,
+   "positions": [
+    "Proposed debating support measures for tourism businesses hit by the war, such as loans, allowances, subsidies and tax deferral.",
+    "Raised a point of order over a remark about a party leader; the chair did not accept it as a point of order.",
+    "Argued the resolution targets protest rights and said the government should answer on the economy and corruption."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 3,
+   "positions": [
+    "Supported the resolution and set out the history of his party's formation.",
+    "Argued the Political Parties Act requires parties to follow democratic principles and that breaches need action."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Agreed with parts of the resolution but said the protests began with allegations involving the President.",
+    "Criticised criminal investigations of journalists and called for an independent investigation."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the resolution, saying freedoms of expression and assembly are limited by other constitutional rights.",
+    "Said unlimited protest harms others' rights and that those involved should face investigation."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Supported the resolution, saying it names no president and asks relevant ministries and bodies to act, and spoke against any foreign military presence in the Maldives.",
+    "In a second turn, criticised party leaders for giving mixed messages and recalled earlier pledges on freedom of expression."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Presented his resolution citing Constitution Articles 27, 30, 33 and 67, saying unlawful party activity in Malé disrupts residents and should face lawful action."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Said differing views are natural but should be voiced with mutual respect, citing Quran 49:13."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Questioned the resolution, said parties' protests reflect public frustration, and raised press freedom and the government's record."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution, saying free expression has limits and unlawful party conduct should be investigated."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution, saying residents and children should not have to bear unlawful party activity."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the resolution, saying protests respond to government performance and expression should not be restricted."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution, saying protests and insults toward police and others harm residents and small businesses."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution, saying MPs have no licence to insult others and the Rules should allow action over defamation."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Said debate should respect the Constitution and that institutions are not acting on harmful claims."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution, saying insulting protest language harms young people and should be limited."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution, saying the Constitution allows free expression only within Islamic principles and protests need review."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution, citing Constitution Articles 27, 32 and 33 on freedoms and arguing party activities must stay within the law and institutions should act swiftly."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution, saying the party system was won through broad reform and that party conduct should respect the law and Islamic norms, with institutions acting."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Said he would not support the resolution, arguing existing party rules and laws already allow warnings, fines and other penalties for party conduct."
+   ]
+  }
+ ],
+ "decisions": [
+  "The request to debate Mauroof Zakir's tourism-support motion failed 8 to 33, so it was not taken up.",
+  "Abdul Sattar Mohamed's resolution on parties acting against the Constitution was introduced and its preliminary debate began.",
+  "The sitting recessed from about 10:30 to 11:02 and the Deputy Speaker took the chair.",
+  "The Chair said there was nothing on the agenda to put to a vote and ended the sitting.",
+  "The date of the next sitting is to be announced later."
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate Mauroof Zakir's motion on support for tourism businesses (42 present, 41 voted, 21 needed)",
+   "yes": 8,
+   "no": 33,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 59,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

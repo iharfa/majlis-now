@@ -1,0 +1,205 @@
+{
+ "sittingId": "1039",
+ "date": "2026-06-22",
+ "title": "4th Sitting of second session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo)",
+ "attendance": {
+  "present": 29,
+  "onLeave": 6,
+  "officialTravel": 1
+ },
+ "summary": "The sitting ran from 09:01 to 11:37. A government bill to amend the Export and Import Act (Law 31/79) had its first reading, then members held the preliminary debate on the Maldives 2.0 Digital Transformation Bill, which would set up a legal base for digital government services, a Maldives Digital Service agency and a sovereign cloud. Government-side members backed it as a way to cut paper, speed up services and close doors to corruption, while opposition members argued about e-voting, cost, data storage and oversight. After the break nobody spoke on the Personal Data Protection Bill, so the Majlis voted 66-0 to accept it and sent it to the Information and Communication Technology Committee. The minutes text is garbled in places, so some speech summaries are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting (Hamd and Salawat)",
+   "outcome": "sitting opened at 09:01"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "29 present, 6 on leave, 1 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Government bill to amend the Export and Import Act (Law 31/79), sponsored by Mohamed Ibrahim (Komandoo)",
+   "outcome": "first reading read, introduced"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate on the Maldives 2.0 Digital Transformation Bill, sponsored for the government by Mohamed Ali (Gadhdhoo)",
+   "outcome": "debated by many members; paused for the 10:28 break with no vote recorded in this part",
+   "workId": "1880"
+  },
+  {
+   "n": "7.1",
+   "title": "Continued debate on the Personal Data Protection Bill, sponsored for the government by Ali Ibrahim (West Henveyru)",
+   "outcome": "no member took part, so debate was closed"
+  },
+  {
+   "n": "8",
+   "title": "Votes on matters pending from the day's business",
+   "outcome": "Personal Data Protection Bill accepted 66-0 and referred to the Information and Communication Technology Committee"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 3,
+   "positions": [
+    "Said he reads the bill as preparing for e-voting before the 2028 presidential election and doubted it would help people, citing living costs.",
+    "The chair twice asked him to keep to the bill on the floor rather than other bills."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 3,
+   "positions": [
+    "Said opposition to the bill was predictable and estimated MVR 500 million a year is spent on paper and storage, of which about 70 percent could be saved.",
+    "Continued to criticise the opposition's record in office and said the data protection and cyber security bills show data safeguards are being added.",
+    "After a point of order, restated that he was clarifying remarks on loans and unfinished projects under the earlier government."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Thanked the sponsor and said the bill gives legal backing to digital government, which began earlier under the President's Malé mayoralty.",
+    "Said the bill contains no e-voting and that reducing human roles in procurement reduces theft; the chair reminded him to name members by constituency."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Questioned cost, the existing national digital body, and whether data could be stored on a sovereign cloud inside the Maldives; said artificial intelligence is missing from the bill.",
+    "Raised a point of order that remarks attributed to him were not what he had said; the chair accepted it."
+   ]
+  },
+  {
+   "name": "Mohamed Ali",
+   "constituency": "Gadhdhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the Maldives 2.0 Digital Transformation Bill: a legal framework for digital government, a Maldives Digital Service agency, a sovereign cloud and monitoring, aimed at easier and safer public services."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Welcomed the bill, saying digital services open business opportunities, add safety, reduce paper use and could help curb corruption."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it widens market access for small businesses, cuts paper costs, speeds data sharing between offices and improves transparency."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it will speed up services such as education and health, and noted its rule that the new agency's head must not be a political figure."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, said e-voting is not in it, and argued digitising services saves working hours; asked that technical input be taken at committee."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Said the bill has good points but is technical, wants young IT experts consulted at committee, and doubted ministers and the new body would be accountable to the Majlis or free of political control."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it creates a legal framework and a dedicated agency, and suggested committee bring in technical experts."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, said e-voting is not intended, and described a digital identity, data use only with consent, and a paperless government available around the clock."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, saying services delivered by smartphone from anywhere will ease access and that data will be better protected under law."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that the bill does not mention the MDP, objecting to linking it to the party; the chair did not accept it as a point of order."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, said it has no e-voting, and that one shared platform, backups and common software standards would protect data and close doors to corruption."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Given the floor with two minutes left, asked to speak after the break instead; he did not take part afterwards."
+   ]
+  }
+ ],
+ "decisions": [
+  "The government bill to amend the Export and Import Act (Law 31/79) had its first reading.",
+  "The Maldives 2.0 Digital Transformation Bill had its preliminary debate; no vote was recorded in this part.",
+  "No member spoke on the Personal Data Protection Bill after the break, so debate on it closed.",
+  "The Personal Data Protection Bill was accepted and sent to the Information and Communication Technology Committee under Rule 106.",
+  "The next sitting was set for Tuesday 23 June 2026 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Whether the Majlis accepts the Personal Data Protection Bill (93 members, 67 present, 66 voted, 34 needed)",
+   "yes": 66,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 44,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

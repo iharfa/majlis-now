@@ -102,6 +102,51 @@ export function CommitteeDetailPage() {
             </div>
           </section>
 
+          {c.attendanceRecord && (
+            <section className="bg-white rounded-2xl border border-outline-variant/30 p-6">
+              <div className="flex items-center justify-between gap-3 mb-1 flex-wrap">
+                <h2 className="font-headline-md text-headline-md">Attendance</h2>
+                <span className="inline-flex items-center gap-1 bg-surface-container text-on-surface-variant px-3 py-1 rounded-full text-label-sm font-label-bold" title={`Read from the committee's published attendance sheets by ${c.attendanceRecord.model} on ${c.attendanceRecord.generatedAt}`}>
+                  <Icon name="translate" className="text-[14px]" /> From published sheets · {c.attendanceRecord.confidence} confidence
+                </span>
+              </div>
+              <p className="text-label-sm text-outline mb-4">
+                {c.attendanceRecord.meetings} meetings, {c.attendanceRecord.period}. "Attended" = present or on official duty (including at another committee's meeting), as the sheets count it. "Eligible" counts meetings while the member sat on the committee.
+              </p>
+              <div className="overflow-x-auto">
+                <table className="w-full text-sm min-w-[480px]">
+                  <thead>
+                    <tr className="text-left text-label-sm text-on-surface-variant border-b border-outline-variant/40">
+                      <th className="py-2 pr-3">Member</th>
+                      <th className="py-2 pr-3 text-right">Present</th>
+                      <th className="py-2 pr-3 text-right">Official duty</th>
+                      <th className="py-2 pr-3 text-right">On leave</th>
+                      <th className="py-2 pr-3 text-right">Absent</th>
+                      <th className="py-2 pr-3 text-right">Eligible</th>
+                      <th className="py-2 text-right">Attended</th>
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-outline-variant/30">
+                    {[...c.attendanceRecord.members].sort((a, b) => (b.present + b.officialTravel) / Math.max(1, b.eligible) - (a.present + a.officialTravel) / Math.max(1, a.eligible)).map((m) => (
+                      <tr key={`${m.name}-${m.constituency}`}>
+                        <td className="py-2 pr-3">
+                          {m.mpId ? <Link to={`/mps/${m.mpId}`} className="font-label-bold text-on-surface hover:text-primary">{m.name}</Link> : <span className="font-label-bold">{m.name}</span>}
+                          <span className="text-label-sm text-outline"> · {m.constituency}</span>
+                        </td>
+                        <td className="py-2 pr-3 text-right">{m.present}</td>
+                        <td className="py-2 pr-3 text-right">{m.officialTravel}</td>
+                        <td className="py-2 pr-3 text-right">{m.onLeave}</td>
+                        <td className="py-2 pr-3 text-right">{m.absent}</td>
+                        <td className="py-2 pr-3 text-right">{m.eligible}</td>
+                        <td className="py-2 text-right font-label-bold">{m.eligible ? Math.round((100 * (m.present + m.officialTravel)) / m.eligible) : '—'}%</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </section>
+          )}
+
           {/* Former members */}
           {formerMembers.length > 0 && (
             <section className="bg-surface-container-low rounded-2xl p-6">

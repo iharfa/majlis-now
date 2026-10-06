@@ -1,0 +1,229 @@
+{
+ "sittingId": "1068",
+ "date": "2026-10-05",
+ "title": "1st Sitting of Third session of 2026",
+ "presiding": "Deputy Speaker Ahmed Saleem",
+ "attendance": {
+  "present": 39,
+  "onLeave": 2,
+  "officialTravel": 10
+ },
+ "summary": "The first sitting of the third session of 2026 opened with the agenda announced and the previous minutes accepted. Most of the sitting went on an urgent matter from the MDP asking the government to publish the full Eagle Hills agreement for the Rasmale project. The chamber voted 53-0 to debate it and 17 members spoke, with PNC members backing the project and MDP members asking for disclosure. Two items were sent to committees and a bill debate was put off to the next day because its sponsor was absent. The text is partly garbled, so some speaker gists are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "39 present, 2 on leave, 10 on official travel announced"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the agenda (agenda no. 2026/3/1)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Approval of minutes of sittings 25 to 27 of the second session",
+   "outcome": "accepted by the chair as no member proposed amendments"
+  },
+  {
+   "n": "5",
+   "title": "Announcements by the chair",
+   "outcome": "none today"
+  },
+  {
+   "n": "U",
+   "title": "Urgent matter: disclosure of the Eagle Hills Rasmale agreement (Meekail Ahmed Nasym, South Galolhu)",
+   "outcome": "accepted for debate 53-0; debate time extended 26-0; 17 members spoke; debate closed after the break with no further speakers"
+  },
+  {
+   "n": "6.1",
+   "title": "President's nominees for Deputy Commissioner General of Taxation",
+   "outcome": "referred to the Economic Committee"
+  },
+  {
+   "n": "6.2",
+   "title": "Joining the OIC Makkatul Mukarrama convention on anti-corruption law enforcement cooperation",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on the bill on property obtained through crime",
+   "outcome": "deferred to the next day as the sponsoring member was absent"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 3,
+   "positions": [
+    "Argued Rasmale spending is behind the dollar shortage and stalled services in his constituency; the chair asked him to keep to respectful language."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 2,
+   "positions": [
+    "Asked the government to publish all details of the Eagle Hills Rasmale agreement, citing constitutional limits on disposing of state land and the right to information.",
+    "Listed concerns: undisclosed terms, state-funded reclamation, a 99-year lease of over 500 hectares and no acquisition cost or rent."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Defended the Rasmale project and criticised MDP's earlier handling of similar projects.",
+    "Raised a point of order disputing a claim that the agreement runs for 99 years then renews."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Seconded the time-extension motion and supported the urgent matter.",
+    "Argued the long-term leases amount to selling land to outsiders and the agreement should be public."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order calling a statement false, saying no agreement of that kind has yet been concluded with Eagle Hills."
+   ]
+  },
+  {
+   "name": "Hussain Imran Latheef",
+   "constituency": "South Henveyru",
+   "turns": 1,
+   "positions": [
+    "Said the matter was raised for political reasons, that no agreement has been signed yet and that details will be made public, and criticised MDP's record."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that a member had pointed a finger at another and addressed them improperly."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Said the project benefits residents, criticised MDP for opposing it and recalled past MDP asset decisions."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said he does not oppose foreign investment but the public needs clarity on the terms; asked for the agreement and MoU to be made public."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Backed disclosure and raised concern that long leases amount to foreigners settling and effectively owning land, citing the constitution."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Said MDP opposes projects that would help citizens, recalled its past land and asset decisions and supported the project."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Moved to extend debate time so all who wished could speak and backed the urgent matter, warning against selling land for money."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said Rasmale was in the government's manifesto, includes 5,000 housing units in Hulhumale', and talks are not yet an agreement."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Said the project brings large investment and housing and accused the opposition of misleading the public."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the project, saying it could ease housing and dollar shortages, and criticised MDP's past stance on investment."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the project and said MDP has opposed earlier investments such as the F. Atoll project."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Said the Majlis has a constitutional duty to oversee the executive and should see such agreements before signing; he would not back it without clear returns."
+   ]
+  }
+ ],
+ "decisions": [
+  "Agenda 2026/3/1 announced and previous minutes accepted by the chair.",
+  "An urgent matter from North Galolhu (Mohamed Ibrahim) was not accepted, as it did not meet the rule 197 conditions.",
+  "Urgent matter on the Eagle Hills Rasmale agreement accepted for debate by 53 votes to 0.",
+  "Motion to extend debate time passed 26-0 (14 needed).",
+  "Debate on the urgent matter closed after the break as no one else was waiting to speak.",
+  "Deputy Commissioner General of Taxation nominations sent to the Economic Committee.",
+  "OIC anti-corruption convention accession sent to the Foreign Relations Committee.",
+  "Bill on property obtained through crime deferred to the next sitting on 6 October at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Debate the urgent matter on the Eagle Hills Rasmale agreement (54 present, 27 needed)",
+   "yes": 53,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Extend debate time on the urgent matter so all who asked can speak (29 present, 14 needed)",
+   "yes": 26,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 47,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

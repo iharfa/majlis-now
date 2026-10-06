@@ -1,0 +1,278 @@
+{
+ "sittingId": "1020",
+ "date": "2026-04-14",
+ "title": "7th Sitting of First session of 2026",
+ "presiding": "Ahmed Nazim (Deputy Speaker, as named in the minutes)",
+ "attendance": {
+  "present": 31,
+  "onLeave": 4,
+  "officialTravel": 10
+ },
+ "summary": "The sitting opened with the Minority Leader replying to the President's 2026 address, criticising it on the economy, health services, housing and debt. Members then held the preliminary debate on a bill to add comprehensive motor insurance to the Land Transport Act, with MDP members mostly in favour and PNC-aligned members mostly against, often in heated exchanges. After a recess the House debated a Rules Committee report on extending the life of some regulations, then resumed the debate on the National Service bill. No votes were recorded in this part; this part ends partway through the National Service bill debate. The text layer is partly garbled, so attendance digits are read as printed. This part continues the debate on the government's National Service Bill (sponsored by Faruhath Mohamed, South Kulhudhuffushi). After the end of a speech by the Addu Meedhoo member, seven more members spoke, all in support, arguing the programme would give young people discipline, training and a route into jobs, and trading criticism with opposition MDP members over past governments' records and party spending; several asked for the bill to be passed quickly. The debate was not finished and unfinished business was carried to the next agenda. After a recess the chamber voted 54 to 7 to pass a Rules Committee report extending the period for the General Rules Act rules to April 2027, and the sitting closed. The text layer is garbled in places, so some wording is inferred.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "reported: 31 present, 4 on leave, 10 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair",
+   "outcome": "none"
+  },
+  {
+   "n": "5.1",
+   "title": "Reply to the President's 2026 address by the Minority Leader",
+   "outcome": "debated; chair repeatedly asked a member to be seated during the reply"
+  },
+  {
+   "n": "6",
+   "title": "Preliminary debate on bill to amend the Land Transport Act (5/2009) to introduce comprehensive motor insurance",
+   "outcome": "debated; no vote recorded in this part"
+  },
+  {
+   "n": "8.1",
+   "title": "Rules Committee report on extending the period for regulations listed in schedules 1 and 2 of the General Regulations Act (6/2008)",
+   "outcome": "debated; no amendments received; vote set for the voting time around 13:00"
+  },
+  {
+   "n": "7",
+   "title": "Unfinished business: National Service bill (government bill sponsored by the member for South Kulhudhuffushi)",
+   "outcome": "debate continued; about 2 hours 38 minutes of allotted time remained when this part ends"
+  },
+  {
+   "n": "7",
+   "title": "Unfinished business: continuing the debate on the National Service Bill",
+   "outcome": "debated (seven members spoke in this part, all in support); not concluded, carried to the next agenda",
+   "workId": "1836"
+  },
+  {
+   "n": "9",
+   "title": "Matters put to a vote: Rules Committee report on extending the period for complying with the rules in Schedules 1 and 2 of the General Rules Act (Law 6/2008)",
+   "outcome": "passed 54-7 (0 abstentions); period extended to the end of April 2027"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 6,
+   "positions": [
+    "Opposed the amendment, arguing it would benefit an insurance company and raise campaign funds.",
+    "Said accident victims are already covered through Aasandha and ENSPA, and that comprehensive cover is optional in most countries.",
+    "Said earlier MDP-era city and government action on Male's vehicle numbers and congestion was lacking.",
+    "Backed the bill and thanked the sponsor and President; said demand from youth and families to join the service keeps rising batch after batch."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 4,
+   "positions": [
+    "Said the address did not give the state-of-the-nation detail required, and raised health services, Aasandha changes, medicine supply and delivery of housing.",
+    "Criticised government borrowing, the dollar rate and public spending, and asked for reserves figures to be published in full.",
+    "Raised concerns about foreign-policy decisions and the country's international standing."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 3,
+   "positions": [
+    "Supported the bill as protection for road users.",
+    "Said a bill he had sent to committee had waited about 9 months, and criticised the majority's priorities."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Presented the bill, saying third-party cover alone leaves injured riders, drivers and people with permanent disability without adequate compensation.",
+    "Said the draft followed consultation with insurers and experts, and asked members to debate and support it."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Opposed the bill, saying vehicles can already be insured and that compulsory payments of thousands of rufiyaa would burden people, and that Aasandha already helps accident victims.",
+    "Said the bill's main aim is to build youth trained to serve the nation, comparing it to uniformed institutions.",
+    "Rejected claims it is only a job handout, saying every citizen has an equal claim to opportunities all year round.",
+    "Said parties and media all receive state funds and campaign, and that the opposition should acknowledge the government's positive work."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Said the sponsor's intent was good but he could not support the bill, since one person's offence should not impose costs on all road users.",
+    "Called for bills to be debated patiently without politicising them.",
+    "Supported the Rules Committee report and praised the committee chair's work in holding agencies to account."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Opposed the amendment, saying a year of study produced a one-page change and that it favoured insurance companies.",
+    "Defended the President's economic record, citing repayment of a US$500 million sukuk and avoidance of a predicted default."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 2,
+   "positions": [
+    "As Rules Committee rapporteur, presented the report removing regulations 60, 65 and 67 (now covered by new Acts) and extending the others to April 2027.",
+    "Said the Attorney General's office expects to send the bill for the remaining regulation around June."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, said third-party insurance only covers the other party, and cited accidents causing permanent disability and heavy medical costs."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said the amendment is not a problem in itself, but opposed making comprehensive cover compulsory, citing cost to drivers and fines of Rf 750 to 1,500 for non-compliance."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Questioned spending Parliament's time on a bill that took a year of study for a small change, and said it would move hundreds of millions of rufiyaa to insurers."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, said no clause sets a Rf 1,500 charge and that committee can still amend it.",
+    "Said no government bill had reached this session and criticised spending on a TV channel."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said comprehensive cover should be made available through the law's framework without forcing people, and raised fuel-subsidy complaints from fishermen.",
+    "Raised imported cars left unregistered in Male and asked that laws apply equally to state-linked companies."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the Rules Committee report and stressed that the remaining regulation needs its Act passed; noted agencies often fail to draft required regulations."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the National Service bill, saying it opens a chance to 16 to 28 year-olds without compulsion and aims to build patriotic youth, and rejected opposition criticism."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": []
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and said opposition speakers had described some of its clauses in a confusing way.",
+    "Explained the under-18 rule: 16 to 17-year-olds apply themselves and need their guardian's permission.",
+    "Said he regretted the opposition's remarks in the debate and strongly rejected suggestions of improper motives."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Argued training must fit the country's real needs, citing past loans for pilot training that left some graduates without matching jobs.",
+    "Said the service helps prepare young people for the workplace and builds a stronger nation.",
+    "Asked that the debate and committee stage be finished soon so the bill can be passed."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Said about 1,500 youth are already in the programme and asked why it should not be made law.",
+    "Criticised the earlier MDP government's education and youth record and described gangs among 16 to 18-year-olds in Male'.",
+    "Urged expanding the service, trimming some spending on political parties, and passing the bill quickly."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the programme should steer trained youth back into fisheries and other industries that locals have lost to foreign labour.",
+    "Noted tourism's exposure to outside shocks, citing the effect of the Middle East war.",
+    "Called for trainees who go into specific sectors to be paid an adequate allowance."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Said the programme gives idle or struggling youth a path back, citing parents' appeals for help.",
+    "Asked that trainees with weak school results get eased access to later job opportunities, citing the police service.",
+    "Said opposition members had left the chamber during the debate and asked where their voice was."
+   ]
+  }
+ ],
+ "decisions": [
+  "Rules Committee report on the General Regulations Act received no amendments; debate on it was closed and the vote was set for the voting time at about 13:00.",
+  "The House took a recess from about 10:27 to 11:02, then resumed with committee reports, followed by the National Service bill.",
+  "The Rules Committee report extending the period for complying with the rules in Schedules 1 and 2 of the General Rules Act (Law 6/2008) to the end of April 2027 was passed 54 to 7.",
+  "The chair ended the sitting, with unfinished business to be put on the next agenda; the next sitting was set for 15 April 2026 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Adoption of the Rules Committee report extending the compliance period for the General Rules Act rules to April 2027 (93 members in total, 63 present, 61 voted, 31 needed)",
+   "yes": 54,
+   "no": 7,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 66,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

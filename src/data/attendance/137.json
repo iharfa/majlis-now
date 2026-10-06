@@ -1,0 +1,91 @@
+{
+  "committeeId": "137",
+  "period": "2024-07-31 to 2025-02-18",
+  "meetings": 4,
+  "codes": {
+    "P": "present",
+    "@": "attended in another capacity; counted under officialTravel (the sheet counts it as attended, O+@+P)",
+    "S": "salaam (on leave / excused)",
+    "L": "leave",
+    "O": "official duty / travel (counted under officialTravel)",
+    "-": "absent without leave (counted in the sheet's eligible total and in its non-attendance group S+L+-)",
+    "N": "not a member / not included at that meeting (excluded from the sheet's totals; not counted here)",
+    "©": "not included (excluded from the sheet's totals; never occurs in these sheets)"
+  },
+  "members": [
+    {
+      "mpId": "mp-240",
+      "name": "Ahmed Nazim",
+      "constituency": "Dhiggaru",
+      "present": 2,
+      "onLeave": 1,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 4
+    },
+    {
+      "mpId": "mp-260",
+      "name": "Ahmed Shakir",
+      "constituency": "Maavashu",
+      "present": 3,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 4
+    },
+    {
+      "mpId": "mp-258",
+      "name": "Ashraf Rasheed",
+      "constituency": "Faresmaathodaa",
+      "present": 4,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 4
+    },
+    {
+      "mpId": "mp-256",
+      "name": "Mohamed Ali",
+      "constituency": "Gadhdhoo",
+      "present": 4,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 4
+    }
+  ],
+  "meetingsList": [
+    {
+      "date": "2024-07-31",
+      "n": 1,
+      "present": 3,
+      "total": 4
+    },
+    {
+      "date": "2024-10-21",
+      "n": 2,
+      "present": 4,
+      "total": 4
+    },
+    {
+      "date": "2024-12-11",
+      "n": 3,
+      "present": 3,
+      "total": 4
+    },
+    {
+      "date": "2025-02-18",
+      "n": 1,
+      "present": 3,
+      "total": 4
+    }
+  ],
+  "sourceDocs": [
+    "https://majlis.gov.mv/storage/committee_files/137/sHZn5yOGLYuJPoBhiCYiBebcGaVLIVNRzw5oML7L.pdf"
+  ],
+  "pagesRead": 1,
+  "pagesTotal": 1,
+  "confidence": "High",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-06"
+}

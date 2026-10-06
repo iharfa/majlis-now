@@ -1,0 +1,215 @@
+{
+ "sittingId": "1016",
+ "date": "2026-02-11",
+ "title": "3rd Sitting of First session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 31,
+  "onLeave": 2,
+  "officialTravel": 2
+ },
+ "summary": "After the opening prayers, attendance and agenda, the Majlis approved the minutes of the first two special sittings held outside the session and referred the President's nominations of non-resident ambassadors (including the United States, Cuba, Oman and Armenia) to the Foreign Relations Committee. The main business was the preliminary debate on an opposition member's bill to make damaging mosques a terrorism offence, which every speaker backed while ruling-party and opposition members traded sharp political criticism. After a 30-minute recess a second, government-sponsored National Service bill was introduced but nobody signed up to debate it. The terrorism amendment was accepted 56 to 0 and sent to the Committee on Security Services. Attendance figures at the start are read from garbled digits; 59 members were present for the vote.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers",
+   "outcome": "Sitting opened at 09:01"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "Chair read out the figures (digits garbled in the text)"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda (no. 2026/1/3)",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Approval of minutes of the first and second special sittings of 2026 held outside the session",
+   "outcome": "Accepted by the chair; no amendments filed"
+  },
+  {
+   "n": "5",
+   "title": "Announcements from the chair: committee membership change on the independent institutions committee",
+   "outcome": "A PNC member of the committee was replaced by the member for North Hithadhoo"
+  },
+  {
+   "n": "6",
+   "title": "Matters from the Speaker's desk: President's nominations of non-resident ambassadors to the United States, Cuba, the Commonwealth, Brazil, Mexico, Oman and Armenia",
+   "outcome": "Each referred to the Foreign Relations Committee under rule 124"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on the bill to amend the Counter-Terrorism Act (Law 2015/32), sponsored by the member for North Galolhu",
+   "outcome": "Debated by 15 members; debate concluded"
+  },
+  {
+   "n": "7.2",
+   "title": "Preliminary debate on the National Service Bill, sponsored by the government through the member for South Kulhudhuffushi",
+   "outcome": "Bill presented; debate interrupted after recess with no speakers signed up"
+  },
+  {
+   "n": "8",
+   "title": "Vote on accepting the Counter-Terrorism Act amendment bill",
+   "outcome": "Accepted 56-0; referred to the Committee on Security Services"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 5,
+   "positions": [
+    "Backed the bill and said the ruling group would pass it at committee stage, while criticising opposition conduct and past governments' record on mosques.",
+    "Exchanged remarks with the chair and opposition members over language used across the floor, including the label 'irreligious'."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 3,
+   "positions": [
+    "Fully backed the amendment and urged quick committee work, while disputing government claims about how many mosques it had built.",
+    "Raised a point of order objecting to remarks he said were untrue, made by members across the floor.",
+    "Said the bill already had cross-party support and should not turn into a party fight; noted mosque promises in his area."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 3,
+   "positions": [
+    "Called the bill important, regretted that few members spoke for it, and said no party's love of Islam should be questioned.",
+    "Said the bill makes mosque damage a clear offence and that no one should be labelled irreligious.",
+    "Urged members to speak truthfully and questioned claims about what $18 million of mosque funding could build."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Introduced his bill to list damage to mosques as a terrorism offence, arguing mosques should be protected and offenders face firm penalties.",
+    "On a point of order, asked members to stop calling one another irreligious across the floor."
+   ]
+  },
+  {
+   "name": "Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, said Maldivians value mosques and Islamic rites, and pointed to government religious programmes including plans for Ramadan."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, said the heaviest penalty should be written into law, and cautioned against party labelling and rhetoric that may endanger people."
+   ]
+  },
+  {
+   "name": "Fathimath Sauda",
+   "constituency": "Nilandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment and raised complaints from mosque cleaners about harassment and job threats linked to the Malé City Council."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, credited the current government with building mosques and creating an Islamic ministry, and sharply criticised the opposition over corruption."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, said mosques should not be politicised, and urged faster government development projects in his constituency."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, said attacks on mosques may stem from illness, and favoured moving mosque management from councils to the Islamic Ministry."
+   ]
+  },
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 1,
+   "positions": [
+    "Backed protecting mosques but said existing general laws already allow punishment; spoke about government debt and the dollar rate."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said mosque damage is unacceptable but existing laws already allow action, so better enforcement matters more than this amendment."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, welcomed opposition recognition of past mistakes, and tied mosque protection to Islam's core aims of protecting religion, life and property."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, asked why it was not brought earlier when its sponsor's party held power, and praised the new zakat law."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, credited the government with rebuilding mosques, and criticised raising such issues just before local council elections."
+   ]
+  },
+  {
+   "name": "Faruhath Mohamed",
+   "constituency": "South Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Presented the government's National Service Bill, a structured national service programme for young people with training, benefits and rules for participants."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of the first and second special sittings of 2026 were accepted as adopted.",
+  "Nominations for non-resident ambassadors to the US, Cuba, Brazil, Mexico, Oman, Armenia and the Commonwealth were referred to the Foreign Relations Committee.",
+  "A PNC member of the independent institutions committee was replaced by the member for North Hithadhoo.",
+  "The Counter-Terrorism Act amendment bill was accepted at preliminary stage and referred to the Committee on Security Services.",
+  "Debate on the National Service Bill was interrupted with no speakers signed up."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the bill to amend the Counter-Terrorism Act (Law 2015/32), 59 present, 29 needed",
+   "yes": 56,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 46,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

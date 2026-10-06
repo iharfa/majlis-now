@@ -1,0 +1,262 @@
+{
+ "sittingId": "1050",
+ "date": "2026-07-08",
+ "title": "12th Sitting of second session of 2026",
+ "presiding": "Ahmed Saleem (Deputy Speaker)",
+ "attendance": {
+  "present": 27,
+  "onLeave": 7,
+  "officialTravel": 4
+ },
+ "summary": "The sitting ran from 09:01 to 11:19 and was mostly a question session with the Minister of Health, Family and Welfare, where MPs asked about overseas treatment under Aasandha, dengue test kits, stalled hospital and health centre projects, ambulances and post-mortem services. A resolution by the member for Kendhoo on politically motivated dismissals at state companies was read for the first time, and debate on the Waste Management Act amendment bill resumed with one speaker before a recess (10:29 to 11:00). After the recess the House approved Zaina Abdulla as the banking representative on the Privatisation and Corporatisation Board by 47 votes to 10. The text is partly garbled, so speaker gists are approximate.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "27 present, 7 on leave, 4 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair",
+   "outcome": "none today"
+  },
+  {
+   "n": "5.1",
+   "title": "Question to the Minister of Health, Family and Welfare from the member for North Galolhu on reducing reliance on overseas treatment, with follow-up questions from other members",
+   "outcome": "answered by the minister; many follow-up questions taken"
+  },
+  {
+   "n": "5.2",
+   "title": "Question to the Minister of Health, Family and Welfare from the member for North Galolhu on providing post-mortem services in the Maldives, with follow-up questions",
+   "outcome": "answered by the minister; many follow-up questions taken"
+  },
+  {
+   "n": "6.1",
+   "title": "Resolution by the member for Kendhoo seeking MPs' views on political dismissals of employees at state companies",
+   "outcome": "first reading read out"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill to amend the Waste Management Act (No. 24/2022), sponsored by the member for Ungoofaaru for the government: debate continued",
+   "outcome": "one member debated; paused for recess (10:29 to 11:00)",
+   "workId": "1899"
+  },
+  {
+   "n": "8.1",
+   "title": "State Owned Enterprises Committee report on approving Zaina Abdulla (Dhaandhoo, Gaafu Alif) as the banking-sector member of the Privatisation and Corporatisation Board",
+   "outcome": "report presented and debated"
+  },
+  {
+   "n": "9.1",
+   "title": "Vote to approve Zaina Abdulla as member of the Privatisation and Corporatisation Board",
+   "outcome": "passed 47-10 (59 present, 57 voted, 29 needed)"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Qeela Ali",
+   "constituency": "",
+   "turns": 29,
+   "positions": [
+    "As Minister of Health, Family and Welfare, said Aasandha-funded overseas referrals fell as cancer screening, chemotherapy and radiotherapy services were set up at home, and a cancer hospital is planned.",
+    "Said Rasdhoo hospital work would start this year, Thoddoo's would finish next year, and the Mulaku upgrade and Kandoodhoo health centre are due by July 2027.",
+    "Said post-mortem rules are at the gazetting stage, and she lacked figures for several questions and would send them later."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 4,
+   "positions": [
+    "Asked what the government's plan is to cut reliance on treatment abroad, and when it would start.",
+    "Said island patients face long waits for IGMH scans and appointments, and asked what will fix it.",
+    "Asked why post-mortems are still done abroad at high cost, and why the national ambulance service is not under one umbrella."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 4,
+   "positions": [
+    "Asked why the Dharumavantha hospital cath lab was closed for years and what was done about a MVR 45 million advance to an Aasandha company.",
+    "Asked what details exist of money owed to overseas hospitals under the previous government.",
+    "Supported the committee report, saying the nominee is well qualified and the board's role is to monitor state companies; blamed the earlier government for unaudited companies."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 4,
+   "positions": [
+    "Asked whether commercial insurance could replace Aasandha for overseas care, and whether the ministry studied lower costs.",
+    "Said only 12% of the MVR 917 million health PSIP budget was spent, and asked why Aasandha dues had roughly doubled.",
+    "Said the MDP had no doubt about the nominee's ability but had lost trust in the board over a circular on dismissals of MDP-linked staff, and could not support the report."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 2,
+   "positions": [
+    "Asked how ready the country is for rising cancer cases and when Rasdhoo hospital work will restart.",
+    "Asked about fake cancer medicine reported entering the country, the state of Thoddoo health centre, and the Rasdhoo start date."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 2,
+   "positions": [
+    "Asked when an MRI machine will serve Fuvahmulah City hospital and how far the planned new hospital has progressed.",
+    "Asked how much was owed to overseas hospitals when this government started and what the new air and sea ambulances have done."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked about reported unpaid Aasandha bills to overseas hospitals and dengue test-kit shortages; the chair asked members to keep to the day's topic.",
+    "Asked about political posts in the ministry, rape-evidence kit costs and shortages, and medicine supply."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 2,
+   "positions": [
+    "Asked for the timeline of the new Kulhudhuffushi tertiary hospital building, noting several specialists already work there.",
+    "Asked whether Malé's four hospitals could run ambulances directly given congested roads."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Asked whether Aasandha patients could go abroad directly from Kulhudhuffushi and when the Goidhoo and Kanditheemu health centres will be awarded.",
+    "Repeated an unanswered question and asked how the government would control private-sector health fees."
+   ]
+  },
+  {
+   "name": "Abdulla Sodig",
+   "constituency": "North Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked what is being done to improve island hospitals and how Aasandha patients from Kulhudhuffushi and Addu can go abroad directly.",
+    "Repeated the question and asked what services Addu hospital's new building will hold and what it costs."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how much was advanced to companies for health projects since August 2023 that were later cancelled, and whether the money can be recovered."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about the delay and loss from the Dharumavantha hospital being left unused after 2018, and about a vaccine used during COVID."
+   ]
+  },
+  {
+   "name": "Ali Ashrag",
+   "constituency": "Kinbidhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when work on the Kandoodhoo health centre building will start and when the Hirilandhoo health centre extension will finish."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked about work to set up a national health laboratory and its benefit, and how many hospital beds were added in Malé compared with earlier."
+   ]
+  },
+  {
+   "name": "Mohamed Niushad",
+   "constituency": "Keyodhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether dengue test kits ran out last month, and when the Health Protection Agency staff, who lack their own office, would be housed together."
+   ]
+  },
+  {
+   "name": "Ahmed Zahir",
+   "constituency": "Maduvvari",
+   "turns": 1,
+   "positions": [
+    "Asked how many patients Aasandha sent abroad in 2025 and for which illnesses."
+   ]
+  },
+  {
+   "name": "Ibrahim Naufal",
+   "constituency": "Mulaku",
+   "turns": 1,
+   "positions": [
+    "Asked when Mulaku's upgrade from health centre to hospital will finish."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why the search-and-rescue platform vessel at Addu Atoll is not used for medical evacuations."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Called Aasandha a failure and asked about moving to insurance, and about high room charges at Treetop Hospital's general ward."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "On the Waste Management bill, welcomed widening the law beyond tourism to all economic activity, and said an earlier tax caused double taxation on plastic bags; spoke on his own amendment."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the State Owned Enterprises Committee report: the nominee was interviewed, scored an average of 80.56 and was approved by the committee."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Majlis approved Zaina Abdulla as the banking-sector member of the Privatisation and Corporatisation Board, 47 for and 10 against.",
+  "The first reading of the Kendhoo member's resolution on SOE dismissals was read out.",
+  "The sitting recessed from 10:29 to 11:00, and the next sitting was set for Monday 13 July 2026 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Approval of Zaina Abdulla as banking-sector member of the Privatisation and Corporatisation Board",
+   "yes": 47,
+   "no": 10,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 54,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

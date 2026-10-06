@@ -1,0 +1,255 @@
+{
+ "sittingId": "1011",
+ "date": "2026-01-05",
+ "title": "1st special sitting of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla; after the 10:31-11:02 recess, Ahmed Nazim as Deputy Speaker (as named in the minutes)",
+ "attendance": {
+  "present": 36,
+  "onLeave": 4,
+  "officialTravel": 1
+ },
+ "summary": "This special sitting, held outside the regular session period at members' request, opened with 36 members present. The Speaker sent the President's nomination of Dr. Aishath Ameela as Human Rights Commission president to the Human Rights and Gender Committee. Members then debated amendments to the Penal Code (gambling, scams, stolen goods) and the Pension Act (basic pension limits, illness, housing and Hajj withdrawals); both debates closed with votes set for the day's voting time, and debate on a constitutional amendment to hold parliamentary and presidential elections together was under way when this part ends. Several opposition members questioned whether the out-of-session sitting was properly called. This part continues the preliminary debate on the government's bill amending the Constitution so that presidential and parliamentary elections are held together, which would shorten Parliament's term by about six months. Eight members spoke: government-side members argued it saves money and reduces political instability, while MDP members said it was rushed through during the recess, cuts elected terms and reduces voters' say. After a recess the chair closed the debate, the Re-employment Bill committee report (letting people work up to age 75) was debated, and four votes followed: the Penal Code, Pension Act and Constitution bills were accepted and sent to committee, and the Re-employment Bill passed 46-5. The Deputy Speaker also spoke in the debate before taking the chair. The text layer is garbled in places, so some gists are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening praises and prayers",
+   "outcome": "held"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "36 present, 4 on leave, 1 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "Speaker explained the sitting was called outside the session period on a members' request covering five pieces of work"
+  },
+  {
+   "n": "5.1",
+   "title": "President's nomination of Dr. Aishath Ameela as Human Rights Commission of the Maldives president",
+   "outcome": "referred to the Human Rights and Gender Committee"
+  },
+  {
+   "n": "6",
+   "title": "First readings of three government-sponsored bills (Penal Code, Pension Act, Constitution amendments)",
+   "outcome": "placed before the Majlis for first reading"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate: bill to amend the Penal Code (Law 9/2014)",
+   "outcome": "debate closed; to be put to a vote on acceptance at the day's voting time"
+  },
+  {
+   "n": "7.2",
+   "title": "Preliminary debate: bill to amend the Pension Act (Law 8/2009)",
+   "outcome": "debate closed; to be put to a vote on acceptance at the day's voting time"
+  },
+  {
+   "n": "7.3",
+   "title": "Preliminary debate: bill to amend the Constitution (joint parliamentary and presidential elections, shorter 20th Majlis term)",
+   "outcome": "sponsor introduced it; debate continuing at end of this part"
+  },
+  {
+   "n": "7",
+   "title": "Preliminary debate on the bill amending the Constitution (holding presidential and parliamentary elections together), continued",
+   "outcome": "debated (eight members spoke in this part); debate closed by the chair; bill later accepted 46-5 and sent to committee",
+   "workId": "1832"
+  },
+  {
+   "n": "8.1",
+   "title": "National Development and Heritage Committee report on the Re-employment Bill (sponsor Hanan Mohamed Rasheed, Guraidhoo)",
+   "outcome": "debated (two members spoke); passed 46-5 after the committee report vote"
+  },
+  {
+   "n": "9",
+   "title": "Votes on bills and the committee report",
+   "outcome": "Penal Code amendment bill accepted 50-0, sent to Judiciary Committee; Pension Act amendment bill accepted 51-0, sent to Independent Institutions Committee; Constitution amendment bill accepted 46-5, sent to Independent Institutions Committee; Re-employment Bill passed 46-5"
+  },
+  {
+   "n": "Close",
+   "title": "Closing remarks by the chair",
+   "outcome": "chair noted a request signed by 31 members for further sittings; another sitting to be held after the committee stage; sitting adjourned"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 7,
+   "positions": [
+    "Said gambling should be banned but argued existing corruption cases, such as MMPRC, go unaddressed.",
+    "On pensions, said illness treatment should be covered through Aasandha, not pension savings, and suggested a Rf 20,000 income threshold.",
+    "Opposed combining the elections, saying the claimed cost saving was false and pointing to spending on political appointees and the rising state payroll.",
+    "Said the government had not delivered its promises and that MDP would not support the amendment."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 4,
+   "positions": [
+    "Argued the out-of-session sitting was not properly called, citing constitution article 83 and the 14-day notice rule.",
+    "Said the bill's definition of gambling is unclear and could catch forex or stock investing.",
+    "Said the pension amendment lets outside asset managers invest pension funds; raised double pensions and a police retirement age of 65.",
+    "Opposed the amendment, saying the fixed five-year term is a core constitutional feature that voters set and Parliament should not shorten."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 4,
+   "positions": [
+    "Introduced a constitutional amendment to hold parliamentary and presidential elections together, shortening the 20th Majlis term by about six months.",
+    "Cited savings of roughly Rf 60-80 million and defended the out-of-session sitting as allowed under Majlis rules.",
+    "Said the bill will go to committee stage for stakeholder views.",
+    "Raised a point of order that the rules allow extra speaking time only when requested by a party's parliamentary group leader."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 2,
+   "positions": [
+    "Supported the gambling amendments on religious grounds and over online betting, and welcomed moving port security under Aviation Command.",
+    "Supported the pension amendments, including withdrawals for serious illness and Hajj booking and a limit on basic pension for higher earners."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Supported the gambling amendments on religious and social grounds, citing the spread of online gambling and losses among youth.",
+    "Supported the pension amendments on housing, terminal illness and Hajj, and said opposition debate strayed from the bill."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the amendments but questioned enforcement, citing the gang law and a state company's reported losses, and asked that agencies be given resources.",
+    "Criticised bringing a constitutional change during the recess with few members present, and said more frequent elections benefit islands and voters.",
+    "Cited the cost of political appointee salaries as a reason to doubt the claimed savings."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 2,
+   "positions": [
+    "Introduced pension amendments: no basic pension for those earning above the old-age amount, pension savings as housing collateral, hardship release, Hajj reservation.",
+    "Supported the amendment, saying the Constitution gives Parliament the power to amend it, with the public vote deciding the outcome.",
+    "Rejected opposition claims that the government offers jobs for votes and urged members to avoid inflammatory language."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 2,
+   "positions": [
+    "Supported the bill, saying a public vote on constitutional change is the best route and combining elections cuts costs.",
+    "Said holding the vote with the local council election avoids extra spending."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Criticised holding the sitting during the recess on under 24 hours' notice, saying too little time was given for such an important matter.",
+    "Argued the presidential system concentrates power in Malé and called for more regional decision-making and more frequent elections."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Introduced Penal Code amendments on gambling, scams, fraud and stolen-goods trafficking, arguing gambling harms productivity, especially among young and lower-income people."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Supported the amendments, said the government has pursued corruption cases, and said some members used the debate to pursue political aims."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported pension amendments for serious illness, housing and Hajj; said a living-wage income threshold should be far above Rf 5,000, around Rf 20,000-25,000."
+   ]
+  },
+  {
+   "name": "Ahmed Thariq",
+   "constituency": "Mahibadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, citing past clashes between election timetables, parliaments and presidents that he said caused instability and cabinet-approval disputes.",
+    "Said the change goes to a public vote, so voters decide, and urged MDP members to support it."
+   ]
+  },
+  {
+   "name": "Azim Abdul Azeez",
+   "constituency": "Vilingili",
+   "turns": 1,
+   "positions": [
+    "Presented the committee report on the Re-employment Bill, which lets people work to age 75; the committee approved it by consensus of five members."
+   ]
+  }
+ ],
+ "decisions": [
+  "President's nomination of Dr. Aishath Ameela as Human Rights Commission president sent to the Human Rights and Gender Committee for review.",
+  "Preliminary debate on the Penal Code (Law 9/2014) amendment bill closed; to be put to a vote on acceptance at the day's voting time.",
+  "Preliminary debate on the Pension Act (Law 8/2009) amendment bill closed; to be put to a vote on acceptance at the day's voting time.",
+  "Debate on the Constitution amendment bill (joint elections) had not concluded by the end of this part; Majlis recessed 10:31-11:02 and resumed.",
+  "The chair closed the preliminary debate on the Constitution amendment bill.",
+  "The Penal Code (Law 9/2014) amendment bill was accepted 50-0 and sent to the Judiciary Committee.",
+  "The Pension Act (Law 8/2009) amendment bill was accepted 51-0 and sent to the Independent Institutions Committee.",
+  "The Constitution amendment bill was accepted 46-5 and sent to the Independent Institutions Committee.",
+  "The Re-employment Bill passed 46-5 following the committee report.",
+  "The sitting was adjourned; the chair said a further sitting would follow once the committee stage ends."
+ ],
+ "votes": [
+  {
+   "what": "Accept the Penal Code (Law 9/2014) amendment bill (Ahmed Azaan Marzooq)",
+   "yes": 50,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the Pension Act (Law 8/2009) amendment bill (Hassan Mufeed Abdul Gadir)",
+   "yes": 51,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the Constitution amendment bill (Ibrahim Falah)",
+   "yes": 46,
+   "no": 5,
+   "abstain": 0
+  },
+  {
+   "what": "Pass the Re-employment Bill per the National Development and Heritage Committee report",
+   "yes": 46,
+   "no": 5,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 93,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

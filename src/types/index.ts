@@ -315,6 +315,7 @@ export interface Committee {
   signalIds?: string[]
   /** Link to the official committee page. */
   sourceUrl?: string
+  attendanceRecord?: CommitteeAttendance
   sources: SourceDocument[]
 }
 
@@ -428,11 +429,60 @@ export interface Sitting {
   id: string
   title: string
   date: string
+  /** e.g. "2026 Second Term" */
+  term?: string
   agendaNo: string
   agendaPdf?: string
+  minutesPdf?: string
+  pointOfOrderPdf?: string
   /** Bills listed on the sitting's work page. */
   billIds: string[]
   url: string
   agenda?: AgendaDoc
+  minutes?: MinutesDigest
   sources: SourceDocument[]
+}
+
+/** Claude's digest of a sitting's official minutes (Dhivehi text layer). */
+export interface MinutesDigest {
+  sittingId: string
+  date: string
+  title: string
+  presiding: string
+  attendance: { present: number | null; onLeave: number | null; officialTravel: number | null }
+  summary: string
+  items: Array<{ n: string; title: string; outcome: string; workId?: string }>
+  speakers: Array<{ name: string; constituency: string; mpId?: string; turns: number; positions: string[] }>
+  decisions: string[]
+  votes: Array<{ what: string; yes: number | null; no: number | null; abstain: number | null }>
+  pagesTotal: number
+  parts: number
+  confidence: Confidence
+  model: string
+  generatedAt: string
+}
+
+/** Committee attendance record read from the committee's published attendance sheets. */
+export interface CommitteeAttendance {
+  committeeId: string
+  period: string
+  meetings: number
+  codes: Record<string, string>
+  members: Array<{
+    mpId: string | null
+    name: string
+    constituency: string
+    present: number
+    onLeave: number
+    absent: number
+    officialTravel: number
+    eligible: number
+  }>
+  meetingsList: Array<{ date: string; n: number; present: number; total: number }>
+  sourceDocs: string[]
+  pagesRead: number
+  pagesTotal: number
+  confidence: Confidence
+  model: string
+  generatedAt: string
 }

@@ -1,0 +1,997 @@
+{
+  "committeeId": "141",
+  "period": "2024-08-15 to 2025-11-24",
+  "meetings": 7,
+  "codes": {
+    "P": "present",
+    "S": "salaam (excused absence); not counted as \"not attended\" by the sheet",
+    "L": "leave (chuttee)",
+    "A": "absent (did not attend)",
+    "O": "present on official business: tick marked ** (official trip) or *** (official meeting); counted as officialTravel"
+  },
+  "members": [
+    {
+      "mpId": "mp-175",
+      "name": "Hussain Shareef",
+      "constituency": "North Hulhumale'",
+      "present": 6,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-176",
+      "name": "Abdulla Shazeem",
+      "constituency": "Central Hulhumale'",
+      "present": 5,
+      "onLeave": 2,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-177",
+      "name": "Dr. Ahmed Shamheed",
+      "constituency": "South Hulhumale'",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-178",
+      "name": "Ahmed Aifan",
+      "constituency": "North Henveyru",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-179",
+      "name": "Hussain Nasih",
+      "constituency": "Central Henveyru",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-180",
+      "name": "Hussain Imran Latheef",
+      "constituency": "South Henveyru",
+      "present": 6,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-181",
+      "name": "Ali Ibrahim",
+      "constituency": "West Henveyru",
+      "present": 4,
+      "onLeave": 3,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-182",
+      "name": "Mohamed Ibrahim",
+      "constituency": "North Galolhu",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 2,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-183",
+      "name": "Meekail Ahmed Nasym",
+      "constituency": "South Galolhu",
+      "present": 6,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-184",
+      "name": "Ibrahim Muhammad",
+      "constituency": "North Mahchangolhi",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-185",
+      "name": "Ahmed Xamyr",
+      "constituency": "Central Mahchangolhi",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-186",
+      "name": "Musthafa Hussain",
+      "constituency": "South Mahchangolhi",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-187",
+      "name": "Mohamed Nazim",
+      "constituency": "North Maafannu",
+      "present": 2,
+      "onLeave": 0,
+      "absent": 5,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-188",
+      "name": "Asma Rasheed",
+      "constituency": "Central Maafannu",
+      "present": 6,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-189",
+      "name": "Abdulla Rifau",
+      "constituency": "South Maafannu",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-190",
+      "name": "Mohamed Musthafa Ibrahim",
+      "constituency": "West Maafannu",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-191",
+      "name": "Mohamed Ismail",
+      "constituency": "Vilimale'",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 2,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-192",
+      "name": "Ali Moosa",
+      "constituency": "Hoarafushi",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-193",
+      "name": "Ahmed Naseer",
+      "constituency": "Ihavandhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-194",
+      "name": "Ibrahim Shujau",
+      "constituency": "Baarashu",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-195",
+      "name": "Abdul Latheef Mohamed",
+      "constituency": "Dhidhdhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-196",
+      "name": "Abdulla Shareef",
+      "constituency": "Kelaa",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-197",
+      "name": "Abdul Gafoor Moosa",
+      "constituency": "Hanimaadhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-198",
+      "name": "Mohamed Rasheed",
+      "constituency": "Nolhivaram",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-199",
+      "name": "Hussain Ziyad",
+      "constituency": "Vaikaradhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-200",
+      "name": "Mohamed Dawoodh",
+      "constituency": "North Kulhudhuffushi",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-201",
+      "name": "Faruhath Mohamed",
+      "constituency": "South Kulhudhuffushi",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 2,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-202",
+      "name": "Adam Shafeeq",
+      "constituency": "Makunudhoo",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-203",
+      "name": "Ameen Faisal",
+      "constituency": "Kanditheemu",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-204",
+      "name": "Hassan Mufeed Abdul Gadir",
+      "constituency": "Milandhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-205",
+      "name": "Mohamed Ibrahim",
+      "constituency": "Komandoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-206",
+      "name": "Mohamed Mamdooh",
+      "constituency": "Funadhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-207",
+      "name": "Mohamed Afoo Hamid",
+      "constituency": "Kendhikulhudhoo",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 2,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-208",
+      "name": "Husnee Mubarik",
+      "constituency": "Manadhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-209",
+      "name": "Mohamed Abbas",
+      "constituency": "Velidhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-210",
+      "name": "Abdul Sattar Mohamed",
+      "constituency": "Holhudhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-211",
+      "name": "Abdul Latheef Abdul Rahman",
+      "constituency": "Alifushi",
+      "present": 6,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-212",
+      "name": "Ibrahim Shifaz",
+      "constituency": "Ungoofaaru",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-213",
+      "name": "Mohamed Ali",
+      "constituency": "Dhuvaafaru",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-214",
+      "name": "Ibrahim Falah",
+      "constituency": "Inguraidhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-215",
+      "name": "Ahmed Zahir",
+      "constituency": "Maduvvari",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-216",
+      "name": "Abdul Hannan Aboobakuru",
+      "constituency": "Thulhaadhoo",
+      "present": 6,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-217",
+      "name": "Ahmed Saleem",
+      "constituency": "Eydhafushi",
+      "present": 4,
+      "onLeave": 1,
+      "absent": 2,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-218",
+      "name": "Mauroof Zakir",
+      "constituency": "Kendhoo",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-219",
+      "name": "Mohamed Siruhaan",
+      "constituency": "Hithaadhoo",
+      "present": 3,
+      "onLeave": 4,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-220",
+      "name": "Mohamed Abdul Rahman",
+      "constituency": "Hinnavaru",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-221",
+      "name": "Yaaseen Abdulla",
+      "constituency": "Naifaru",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-222",
+      "name": "Mohamed Shamin Habeeb",
+      "constituency": "Kurendhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-223",
+      "name": "Munthazim Ibrahim",
+      "constituency": "Kaashidhoo",
+      "present": 6,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-224",
+      "name": "Ibrahim Naseem",
+      "constituency": "Thulusdhoo",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 2,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-225",
+      "name": "Hussain Riza Adam",
+      "constituency": "Maafushi",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-227",
+      "name": "Dr. Anara Naeem",
+      "constituency": "Huraa",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-228",
+      "name": "Hassan Zareer",
+      "constituency": "Mathiveri",
+      "present": 6,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-230",
+      "name": "Hussain Sameer",
+      "constituency": "Thoddoo",
+      "present": 6,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-232",
+      "name": "Qasim Ibrahim",
+      "constituency": "Maamigili",
+      "present": 1,
+      "onLeave": 6,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-234",
+      "name": "Ahmed Thariq",
+      "constituency": "Mahibadhoo",
+      "present": 4,
+      "onLeave": 2,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-235",
+      "name": "Abdulla Rasheed",
+      "constituency": "Dhangethi",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-236",
+      "name": "Adam Zahir",
+      "constituency": "Felidhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-238",
+      "name": "Mohamed Niushad",
+      "constituency": "Keyodhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-240",
+      "name": "Ahmed Nazim",
+      "constituency": "Dhiggaru",
+      "present": 4,
+      "onLeave": 2,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-241",
+      "name": "Ibrahim Naufal",
+      "constituency": "Mulaku",
+      "present": 4,
+      "onLeave": 0,
+      "absent": 3,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-243",
+      "name": "Ahmed Aslam",
+      "constituency": "Bilehdhoo",
+      "present": 3,
+      "onLeave": 0,
+      "absent": 4,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-245",
+      "name": "Fathimath Sauda",
+      "constituency": "Nilandhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-246",
+      "name": "Ahmed Siyam Mohamed",
+      "constituency": "Meedhoo",
+      "present": 0,
+      "onLeave": 0,
+      "absent": 7,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-248",
+      "name": "Hussain Hameed",
+      "constituency": "Kudahuvadhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-250",
+      "name": "Hassan Waheed",
+      "constituency": "Vilifushi",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-251",
+      "name": "Ahmed Riyaz",
+      "constituency": "Thimarafushi",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-253",
+      "name": "Ali Ashrag",
+      "constituency": "Kinbidhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-254",
+      "name": "Hanan Mohamed Rasheed",
+      "constituency": "Guraidhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-255",
+      "name": "Ismail Shafeeu",
+      "constituency": "Isdhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-257",
+      "name": "Yoosuf Nasheed",
+      "constituency": "Gan",
+      "present": 4,
+      "onLeave": 1,
+      "absent": 2,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-259",
+      "name": "Abdul Raheem Abdulla",
+      "constituency": "Fonadhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-260",
+      "name": "Ahmed Shakir",
+      "constituency": "Maavashu",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-262",
+      "name": "Azim Abdul Azeez",
+      "constituency": "Vilingili",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-264",
+      "name": "Mohamed Fazeel",
+      "constituency": "Dhaandhoo",
+      "present": 5,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-266",
+      "name": "Asadhulla Shihab",
+      "constituency": "Gemanafushi",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-267",
+      "name": "Ibrahim Didi",
+      "constituency": "Kolamaafushi",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-265",
+      "name": "Saudulla Hilmy",
+      "constituency": "North Thinadhoo",
+      "present": 5,
+      "onLeave": 1,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-263",
+      "name": "Mohamed Alsan Ahmed",
+      "constituency": "South Thinadhoo",
+      "present": 4,
+      "onLeave": 2,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-261",
+      "name": "Mohamed Shameez",
+      "constituency": "Madaveli",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-258",
+      "name": "Ashraf Rasheed",
+      "constituency": "Faresmaathodaa",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-256",
+      "name": "Mohamed Ali",
+      "constituency": "Gadhdhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-252",
+      "name": "Hamad Abdulla",
+      "constituency": "North Fuvahmulah",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 2,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-249",
+      "name": "Ali Fazad",
+      "constituency": "Central Fuvahmulah",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-247",
+      "name": "Ibrahim Hussain",
+      "constituency": "South Fuvahmulah",
+      "present": 5,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-244",
+      "name": "Mohamed Shahid",
+      "constituency": "Hulhudhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-242",
+      "name": "Ismail Nizar",
+      "constituency": "North Feydhoo",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-239",
+      "name": "Ibrahim Didi",
+      "constituency": "South Feydhoo",
+      "present": 6,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-237",
+      "name": "Ahmed Didi",
+      "constituency": "Maradhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-233",
+      "name": "Mohamed Sinan",
+      "constituency": "North Hithadhoo",
+      "present": 4,
+      "onLeave": 2,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-231",
+      "name": "Ahmed Azaan Marzooq",
+      "constituency": "Central Hithadhoo",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 2,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-229",
+      "name": "Ibrahim Nazil",
+      "constituency": "South Hithadhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-226",
+      "name": "Abdul Rahman",
+      "constituency": "Addu Meedhoo",
+      "present": 4,
+      "onLeave": 0,
+      "absent": 2,
+      "officialTravel": 1,
+      "eligible": 7
+    }
+  ],
+  "meetingsList": [
+    {
+      "date": "2024-08-15",
+      "n": 1,
+      "present": 79,
+      "total": 93
+    },
+    {
+      "date": "2024-10-23",
+      "n": 2,
+      "present": 79,
+      "total": 93
+    },
+    {
+      "date": "2024-10-30",
+      "n": 3,
+      "present": 82,
+      "total": 93
+    },
+    {
+      "date": "2024-11-12",
+      "n": 4,
+      "present": 50,
+      "total": 93
+    },
+    {
+      "date": "2024-11-20",
+      "n": 5,
+      "present": 89,
+      "total": 93
+    },
+    {
+      "date": "2025-11-04",
+      "n": 1,
+      "present": 71,
+      "total": 93
+    },
+    {
+      "date": "2025-11-24",
+      "n": 2,
+      "present": 77,
+      "total": 93
+    }
+  ],
+  "sourceDocs": [
+    "https://majlis.gov.mv/storage/committee_files/141/Ydnt2hACw63EqvJNmfpIos6zsbrUdIiiUVD92rEg.pdf",
+    "https://majlis.gov.mv/storage/committee_files/141/un2gMCdLaXvzcUy61CAAqIJJI5t1ibg17o2GQvkk.pdf"
+  ],
+  "pagesRead": 12,
+  "pagesTotal": 12,
+  "confidence": "High",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,375 @@
+{
+ "sittingId": "1004",
+ "date": "2025-11-19",
+ "title": "22nd Sitting of third session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": null,
+  "onLeave": 2,
+  "officialTravel": 2
+ },
+ "summary": "The sitting opened at 09:01 with routine business: minutes of three earlier sittings were accepted and a Judiciary Committee meeting on an amendment to the Evidence Act was announced. Three written ministerial answers were tabled, on a school hall in B. Fulhadhoo, island lease acquisition costs, and moving the B. Goidhoo power house. The Majlis then began first-stage debate on an MDP bill to repeal the 2013 peaceful assembly law, with MDP members in favour and several others against, before the chair set it aside part-way to continue another day. Debate on the government's constitutional amendments (party-expelled MPs' seats and abolishing atoll councils) then began, with views split, and carries into the next part. This part carries on the debate on the government's bill to amend the Constitution (item 7.2), which covers what happens to an MP removed from their party and the abolition of atoll councils. The sponsor closed the debate, the chair said it would go to a vote at the sitting's voting time, and the House broke for prayer from 11:54 to 13:01. After the break item 7.3, a bill amending the Decentralization Act to cut councillor numbers (three on islands under 2,000 people, five above) and change city councils, was introduced and debated, with a motion to send it to a seven-member all-party committee. Members split: some governing-side MPs backed ending atoll councils while opposing the party-seat clause, and MDP members mostly opposed or raised concerns; the text ends mid-speech with debate on 7.3 still running, and the text layer is garbled in places. This part covers the end of the debate on the government's bill to amend the Decentralisation Act (Law 2010/7), with an opposition member, the Minister of Local Government and the bill's sponsor speaking, and then the first debate on a bill to amend the Local Councils Election Act, which sets how many members island and city councils elect. After the sitting time was extended past 14:30 (45 to 0), the chamber voted on the pending items: a Constitution amendment bill, the Decentralisation bill and the Local Council Elections bill were each accepted without opposition (56 to 0), the two council bills were sent to a seven-member temporary committee, and the Antigua and Barbuda ambassador nominee and an animal welfare bill also passed 52 to 0. The text layer is garbled in places and the chair is not named, so some wording is inferred; item numbers 7.2 and 7.3 are inferred from the order of votes.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "Sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance report",
+   "outcome": "Chair announced 2 members on leave and 2 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Adoption of minutes of the 15th to 17th sittings",
+   "outcome": "No amendments proposed; declared accepted under Rule 240"
+  },
+  {
+   "n": "5",
+   "title": "Chair's announcements",
+   "outcome": "Judiciary Committee meeting time announced for 26 November 2025 on a bill to amend the Evidence Act (Law 2022/11)"
+  },
+  {
+   "n": "6.1",
+   "title": "Question to the Education Minister on the multipurpose hall at B. Fulhadhoo School",
+   "outcome": "Written answer tabled: no budget in the past 10 years; contract with the earlier contractor terminated and work handed to a new company"
+  },
+  {
+   "n": "6.2",
+   "title": "Question to the Tourism and Environment Minister on differing criteria for island and lagoon lease acquisition costs",
+   "outcome": "Written answer tabled: open bidding model, with higher cost points for bids scoring more on evaluation criteria"
+  },
+  {
+   "n": "6.3",
+   "title": "Question to the Tourism and Environment Minister on moving the B. Goidhoo power house",
+   "outcome": "Written answer tabled: work planned for 2028 and expected to finish in 2029"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill to repeal Law 2013/1 (Freedom of Peaceful Assembly Act), preliminary debate",
+   "outcome": "Debated; set aside part-way by the chair to continue another day"
+  },
+  {
+   "n": "7.2",
+   "title": "Government bill to amend the Constitution (seats of MPs expelled by their party; atoll councils), preliminary debate",
+   "outcome": "Debate under way; continues in the next part"
+  },
+  {
+   "n": "7.2",
+   "title": "Bill to amend the Constitution (an MP removed from their party, and atoll councils): preliminary debate continued and closed",
+   "outcome": "debate closed after the sponsor's reply; to be put to a vote at the sitting's voting time (no vote in this part)"
+  },
+  {
+   "n": "7.3",
+   "title": "Bill to amend the Decentralization Act (Law No. 7/2010): fewer councillors, city council size, local government changes",
+   "outcome": "debated; motion to refer to a seven-member all-party committee tabled; text ends mid-debate, no vote shown"
+  },
+  {
+   "n": "7.2",
+   "title": "Bill to amend the Constitution (sponsored by Ibrahim Shujau, Baarashu): vote on accepting the bill",
+   "outcome": "accepted 56-0; sent to a committee of the whole house; debate was before this part"
+  },
+  {
+   "n": "7.3",
+   "title": "Bill to amend the Decentralisation Act (Law 2010/7), sponsored by Ibrahim Falah (Inguraidhoo): end of debate",
+   "outcome": "debate ended; accepted 56-0; sent to a seven-member temporary committee (motion by Ahmed Nazim, 56-0)"
+  },
+  {
+   "n": "7.4",
+   "title": "Bill to amend the Local Councils Election Act (Law 2010/10), sponsored by Hamad Abdulla (North Fuvahmulah): first debate",
+   "outcome": "debated; accepted 56-0; sent to the same seven-member temporary committee (53-0)"
+  },
+  {
+   "n": "8.1",
+   "title": "Foreign Relations Committee report on appointing M. Zeena Shirmizath Sameer as non-resident Ambassador to Antigua and Barbuda",
+   "outcome": "no member spoke; approved 52-0"
+  },
+  {
+   "n": "8.2",
+   "title": "Social Committee report on the Animal Welfare and Protection Bill (sponsored by Mohamed Abdul Rahman, Hinnavaru)",
+   "outcome": "no member spoke; passed 52-0"
+  },
+  {
+   "n": "9",
+   "title": "Matters put to a vote, including extending the sitting beyond 14:30",
+   "outcome": "all passed; sitting adjourned to 24 November 2025 at 09:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 6,
+   "positions": [
+    "Opposed repealing the assembly law, saying it was made in the 18th Majlis and was not changed during MDP's later majority.",
+    "Introduced the government's constitutional bill: expelled party members would face a vote by constituents instead of automatic loss of seat, and atoll councils would be removed.",
+    "Closing the debate, backed both amendments; argued voters should decide an MP's removal from a party and atoll councils duplicate Local Government Authority oversight.",
+    "Backed the Decentralization bill, favoured sending it to a members' committee, and said council work is largely done by civil servants, so fewer councillors suffice."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 5,
+   "positions": [
+    "Opposed repeal, saying MDP held a large majority in the previous Majlis without repealing the law and questioning why the bill came now.",
+    "Said the law sets limits so protests do not take place at places such as schools, hospitals and resorts.",
+    "Explained the two amendments; said he does not support the clause sending a removed MP to a constituency vote, but supports the atoll council amendment.",
+    "Presented the Decentralization bill: three councillors on islands under 2,000 residents, five above, to cut spending and political posts; called opposition criticism inconsistent."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 4,
+   "positions": [
+    "Asked the Education Minister why work on the B. Fulhadhoo School multipurpose hall stalled and when it would start and finish.",
+    "Supported repealing the 2013 assembly law, citing the constitutional rights of assembly and expression.",
+    "Opposed the party-seat amendment, citing repeated constitutional changes and election costs, and opposed removing atoll councils as concentrating power in the President.",
+    "Opposed the Decentralization bill, arguing it weakens the decentralised system rather than just saving money, and pointed to Baa Atoll Council's services."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 4,
+   "positions": [
+    "Opposed the bill as unstudied; said fewer councillors reduces representation of fishers, youth and women and, he said, opens a door to corruption.",
+    "Said suspending one councillor could leave a council without a majority and hand power to the minister; opposed abolishing atoll councils.",
+    "Said councils earn their own income and run projects that benefit the state budget, so the cost-saving case for cutting councils needs a fuller look.",
+    "Said atoll councils' roles should be widened and described the changes as a step back for democracy."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 3,
+   "positions": [
+    "Supported repeal, saying peaceful assembly should be allowed and recalling earlier large protests that members now overlook.",
+    "Said people had been prosecuted after recent protests and asked for a second chance to speak on the matter.",
+    "Opposed the bill; said savings are small beside political-appointee pay and claimed it shrinks elected posts to favour government-linked appointments."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 3,
+   "positions": [
+    "Supported repeal, recalling his own political activism since 2006 and saying political parties and protest have long existed in the islands.",
+    "Argued leaders of several parties have protested at different times, so the right should be protected; the chair interrupted the turn.",
+    "Questioned the 2,000-resident threshold: islands of about 250 and about 1,950 residents would both get three councillors; said councillors told him of difficulties. Speech cut off at end of part."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 3,
+   "positions": [
+    "Supported the bill; asked the committee to clarify local government authority versus ministry roles, council staff status and the 5% revenue block grant.",
+    "Moved to refer the bill to a seven-member committee with all parties represented, to speed work ahead of local council elections.",
+    "Spoke on council block grants, saying the amendments would cut the grant and the powers councils hold.",
+    "Proposed sending the Decentralisation bill to a seven-member temporary committee with all parties and independents represented, given its national importance."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Asked the Tourism Minister what differing criteria apply when setting lease acquisition costs for islands and lagoons in different regions.",
+    "Asked when work to move the B. Goidhoo power house would start and finish."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 2,
+   "positions": [
+    "Presented the bill to repeal the 2013 assembly law, arguing the Constitution already guarantees the right and the law is unnecessary.",
+    "On the constitutional bill, said MDP proposed a similar change in November 2024, criticised the government for bringing it now, and said removal power should rest with voters."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Opposed repeal, arguing unrestricted protests at resorts, offices and roads would harm tourism and public life.",
+    "Argued politicians use young people at protests and that youth need jobs and protection.",
+    "Opposed the Article 73 clause on MPs removed from their party, saying the current rule is better.",
+    "Fully backed the atoll council changes and empowering island councils, and praised government island projects."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 2,
+   "positions": [
+    "Objected to putting two unrelated amendments to a single vote; the chair replied the administrative table found no rule conflict.",
+    "Opposed the changes, citing costs of extra votes and of setting up offices after atoll councils are removed."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Did not support the bill, objecting that two separate constitutional changes are bundled together and the wording on party membership is unclear.",
+    "Noted a Supreme Court case on the same seat-loss question is still undecided.",
+    "Raised concerns rather than rejecting: Addu City council would shrink from 12 councillors to six, and he questioned how a city's women's committee head would be chosen.",
+    "Asked how atoll council staff, assets and contracts would be handled; said he would raise these in committee."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 2,
+   "positions": [
+    "Opposed both constitutional amendments; said atoll councils let small islands share technical staff they could not hire individually.",
+    "Warned fewer councillors would strain services in Thoddoo given heavy tourism traffic, and called embassy spending a bigger saving target."
+   ]
+  },
+  {
+   "name": "Adam Shareef Umar",
+   "constituency": "",
+   "turns": 2,
+   "positions": [
+    "As Minister of Local Government, said decentralisation puts services close to people and that island councils are the first door for any local matter.",
+    "Said councils should be strengthened financially and monitored, and that staff jobs should be secured under the change.",
+    "Cited a National University study on council numbers and the President's meetings with councils; urged members to support the bill without party bias."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the first amendment (seat of an expelled MP), saying voters elected the member on a party platform and the seat should be lost.",
+    "Supported the second amendment to abolish atoll councils."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported both amendments, saying MPs should answer to voters and that atoll councils add an extra layer of cost."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Said he could not support the new Article 73 clause on MPs removed from their party, citing the cost of repeated elections.",
+    "Supported the amendment ending atoll councils so island councils deal directly with ministries."
+   ]
+  },
+  {
+   "name": "Hamad Abdulla",
+   "constituency": "North Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Presented the government's Local Councils Election Act amendment, which sets how many members island and city councils elect, based on population, area and needs.",
+    "Asked that the bill be accepted and sent on for committee study."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Presented the Foreign Relations Committee report recommending approval of the nominee as non-resident Ambassador to Antigua and Barbuda, passed unanimously in committee."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Presented the Social Committee report on the animal welfare bill, saying it was passed by the members present and no amendments were received."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of the 15th to 17th sittings declared accepted without amendment",
+  "Judiciary Committee meeting time announced for 26 November 2025 on the Evidence Act amendment bill",
+  "Debate on the bill to repeal the peaceful assembly law was set aside part-way to continue another day",
+  "Sitting paused for a short break from 10:30 to 11:02",
+  "Debate on the Constitution amendment bill (7.2) closed after the sponsor's reply; the chair said it would be put to a vote at the sitting's voting time.",
+  "The sitting paused for prayer from 11:54 to 13:01 and resumed under Speaker Abdul Raheem Abdulla.",
+  "The sitting time was extended beyond 14:30 so the remaining items could be finished (45 to 0).",
+  "The Constitution amendment bill sponsored by Ibrahim Shujau was accepted 56 to 0 and sent to a committee of the whole house.",
+  "The Decentralisation Act amendment bill was accepted 56 to 0 and sent to a seven-member temporary committee, which the chamber then approved 55 to 0.",
+  "The Local Councils Election Act amendment bill was accepted 56 to 0 and sent to the same temporary committee (53 to 0).",
+  "M. Zeena Shirmizath Sameer was approved as non-resident Ambassador to Antigua and Barbuda (52 to 0).",
+  "The animal welfare bill was passed 52 to 0; the next sitting was set for 24 November 2025 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Extending the sitting time beyond 14:30 (93 members in total, 47 present, 23 needed)",
+   "yes": 45,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accepting the Constitution amendment bill (sponsor Ibrahim Shujau) (93 total, 57 present, 29 needed)",
+   "yes": 56,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accepting the Decentralisation Act (Law 2010/7) amendment bill (57 present, 29 needed)",
+   "yes": 56,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Motion by Ahmed Nazim to send the Decentralisation bill to a temporary committee (57 present, 29 needed)",
+   "yes": 56,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Membership of the seven-member temporary committee (57 present, 28 needed)",
+   "yes": 55,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accepting the Local Councils Election Act (Law 2010/10) amendment bill, voted twice after the chair repeated the question (57 present, 29 needed)",
+   "yes": 56,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Motion by Ibrahim Falah to send the Local Councils Election bill to the temporary committee (54 present, 27 needed)",
+   "yes": 53,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approving M. Zeena Shirmizath Sameer as non-resident Ambassador to Antigua and Barbuda (53 present, 27 needed)",
+   "yes": 52,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Passing the Animal Welfare and Protection Bill as reported by the Social Committee (53 present, 27 needed)",
+   "yes": 52,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 148,
+ "parts": 3,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

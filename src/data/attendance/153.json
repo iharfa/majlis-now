@@ -1,0 +1,108 @@
+{
+  "committeeId": "153",
+  "period": "2025-10-29 to 2026-03-04",
+  "meetings": 5,
+  "codes": {
+    "P": "present (attended)",
+    "S": "salaam (excused absence)",
+    "L": "leave",
+    "O": "official duty",
+    "@": "attending another committee's meeting",
+    "-": "absent (did not attend)",
+    "©": "not required to attend",
+    "N": "not a member of the committee at that meeting"
+  },
+  "members": [
+    {
+      "mpId": "mp-177",
+      "name": "Dr. Ahmed Shamheed",
+      "constituency": "South Hulhumale'",
+      "present": 4,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 5
+    },
+    {
+      "mpId": "mp-196",
+      "name": "Abdulla Shareef",
+      "constituency": "Kelaa",
+      "present": 4,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 5
+    },
+    {
+      "mpId": "mp-206",
+      "name": "Mohamed Mamdooh",
+      "constituency": "Funadhoo",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 5
+    },
+    {
+      "mpId": "mp-240",
+      "name": "Ahmed Nazim",
+      "constituency": "Dhiggaru",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 5
+    },
+    {
+      "mpId": "mp-231",
+      "name": "Ahmed Azaan Marzooq",
+      "constituency": "Central Hithadhoo",
+      "present": 4,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 5
+    }
+  ],
+  "meetingsList": [
+    {
+      "date": "2025-10-29",
+      "n": 1,
+      "present": 5,
+      "total": 5
+    },
+    {
+      "date": "2025-11-05",
+      "n": 2,
+      "present": 3,
+      "total": 5
+    },
+    {
+      "date": "2025-11-09",
+      "n": 3,
+      "present": 4,
+      "total": 5
+    },
+    {
+      "date": "2026-03-04",
+      "n": 1,
+      "present": 5,
+      "total": 5
+    },
+    {
+      "date": "2026-03-04",
+      "n": 2,
+      "present": 5,
+      "total": 5
+    }
+  ],
+  "sourceDocs": [
+    "https://majlis.gov.mv/storage/committee_files/153/ns6yKalO3xofNPemL4VieXAtEOIOFzwXIRltSlra.xlsx",
+    "https://majlis.gov.mv/storage/committee_files/153/PhLxJqfAOJofI4o9AIxzB5KZQesKZV50W7hMngJz.pdf"
+  ],
+  "pagesRead": 5,
+  "pagesTotal": 5,
+  "confidence": "Medium",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-06"
+}

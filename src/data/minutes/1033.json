@@ -1,0 +1,250 @@
+{
+ "sittingId": "1033",
+ "date": "2026-05-14",
+ "title": "19th Sitting of First session of 2026",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 38,
+  "onLeave": 6,
+  "officialTravel": 4
+ },
+ "summary": "The sitting ran from 9:06 to 11:14 on 14 May 2026. The Speaker announced committee deadlines, ruled that a journalist-detention matter could not be taken up as an urgent matter, and sent a presidential ambassador request to committee. MPs then debated the Cyber Security Bill and three committee reports (human organ transplants, the Pension Act amendment and the Decentralisation Act amendment). After a break, the House voted to extend the first session to 31 May 2026 and passed the three bills; several heated exchanges over staying on topic occurred, and one member was told to leave the chamber.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "opened by the Speaker with prayers"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "38 present, 6 on leave, 4 on official travel when opened (72 present by the votes)"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "announced (agenda AJ/19/1/2026)"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee deadlines set under Rule 174: Fisheries Act amendment bill and Tax Administration Act amendment bill",
+   "outcome": "both set to 30 June 2026"
+  },
+  {
+   "n": "4.2",
+   "title": "Extending the first session of 2026 beyond 15 May",
+   "outcome": "Speaker announced intent to extend to 31 May; put to vote later, passed 58-11"
+  },
+  {
+   "n": "4.3",
+   "title": "Urgent matter submitted by South Galolhu MP Meekail Ahmed Nasym (journalist's detention)",
+   "outcome": "Speaker ruled it cannot be treated as an urgent matter"
+  },
+  {
+   "n": "5.1",
+   "title": "President's letter naming ambassadors for approval (Constitution Art. 115(d))",
+   "outcome": "sent to the Foreign Relations Committee"
+  },
+  {
+   "n": "6.1",
+   "title": "Cyber Security Bill (government bill, sponsor Central Henveyru MP Hussain Nasih): continued debate",
+   "outcome": "debated; no vote in this part",
+   "workId": "1870"
+  },
+  {
+   "n": "7.1",
+   "title": "Social Committee report on the Human Organ Transplantation Bill (government bill)",
+   "outcome": "debated; passed 68-0 at vote time"
+  },
+  {
+   "n": "7.2",
+   "title": "Independent Institutions Committee report on the Pension Act (Law 8/2009) amendment bill",
+   "outcome": "debated; passed 61-8-1 at vote time",
+   "workId": "1831"
+  },
+  {
+   "n": "7.3",
+   "title": "Decentralisation Committee report on the Decentralisation Act (Law 7/2010) amendment bill",
+   "outcome": "debated; passed 59-10 at vote time",
+   "workId": "1873"
+  },
+  {
+   "n": "8",
+   "title": "Votes",
+   "outcome": "session extension and the three committee-report bills all passed after a 10:26 to 11:01 break"
+  },
+  {
+   "n": "9",
+   "title": "Close of sitting",
+   "outcome": "next sitting set for Monday 18 May 2026 at 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ahmed Xamyr",
+   "constituency": "Central Mahchangolhi",
+   "turns": 12,
+   "positions": [
+    "Backed the Cyber Security Bill as a legal framework and national agency for cyber defence, after the Speaker warned another member.",
+    "Presented the Decentralisation Committee report on the Decentralisation Act amendment.",
+    "Argued atoll councils have gained powers through the changes and that LGA and Civil Service concerns were addressed."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 8,
+   "positions": [
+    "Raised points of order over speaking time and the Speaker's handling of interruptions.",
+    "On the Pension amendment, questioned the 12-month terminal illness test and the MVR 5,000 income provisions.",
+    "Opposed the Decentralisation amendment, arguing councils lose income from the block grant deductions."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 5,
+   "positions": [
+    "Said cyber security matters for sovereignty but tied it to a recent virus incident at the President's Office; repeatedly told by the Speaker to stay on the bill and was later named."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 4,
+   "positions": [
+    "Raised a point of order that a colleague's remarks were off the Pension bill.",
+    "Supported the Pension report, saying it allows pension use for housing, terminal illness and Hajj, and defended the Decentralisation changes."
+   ]
+  },
+  {
+   "name": "Asma Rasheed",
+   "constituency": "Central Maafannu",
+   "turns": 2,
+   "positions": [
+    "Presented the Social Committee report on the Human Organ Transplantation Bill, explaining its purpose and the committee's work after the Speaker warned another member."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Opposed the Decentralisation amendment, citing voters' rejection of constitutional changes and the removal of atoll council powers, and said councils need more funding."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the Decentralisation amendment as sound, said the atoll council structure is wasteful, and raised an unrelated condolence remark that the Speaker limited."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Opposed the Decentralisation amendment, saying the LGA would lose powers and council services and funding would suffer; also raised a point of order about the Speaker's conduct."
+   ]
+  },
+  {
+   "name": "Mohamed Niushad",
+   "constituency": "Keyodhoo",
+   "turns": 2,
+   "positions": [
+    "As a committee member, said LGA and the Civil Service Commission raised concerns about the President-appointed chief executive having authority over staff."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Supported the Cyber Security Bill as overdue legal protection against cyber attacks, including a national cyber security agency and critical-infrastructure standards."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported a cyber security law as services digitise, said committee stage should refine it, and argued laws set the rules courts follow."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the organ transplant bill report, citing clearer standards for transplants and benefits for the health system."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Took the floor on the organ transplant report but offered to yield, with no debate recorded."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the Independent Institutions Committee report on the Pension Act amendment, including board size and CEO appointment changes."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the Decentralisation amendment, saying it is minor, brings LGA staff under civil service rules, and that earlier remarks were unfounded."
+   ]
+  }
+ ],
+ "decisions": [
+  "Committee deadlines of 30 June 2026 were announced for the Fisheries Act and Tax Administration Act amendment bills.",
+  "The Speaker ruled the journalist-detention matter could not be taken as an urgent matter under the Rules.",
+  "The President's ambassador request was sent to the Foreign Relations Committee.",
+  "The first session of 2026 was extended to 31 May 2026 (58-11).",
+  "The Human Organ Transplantation Bill was passed (68-0).",
+  "The Pension Act amendment bill was passed (61-8-1).",
+  "The Decentralisation Act amendment bill was passed (59-10).",
+  "The next sitting was set for Monday 18 May 2026 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Extending the first session of 2026 to 31 May 2026",
+   "yes": 58,
+   "no": 11,
+   "abstain": 0
+  },
+  {
+   "what": "Human Organ Transplantation Bill (Social Committee report)",
+   "yes": 68,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Pension Act (Law 8/2009) amendment bill (Independent Institutions Committee report)",
+   "yes": 61,
+   "no": 8,
+   "abstain": 1
+  },
+  {
+   "what": "Decentralisation Act (Law 7/2010) amendment bill (Decentralisation Committee report)",
+   "yes": 59,
+   "no": 10,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 56,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

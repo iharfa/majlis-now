@@ -6,7 +6,7 @@ import { DataMeta } from '@/components/ui/DataMeta'
 import { PartyTag } from '@/components/ui/PartyTag'
 import { StatusPill } from '@/components/ui/StatusPill'
 import { NotFoundPage } from './NotFoundPage'
-import { mpById, partyById, constituencyById, votesByMP, committeesForMP, attendanceForMP, billsSponsoredBy } from '@/data'
+import { mpById, partyById, constituencyById, votesByMP, committeesForMP, attendanceForMP, billsSponsoredBy, speechesByMP, committeeAttendanceForMP } from '@/data'
 import { cn } from '@/utils/cn'
 import { formatDate, pct } from '@/utils/format'
 
@@ -20,6 +20,8 @@ export function MPDetailPage() {
   const recordedVotes = votesByMP(mp.id)
   const attendance = attendanceForMP(mp.id)
   const sponsored = billsSponsoredBy(mp.id)
+  const speeches = speechesByMP(mp.id)
+  const cmtAttendance = committeeAttendanceForMP(mp.id)
   const isSpeaker = mp.leadershipRole === 'Speaker'
   const committeeRoles = committeesForMP(mp.id).sort((a, b) => {
     const rank = { Chair: 0, 'Vice Chair': 1, Member: 2 } as const
@@ -72,8 +74,12 @@ export function MPDetailPage() {
       </section>
 
       <section className="grid grid-cols-2 md:grid-cols-4 gap-gutter mb-gutter">
-        <Fact icon="how_to_reg" label="Constituency" value={constituency?.name ?? '—'} />
-        <Fact icon="map" label="Atoll / city" value={constituency?.atoll ?? '—'} />
+        <Fact icon="record_voice_over" label="Spoke at sittings" value={speeches.length ? `${speeches.length} (${speeches.reduce((n, s) => n + s.turns, 0)} turns)` : '—'} />
+        <Fact
+          icon="groups"
+          label="Committee attendance"
+          value={cmtAttendance.length ? `${pct(cmtAttendance.reduce((n, r) => n + r.present, 0), cmtAttendance.reduce((n, r) => n + r.eligible, 0))}%` : '—'}
+        />
         <Fact
           icon="event_available"
           label="Present at recorded votes"
@@ -90,13 +96,18 @@ export function MPDetailPage() {
             <span className="text-label-sm text-outline">({committeeRoles.length})</span>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-            {committeeRoles.map(({ committee, role }) => (
+            {committeeRoles.map(({ committee, role }) => {
+              const att = cmtAttendance.find((r) => r.committee.id === committee.id)
+              return (
               <Link
                 key={committee.id}
                 to={`/committees/${committee.id}`}
                 className="flex items-center justify-between gap-3 p-3 rounded-xl bg-surface-container-low hover:bg-surface-variant transition-colors"
               >
-                <span className="font-label-bold text-on-surface text-sm min-w-0 truncate">{committee.name}</span>
+                <span className="min-w-0">
+                  <span className="font-label-bold text-on-surface text-sm block truncate">{committee.name}</span>
+                  {att && <span className="text-label-sm text-outline">Attended {att.present} of {att.eligible} meetings</span>}
+                </span>
                 <span
                   className={cn(
                     'shrink-0 text-label-sm font-label-bold px-2 py-0.5 rounded-full',
@@ -106,8 +117,33 @@ export function MPDetailPage() {
                   {role}
                 </span>
               </Link>
-            ))}
+              )
+            })}
           </div>
+        </section>
+      )}
+
+      {speeches.length > 0 && (
+        <section className="bg-white rounded-2xl border border-outline-variant/30 p-6 mb-gutter">
+          <div className="flex items-center gap-2 mb-1">
+            <h2 className="font-headline-md text-headline-md">In the chamber</h2>
+            <span className="inline-flex items-center gap-1 bg-white/70 border border-outline-variant/40 text-on-surface-variant px-3 py-1 rounded-full text-label-sm font-label-bold">
+              <Icon name="translate" className="text-[14px]" /> From the official minutes, AI-translated
+            </span>
+          </div>
+          <p className="text-sm text-on-surface-variant mb-4">Sittings where the minutes record this member speaking, with Claude's one-line reading of each contribution.</p>
+          <ul className="divide-y divide-outline-variant/40">
+            {speeches.slice(0, 12).map(({ sitting, turns, positions }) => (
+              <li key={sitting.id} className="py-3">
+                <Link to={`/sittings/${sitting.id}`} className="flex items-center justify-between gap-3">
+                  <span className="font-label-bold text-on-surface hover:text-primary truncate">{sitting.title}</span>
+                  <span className="text-label-sm text-outline shrink-0">{formatDate(sitting.date)} · {turns} turn{turns === 1 ? '' : 's'}</span>
+                </Link>
+                {positions.length > 0 && <p className="text-sm text-on-surface-variant mt-1">{positions[0]}</p>}
+              </li>
+            ))}
+          </ul>
+          {speeches.length > 12 && <p className="text-label-sm text-outline mt-3">Showing the 12 most recent of {speeches.length} sittings.</p>}
         </section>
       )}
 

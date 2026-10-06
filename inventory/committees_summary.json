@@ -1,0 +1,59 @@
+{
+  "committees": 39,
+  "documents": 74,
+  "bytes": 7510645,
+  "documents_by_label": {
+    "general purpose committee's attendance report till august 2026 (20th majlis)": 2,
+    "petition committee's attendance report up to 31st august 2026 (20th majlis)": 2,
+    "attendance report of committee on member’s privileges and ethics till 31st august 2026 (20th majlis)": 2,
+    "committee on secondary legislation's attendance report till august 2026 (20th majlis)": 2,
+    "committee on economic affairs' attendance report up to 30th september 2026 (20th majlis)": 2,
+    "committee on social affairs' attendance report up to july 2026 (20th majlis)": 2,
+    "committee on national security services attendance report - up to 31 july 2026": 2,
+    "committee on independent institutions attendance report up to august 2026 (20th majlis)": 2,
+    "government oversight committee's attendance report up to 31st august 2026 (20th majlis)": 2,
+    "committee on national development and heritage attendance report - up to august 2026": 2,
+    "foreign relations committee's attendance report up to 31st august 2026 (20th majlis)": 2,
+    "committee on decentralization's attendance report up to august 2026 (20th majlis)": 2,
+    "judiciary committee attendance report up to august 2026 (20th majlis)": 2,
+    "attendance report of the committee on environment and climate change up to august 2026 (20th majlis)": 2,
+    "human rights and gender committee's attendance report till august 2026 (20th majlis)": 2,
+    "committee on state owned enterprises and it's sub-committee's attendance report till september 2026 (20th majlis)": 2,
+    "information and communication technology committee's attendance report up to august 2026 (20th majlis)": 2,
+    "foreign relations committee's sub committee 1 attendance report up to august 2024": 2,
+    "attendance report of sub-committee 1 of public accounts committee till 31st august 2026 (20th majlis)": 2,
+    "attendance report of sub-committee 4 of state owned enterprises committee till september 2026 (20th majlis)": 2,
+    "attendance report of sub-committee 6 of state owned enterprises committee till september 2026 (20th majlis)": 2,
+    "attendance report of sub-committee 7 of state owned enterprises committee till september 2026 (20th majlis)": 2,
+    "attendance report of the housing committee until august 2026 (20th majlis)": 2,
+    "attendance report of sub-committee 1 of state owned enterprises committee till september 2026 (20th majlis)": 2,
+    "attendance report of sub-committee 5 of state owned enterprises committee till september 2026 (20th majlis)": 2,
+    "attendance report of sub-committee 8 of state owned enterprises committee till september 2026 (20th majlis)": 2,
+    "attendance report of sub-committee 2 of state owned enterprises committee till september 2026 (20th majlis)": 2,
+    "attendance report of budget committee for 2024 and 2025": 2,
+    "attendance report of joint committee of public accounts committee and committee on economic affairs": 2,
+    "attendance report of sub-committee 2 of public accounts committee (20th majlis)": 2,
+    "20th ad hoc committee on tobacco control act (law no.15/2010) amendment bill's attendance report": 2,
+    "committee on national development and heritage sub committee 1 - attendance report up to october 2025": 2,
+    "attendance report of sub-committee 3 of public accounts committee (20th majlis)": 2,
+    "ad hoc committee to review the bill to amend act no. 10/2010 (local council elections act) and the bill to amend act no. 7/2010 (decentralization act)’s attendance report (20th majlis)": 2,
+    "attendance report of public accounts committee and sub-committees till 31st august 2026 (20th majlis)": 1,
+    "attendance report of public accounts committee and sub-committees till 31st august2026 (20th majlis)": 1,
+    "attendance of committee of the whole house 2024": 1,
+    "attendance of committee of the whole house 2025": 1,
+    "attendance report of sub-committee 3 of state owned enterprises committee till september 2026 (20th majlis": 1,
+    "attendance report of sub-committee 3 of state owned enterprises committee till september 2026 (20th majlis)": 1
+  },
+  "meetings_total": 0,
+  "works_total": 0,
+  "committees_with_zero_docs": [
+    {
+      "id": "140",
+      "name": "Joint Committee of Committee on National Development And Heritage and Committee on Decentralization"
+    },
+    {
+      "id": "151",
+      "name": "Joint Committee of Committee on National Development And Heritage and Committee on Social Affairs."
+    }
+  ]
+}

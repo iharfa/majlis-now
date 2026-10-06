@@ -1,0 +1,378 @@
+{
+ "sittingId": "1051",
+ "date": "2026-07-13",
+ "title": "13th Sitting of Second session of 2026",
+ "presiding": "Deputy Speaker Ahmed Saleem, later Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 41,
+  "onLeave": 9,
+  "officialTravel": 2
+ },
+ "summary": "The 13th sitting of the second session of 2026 opened with 41 members present, and the chair announced the time of an Economic Committee meeting on the President's nomination of a Commissioner General of Taxation. Most of this part was question time with the Minister of Infrastructure, Housing and Urban Development, Dr. Abdulla Muthalib, who answered three tabled questions and then fielded constituency questions from about 28 MPs on harbours, roads, airports, housing units and water and sewerage. The minister said the government is continuing projects signed under the previous one, blamed delays on contractor finance, dredger and stone supply, and often said he had no exact dates; the Speaker took over the chair partway through. No votes were held in this part, and the text is partly garbled so some gists are approximate. The sitting finished question time with the Minister of Infrastructure, Housing and Urban Development, who answered members on island road works, housing units and project costs, then broke from 11:07 to 11:31. After the break the President's nomination of an ambassador for Bahrain was sent to the Foreign Relations Committee, and the Majlis began the preliminary debate on a motion about dismissals of staff at state companies. The motion's mover and several members spoke, including a point of order, but the debate was not finished before the midday break and the sitting was adjourned to Tuesday 14 July 2026. Some lines of the text are garbled, so details of arguments are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "41 present, 9 on leave and 2 on official travel announced"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda (agenda no. 2026/2/13)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Chair announcement under rule 174: committee sitting time",
+   "outcome": "Economic Committee to meet on 14 July 2026 on the President's nomination of a Commissioner General of Taxation under the Tax Administration Act (Law 3/2010)"
+  },
+  {
+   "n": "5.1",
+   "title": "Question by Ahmed Shakir (Maavashu) to the Minister of Infrastructure, Housing and Urban Development on the Hithadhoo-Kunahandhoo causeway, followed by questions from other MPs on projects in their constituencies",
+   "outcome": "minister answered orally; says work began 20 Oct 2025 and he aims for completion around mid-2028; many follow-ups, most answered in general terms"
+  },
+  {
+   "n": "5.2",
+   "title": "Question by Mauroof Zakir (Kendhoo) to the minister on stalled water and sewerage works in Fehendhoo and Fulhadhoo",
+   "outcome": "minister answered: contract with the original company was ended and handed to MWSC, work restarted Aug 2025, no completion date given; follow-up round held"
+  },
+  {
+   "n": "5.3",
+   "title": "Question by Ahmed Shakir (Maavashu) to the minister on the Hithadhoo and Kunahandhoo water and sewerage project",
+   "outcome": "minister answered: contractor-finance deal signed 1 Apr 2026, target completion by end of 2027; follow-up round under way when this part ends"
+  },
+  {
+   "n": "(cont.)",
+   "title": "Question time with the Minister of Infrastructure, Housing and Urban Development",
+   "outcome": "questions answered on road works, housing units and project costs; recess 11:07-11:31"
+  },
+  {
+   "n": "6.1",
+   "title": "President's nomination of Ahmed Sareer, Ambassador to Saudi Arabia, as non-resident Ambassador to Bahrain",
+   "outcome": "referred to the Foreign Relations Committee for review"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on the motion by the Kendhoo member on political dismissals of staff at state-owned companies",
+   "outcome": "debate started and not finished; time ran out at the midday break"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Abdulla Muthalib",
+   "constituency": "",
+   "turns": 41,
+   "positions": [
+    "As Minister of Infrastructure, Housing and Urban Development, said projects signed under the previous government are being continued, with delays blamed on contractor finance and dredger availability.",
+    "Said stone supply is easing from this month, he lacked exact dates for most local projects, and terminated contracts are being re-awarded or handed to MWSC.",
+    "Warned that people paying money for flats or plots will not get them, and said water and sewerage is a basic service not run for profit."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 4,
+   "positions": [
+    "Asked when the Hithadhoo causeway work would start and finish, and whether the finance ministry was withholding money for it.",
+    "Asked whether a financial feasibility study and policy exist behind a second Laamu atoll airport at Isdhoo-Kalaidhoo.",
+    "Asked which ministry or party is responsible for the Hithadhoo water and sewerage delay after a ministry letter cited missing contractor documents and payment."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 4,
+   "positions": [
+    "Asked when the Kendhoo harbour, Dhonfan harbour pier problem and uneven roads will be fixed.",
+    "Asked for dates to finish water and sewerage in Fehendhoo and Fulhadhoo, which residents say are about 60 percent complete.",
+    "Said stalled water and sewerage in his islands worries residents, asked for completion dates, and doubted the scheme if charges are high.",
+    "Moved a motion seeking members' views on staff dismissed from state companies, which he said is politically driven under a staff-reduction plan."
+   ]
+  },
+  {
+   "name": "Abdulla Muttalib",
+   "constituency": "",
+   "turns": 4,
+   "positions": [
+    "Said road works stalled over contractor payments, resumed after payment, and the remaining work is being pushed to finish soon.",
+    "On Thulhaadhoo housing, said an earlier selection was halted by a court order, was cancelled, and applications are now in with the council involved.",
+    "Said he lacked the requested project cost figures, and that earlier projects continue alongside the government's own agenda."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 3,
+   "positions": [
+    "Asked about the status of the planned Fuvahmulah City housing project and why road works there are delayed.",
+    "Asked what the government is doing about flooding in Malé and when road works on it will start.",
+    "Asked why the Fuvahmulah harbour work is not moving fast and what is being done to speed it up."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Asked the total value of projects started and finished when the MDP government left, and the cost and number of ongoing projects, including airports.",
+    "In the debate, said a Finance Ministry circular to the PCB on cutting 33 percent of staff shows the motion has a basis.",
+    "Cited 13,000 job cuts reportedly stated by the Finance Minister, and said state company staff rose to about 39,600 by Q3 2025."
+   ]
+  },
+  {
+   "name": "Mohamed Niushad",
+   "constituency": "Keyodhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when the Keyodhoo land reclamation and housing work will start, and whether moving Rakeedhoo residents is proceeding.",
+    "Asked how many islands the government has newly started, finished and not yet started for water and sewerage."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 2,
+   "positions": [
+    "Asked when Thoddoo harbour and coastal work, the Thoddoo road, and Rasdhoo harbour will be finished.",
+    "Asked when Ukulhas western shore protection starts, when the 50 Rasdhoo housing units finish, and when the Ukulhas road is done."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Asked for an update on the promised two international airports in Huvadhoo and on dhoni owners' complaints about the Boduthakurufaanu road widening.",
+    "Said Gulhifalhu plot handovers are slow, asked about flat scheme applicant numbers, and doubted that widening Malé roads will ease vehicle congestion."
+   ]
+  },
+  {
+   "name": "Ahmed Xamyr",
+   "constituency": "Central Mahchangolhi",
+   "turns": 2,
+   "positions": [
+    "Asked how housing categories treat people born in Malé who now live elsewhere.",
+    "Asked why the government is reclaiming plots given out under the previous government against the rules, how much work is done, and the cost."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked what is holding up the Thulhaadhoo airport reclamation, when it will finish, and the status of handing self-reclaimed land to its owners.",
+    "Asked when the 100 completed housing units in Thulhaadhoo will be handed over to their rightful owners."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked why Kurinbee harbour and water and sewerage, the Neyyalaidhoo mosque and the Vaikaradhoo skate park are stalled.",
+    "Repeated the Kurinbee question, citing environmental damage from the halted harbour work, and asked about Neelaidhoo's finished but undelivered sewerage."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when large projects handed to companies linked to the previous government, such as Maaenboodhoo water, will be completed.",
+    "Asked when water, sewerage and power will reach the Kudahuvadhoo reclaimed land where around 173 housing units are planned."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Asked for a breakwater at Feydhoo harbour, and whether the state has money to fund the previous government's many projects.",
+    "Opposed the motion, saying it names no one wrongly dismissed and contains claims he called false.",
+    "Said the President promised no unfair dismissals and, in his view, none have happened in about two and a half years.",
+    "Argued that under the previous MDP government people were hired into state companies against the rules."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the Hithadhoo link road was handed to RDC last year with no progress, and asked when work will begin given the machinery shortage."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what the government is doing with the Hithadhoo harbour, power and road works started by the previous government."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the government is taking legal action over a housing project at Manadhoo handed to a company that took an advance and did no work."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what is being done to speed up the Makunudhoo airport and when Neykurendhoo harbour and water and sewerage will be completed."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Asked when reclamation of Kelaa harbour, Filladhoo harbour and the Vashafaru land will begin."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Thanked the minister for restarting Rathafandhoo water and sewerage and asked how far the Fiyoari-Faresmaathodaa road has progressed."
+   ]
+  },
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 1,
+   "positions": [
+    "Asked how far the Madaveli harbour work has progressed, and when Madaveli and Nadellaa water and sewerage will be finished."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when Kondey water and sewerage will finish, about stalled Nilandhoo works, and when a bridge to Dhaandhoo's reclaimed land might begin."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Raised the damaged Hanimaadhoo harbour, stalled Naivaadhoo and Finey harbours, missing Naivaadhoo sewerage and delayed Hirimaradhoo flats, and asked for a way forward."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked about plans and start date for the 100 housing units promised to Thimarafushi during the President's atoll visit."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked how many islands' water and sewerage the previous government finished, how many are underway, and how many will still lack it by 2028."
+   ]
+  },
+  {
+   "name": "Abdulla Sodig",
+   "constituency": "North Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when Addu water supply problems will be fixed and when the stalled Hithadhoo Eda housing units will resume and be handed over."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Asked whether the 400-unit housing work will meet its timeline after Rainbow Construction took over, and how far the 1,000-unit design has progressed."
+   ]
+  },
+  {
+   "name": "Hussain Imran Latheef",
+   "constituency": "South Henveyru",
+   "turns": 1,
+   "positions": [
+    "Asked what assurance the government can give that flat and plot applications, including expired or forged ones, will not be exploited through corruption."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Asked when Noomaraa and Bileiythafahi water and sewerage works will really start and finish, and when Bileiythafahi airport will be done."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Welcomed Malé road widening and asked when harbour-side road works in her area will begin and how much priority they get."
+   ]
+  },
+  {
+   "name": "Ibrahim Shifaz",
+   "constituency": "Ungoofaaru",
+   "turns": 1,
+   "positions": [
+    "Began his turn as this part ends, remarking that many MPs have questions; his question continues in part 2."
+   ]
+  },
+  {
+   "name": "Hassan Waheed",
+   "constituency": "Vilifushi",
+   "turns": 1,
+   "positions": [
+    "Asked for an update on a causeway project near Madifushi.",
+    "Asked when work on planned housing units in Madifushi, Vilifushi and Buruni will start and when 150 built units will be handed out."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Opposed the motion as based on falsehoods, saying Employment Tribunal figures show most dismissal cases were filed under MDP governments.",
+    "Gave local examples of people he said were dismissed or suspended under MDP governments and challenged the mover to name cases since this government took office.",
+    "Said companies are being right-sized with packages offered, and staff are free to join any party's activities without fear for their jobs."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that no senior government figure has said 13,000 people are being dismissed."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Economic Committee will meet on 14 July 2026 on the President's nomination of a Commissioner General of Taxation.",
+  "The chair said the sitting started late, so questions to the minister would continue until finished and the break would move later.",
+  "The chair told members that pointing a finger at the minister while speaking is improper and said he saw no genuine point of order during the questions.",
+  "The President's nomination of Ahmed Sareer as non-resident Ambassador to the Kingdom of Bahrain was referred to the Foreign Relations Committee.",
+  "The preliminary debate on the motion about dismissals at state companies was left unfinished at the midday break.",
+  "The sitting was adjourned to Tuesday 14 July 2026 at 9:00."
+ ],
+ "votes": [],
+ "pagesTotal": 68,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

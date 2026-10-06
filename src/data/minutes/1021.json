@@ -1,0 +1,292 @@
+{
+ "sittingId": "1021",
+ "date": "2026-04-15",
+ "title": "8th Sitting of First session of 2026",
+ "presiding": "Deputy Speaker Ahmed Nazim (Dhiggaru), as named in the minutes",
+ "attendance": {
+  "present": null,
+  "onLeave": 4,
+  "officialTravel": 10
+ },
+ "summary": "The sitting opened with the chair noting that the President had reshuffled ministries on 14 April, and that questions to ministers whose portfolio name changed would still go ahead on the Attorney General's advice. Members then put questions to the Minister of Infrastructure, Housing and Urban Development, mostly on land reclamation at Giraavaru and Gulhifalhu, plot registration and delayed island projects; the minister said he lacked exact data on several projects and would follow up. The Majlis then began debating a resolution from the North Galolhu member asking members' views on government spending said to breach the Constitution, finance and pension laws and the 2026 budget, with MDP and PNC members taking opposing sides. After a recess the chair moved to the National Service Bill, which was debated until this part ends. The text is garbled in places, and the number of members present could not be read reliably. This part opens with the end of the debate on the National Service Bill, which the chair closed because the sponsor was not in the chamber, and then the debate on a North Galolhu bill to amend the Land Transport Act over compulsory vehicle insurance after road accidents. The House heard two foreign affairs committee reports recommending approval of non-resident ambassadors to Argentina and Bosnia and Herzegovina. Four votes followed: the National Service Bill was accepted for consideration 50-0 and sent to committee, the Land Transport Act amendment was not accepted (10-46), and both ambassador appointments were approved. The chair adjourned until 9:00 on Monday 20 April 2026. The presiding member is not named in this part of the text.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers",
+   "outcome": "Sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "4 on leave, 10 on official travel; present count unreadable (text shows 26, which does not fit the other figures)"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Chair's announcement on ministry changes and questions to ministers",
+   "outcome": "Questions to proceed on the Attorney General's advice"
+  },
+  {
+   "n": "5.1",
+   "title": "Questions to the Minister of Infrastructure, Housing and Urban Development (first question by the North Galolhu member on Giraavaru reclamation and plots)",
+   "outcome": "Answered; 17 other members put follow-up questions, some left for a later answer"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate on a resolution on government spending against the Constitution, finance laws and the 2026 budget (moved by the North Galolhu member)",
+   "outcome": "Debated; paused at the 10:31 recess, no vote in this part"
+  },
+  {
+   "n": "7.1",
+   "title": "National Service Bill (government bill, sponsored by the South Kulhudhuffushi member), continued debate",
+   "outcome": "Debate under way; continues into the next part",
+   "workId": "1836"
+  },
+  {
+   "n": "7.1",
+   "title": "National Service Bill (debate concluded; sponsor South Kulhudhuffushi)",
+   "outcome": "debate closed with sponsor absent; accepted for consideration 50-0, sent to the Safety Services committee"
+  },
+  {
+   "n": "7.2",
+   "title": "Bill to amend the Land Transport Act (Law 2009/5) on vehicle insurance after accidents (sponsor: North Galolhu)",
+   "outcome": "debated; not accepted 10-46"
+  },
+  {
+   "n": "8.1",
+   "title": "Foreign Relations Committee report on appointing Dr. Ali Naseer Mohamed as non-resident ambassador to Argentina",
+   "outcome": "report presented; debate closed with no speakers; approved 55-0"
+  },
+  {
+   "n": "8.2",
+   "title": "Foreign Relations Committee report on appointing the Maldives ambassador in Germany as non-resident ambassador to Bosnia and Herzegovina",
+   "outcome": "report presented; debate closed with no speakers; approved 54-0"
+  },
+  {
+   "n": "9",
+   "title": "Voting on matters ready for a vote",
+   "outcome": "four votes: one bill sent to committee, one bill not accepted, two ambassador appointments approved"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Abdulla Muttalib",
+   "constituency": "",
+   "turns": 20,
+   "positions": [
+    "Said about 98 of 169 hectares at Giraavaru are reclaimed; the rest is expected by 31 May, then surveying, registration and plot handover.",
+    "Said some Giraavaru plots were moved to Gulhifalhu; roads, power, water and sewerage there are estimated at about 400 million dollars, with financing pending.",
+    "Said he lacked exact data on several projects and would reply later; defended the registration approach as the way to give residents title deeds."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 3,
+   "positions": [
+    "Asked how far Giraavaru reclamation had got, when plots and registration would be handed over, and whether plots would be moved elsewhere.",
+    "Asked why flat agreements stopped islanders registering and why flat prices were raised after the previous government fixed them.",
+    "Moved a resolution asking members' views on government spending said to breach the Constitution, finance, pension and fiscal responsibility laws and the 2026 budget."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 3,
+   "positions": [
+    "Asked whether any country registers plots on land reclaimed from the sea, given plots handed out under the earlier MDP government.",
+    "Said the resolution mover never voted for the budget, and argued the previous MDP government also spent outside budgets and broke finance rules.",
+    "Said PNC would not support the resolution; argued the Judicial Service Commission was not reformed under MDP and anti-corruption bodies are funded in the budget."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 3,
+   "positions": [
+    "Asked about stone shortages at the Foddhoo harbour, the Velidhoo harbour petition and the unfinished Lhohi sewerage work.",
+    "Said he fully backed the resolution and that the Constitution makes holding the executive to account the Majlis's duty.",
+    "Said projects in his area handed to RDC and others had barely progressed in three years, and asked that heads of state companies be removed."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Asked for start and end dates and costs of the Gulhifalhu roads, water and sewerage contract with a Chinese firm, and whether plots were given on earlier reclamations.",
+    "Cited 2025 budget lines for health, education, housing and water that he said were spent elsewhere or outside the budget, and argued this breaches Article 96.",
+    "Said road crashes are not a small issue, citing registered vehicles, deaths and injuries, and argued the amendment is meant to protect victims; urged the PNC government to act more responsibly."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 3,
+   "positions": [
+    "Asked when Fuvahmulah City housing starts, how the harbour expansion is going, and how the large sukuk repayment affects government projects.",
+    "Presented the committee report on the ambassador to Argentina: members at the 13 April 2026 meeting agreed unanimously to recommend approval.",
+    "Presented the committee report on the ambassador to Bosnia and Herzegovina, with the same unanimous recommendation."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 2,
+   "positions": [
+    "Asked how plots on land reclaimed from the sea can practically be handled and how much has been spent on the reclamation.",
+    "Supported the National Service Bill as a way to train young people for national service and keep the programme going across governments."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether the government would act against those who gave plots in breach of the law, what the plots now cost, and how deep the sea is at the site.",
+    "Called the resolution baseless, said Addu City projects continue within the budget, and questioned the previous MDP government's own record on finance law."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when work starts on Vaikaradhoo harbour repairs, the Kurinbee housing unit and island road upgrades, and whether they proceed where councils lack a government majority."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Asked what assurance the government can give people registered in the Malé registry (daftar) about their housing rights."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked how far the Vaimendhoo-Kinbidhoo causeway project has got, and about the housing units pledged for Thimarafushi."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether plots given earlier from Giraavaru will be reclaimed and given plot numbers and registration for residents."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why the Addu link road promised in 2024 has not started and when visible work will begin."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what stage the Giraavaru work was at when the government took over from MFM and how far it has now got."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what is being done to speed up the Makunudhoo airport project and the delayed Kumundhoo harbour work."
+   ]
+  },
+  {
+   "name": "Faruhath Mohamed",
+   "constituency": "South Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Asked when practical work on phase 3 of Kulhudhuffushi city's road building will start."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether reclamation projects are being dropped over lagoon size, and when the Maaenboodhoo reclamation will start."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Asked for a cost figure for basic services on reclaimed Gulhifalhu land and for updates on the Kunahandhoo causeway and water and sewerage."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why the Addu Meedhoo reclamation and shore protection, begun in April 2024, shows no visible progress after two years."
+   ]
+  },
+  {
+   "name": "Ahmed Zahir",
+   "constituency": "Maduvvari",
+   "turns": 1,
+   "positions": [
+    "Did not support the amendment; said the law already lets people choose insurance, questioned forcing a compulsory MVR 2,000 policy, and asked the sponsor to withdraw the bill."
+   ]
+  }
+ ],
+ "decisions": [
+  "Chair allowed questions to ministers to proceed despite ministry restructuring, on the Attorney General's advice.",
+  "Minister said he would provide missing details on the Makunudhoo airport, Kumundhoo harbour and Addu Meedhoo reclamation questions later.",
+  "Debate on the spending resolution was paused for the 10:31 to 11:00 recess and the agenda moved on to item 7.",
+  "National Service Bill accepted for consideration 50-0 and sent to the Safety Services committee.",
+  "Land Transport Act (2009/5) amendment bill not accepted, 10 for and 46 against.",
+  "Dr. Ali Naseer Mohamed approved as non-resident ambassador to Argentina, 55-0.",
+  "Ambassador to Germany approved to serve as non-resident ambassador to Bosnia and Herzegovina, 54-0.",
+  "Next sitting set for 9:00 on Monday 20 April 2026."
+ ],
+ "votes": [
+  {
+   "what": "Accept the National Service Bill for consideration (sponsor South Kulhudhuffushi)",
+   "yes": 50,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accept for consideration the bill to amend the Land Transport Act (North Galolhu)",
+   "yes": 10,
+   "no": 46,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Dr. Ali Naseer Mohamed as non-resident ambassador to Argentina",
+   "yes": 55,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint the ambassador in Germany as non-resident ambassador to Bosnia and Herzegovina",
+   "yes": 54,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 70,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

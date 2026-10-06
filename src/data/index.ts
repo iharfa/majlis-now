@@ -59,6 +59,26 @@ export function votesByMP(mpId: string): Array<{ vote: Vote; mpVote: MPVote }> {
   return out.sort((a, b) => b.vote.date.localeCompare(a.vote.date))
 }
 
+/** Sittings whose minutes record this MP speaking (newest first). */
+export function speechesByMP(mpId: string): Array<{ sitting: Sitting; turns: number; positions: string[] }> {
+  const out: Array<{ sitting: Sitting; turns: number; positions: string[] }> = []
+  for (const s of sittings) {
+    const sp = s.minutes?.speakers.find((x) => x.mpId === mpId)
+    if (sp) out.push({ sitting: s, turns: sp.turns, positions: sp.positions })
+  }
+  return out.sort((a, b) => b.sitting.date.localeCompare(a.sitting.date))
+}
+
+/** Committee attendance rows for an MP, from the published attendance sheets. "present" here = attended (present or on official duty). */
+export function committeeAttendanceForMP(mpId: string): Array<{ committee: Committee; present: number; eligible: number }> {
+  const out: Array<{ committee: Committee; present: number; eligible: number }> = []
+  for (const c of committees) {
+    const row = c.attendanceRecord?.members.find((m) => m.mpId === mpId)
+    if (row && row.eligible > 0) out.push({ committee: c, present: row.present + row.officialTravel, eligible: row.eligible })
+  }
+  return out
+}
+
 /** Attendance derived from roll calls: present = voted, abstained, or "Not Voted" (in the chamber). */
 export function attendanceForMP(mpId: string): { present: number; total: number } {
   const rows = votesByMP(mpId)
@@ -107,7 +127,7 @@ export function search(query: string): SearchHit[] {
       hits.push({ type: 'committee', id: c.id, title: c.name, subtitle: 'Committee' })
 
   for (const s of sittings)
-    if (`${s.title} ${s.agenda?.summary ?? ''} ${s.agenda?.items.map((i) => i.text).join(' ') ?? ''}`.toLowerCase().includes(q))
+    if (`${s.title} ${s.agenda?.summary ?? ''} ${s.minutes?.summary ?? ''} ${s.minutes?.decisions.join(' ') ?? ''}`.toLowerCase().includes(q))
       hits.push({ type: 'sitting', id: s.id, title: s.title, subtitle: `Sitting · ${s.date}` })
 
   for (const t of themes)

@@ -1,0 +1,233 @@
+{
+ "sittingId": "1047",
+ "date": "2026-07-06",
+ "title": "10th Sitting of Second session of 2026",
+ "presiding": "Ahmed Saleem (Deputy Speaker)",
+ "attendance": {
+  "present": 24,
+  "onLeave": 9,
+  "officialTravel": 5
+ },
+ "summary": "The sitting ran from 09:01 to 10:21. Thirteen members put questions to Minister Mohamed Saeed (Economic Development, Transport and Trade) on online services, RTL ferries, vehicle numbers, prices, the dollar and state debt, and the exchanges grew political. The President's letter on appointing a Commissioner General of Taxation went to the Economic Committee. Members then debated the Digital Identity Bill, and the house voted to accept it (52-0) and the Maldives 2.0 Digital Transformation Bill (49-0), sending both to the Information and Communication Technology Committee. The text is partly garbled, so the opening attendance counts carry some doubt.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayers",
+   "outcome": "sitting opened at 09:01"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "chair announced 24 present, 9 on leave, 5 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Approval of the minutes of sittings 2026/2/4 to 2026/2/6",
+   "outcome": "accepted by the chair as no amendments were submitted"
+  },
+  {
+   "n": "5",
+   "title": "Announcements from the chair",
+   "outcome": "none that day"
+  },
+  {
+   "n": "6.1",
+   "title": "Questions to the Minister of Economic Development, Transport and Trade, Mohamed Saeed",
+   "outcome": "13 members asked questions; ended when the allotted time ran out"
+  },
+  {
+   "n": "7.1",
+   "title": "President's letter on appointing a Commissioner General of Taxation (Tax Administration Act 3/2010, art. 8)",
+   "outcome": "referred to the Economic Committee"
+  },
+  {
+   "n": "8.1",
+   "title": "Maldives 2.0 Digital Transformation Bill (sponsored by the Gadhdhoo member, Mohamed Ali), continued debate",
+   "outcome": "no member asked to speak; accepted 49-0; sent to the Information and Communication Technology Committee"
+  },
+  {
+   "n": "8.2",
+   "title": "Digital Identity Bill (sponsored by the Alifushi member, Abdul Latheef Abdul Rahman), continued debate",
+   "outcome": "debated by seven members; accepted 52-0; sent to the Information and Communication Technology Committee"
+  },
+  {
+   "n": "9.1",
+   "title": "Votes on matters ready for decision",
+   "outcome": "both bills accepted for committee study"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Saeed",
+   "constituency": "",
+   "turns": 14,
+   "positions": [
+    "As minister, answered questions: online transport services are being rebuilt, RTL will reach all atolls by January 2027, and he blamed past MDP governments for debt and money printing."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Asked why transport ministry online services are unavailable outside office hours and when this will be fixed.",
+    "Asked what the Malé road widening does for atoll boats and sea travel."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether the government will act against state-linked firms withholding payments owed to small businesses.",
+    "Supported the Digital Identity Bill, saying it would give secure, easy access to banking, court and government services."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked about cancelled ferries, rising prices and when the dollar rate will ease.",
+    "Backed the Digital Identity Bill but said basic services such as ferries, health care and unpaid doctor tickets are still lacking."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Asked how many vehicles were registered in the Malé area from 2018 to 2023, saying carrying capacity was never set.",
+    "Backed the Digital Identity Bill, saying it protects personal data and could carry health records on one card."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether the dollar-rate promise made before the election was based on any study.",
+    "Generally backed the Digital Identity Bill but wants it overseen by an independent authority, not a minister."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Asked what the government did to ease the impact of the Gulf war on small businesses, especially guesthouses."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Asked whose influence let many vessels be registered irregularly under the 2018-2023 government, and whether this will be investigated."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the loss to the state from leasing one state company and selling shares in two others under the first MDP government has been estimated."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Asked when the RTL technical problem will be solved so people get service as planned."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about the economic effect of state debt passing 120 billion rufiyaa and of money printing under the previous government."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what is being done about reported domain sales and other offences in the transport ministry under the previous government."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Asked if state firms selling oranges and taking dollars from the market is a sound model, and what the plan on the dollar rate is."
+   ]
+  },
+  {
+   "name": "Ahmed Zahir",
+   "constituency": "Maduvvari",
+   "turns": 1,
+   "positions": [
+    "Asked the minister's view on registering vessels through e-Faas or video call instead of in person."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Said digital services must work for people, citing failed ferry and ticketing services in Baa Atoll."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the Digital Identity Bill, saying it gives legal backing to existing digital ID, aids services and should pass quickly."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, said digital ID helps records and services, and hoped the committee would improve it with technical experts."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of sittings 2026/2/4 to 2026/2/6 accepted with no amendments.",
+  "President's letter on appointing a Commissioner General of Taxation sent to the Economic Committee.",
+  "Maldives 2.0 Digital Transformation Bill accepted 49-0 and sent to the ICT Committee.",
+  "Digital Identity Bill accepted 52-0 and sent to the ICT Committee.",
+  "Next sitting set for Tuesday 7 July 2026 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the Maldives 2.0 Digital Transformation Bill",
+   "yes": 49,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accepting the Digital Identity Bill",
+   "yes": 52,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 43,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

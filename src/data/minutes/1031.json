@@ -1,0 +1,229 @@
+{
+ "sittingId": "1031",
+ "date": "2026-05-12",
+ "title": "18th Sitting of first session of 2026",
+ "presiding": "Ahmed Nazim (Deputy Speaker)",
+ "attendance": {
+  "present": 32,
+  "onLeave": 7,
+  "officialTravel": 3
+ },
+ "summary": "The sitting opened at 9:00 with a first reading of a government bill to amend the Decentralisation Act. Members then began first debate on two new government bills, the Cyber Security Bill and the Personal Data Protection Bill; speakers backed both and asked that experts be consulted at committee stage, and the chair paused both debates to move on. The third bill, amendments to the Decentralisation Act (moving Local Government Authority staff into the civil service and adding island waste management to council services), drew a sharper split between PNC and MDP members and was accepted 44-5 and sent to the Decentralisation Committee. The sitting closed at 11:20 after a recess from 10:31 to 11:02. This part of the minutes contains no readable agenda content. The text layer holds only the closing page footer (page 44, sitting 18, 12 May 2026) and three blank pages, so no debate, decisions or votes can be reported from it. See part 1 for the substance of the sitting.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayers",
+   "outcome": "sitting opened at 9:00"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "32 present, 7 on leave, 3 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Declaration of the day's agenda",
+   "outcome": "agenda declared"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair",
+   "outcome": "none"
+  },
+  {
+   "n": "5.1",
+   "title": "Bill to amend the Decentralisation Act (Act 7/2010), government bill: first reading",
+   "outcome": "first reading read"
+  },
+  {
+   "n": "6.1",
+   "title": "Cyber Security Bill, government bill: initial debate",
+   "outcome": "debated by 8 speaking turns; debate paused by the chair, no vote this sitting"
+  },
+  {
+   "n": "6.2",
+   "title": "Personal Data Protection Bill, government bill: initial debate",
+   "outcome": "debated by 7 speaking turns; debate paused by the chair, no vote this sitting"
+  },
+  {
+   "n": "6.3",
+   "title": "Bill to amend the Decentralisation Act (Act 7/2010): initial debate",
+   "outcome": "accepted 44-5; referred to the Decentralisation Committee"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the Cyber Security Bill, citing past website breaches and asking for expert input at committee stage.",
+    "Supported the Decentralisation Act amendment, saying it resolves long-standing concerns of many council staff."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the Cyber Security Bill, saying it follows international standards and defines critical information infrastructure.",
+    "Supported the Personal Data Protection Bill and asked for quick passage."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the amendment; replied to Vaikaradhoo's member, saying roughly 70-80 LGA staff would move to the civil service with better pay and security.",
+    "In a second turn, backed the amendment again and rebutted MDP criticism by citing council election results."
+   ]
+  },
+  {
+   "name": "Hussain Nasih",
+   "constituency": "Central Henveyru",
+   "turns": 1,
+   "positions": [
+    "Introduced the Cyber Security Bill: sets up a national cyber security agency, standards for critical infrastructure, and threat monitoring and incident response."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the Cyber Security Bill; noted services such as banking are largely online, and said a state agency should guarantee security standards."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the Cyber Security Bill; said the new agency will need trained staff and enough resources, as existing institutions are held back by lack of resources."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the Cyber Security Bill as important for national security and critical infrastructure, in line with laws in other countries."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Supported the Cyber Security Bill; reviewed the history of cybercrime laws abroad and said the Maldives needs one to protect businesses and citizens."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the Cyber Security Bill, noting its 72 articles, a five-member board and an independent agency, and urged committee consultation with experts."
+   ]
+  },
+  {
+   "name": "Ali Ibrahim",
+   "constituency": "West Henveyru",
+   "turns": 1,
+   "positions": [
+    "Introduced the Personal Data Protection Bill: rules for collecting and using personal data, people's rights over their data, and a Privacy Commissioner, based on Article 24 of the Constitution."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the Personal Data Protection Bill, linking it to the constitutional right to private life, and said committee stage should refine it."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the Personal Data Protection Bill alongside the cyber bill, and said such laws must not curb constitutional freedoms like expression and journalism."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the Personal Data Protection Bill, citing public worry over misuse of personal data and welcoming the Privacy Commissioner and complaints process."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the Personal Data Protection Bill, describing blackmail and commercial misuse of personal data, and called for penalties under the law."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the Personal Data Protection Bill, saying legal protection for personal information and dignity has been missing since the 2008 Constitution."
+   ]
+  },
+  {
+   "name": "Hamad Abdulla",
+   "constituency": "North Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Introduced the Decentralisation Act amendment: Local Government Authority staff become civil servants, and waste management is added to council services."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Supported the Decentralisation Act amendment, saying it protects council staff; also spoke on local tourism revenue and waste management costs for councils."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the amendment as a step backward; said staff had petitioned, consultation was lacking, and the amendment came soon after council elections."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Criticised the amendment and the government's handling of decentralisation; said the 2010 decentralisation law gave islands like Thoddoo revenue through local tourism."
+   ]
+  }
+ ],
+ "decisions": [
+  "Bill to amend the Decentralisation Act (Act 7/2010) accepted in initial debate and referred to the Decentralisation Committee.",
+  "Debates on the Cyber Security Bill and the Personal Data Protection Bill were paused by the chair without a vote.",
+  "Sitting closed at 11:20; next sitting set for Wednesday 13 May 2026 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the bill to amend the Decentralisation Act (Act 7/2010) in initial debate (50 present, 49 voting, 25 needed)",
+   "yes": 44,
+   "no": 5,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 47,
+ "parts": 2,
+ "confidence": "Low",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}
