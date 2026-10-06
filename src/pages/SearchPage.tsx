@@ -10,8 +10,8 @@ const TABS = [
   { key: 'bill', label: 'Bills' },
   { key: 'mp', label: 'MPs' },
   { key: 'vote', label: 'Votes' },
-  { key: 'issue', label: 'Issues' },
   { key: 'committee', label: 'Committees' },
+  { key: 'sitting', label: 'Sittings' },
 ] as const
 
 const TYPE_META: Record<SearchHit['type'], { icon: string; path: (id: string) => string }> = {
@@ -19,7 +19,7 @@ const TYPE_META: Record<SearchHit['type'], { icon: string; path: (id: string) =>
   vote: { icon: 'how_to_vote', path: (id) => `/votes/${id}` },
   mp: { icon: 'person', path: (id) => `/mps/${id}` },
   committee: { icon: 'groups', path: (id) => `/committees/${id}` },
-  issue: { icon: 'topic', path: (id) => `/issues/${id}` },
+  sitting: { icon: 'event', path: (id) => `/sittings/${id}` },
   theme: { icon: 'category', path: (id) => `/issues/theme/${id}` },
 }
 
@@ -45,7 +45,8 @@ export function SearchPage() {
           autoFocus
           value={q}
           onChange={(e) => setQ(e.target.value)}
-          placeholder="Search bills, MPs, votes, committees, issues…"
+          placeholder="Search bills, MPs, votes, committees, sittings…"
+          aria-label="Search Majlis Now"
           className="w-full bg-white border border-outline-variant rounded-full pl-12 pr-4 py-4 text-body-lg focus:ring-2 focus:ring-primary outline-none"
         />
         <Icon name="search" className="absolute left-4 top-4 text-on-surface-variant text-2xl" />
@@ -69,7 +70,7 @@ export function SearchPage() {
         })}
       </div>
 
-      {!q && <p className="text-on-surface-variant py-10 text-center">Start typing to search MPs, votes, committees and themes.</p>}
+      {!q && <p className="text-on-surface-variant py-10 text-center">Start typing to search bills, MPs, votes, committees, sittings and themes.</p>}
 
       {q && filtered.length === 0 && (
         <p className="text-on-surface-variant py-10 text-center">No results for “{q}”.</p>

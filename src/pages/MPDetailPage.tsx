@@ -1,26 +1,26 @@
-import { useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { Container } from '@/components/ui/Container'
 import { Avatar } from '@/components/ui/Avatar'
 import { Icon } from '@/components/ui/Icon'
 import { DataMeta } from '@/components/ui/DataMeta'
 import { PartyTag } from '@/components/ui/PartyTag'
+import { StatusPill } from '@/components/ui/StatusPill'
 import { NotFoundPage } from './NotFoundPage'
-import { mpById, partyById, constituencyById, votesByMP, committeesForMP } from '@/data'
+import { mpById, partyById, constituencyById, votesByMP, committeesForMP, attendanceForMP, billsSponsoredBy } from '@/data'
 import { cn } from '@/utils/cn'
-import { formatDate } from '@/utils/format'
+import { formatDate, pct } from '@/utils/format'
 
 export function MPDetailPage() {
   const { id } = useParams()
   const mp = id ? mpById(id) : undefined
-  const [following, setFollowing] = useState(false)
   if (!mp) return <NotFoundPage />
 
   const party = partyById(mp.partyId)
   const constituency = constituencyById(mp.constituencyId)
-  // Only real, sourced roll-call votes are shown for a named member.
-  const recordedVotes = votesByMP(mp.id).filter(({ vote }) => vote.provenance === 'official-rollcall')
-  // Real committee memberships (chair/vice first).
+  const recordedVotes = votesByMP(mp.id)
+  const attendance = attendanceForMP(mp.id)
+  const sponsored = billsSponsoredBy(mp.id)
+  const isSpeaker = mp.leadershipRole === 'Speaker'
   const committeeRoles = committeesForMP(mp.id).sort((a, b) => {
     const rank = { Chair: 0, 'Vice Chair': 1, Member: 2 } as const
     return rank[a.role] - rank[b.role] || a.committee.name.localeCompare(b.committee.name)
@@ -28,23 +28,10 @@ export function MPDetailPage() {
 
   return (
     <Container className="py-8">
-      {/* Hero */}
       <section className="grid grid-cols-1 md:grid-cols-12 gap-gutter mb-section-gap">
         <div className="md:col-span-4">
           <div className="aspect-[4/5] rounded-2xl overflow-hidden border-4 border-white shadow-lg bg-surface-dim flex items-center justify-center">
-            {mp.photoUrl ? (
-              <img
-                src={mp.photoUrl}
-                alt={mp.name}
-                loading="lazy"
-                className="w-full h-full object-cover"
-                onError={(e) => {
-                  ;(e.currentTarget as HTMLImageElement).style.display = 'none'
-                }}
-              />
-            ) : (
-              <Avatar mp={mp} size="lg" className="!w-28 !h-28 !text-4xl" />
-            )}
+            <Avatar mp={mp} size="lg" className="!w-full !h-full !rounded-none !text-6xl" />
           </div>
         </div>
         <div className="md:col-span-8 flex flex-col justify-center gap-stack-gap py-2">
@@ -64,20 +51,9 @@ export function MPDetailPage() {
             {constituency?.name} constituency · {constituency?.atoll} · {party?.name}
           </p>
           <div className="flex flex-wrap gap-3 mt-2">
-            <button
-              onClick={() => setFollowing((t) => !t)}
-              className={
-                following
-                  ? 'px-6 py-3 rounded-xl font-label-bold flex items-center gap-2 bg-secondary text-on-secondary'
-                  : 'px-6 py-3 rounded-xl font-label-bold flex items-center gap-2 bg-primary text-white hover:brightness-110 transition-all'
-              }
-            >
-              <Icon name={following ? 'check_circle' : 'notifications_active'} />
-              {following ? 'Following' : 'Follow this MP'}
-            </button>
             <Link
               to={`/compare?a=${mp.id}`}
-              className="border-2 border-primary text-primary px-6 py-3 rounded-xl font-label-bold flex items-center gap-2 hover:bg-primary-fixed transition-colors"
+              className="bg-primary text-white px-6 py-3 rounded-xl font-label-bold flex items-center gap-2 hover:brightness-110 transition-all"
             >
               <Icon name="compare_arrows" /> Compare
             </Link>
@@ -86,7 +62,7 @@ export function MPDetailPage() {
                 href={mp.profileUrl}
                 target="_blank"
                 rel="noreferrer noopener"
-                className="px-6 py-3 rounded-xl font-label-bold flex items-center gap-2 text-on-surface-variant hover:text-primary transition-colors"
+                className="border-2 border-primary text-primary px-6 py-3 rounded-xl font-label-bold flex items-center gap-2 hover:bg-primary-fixed transition-colors"
               >
                 <Icon name="open_in_new" /> Official profile
               </a>
@@ -95,14 +71,17 @@ export function MPDetailPage() {
         </div>
       </section>
 
-      {/* Verified facts */}
-      <section className="grid grid-cols-1 md:grid-cols-3 gap-gutter mb-gutter">
+      <section className="grid grid-cols-2 md:grid-cols-4 gap-gutter mb-gutter">
         <Fact icon="how_to_reg" label="Constituency" value={constituency?.name ?? '—'} />
         <Fact icon="map" label="Atoll / city" value={constituency?.atoll ?? '—'} />
-        <Fact icon="diversity_3" label="Party" value={party?.name ?? '—'} />
+        <Fact
+          icon="event_available"
+          label="Present at recorded votes"
+          value={isSpeaker ? 'Presides' : attendance.total ? `${attendance.present} of ${attendance.total} (${pct(attendance.present, attendance.total)}%)` : '—'}
+        />
+        <Fact icon="description" label="Bills sponsored" value={String(sponsored.length)} />
       </section>
 
-      {/* Committee memberships (real) */}
       {committeeRoles.length > 0 && (
         <section className="bg-white rounded-2xl border border-outline-variant/30 p-6 mb-gutter">
           <div className="flex items-center gap-2 mb-4">
@@ -121,9 +100,7 @@ export function MPDetailPage() {
                 <span
                   className={cn(
                     'shrink-0 text-label-sm font-label-bold px-2 py-0.5 rounded-full',
-                    role === 'Member'
-                      ? 'bg-surface-container text-on-surface-variant'
-                      : 'bg-primary-fixed text-on-primary-fixed-variant',
+                    role === 'Member' ? 'bg-surface-container text-on-surface-variant' : 'bg-primary-fixed text-on-primary-fixed-variant',
                   )}
                 >
                   {role}
@@ -134,15 +111,39 @@ export function MPDetailPage() {
         </section>
       )}
 
-      {/* Real recorded votes (official roll calls only) */}
-      {recordedVotes.length > 0 && (
+      {sponsored.length > 0 && (
         <section className="bg-white rounded-2xl border border-outline-variant/30 p-6 mb-gutter">
-          <div className="flex items-center gap-2 mb-4">
-            <h2 className="font-headline-md text-headline-md">Recorded votes</h2>
-            <span className="inline-flex items-center gap-1 bg-secondary-container text-on-secondary-container px-3 py-1 rounded-full text-label-sm font-label-bold">
-              <Icon name="verified" className="text-[14px]" /> Official
-            </span>
-          </div>
+          <h2 className="font-headline-md text-headline-md mb-4">Bills sponsored</h2>
+          <ul className="divide-y divide-outline-variant/40">
+            {sponsored.map((b) => (
+              <li key={b.id} className="py-3 flex items-center justify-between gap-3">
+                <Link to={`/bills/${b.id}`} className="min-w-0 font-label-bold text-on-surface hover:text-primary truncate">
+                  {b.title}
+                </Link>
+                <StatusPill status={b.status} />
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      <section className="bg-white rounded-2xl border border-outline-variant/30 p-6 mb-gutter">
+        <div className="flex items-center gap-2 mb-2">
+          <h2 className="font-headline-md text-headline-md">Recorded votes</h2>
+          <span className="inline-flex items-center gap-1 bg-secondary-container text-on-secondary-container px-3 py-1 rounded-full text-label-sm font-label-bold">
+            <Icon name="verified" className="text-[14px]" /> Official
+          </span>
+        </div>
+        <p className="text-sm text-on-surface-variant mb-4">
+          {isSpeaker
+            ? 'As Speaker, this member presides over sittings and normally does not vote. The exceptions below are votes where the Speaker was eligible, such as constitutional amendments.'
+            : !mp.active
+              ? 'Votes recorded while this member was sitting. The seat has since been vacated.'
+              : 'Every roll-call vote published by the Majlis, taken from the official vote-record PDFs. Attendance is derived from the same records.'}
+        </p>
+        {recordedVotes.length === 0 ? (
+          <p className="text-sm text-outline">No roll-call votes recorded for this member.</p>
+        ) : (
           <ul className="divide-y divide-outline-variant/40">
             {recordedVotes.map(({ vote, mpVote }) => (
               <li key={vote.id} className="py-3 flex items-center justify-between gap-3">
@@ -167,36 +168,7 @@ export function MPDetailPage() {
               </li>
             ))}
           </ul>
-        </section>
-      )}
-
-      {/* Open data notice — instead of fabricating attendance/voting records */}
-      <section className="bg-tertiary-fixed/60 border border-tertiary/30 rounded-2xl p-8">
-        <div className="flex items-start gap-4">
-          <Icon name="info" className="text-tertiary text-3xl shrink-0" />
-          <div>
-            <h2 className="font-headline-md text-headline-md text-on-surface mb-2">
-              Voting & attendance records are not yet open data
-            </h2>
-            <p className="text-on-surface-variant max-w-2xl">
-              The People’s Majlis publishes this member’s name, constituency, party, photo, and committee
-              memberships — but it does <span className="font-label-bold">not</span> publish per-member voting
-              records or attendance as structured open data. To keep Majlis Now evidence-first and non-partisan,
-              we don’t show numbers we can’t source. When an official open-data feed becomes available, this
-              section will populate automatically.
-            </p>
-            {mp.profileUrl && (
-              <a
-                href={mp.profileUrl}
-                target="_blank"
-                rel="noreferrer noopener"
-                className="mt-4 inline-flex items-center gap-1 text-primary font-label-bold text-label-bold hover:underline"
-              >
-                View this member on majlis.gov.mv <Icon name="arrow_forward" className="text-[18px]" />
-              </a>
-            )}
-          </div>
-        </div>
+        )}
       </section>
 
       <DataMeta sources={mp.sources} confidence="High" reportContext={`MP: ${mp.name}`} className="mt-8" />
@@ -206,13 +178,13 @@ export function MPDetailPage() {
 
 function Fact({ icon, label, value }: { icon: string; label: string; value: string }) {
   return (
-    <div className="bg-white p-6 rounded-2xl border border-outline-variant/30 flex items-center gap-4">
-      <span className="w-12 h-12 rounded-xl bg-primary-fixed text-primary flex items-center justify-center shrink-0">
+    <div className="bg-white p-5 rounded-2xl border border-outline-variant/30 flex items-center gap-3">
+      <span className="w-11 h-11 rounded-xl bg-primary-fixed text-primary flex items-center justify-center shrink-0">
         <Icon name={icon} className="text-2xl" />
       </span>
       <div className="min-w-0">
         <p className="text-label-sm font-label-bold uppercase text-outline">{label}</p>
-        <p className="font-headline-md text-on-surface text-lg truncate">{value}</p>
+        <p className="font-headline-md text-on-surface text-base truncate">{value}</p>
       </div>
     </div>
   )

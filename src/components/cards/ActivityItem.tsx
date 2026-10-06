@@ -13,6 +13,8 @@ function hrefFor(item: ActivityFeedItem): string {
       return `/committees/${item.relatedEntityId}`
     case 'mp':
       return `/mps/${item.relatedEntityId}`
+    case 'sitting':
+      return `/sittings/${item.relatedEntityId}`
     default:
       return '#'
   }

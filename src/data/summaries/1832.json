@@ -1,0 +1,21 @@
+{
+  "workId": "1832",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާގެ ޤާނޫނުއަސާސީއަށް 8 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This is the 8th amendment to the Constitution. It moves parliamentary (Majlis) elections so they happen together with the presidential election, and fixes the Majlis's five-year term to start on 1 December. As a one-off transition, the current Majlis's term is set to end on 1 December 2028, with the next Majlis election held before then and the new Majlis's first sitting on that date.",
+  "whyItMatters": "Voters would elect the President and MPs in the same election instead of in separate years, and the current parliament's term would end on 1 December 2028.",
+  "keyProvisions": [
+    "Adds Article 72(r): elections for Majlis members must be held together with the presidential election held under Article 110.",
+    "Rewrites Article 79(a): the Majlis term is five years counted from 1 December, and the Majlis dissolves when that period ends.",
+    "Adds Article 79(n): when a Majlis term ends, the first sitting of the newly elected Majlis must be held on 1 December.",
+    "Transitional rule: the term of the Majlis sitting when this law takes effect ends on 1 December 2028; the next election and all related steps must be completed before that date, and the new Majlis holds its first sitting on 1 December 2028.",
+    "The amendment takes effect once passed, ratified and published in the Government Gazette."
+  ],
+  "whoIsAffected": "All voters, sitting and future MPs, election candidates and the Elections Commission.",
+  "statedReasons": "",
+  "sourceDoc": "Final bill",
+  "pagesRead": 2,
+  "pagesTotal": 2,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

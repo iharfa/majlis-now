@@ -3,12 +3,14 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "description": "Majlis Now — a youth-focused civic transparency platform for the Maldives Parliament (mock-data prototype).",
+  "description": "Majlis Now — a youth-focused civic transparency platform for the Maldives Parliament, built from official People’s Majlis records.",
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit",
+    "check": "node scripts/check_data.mjs",
+    "data:refresh": "python scripts/fetch_works.py && python scripts/fetch_sittings.py && python scripts/scrape_committees.py && python scripts/build_real_votes.py"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",

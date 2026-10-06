@@ -1,0 +1,22 @@
+{
+  "workId": "1951",
+  "titleDv": "ކުށް ކޮށްގެން ހޯދާ މުދަލާބެހޭ ބިލު",
+  "summary": "This new law sets out how the state can take back money and property gained through crime, as well as property used to commit crimes. Property can be confiscated after a criminal conviction and, in exceptional cases, without one. Before a case ends, courts can freeze property so it cannot be moved or sold. The bill also sets rules for managing and disposing of seized property, a fund for confiscated assets, and cooperation with foreign countries.",
+  "whyItMatters": "People who profit from crimes such as corruption or drug trafficking could lose those gains even when a criminal conviction is not possible. Property owners and third parties need to know how freezes work and how they can challenge them.",
+  "keyProvisions": [
+    "Confiscation of the proceeds of crime after a conviction (Chapter 5), using restraint (freezing) orders and confiscation orders, as listed in the table of contents.",
+    "In exceptional cases, confiscation without a criminal conviction, through civil restraint and civil forfeiture orders (Chapter 6).",
+    "Investigation powers including account monitoring orders and production orders (Chapter 4).",
+    "Courts may allow frozen property to be used for living and legal expenses (listed as a separate section under each freezing regime).",
+    "Rules for managing, storing and disposing of seized and confiscated property, and a fund for confiscated assets (Chapter 7).",
+    "International cooperation with foreign states, covering requests to and from other countries to freeze or confiscate property and sharing of recovered assets (Chapter 8)."
+  ],
+  "whoIsAffected": "People suspected or convicted of crimes, their families and business partners, banks and other holders of property, and law enforcement and prosecutors.",
+  "statedReasons": "The government says the bill aims to stop offenders from benefiting from criminal proceeds by setting a legal framework to confiscate them, including without a conviction in exceptional cases, freeze them, manage and dispose of them, and cooperate with foreign states.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 136,
+  "confidence": "Low",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

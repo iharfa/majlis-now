@@ -1,0 +1,2111 @@
+[
+  {
+    "id": "1952",
+    "number": "20/2026/ބ-28",
+    "sitting": "28th Sitting of second session of 2026",
+    "type": "Bills",
+    "status": "First Reading",
+    "summary": "Bill on amendment to the Criminal Procedure Act (No. 12/2016), proposed by government, sponsored by Hon. Mohamed Mamdooh, MP for Funadhoo",
+    "title": "Bill on amendment to the Criminal Procedure Act (No. 12/2016)",
+    "sponsor": {
+      "constituency": "Funadhoo",
+      "name": "Mohamed Mamdooh"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "current"
+      }
+    ],
+    "committeeId": null,
+    "sittings": [
+      {
+        "id": "1067",
+        "title": "28th Sitting of second session of 2026",
+        "date": "2026-08-26"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1952/98qd8MW3Y04hbSmAvQuIZgEU84KqZtgfULvKCVv4.pdf",
+        "file": "tmp/docs/1952-bill.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1952",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1951",
+    "number": "20/2026/ބ-27",
+    "sitting": "28th Sitting of second session of 2026",
+    "type": "Bills",
+    "status": "First Reading",
+    "summary": "Asset Recovery Bill, proposed by government, sponsored by Hon. Ali Fazad, MP for Central Fuvahmulah",
+    "title": "Asset Recovery Bill",
+    "sponsor": {
+      "constituency": "Central Fuvahmulah",
+      "name": "Ali Fazad"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "current"
+      }
+    ],
+    "committeeId": null,
+    "sittings": [
+      {
+        "id": "1067",
+        "title": "28th Sitting of second session of 2026",
+        "date": "2026-08-26"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1951/UQ7ThwBM8di0BS1OoaBPWVjcfVDKCZzFGYft4cxc.pdf",
+        "file": "tmp/docs/1951-bill.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1951",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1944",
+    "number": "20/2026/ބ-26",
+    "sitting": "25th Sitting of second session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on amendment to the Income Tax Act (No.25/2019), proposed by government, sponsored by Hon. Hassan Zareer, MP for Mathiveri",
+    "title": "Bill on amendment to the Income Tax Act (No.25/2019)",
+    "sponsor": {
+      "constituency": "Mathiveri",
+      "name": "Hassan Zareer"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "141",
+    "sittings": [
+      {
+        "id": "1064",
+        "title": "25th Sitting of second session of 2026",
+        "date": "2026-08-17"
+      },
+      {
+        "id": "1066",
+        "title": "27th Sitting of second session of 2026",
+        "date": "2026-08-23"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1944/6d4aP7n5t5MpelVoYNhWeOnDRv1ycwT35xesKl0e.pdf",
+        "file": "tmp/docs/1944-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1944/mPF3kwD47MwWIoJcN4YVLClRZu7cNpRjGdDom6YK.pdf",
+        "file": "tmp/docs/1944-committee-report.pdf"
+      },
+      {
+        "label": "Final Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1944/MddOClVzyesld2TnYpBlkZV48OMvgz5cyy7RxFDs.pdf",
+        "file": "tmp/docs/1944-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1944/V1ZkzYfujJQ8mNhuQ5IvRQ9J48ztJ96Qh4Xr2qF0.pdf",
+        "file": "tmp/docs/1944-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1944/bfp552Zu3TpwU6HqHLfprUXo0i6TGNvnFZDvYoWS.pdf",
+        "file": "tmp/docs/1944-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1944",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1939",
+    "number": "20/2026/ބ-25",
+    "sitting": "24th Sitting of Second session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on amendment to the Goods and Services Tax Act (No. 10/2011) proposed by government, sponsored by Mohamed Dawood, MP for North Kulhudhuffushi",
+    "title": "Bill on amendment to the Goods and Services Tax Act (No. 10/2011)",
+    "sponsor": {
+      "constituency": "North Kulhudhuffushi",
+      "name": "Mohamed Dawoodh"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "141",
+    "sittings": [
+      {
+        "id": "1063",
+        "title": "24th Sitting of Second session of 2026",
+        "date": "2026-08-16"
+      },
+      {
+        "id": "1066",
+        "title": "27th Sitting of second session of 2026",
+        "date": "2026-08-23"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1939/8LDbGobDZ9hlWZxcb5sxI874eHliOmE9Sx6nTXHq.pdf",
+        "file": "tmp/docs/1939-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1939/QpouDRK8PIjHjgJiHRjK6MjzDf3MLSWUykQcy1j5.pdf",
+        "file": "tmp/docs/1939-committee-report.pdf"
+      },
+      {
+        "label": "First amendment to the Bill by Hon. Ibrahim Naseem, MP for Thulusdhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1939/YVLAeLgOnWwNLWkHQpolluKMV2T81Hpwcyo6W6rS.pdf",
+        "file": "tmp/docs/1939-first-amendment-to-the-bill-by-hon-ibrahim-naseem-mp-for-thulusdhoo.pdf"
+      },
+      {
+        "label": "Second amendment to the Bill by Hon. Ibrahim Naseem, MP for Thulusdhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1939/bqHKiOF5soMZzixL6DrG2U6TNQ3slUuhQTb5QPU3.pdf",
+        "file": "tmp/docs/1939-second-amendment-to-the-bill-by-hon-ibrahim-naseem-mp-for-thulusdhoo.pdf"
+      },
+      {
+        "label": "Third amendment to the Bill by Hon. Ibrahim Naseem, MP for Thulusdhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1939/xAc0WonsMCJhmY7TJdt9oXo8KthJTsIsrE6gE3RV.pdf",
+        "file": "tmp/docs/1939-third-amendment-to-the-bill-by-hon-ibrahim-naseem-mp-for-thulusdhoo.pdf"
+      },
+      {
+        "label": "Final Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1939/Tk1XL2k24hZtjRb8xxEO8MMpZTgJKmowg43KgR7F.pdf",
+        "file": "tmp/docs/1939-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1939/jjYxIg50MA7a3DId2c3OTrL6ECdT4KSkGkqnNSwB.pdf",
+        "file": "tmp/docs/1939-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Parliament passed first amendment to the Bill by Hon. Ibrahim Naseem, MP for Thulusdhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1939/rc71NjzM5ZNsZzrc8yBN7D8WWYhMPT1oecsfUzPV.pdf",
+        "file": "tmp/docs/1939-parliament-passed-first-amendment-to-the-bill-by-hon-ibrahim-naseem-mp-for-thulusdhoo.pdf"
+      },
+      {
+        "label": "Parliament passed second amendment to the Bill by Hon. Ibrahim Naseem, MP for Thulusdhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1939/eqeuLeOkLMvSDStKc0ziENucvCFzQnOOKJEzeICh.pdf",
+        "file": "tmp/docs/1939-parliament-passed-second-amendment-to-the-bill-by-hon-ibrahim-naseem-mp-for-thulusdhoo.pdf"
+      },
+      {
+        "label": "Parliament passed third amendment to the Bill by Hon. Ibrahim Naseem, MP for Thulusdhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1939/gsaAKLGd7jkp5yJntj2U7jIG7mBSogsUjhpZLi6d.pdf",
+        "file": "tmp/docs/1939-parliament-passed-third-amendment-to-the-bill-by-hon-ibrahim-naseem-mp-for-thulusdhoo.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1939/0wKccDhUlse9fN3BakC19m20Y5787HEIrIcVNNzn.pdf",
+        "file": "tmp/docs/1939-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1939",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1935",
+    "number": "20/2026/ބ-24",
+    "sitting": "23rd Sitting of second session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on amendment to the Foreign Currency Act (No. 32/2024), proposed by government, sponsored by Hon. Abdul Sattar Mohamed, MP for Holhudhoo",
+    "title": "Bill on amendment to the Foreign Currency Act (No. 32/2024)",
+    "sponsor": {
+      "constituency": "Holhudhoo",
+      "name": "Abdul Sattar Mohamed"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "119",
+    "sittings": [
+      {
+        "id": "1062",
+        "title": "23rd Sitting of second session of 2026",
+        "date": "2026-08-12"
+      },
+      {
+        "id": "1065",
+        "title": "26th Sitting of second session of 2026",
+        "date": "2026-08-18"
+      },
+      {
+        "id": "1067",
+        "title": "28th Sitting of second session of 2026",
+        "date": "2026-08-26"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/puDRv6EsV1mdxxDQvJsCAaDx8aRPEmdjsLNPC6A8.pdf",
+        "file": "tmp/docs/1935-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/YeByzcmNjwSfoYHkO9PsBJ7el7MbN15h7YF21et1.pdf",
+        "file": "tmp/docs/1935-committee-report.pdf"
+      },
+      {
+        "label": "Revised Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/mrIEyDiPvUytr9bWyH24tW7DsCdeThksafwaoTJW.pdf",
+        "file": "tmp/docs/1935-revised-report.pdf"
+      },
+      {
+        "label": "Amendment to the bill by Hon. Meekail Ahmed Nasym, MP for South Galolhu",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/yfXMpdcDm5iHGDKsvym4M5zAcQxWCWKoDdXhMyOJ.pdf",
+        "file": "tmp/docs/1935-amendment-to-the-bill-by-hon-meekail-ahmed-nasym-mp-for-south-galolhu.pdf"
+      },
+      {
+        "label": "First amendment to the bill by Hon. Mohamed Mamdooh, MP for Funadhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/JPvw9LQSLb9A7aCIxz6QvUQFRzNevsY5Kpt6PnND.pdf",
+        "file": "tmp/docs/1935-first-amendment-to-the-bill-by-hon-mohamed-mamdooh-mp-for-funadhoo.pdf"
+      },
+      {
+        "label": "Second amendment to the bill by Hon. Mohamed Mamdooh, MP for Funadhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/OkkAP3DClERnCvVgXEXL8mKhl9TSAoffWT9QiYbN.pdf",
+        "file": "tmp/docs/1935-second-amendment-to-the-bill-by-hon-mohamed-mamdooh-mp-for-funadhoo.pdf"
+      },
+      {
+        "label": "Third amendment to the bill by Hon. Mohamed Mamdooh, MP for Funadhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/StQ7d1oDpt1Z54BAQnOiwtartvmozPDMSldYWdOv.pdf",
+        "file": "tmp/docs/1935-third-amendment-to-the-bill-by-hon-mohamed-mamdooh-mp-for-funadhoo.pdf"
+      },
+      {
+        "label": "Final Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/5yGM3zyg5WWzUvqZNcQ5vjPfeEmhULe0JOREeYUQ.pdf",
+        "file": "tmp/docs/1935-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/mFeJ856JHwJXj1VyepNPp00cckDYRh2srcp5vde6.pdf",
+        "file": "tmp/docs/1935-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill sent to the committee for further review",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/ms6mDE0viBPjbFhlAZOFMIf8oxYpxNlrRY4bu3Qx.pdf",
+        "file": "tmp/docs/1935-bill-sent-to-the-committee-for-further-review.pdf"
+      },
+      {
+        "label": "Parliament rejected the amendment to the bill by Hon. Meekail Ahmed Nasym, MP for South Galolhu",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/WigIrSAD1xV8wh7sM8H62FibYpJik2S3rDp45SJO.pdf",
+        "file": "tmp/docs/1935-parliament-rejected-the-amendment-to-the-bill-by-hon-meekail-ahmed-nasym-mp-for-south-galolhu.pdf"
+      },
+      {
+        "label": "Parliament passed the first amendment to the bill by Hon. Mohamed Mamdooh, MP for Funadhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/m1gE4SSOEUvEo9oOWIO3HbvhAjd2VD0miVwblocw.pdf",
+        "file": "tmp/docs/1935-parliament-passed-the-first-amendment-to-the-bill-by-hon-mohamed-mamdooh-mp-for-funadhoo.pdf"
+      },
+      {
+        "label": "Parliament passed the second amendment to the bill by Hon. Mohamed Mamdooh, MP for Funadhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/zQShEfbWvHShM8ENsg8sX0tXl5GLtb47NykvXtRB.pdf",
+        "file": "tmp/docs/1935-parliament-passed-the-second-amendment-to-the-bill-by-hon-mohamed-mamdooh-mp-for-funadhoo.pdf"
+      },
+      {
+        "label": "Parliament passed the third amendment to the bill by Hon. Mohamed Mamdooh, MP for Funadhoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/1uRMeX9PBhKo6hb1ETbL2qoP1QhJLvb8cChvF3Fj.pdf",
+        "file": "tmp/docs/1935-parliament-passed-the-third-amendment-to-the-bill-by-hon-mohamed-mamdooh-mp-for-funadhoo.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1935/Q99ZThMBbXn4CetOEJTnMbjEIWSpqKDX40IKw0IP.pdf",
+        "file": "tmp/docs/1935-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1935",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1929",
+    "number": "20/2026/ބ-23",
+    "sitting": "22nd Sitting of Second session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on amendment to the National payment system Act (No. 8/2021), proposed by government, sponsored by Hon. Mohamed Shahid, MP for Hulhudhoo",
+    "title": "Bill on amendment to the National payment system Act (No. 8/2021)",
+    "sponsor": {
+      "constituency": "Hulhudhoo",
+      "name": "Mohamed Shahid"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "119",
+    "sittings": [
+      {
+        "id": "1061",
+        "title": "22nd Sitting of Second session of 2026",
+        "date": "2026-08-11"
+      },
+      {
+        "id": "1064",
+        "title": "25th Sitting of second session of 2026",
+        "date": "2026-08-17"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1929/3BtMtf5TA3oBHISjvAoOYFp4lNY8PPgdm6T7UGww.pdf",
+        "file": "tmp/docs/1929-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1929/RXA4lvMpwbOu8DfzXTW0ncJK9TBDliycqZUxFpjo.pdf",
+        "file": "tmp/docs/1929-committee-report.pdf"
+      },
+      {
+        "label": "Final Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1929/a78ldeUWqUaqqlbsPvmbtNRAOhsLSRuX1Q860HQt.pdf",
+        "file": "tmp/docs/1929-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1929/nvAR5Q9wmdLLyru5y6zbG9Z2bnYFNnB2EcB8hPqp.pdf",
+        "file": "tmp/docs/1929-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1929/Wq7VdWblpowzaXERmR2fGD1akDKoOmqMmgEnzaME.pdf",
+        "file": "tmp/docs/1929-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1929",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1922",
+    "number": "20/2026/ބ-22",
+    "sitting": "20th Sitting of second session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on amendment to the Decentralization Act (No. 7/2010), sponsored by Hon. Abdul Hannan Aboobakuru, MP for Thulhaadhoo",
+    "title": "Bill on amendment to the Decentralization Act (No. 7/2010)",
+    "sponsor": {
+      "constituency": "Thulhaadhoo",
+      "name": "Abdul Hannan Aboobakuru"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "127",
+    "sittings": [
+      {
+        "id": "1059",
+        "title": "20th Sitting of second session of 2026",
+        "date": "2026-08-05"
+      },
+      {
+        "id": "1060",
+        "title": "21st Sitting of second session of 2026",
+        "date": "2026-08-10"
+      },
+      {
+        "id": "1067",
+        "title": "28th Sitting of second session of 2026",
+        "date": "2026-08-26"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1922/pn3V3rZNd5c2Osg8ZptiTPrnoCnOIuAKmzUNeP8M.pdf",
+        "file": "tmp/docs/1922-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1922/HKJIUrIoIKClX6GeWFgm8KeFy969ghCfRUlrbfvh.pdf",
+        "file": "tmp/docs/1922-committee-report.pdf"
+      },
+      {
+        "label": "Final Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1922/Kazh92GfQWFLyInErjvmTtPSDqWH2WEqP1OLcQQm.pdf",
+        "file": "tmp/docs/1922-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1922/RCNXoWDSf7VkUFBO1r0rxVn5k3hUXzmoMaaCy2Xq.pdf",
+        "file": "tmp/docs/1922-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1922/3SgYVO0GqRfnJsXTM7audM3AoQVSfDwhQ3UYRB42.pdf",
+        "file": "tmp/docs/1922-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1922",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1913",
+    "number": "20/2026/ބ-21",
+    "sitting": "17th Sitting of Second session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on Leasing Uninhabited Islands and Lagoons, proposed by government, sponsored by, Hon. Saudulla Hilmy, MP for North Thinadhoo",
+    "title": "Bill on Leasing Uninhabited Islands and Lagoons",
+    "sponsor": {
+      "constituency": "North Thinadhoo",
+      "name": "Saudulla Hilmy"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "141",
+    "sittings": [
+      {
+        "id": "1056",
+        "title": "17th Sitting of Second session of 2026",
+        "date": "2026-07-29"
+      },
+      {
+        "id": "1057",
+        "title": "18th Sitting of Second session of 2026",
+        "date": "2026-08-03"
+      },
+      {
+        "id": "1058",
+        "title": "19th Sitting of second session of 2026",
+        "date": "2026-08-04"
+      },
+      {
+        "id": "1059",
+        "title": "20th Sitting of second session of 2026",
+        "date": "2026-08-05"
+      },
+      {
+        "id": "1060",
+        "title": "21st Sitting of second session of 2026",
+        "date": "2026-08-10"
+      },
+      {
+        "id": "1067",
+        "title": "28th Sitting of second session of 2026",
+        "date": "2026-08-26"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1913/HwPSqr0VdLzhA9ilIsBmuKlOVjf0qDF24skd7pjn.pdf",
+        "file": "tmp/docs/1913-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1913/r0cJbKKkwS2c23IJHTess2LWJEG3buhKuVTN2MR0.pdf",
+        "file": "tmp/docs/1913-committee-report.pdf"
+      },
+      {
+        "label": "Final bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1913/kR8m7ad5Wm9nyHSPQHYgknloZkrxuaXlUCdyJknk.pdf",
+        "file": "tmp/docs/1913-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1913/CfySpTCTMJiYRJxx9kb6B9Tu7fV6ovChMHkUcgP5.pdf",
+        "file": "tmp/docs/1913-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1913/3CPFwUZzeGIQFwBEgKmNNgHoarPynyrMDE2QROf4.pdf",
+        "file": "tmp/docs/1913-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1913",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1912",
+    "number": "20/2026/ބ-20",
+    "sitting": "17th Sitting of Second session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on amendment to the Utility regulatory authority (No. 26/2020), proposed by government, sponsored by, Hon. Hassan Waheed, MP for Vilifushi",
+    "title": "Bill on amendment to the Utility regulatory authority (No. 26/2020)",
+    "sponsor": {
+      "constituency": "Vilifushi",
+      "name": "Hassan Waheed"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "129",
+    "sittings": [
+      {
+        "id": "1056",
+        "title": "17th Sitting of Second session of 2026",
+        "date": "2026-07-29"
+      },
+      {
+        "id": "1057",
+        "title": "18th Sitting of Second session of 2026",
+        "date": "2026-08-03"
+      },
+      {
+        "id": "1064",
+        "title": "25th Sitting of second session of 2026",
+        "date": "2026-08-17"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1912/aYGUQ9yJrqQepF6hON2YlpkuU7xIwRcHvX1eJcgB.pdf",
+        "file": "tmp/docs/1912-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1912/DGLIp1dz54hLrXa9odcQwOJsyswWoV3Fz1VrYTeX.pdf",
+        "file": "tmp/docs/1912-committee-report.pdf"
+      },
+      {
+        "label": "Final Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1912/ZLerLRhQg0dYYiQ3N2rMLYdAVhFf9wpKZxeD98Al.pdf",
+        "file": "tmp/docs/1912-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1912/vrv9FLoxQ9mnqo2Z5BDdxDPxzNfxLlp6CpAio9S3.pdf",
+        "file": "tmp/docs/1912-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1912/gMV9gm1exwe9NVJx17kveGy4oLCLZXkDhnS1meb1.pdf",
+        "file": "tmp/docs/1912-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1912",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1899",
+    "number": "20/2026/ބ-19",
+    "sitting": "11th Sitting of Second session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on amendment to the Waste Management Act (No. 24/2022), proposed by government, sponsored by, Hon. Ibrahim Shifaz, MP for Ungoofaaru",
+    "title": "Bill on amendment to the Waste Management Act (No. 24/2022)",
+    "sponsor": {
+      "constituency": "Ungoofaaru",
+      "name": "Ibrahim Shifaz"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "141",
+    "sittings": [
+      {
+        "id": "1048",
+        "title": "11th Sitting of Second session of 2026",
+        "date": "2026-07-07"
+      },
+      {
+        "id": "1050",
+        "title": "12th Sitting of second session of 2026",
+        "date": "2026-07-08"
+      },
+      {
+        "id": "1052",
+        "title": "14th Sitting of Second session of 2026",
+        "date": "2026-07-14"
+      },
+      {
+        "id": "1064",
+        "title": "25th Sitting of second session of 2026",
+        "date": "2026-08-17"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1899/hvgerhQFIwuaKBtpnXI3deo1mkFns4QPLcOteH1a.pdf",
+        "file": "tmp/docs/1899-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1899/BvSJJU4xJGXBHvjWCB1aGFeJ8k9ZXbnQD34NoUtL.pdf",
+        "file": "tmp/docs/1899-committee-report.pdf"
+      },
+      {
+        "label": "Final Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1899/NNTbjJqjzUQkXo7aLuLWCOy8ncqIXGanEnOn27XU.pdf",
+        "file": "tmp/docs/1899-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1899/3eEJ295QHopk892USEZvSffsuG7tRkT6GURGx1nT.pdf",
+        "file": "tmp/docs/1899-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1899/j9ga7cW5vFFn1dvtDimejBFOEIF2V5pWr06Ebjtv.pdf",
+        "file": "tmp/docs/1899-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1899",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1888",
+    "number": "ރ. ނަންބަރު: 1809",
+    "sitting": "5th Sitting of second session of 2026",
+    "type": "Bills",
+    "status": "Rejected by Vote",
+    "summary": "Bill on Amendment to the Law governing residency in Maldivian Islands Act (No. 46/78), sponsored by Hon. Mohamed Ibrahim, MP for North Galolhu",
+    "title": "Bill on Amendment to the Law governing residency in Maldivian Islands Act (No. 46/78)",
+    "sponsor": {
+      "constituency": "North Galolhu",
+      "name": "Mohamed Ibrahim"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Rejected by Vote",
+        "state": "current"
+      }
+    ],
+    "committeeId": null,
+    "sittings": [
+      {
+        "id": "1041",
+        "title": "5th Sitting of second session of 2026",
+        "date": "2026-06-23"
+      },
+      {
+        "id": "1044",
+        "title": "7th Sitting of second session of 2026",
+        "date": "2026-06-29"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1888/3zq4RLzijhCAaoB2cj5tOA4abUve3IOGk3wPa3CB.pdf",
+        "file": "tmp/docs/1888-bill.pdf"
+      },
+      {
+        "label": "Bill rejected by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1888/iftQeU65gciAAq6lxk9ilVzTIPSo97ZYFEjeF92H.pdf",
+        "file": "tmp/docs/1888-bill-rejected-by-vote.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1888",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1887",
+    "number": "20/2026/ބ-17",
+    "sitting": "4th Sitting of second session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on amendment to the Maldives Export Import Act (No. 31/79), proposed by government, sponsored by Hon. Mohamed Ibrahim, MP for Komandoo",
+    "title": "Bill on amendment to the Export Import Act of the Maldives (No. 31/79)",
+    "sponsor": {
+      "constituency": "Komandoo",
+      "name": "Mohamed Ibrahim"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "141",
+    "sittings": [
+      {
+        "id": "1039",
+        "title": "4th Sitting of second session of 2026",
+        "date": "2026-06-22"
+      },
+      {
+        "id": "1042",
+        "title": "6th Sitting of second session of 2026",
+        "date": "2026-06-24"
+      },
+      {
+        "id": "1046",
+        "title": "9th Sitting of second session of 2026",
+        "date": "2026-07-01"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1887/LfKSTaeoKZQGZD2C72Vc1ePmkcZlxq2Q78iYznNg.pdf",
+        "file": "tmp/docs/1887-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1887/Bika6CQeZuWo8xhtwbWVAfcZSAnHkF1JKxV2RkJ5.pdf",
+        "file": "tmp/docs/1887-committee-report.pdf"
+      },
+      {
+        "label": "Final Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1887/qmDwVbX8WtLlGu2TDJ3ZF7jouMNx99AESltLP2EF.pdf",
+        "file": "tmp/docs/1887-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1887/TUyXbBWMcavu7p7uFO6jaBiITaPbLXsvxmBHyuz7.pdf",
+        "file": "tmp/docs/1887-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1887/hwpij6IfEuByI6ObdAUQA8F8JxDJyjQqK4jzU3Yt.pdf",
+        "file": "tmp/docs/1887-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1887",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1881",
+    "number": "20/2026/ބ-16",
+    "sitting": "2nd Sitting of second session of 2026",
+    "type": "Bills",
+    "status": "Committee Stage",
+    "summary": "Digital Identity Bill, proposed by government, sponsored by Hon. Abdul Latheef Abdul Rahman, MP for Alifushi",
+    "title": "Digital Identity Bill",
+    "sponsor": {
+      "constituency": "Alifushi",
+      "name": "Abdul Latheef Abdul Rahman"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "current"
+      }
+    ],
+    "committeeId": "132",
+    "sittings": [
+      {
+        "id": "1036",
+        "title": "2nd Sitting of second session of 2026",
+        "date": "2026-06-15"
+      },
+      {
+        "id": "1041",
+        "title": "5th Sitting of second session of 2026",
+        "date": "2026-06-23"
+      },
+      {
+        "id": "1046",
+        "title": "9th Sitting of second session of 2026",
+        "date": "2026-07-01"
+      },
+      {
+        "id": "1047",
+        "title": "10th Sitting of Second session of 2026",
+        "date": "2026-07-06"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1881/8F0kZfzohzdpvedYqZW5OrK1v9ILBdjOj6OSgOyb.pdf",
+        "file": "tmp/docs/1881-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1881/cLTPx7UjlapR0Oinj120HWHTPV1EDS9zsYGAELj4.pdf",
+        "file": "tmp/docs/1881-bill-accepted-by-vote.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1881",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1880",
+    "number": "20/2026/ބ-15",
+    "sitting": "2nd Sitting of second session of 2026",
+    "type": "Bills",
+    "status": "Committee Stage",
+    "summary": "Maldives 2.0 Digital Transformation Bill, proposed by government, sponsored by Hon. Mohamed Ali, MP for Gadhdhoo",
+    "title": "Maldives 2.0 Digital Transformation Bill",
+    "sponsor": {
+      "constituency": "Gadhdhoo",
+      "name": "Mohamed Ali"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "current"
+      }
+    ],
+    "committeeId": "132",
+    "sittings": [
+      {
+        "id": "1036",
+        "title": "2nd Sitting of second session of 2026",
+        "date": "2026-06-15"
+      },
+      {
+        "id": "1039",
+        "title": "4th Sitting of second session of 2026",
+        "date": "2026-06-22"
+      },
+      {
+        "id": "1045",
+        "title": "8th Sitting of second session of 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "id": "1046",
+        "title": "9th Sitting of second session of 2026",
+        "date": "2026-07-01"
+      },
+      {
+        "id": "1047",
+        "title": "10th Sitting of Second session of 2026",
+        "date": "2026-07-06"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1880/vtsGSWJhT3RttoqSCiGr47dRD0dshQI80MPuS7vp.pdf",
+        "file": "tmp/docs/1880-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1880/ecEf2rWGd4HlMCVIcbcfXRu3OVVxbSelkPTGOmRs.pdf",
+        "file": "tmp/docs/1880-bill-accepted-by-vote.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1880",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1873",
+    "number": "20/2026/ބ-14",
+    "sitting": "18th Sitting of first session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on amendment to the Decentralization Act (No. 7/2010), proposed by government, sponsored by Hon. Hamad Abdulla, MP for North Fuvahmulah",
+    "title": "Bill on amendment to the Decentralization Act (No. 7/2010)",
+    "sponsor": {
+      "constituency": "North Fuvahmulah",
+      "name": "Hamad Abdulla"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "127",
+    "sittings": [
+      {
+        "id": "1031",
+        "title": "18th Sitting of first session of 2026",
+        "date": "2026-05-12"
+      },
+      {
+        "id": "1033",
+        "title": "19th Sitting of First session of 2026",
+        "date": "2026-05-14"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1873/iBchmFEBKcjMHJNPpuKVoOPaQ1glePgutDnjaWND.pdf",
+        "file": "tmp/docs/1873-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1873/RpoKXHaaAI1GCnJsU6UtetLB9Gb6T9PzI0LgYrHy.pdf",
+        "file": "tmp/docs/1873-committee-report.pdf"
+      },
+      {
+        "label": "Final Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1873/3P21lR1BuQVoNp1LWwksXl5PvIeUTs9Tc7CLXoVl.pdf",
+        "file": "tmp/docs/1873-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1873/BfJFr7bUTWdfpS2m6njPCbdn3WheGSoqH3e1f7HP.pdf",
+        "file": "tmp/docs/1873-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1873/KV6NYbnC6JxfSebYinkg0ja7oEJYNux62VnJBlrR.pdf",
+        "file": "tmp/docs/1873-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1873",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1871",
+    "number": "20/2026/ބ-13",
+    "sitting": "17th Sitting of First session of 2026",
+    "type": "Bills",
+    "status": "Committee Stage",
+    "summary": "Data Protection Bill, proposed by government, sponsored by Hon. Ali Ibrahim, MP for West Henveyru",
+    "title": "Data Protection Bill",
+    "sponsor": {
+      "constituency": "West Henveyru",
+      "name": "Ali Ibrahim"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "current"
+      }
+    ],
+    "committeeId": "132",
+    "sittings": [
+      {
+        "id": "1030",
+        "title": "17th Sitting of First session of 2026",
+        "date": "2026-05-11"
+      },
+      {
+        "id": "1031",
+        "title": "18th Sitting of first session of 2026",
+        "date": "2026-05-12"
+      },
+      {
+        "id": "1036",
+        "title": "2nd Sitting of second session of 2026",
+        "date": "2026-06-15"
+      },
+      {
+        "id": "1039",
+        "title": "4th Sitting of second session of 2026",
+        "date": "2026-06-22"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1871/v7hvTlfhjkcKxWxjNzUydqiU4hughD11g4ZF9QbJ.pdf",
+        "file": "tmp/docs/1871-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1871/5aZtHF0gkorp1p4Xhh3eoJhwA0NTlcbj8Qr152qD.pdf",
+        "file": "tmp/docs/1871-bill-accepted-by-vote.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1871",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1870",
+    "number": "20/2026/ބ-12",
+    "sitting": "17th Sitting of First session of 2026",
+    "type": "Bills",
+    "status": "Committee Stage",
+    "summary": "Cyber Security Bill, proposed by government, sponsored by Hon. Hussain Nasih, MP for Central Henveyru",
+    "title": "Cyber Security Bill",
+    "sponsor": {
+      "constituency": "Central Henveyru",
+      "name": "Hussain Nasih"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "current"
+      }
+    ],
+    "committeeId": "132",
+    "sittings": [
+      {
+        "id": "1030",
+        "title": "17th Sitting of First session of 2026",
+        "date": "2026-05-11"
+      },
+      {
+        "id": "1031",
+        "title": "18th Sitting of first session of 2026",
+        "date": "2026-05-12"
+      },
+      {
+        "id": "1033",
+        "title": "19th Sitting of First session of 2026",
+        "date": "2026-05-14"
+      },
+      {
+        "id": "1036",
+        "title": "2nd Sitting of second session of 2026",
+        "date": "2026-06-15"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1870/D24TMpPIMetpGP1IatJnDXgqFPszNCzaVB1nZb4L.pdf",
+        "file": "tmp/docs/1870-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1870/GVfvIf7KaRvGSePCxxqDS1gvqIUYnXUyo3w2ksqe.pdf",
+        "file": "tmp/docs/1870-bill-accepted-by-vote.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1870",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1861",
+    "number": "20/2026/ބ-11",
+    "sitting": "12th Sitting of First session of 2026",
+    "type": "Bills",
+    "status": "Rejected by Vote",
+    "summary": "Bill on amendment to the Constitution, sponsored by Hon. Mohamed Ibrahim, MP for North Galolhu",
+    "title": "Bill on amendment to the Constitution",
+    "sponsor": {
+      "constituency": "North Galolhu",
+      "name": "Mohamed Ibrahim"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Rejected by Vote",
+        "state": "current"
+      }
+    ],
+    "committeeId": null,
+    "sittings": [
+      {
+        "id": "1025",
+        "title": "12th Sitting of First session of 2026",
+        "date": "2026-04-27"
+      },
+      {
+        "id": "1026",
+        "title": "13th Sitting of First session of 2026",
+        "date": "2026-04-28"
+      },
+      {
+        "id": "1028",
+        "title": "15th Sitting of First session of 2026",
+        "date": "2026-05-04"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1861/4II4XiOBy96Y4ixm02QEfQfwaaDPzneFzy12F4Mq.pdf",
+        "file": "tmp/docs/1861-bill.pdf"
+      },
+      {
+        "label": "Bill rejected by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1861/Rb5VPxIEujEONGvaAvDyxqq4dpW4DlnYEB8xHWUN.pdf",
+        "file": "tmp/docs/1861-bill-rejected-by-vote.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1861",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1859",
+    "number": "20/2026/ބ-10",
+    "sitting": "11th Sitting of first session of 2026",
+    "type": "Bills",
+    "status": "Withdrawn",
+    "summary": "Bill on Amendment to the Prevention of Sexual Abuse and Harassment Act (No. 16/2014), proposed by government, sponsored by Hon. Abdulla Shareef, MP for Kelaa",
+    "title": "Bill on Amendment to the Prevention of Sexual Abuse and Harassment Act (No. 16/2014)",
+    "sponsor": {
+      "constituency": "Kelaa",
+      "name": "Abdulla Shareef"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Withdrawn",
+        "state": "current"
+      }
+    ],
+    "committeeId": null,
+    "sittings": [
+      {
+        "id": "1024",
+        "title": "11th Sitting of first session of 2026",
+        "date": "2026-04-22"
+      },
+      {
+        "id": "1025",
+        "title": "12th Sitting of First session of 2026",
+        "date": "2026-04-27"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1859/UjCey0hBOTVLUMiWIrQxyfqdowskDrQwZeKMEbEq.pdf",
+        "file": "tmp/docs/1859-bill.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1859",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1853",
+    "number": "20/2026/ބ-9",
+    "sitting": "9th Sitting of First session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on Amendment to the Maldives Fisheries Act (No. 14/2019), proposed by government, sponsored by Hon. Mohamed Alsan Ahmed, MP for South Thinadhoo",
+    "title": "Bill on Amendment to the Maldives Fisheries Act (No. 14/2019)",
+    "sponsor": {
+      "constituency": "South Thinadhoo",
+      "name": "Mohamed Alsan Ahmed"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "120",
+    "sittings": [
+      {
+        "id": "1022",
+        "title": "9th Sitting of First session of 2026",
+        "date": "2026-04-20"
+      },
+      {
+        "id": "1023",
+        "title": "10th Sitting of First session of 2026",
+        "date": "2026-04-21"
+      },
+      {
+        "id": "1027",
+        "title": "14th Sitting of First session of 2026",
+        "date": "2026-04-29"
+      },
+      {
+        "id": "1067",
+        "title": "28th Sitting of second session of 2026",
+        "date": "2026-08-26"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1853/RoookiJI7BLz18JyvTf7ReO9MZaXlX3htTvSxis4.pdf",
+        "file": "tmp/docs/1853-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1853/9J6s0RTZrY1UVTa7khTtQXY81JEYhahISIcUxKnf.pdf",
+        "file": "tmp/docs/1853-committee-report.pdf"
+      },
+      {
+        "label": "Final bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1853/1gJ8G5SPjyRHq7nT377zncpAfnNvItajW47zKXsu.pdf",
+        "file": "tmp/docs/1853-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1853/1GKjwoIxbfIyzkVhhOIY0MeFeKpLHt4wN5DVAe8a.pdf",
+        "file": "tmp/docs/1853-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1853/0ooLgkPu1p7XC4DYjmNAEhHTj147D9UVnBXuntsI.pdf",
+        "file": "tmp/docs/1853-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1853",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1846",
+    "number": "20/2026/ބ-8",
+    "sitting": "4th Sitting of First session of 2026",
+    "type": "Bills",
+    "status": "Rejected by Vote",
+    "summary": "Bill on Amendment to the Land Transport Act (no. 5/2009), sponsored by Hon. Mohamed Ibrahim, MP for North Galolhu",
+    "title": "Bill on Amendment to the Land Transport Act (no. 5/2009)",
+    "sponsor": {
+      "constituency": "North Galolhu",
+      "name": "Mohamed Ibrahim"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Rejected by Vote",
+        "state": "current"
+      }
+    ],
+    "committeeId": null,
+    "sittings": [
+      {
+        "id": "1017",
+        "title": "4th Sitting of First session of 2026",
+        "date": "2026-02-17"
+      },
+      {
+        "id": "1020",
+        "title": "7th Sitting of First session of 2026",
+        "date": "2026-04-14"
+      },
+      {
+        "id": "1021",
+        "title": "8th Sitting of First session of 2026",
+        "date": "2026-04-15"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1846/MgFfNkSY6eISKQn8I6bFYAa2nelSFKpwS15N0gba.pdf",
+        "file": "tmp/docs/1846-bill.pdf"
+      },
+      {
+        "label": "Bill rejected by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1846/5cbMaarny6JIDFy5U01RSZQZQ6rkCDhNquBwlzlz.pdf",
+        "file": "tmp/docs/1846-bill-rejected-by-vote.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1846",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1845",
+    "number": "20/2026/ބ-7",
+    "sitting": "4th Sitting of First session of 2026",
+    "type": "Bills",
+    "status": "Rejected by Vote",
+    "summary": "Bill on amendment to the Maldivian Land Act (No. 1/2002), sponsored by Hon. Mohamed Ibrahim, MP for North Galolhu",
+    "title": "Bill on amendment to the Maldivian Land Act (No. 1/2002)",
+    "sponsor": {
+      "constituency": "North Galolhu",
+      "name": "Mohamed Ibrahim"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Rejected by Vote",
+        "state": "current"
+      }
+    ],
+    "committeeId": null,
+    "sittings": [
+      {
+        "id": "1017",
+        "title": "4th Sitting of First session of 2026",
+        "date": "2026-02-17"
+      },
+      {
+        "id": "1019",
+        "title": "6th Sitting of First session of 2026",
+        "date": "2026-04-13"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1845/WuJHehbjieZ10hErpnYlgtYDprIxXlrg7gF4AJZu.pdf",
+        "file": "tmp/docs/1845-bill.pdf"
+      },
+      {
+        "label": "Bill rejected by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1845/qcVvV56lun3HtGc9Cd3z0wh3Yi1wn585U7qRhKYt.pdf",
+        "file": "tmp/docs/1845-bill-rejected-by-vote.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1845",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1838",
+    "number": "ރ. ނަންބަރު: 5658",
+    "sitting": "2nd Sitting of First session of 2026",
+    "type": "Bills",
+    "status": "Committee Stage",
+    "summary": "Bill on Amendment to the Employment Act (No. 2/2008), sponsored by Hon. Mauroof Zakir, MP for Kendhoo",
+    "title": "Bill on Amendment to the Employment Act (No. 2/2008)",
+    "sponsor": {
+      "constituency": "Kendhoo",
+      "name": "Mauroof Zakir"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "current"
+      }
+    ],
+    "committeeId": "122",
+    "sittings": [
+      {
+        "id": "1015",
+        "title": "2nd Sitting of First session of 2026",
+        "date": "2026-02-10"
+      },
+      {
+        "id": "1024",
+        "title": "11th Sitting of first session of 2026",
+        "date": "2026-04-22"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1838/F7xejaRm0zxx0eu41Z8SexTSVmz4rADUvDYLI079.pdf",
+        "file": "tmp/docs/1838-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1838/Jmt9kzU1hIwiozgsn6FQ8S17TuvjfoYS7R9NsmL6.pdf",
+        "file": "tmp/docs/1838-bill-accepted-by-vote.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1838",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1837",
+    "number": "20/2026/ބ-6",
+    "sitting": "2nd Sitting of First session of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on Amendment to the Employment Act (No. 2/2008), proposed by government, sponsored by Hon. Mohamed Shameez, MP for Madaveli",
+    "title": "Bill on Amendment to the Employment Act (No. 2/2008)",
+    "sponsor": {
+      "constituency": "Madaveli",
+      "name": "Mohamed Shameez"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "125",
+    "sittings": [
+      {
+        "id": "1015",
+        "title": "2nd Sitting of First session of 2026",
+        "date": "2026-02-10"
+      },
+      {
+        "id": "1017",
+        "title": "4th Sitting of First session of 2026",
+        "date": "2026-02-17"
+      },
+      {
+        "id": "1018",
+        "title": "5th Sitting of First session of 2026",
+        "date": "2026-03-08"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1837/UmwkLY56rJkteHb9fku7ogfoYHdy74tNz1BkWVdx.pdf",
+        "file": "tmp/docs/1837-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1837/nRfaX05bGoKbnqwA37ROEqylbHmTHBwPTgsRUmfR.pdf",
+        "file": "tmp/docs/1837-committee-report.pdf"
+      },
+      {
+        "label": "First amendment to the bill by Hon. Hussain Sameer, MP for Thoddoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1837/OVLxbBORlpO80RHpuworJ5UDjxsHa3wog8LPprxx.pdf",
+        "file": "tmp/docs/1837-first-amendment-to-the-bill-by-hon-hussain-sameer-mp-for-thoddoo.pdf"
+      },
+      {
+        "label": "Second amendment to the bill by Hon. Hussain Sameer, MP for Thoddoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1837/IwMAijolNfFeqTU23XGbZMVXPylAqVKQBpxK9q2f.pdf",
+        "file": "tmp/docs/1837-second-amendment-to-the-bill-by-hon-hussain-sameer-mp-for-thoddoo.pdf"
+      },
+      {
+        "label": "Final Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1837/FBAb1Taqp379tea1CDh5AnbLTI2EieR6LqMGo9Fj.pdf",
+        "file": "tmp/docs/1837-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1837/UQdYzavxiPtL5HgTiMbAxI5N177D7UWpOpmf10Rm.pdf",
+        "file": "tmp/docs/1837-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Vote result for First amendment to the bill by Hon. Hussain Sameer, MP for Thoddoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1837/sCzjYNJWSqo5IUVpH8bU1fFrhC7RAQEPReyU4QdM.pdf",
+        "file": "tmp/docs/1837-vote-result-for-first-amendment-to-the-bill-by-hon-hussain-sameer-mp-for-thoddoo.pdf"
+      },
+      {
+        "label": "Vote result for Second amendment to the bill by Hon. Hussain Sameer, MP for Thoddoo",
+        "url": "https://majlis.gov.mv/storage/action_files/1837/1Q5KVVGHcQGHCCQx59pxklETK66QLrEW6RShhhTt.pdf",
+        "file": "tmp/docs/1837-vote-result-for-second-amendment-to-the-bill-by-hon-hussain-sameer-mp-for-thoddoo.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1837/Nhq0eKFeqYzaLToBHlpaWvL3Ol4GSsiKBflGSgab.pdf",
+        "file": "tmp/docs/1837-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1837",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1836",
+    "number": "20/2026/ބ-4",
+    "sitting": "2nd Sitting of First session of 2026",
+    "type": "Bills",
+    "status": "Committee Stage",
+    "summary": "National Service Bill, proposed by government, sponsored by Hon. Faruhath Mohamed, MP for South Kulhudhuffushi",
+    "title": "National Service Bill",
+    "sponsor": {
+      "constituency": "South Kulhudhuffushi",
+      "name": "Faruhath Mohamed"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "current"
+      }
+    ],
+    "committeeId": "122",
+    "sittings": [
+      {
+        "id": "1015",
+        "title": "2nd Sitting of First session of 2026",
+        "date": "2026-02-10"
+      },
+      {
+        "id": "1016",
+        "title": "3rd Sitting of First session of 2026",
+        "date": "2026-02-11"
+      },
+      {
+        "id": "1017",
+        "title": "4th Sitting of First session of 2026",
+        "date": "2026-02-17"
+      },
+      {
+        "id": "1018",
+        "title": "5th Sitting of First session of 2026",
+        "date": "2026-03-08"
+      },
+      {
+        "id": "1019",
+        "title": "6th Sitting of First session of 2026",
+        "date": "2026-04-13"
+      },
+      {
+        "id": "1020",
+        "title": "7th Sitting of First session of 2026",
+        "date": "2026-04-14"
+      },
+      {
+        "id": "1021",
+        "title": "8th Sitting of First session of 2026",
+        "date": "2026-04-15"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1836/rur7aTMW6Xb6IplBJye9YxkL2G5V4C7ImTjs3B6u.pdf",
+        "file": "tmp/docs/1836-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1836/QNo2TzURKhDPjOof58Ps2cQXfxrHLwBXiXAAJq9x.pdf",
+        "file": "tmp/docs/1836-bill-accepted-by-vote.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1836",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1832",
+    "number": "20/2026/ބ-3",
+    "sitting": "1st special sitting of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on amendment to the Constitution, proposed by government, sponsored by Hon. Ibrahim Falah, MP for Inguraidhoo",
+    "title": "Bill on amendment to the Constitution",
+    "sponsor": {
+      "constituency": "Inguraidhoo",
+      "name": "Ibrahim Falah"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "123",
+    "sittings": [
+      {
+        "id": "1011",
+        "title": "1st special sitting of 2026",
+        "date": "2026-01-05"
+      },
+      {
+        "id": "1015",
+        "title": "2nd Sitting of First session of 2026",
+        "date": "2026-02-10"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1832/gjGfCGkTzdp7nfAiLljZTSXAD8nEHjOcUm3j34mn.pdf",
+        "file": "tmp/docs/1832-bill.pdf"
+      },
+      {
+        "label": "Committee report",
+        "url": "https://majlis.gov.mv/storage/action_files/1832/SQADkJjCisIP8CAN7j6LagMlofBXL6eVKQrqq6yD.pdf",
+        "file": "tmp/docs/1832-committee-report.pdf"
+      },
+      {
+        "label": "Final bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1832/h4Bhk7ZlZ9acJgdSzIqjioH6Y1sWEzpJHVjCmyQG.pdf",
+        "file": "tmp/docs/1832-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1832/XMZtyYItsdwhqM8x57XUheR9sNty2VDzKd5g0bq2.pdf",
+        "file": "tmp/docs/1832-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1832/Xr9geLKKxuwePUDcRjLAU1EZrKftyxk6eESxDmMJ.pdf",
+        "file": "tmp/docs/1832-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1832",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1831",
+    "number": "20/2026/ބ-2",
+    "sitting": "1st special sitting of 2026",
+    "type": "Bills",
+    "status": "Passed at Parliament",
+    "summary": "Bill on amendment to the Maldives Pension Act (No.8/2009), proposed by government, Sponsored by Hon. Hassan Mufeed Abdul Gadir, MP for Milandhoo",
+    "title": "Bill on amendment to the Maldives Pension Act (No.8/2009)",
+    "sponsor": {
+      "constituency": "Milandhoo",
+      "name": "Hassan Mufeed Abdul Gadir"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "completed"
+      },
+      {
+        "name": "Third Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Passed at Parliament",
+        "state": "current"
+      }
+    ],
+    "committeeId": "123",
+    "sittings": [
+      {
+        "id": "1011",
+        "title": "1st special sitting of 2026",
+        "date": "2026-01-05"
+      },
+      {
+        "id": "1033",
+        "title": "19th Sitting of First session of 2026",
+        "date": "2026-05-14"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1831/nUfeTG5eVfjZbt9L09hJ6R15aw6NxLux69iIzuqq.pdf",
+        "file": "tmp/docs/1831-bill.pdf"
+      },
+      {
+        "label": "Committee Report",
+        "url": "https://majlis.gov.mv/storage/action_files/1831/teH20xmMUmjznHmn9YzqNuwtfb7UVdv7DJqNiB2b.pdf",
+        "file": "tmp/docs/1831-committee-report.pdf"
+      },
+      {
+        "label": "Final Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1831/I6gBVaTyAbW12Yj4tr6ElAF6C4wGdFcNUrTzM3Br.pdf",
+        "file": "tmp/docs/1831-final-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1831/hW24DcgvLQo6wEcCtMb8IsfhWTpjP9v3CF9U6UmS.pdf",
+        "file": "tmp/docs/1831-bill-accepted-by-vote.pdf"
+      },
+      {
+        "label": "Bill passed at parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1831/8tjtEMMMcwoQxCkR8ceraTqRFWD8aNjmDy2JT4ds.pdf",
+        "file": "tmp/docs/1831-bill-passed-at-parliament.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1831",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "id": "1830",
+    "number": "20/2026/ބ-1",
+    "sitting": "1st special sitting of 2026",
+    "type": "Bills",
+    "status": "Committee Stage",
+    "summary": "Bill on amendment to the Maldives Penal Code Act (No.9/2014) proposed by government, Sponsored by, Hon Ahmed Azzan Marzooq, MP for Central Hithadhoo",
+    "title": "Bill on amendment to the Maldives Penal Code Act (No.9/2014)",
+    "sponsor": {
+      "constituency": "Central Hithadhoo",
+      "name": "Ahmed Azaan Marzooq"
+    },
+    "stages": [
+      {
+        "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Parliamentary Debate",
+        "state": "completed"
+      },
+      {
+        "name": "Committee Stage",
+        "state": "current"
+      }
+    ],
+    "committeeId": "128",
+    "sittings": [
+      {
+        "id": "1011",
+        "title": "1st special sitting of 2026",
+        "date": "2026-01-05"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Bill",
+        "url": "https://majlis.gov.mv/storage/action_files/1830/veFbXnzZ4ESqiym8i6Qj4xz4fZHeUZfbvzXOLu6Q.pdf",
+        "file": "tmp/docs/1830-bill.pdf"
+      },
+      {
+        "label": "Bill accepted by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1830/gTnwu7TAimEwGOradJ3uEBqwdmzKRlVeVjP13F3T.pdf",
+        "file": "tmp/docs/1830-bill-accepted-by-vote.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1830",
+    "fetchedAt": "2026-10-06"
+  }
+]

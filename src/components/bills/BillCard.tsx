@@ -4,7 +4,7 @@ import { themeById, signalsForBill } from '@/data'
 import { StatusPill } from '@/components/ui/StatusPill'
 import { SignalBadge } from '@/components/ui/SignalBadge'
 import { Icon } from '@/components/ui/Icon'
-import { daysSince } from '@/utils/format'
+import { daysSince, formatDate } from '@/utils/format'
 
 export function BillCard({ bill }: { bill: Bill }) {
   const theme = themeById(bill.themeId)
@@ -36,7 +36,11 @@ export function BillCard({ bill }: { bill: Bill }) {
 
       <div className="mt-4 pt-4 border-t border-outline-variant/40 flex items-center justify-between text-label-sm">
         <span className="text-outline">Current stage: <span className="text-on-surface font-label-bold">{bill.currentStage}</span></span>
-        <span className="text-outline">{daysSince(bill.lastActionDate)}d since last action</span>
+        <span className="text-outline">
+          {bill.status === 'Passed' || bill.status === 'Rejected' || bill.status === 'Withdrawn'
+            ? `Closed ${formatDate(bill.lastActionDate)}`
+            : `${daysSince(bill.lastActionDate)}d since last action`}
+        </span>
       </div>
     </Link>
   )

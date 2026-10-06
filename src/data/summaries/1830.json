@@ -1,0 +1,22 @@
+{
+  "workId": "1830",
+  "titleDv": "ޤާނޫނު ނަންބަރު 9/2014 (ދިވެހިރާއްޖޭގެ ޤާނޫނުލްޢުޤޫބާތު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Penal Code. It rewrites the offence about stolen goods so it covers buying, hiding, selling or moving stolen property, not only receiving it. It also expands the cyber-crime article: misusing computer networks, and handing over or holding SIM cards and bank or online accounts for others to misuse, would become crimes. These crimes would be graded by seriousness. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "Buying goods you know are stolen, or lending your SIM card or bank account to someone who misuses it, could become a crime with a prison sentence.",
+  "keyProvisions": [
+    "Replaces Article 218 and renames the offence to cover receiving and buying stolen property. Knowingly taking, holding or buying stolen goods without meaning to return them to the owner is an offence.",
+    "New Article 218 clauses make it an offence to pass stolen property on, hide where it came from, or buy it while knowing it is stolen. Dealing in stolen goods is also covered, including bringing them into or taking them out of the Maldives. Grading follows the property-value rules in Article 210.",
+    "Renames and rewrites Article 310 on cyber-network offences. It covers unauthorised use of or interference with a network, and using SIM cards, bank accounts or online accounts to make an act look like someone else's.",
+    "Under Article 310, giving, selling or holding SIM cards or accounts for others to misuse is also an offence.",
+    "A broad definition of 'network' covers computer systems, data, servers, websites, apps and electronic communications. Offences range from Class 3 to Class 5 felonies, with the Class 3 and 4 levels for cases with aggravating features such as financial harm.",
+    "Also amends Article 616 and its chapter heading, including a new definition. This part could not be read reliably."
+  ],
+  "whoIsAffected": "Anyone who buys or resells second-hand goods, phone and bank account holders, and people accused of online or cyber offences.",
+  "statedReasons": "The government says it wants to update offences in the Penal Code and change the penalties and grading of some existing offences.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 19,
+  "confidence": "Low",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

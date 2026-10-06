@@ -22,7 +22,7 @@ export function BillsPage() {
       <PageHeader
         eyebrow="Bill tracker"
         title="Every bill, and whether it’s moving"
-        description="Track each bill’s legislative journey, time in stage, and any process signals — fast, slow, stalled, or ready but not voted."
+        description="Every bill before the 20th Parliament: what it does in plain English, where it is in the process, and how MPs voted."
       />
 
       <div className="flex flex-col lg:flex-row gap-4 mb-6">
@@ -31,6 +31,7 @@ export function BillsPage() {
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search bills by title or reference…"
+            aria-label="Search bills"
             className="w-full bg-white border border-outline-variant rounded-full px-5 py-3 focus:ring-2 focus:ring-primary outline-none"
           />
         </div>

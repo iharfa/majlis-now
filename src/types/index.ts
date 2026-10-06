@@ -1,9 +1,9 @@
 // ---------------------------------------------------------------------------
 // Majlis Now — core data model
 //
-// These types describe parliamentary entities. The shipped dataset is MOCK
-// (see src/data), but every shape carries the source / confidence / last-updated
-// fields needed so real Majlis data can be dropped in later without UI changes.
+// These types describe parliamentary entities. Every record is built from
+// official majlis.gov.mv pages/PDFs (see src/data + scripts/), and carries
+// source / confidence / last-updated fields so provenance is always visible.
 // ---------------------------------------------------------------------------
 
 export type Confidence = 'High' | 'Medium' | 'Low' | 'Unknown'
@@ -158,6 +158,7 @@ export type BillStage =
   | 'Vote'
   | 'Passed or rejected'
   | 'Ratified or published'
+  | 'Withdrawn'
 
 export type BillStatus =
   | 'Introduced'
@@ -168,6 +169,7 @@ export type BillStatus =
   | 'Rejected'
   | 'Ratified'
   | 'Stalled'
+  | 'Withdrawn'
 
 export interface BillTimelineEvent {
   id: string
@@ -196,13 +198,21 @@ export interface BillDocument {
 
 export interface Bill {
   id: string
-  /** Public-facing bill reference, e.g. "2024/G-12". */
+  /** Public-facing bill reference: the Majlis bill number, e.g. "20/2026/ބ-26". */
   ref: string
   title: string
+  /** Plain-language summary (AI-translated from the Dhivehi bill when available). */
   summary: string
+  /** The one-liner published on the Majlis work page. */
+  officialSummary: string
   whyItMatters: string
   themeId: string
   sponsor: string
+  sponsorMpId?: string
+  /** AI translation/summary of the bill text, with its own provenance fields. */
+  aiSummary?: BillSummary
+  /** Sittings at which this bill was on the agenda (newest first). */
+  sittingIds: string[]
   status: BillStatus
   currentStage: BillStage
   introducedDate: string
@@ -244,9 +254,14 @@ export interface MPVote {
 /** Whether a vote's per-member breakdown is real (sourced) or illustrative. */
 export type VoteProvenance = 'official-rollcall' | 'illustrative'
 
+/** What a floor vote was for. */
+export type VoteType = 'acceptance' | 'passage'
+
 export interface Vote {
   id: string
   title: string
+  /** acceptance = vote to take the bill up (sends it to committee); passage = final vote. */
+  voteType: VoteType
   billId?: string
   issueId?: string
   date: string
@@ -313,9 +328,6 @@ export interface IssueTheme {
   icon: string
   /** Tailwind color token (without the bg-/text- prefix) used for accents. */
   accent: string
-  activeBillCount: number
-  recentVoteCount: number
-  latestSignalId?: string
   publicImpact: string
 }
 
@@ -343,7 +355,7 @@ export interface Issue {
 
 // --- Activity feed ----------------------------------------------------------
 
-export type EntityType = 'bill' | 'vote' | 'mp' | 'committee' | 'issue' | 'theme'
+export type EntityType = 'bill' | 'vote' | 'mp' | 'committee' | 'issue' | 'theme' | 'sitting'
 
 export type ActivityKind =
   | 'vote-passed'
@@ -351,6 +363,7 @@ export type ActivityKind =
   | 'bill-tabled'
   | 'bill-movement'
   | 'committee-hearing'
+  | 'sitting'
   | 'signal'
 
 export interface ActivityFeedItem {
@@ -368,4 +381,58 @@ export interface ActivityFeedItem {
   relatedEntityType?: EntityType
   relatedEntityId?: string
   source?: SourceDocument
+}
+
+// --- AI-translated documents (Dhivehi PDFs read by Claude) -----------------
+
+export interface BillSummary {
+  workId: string
+  titleDv: string
+  summary: string
+  whyItMatters: string
+  keyProvisions: string[]
+  whoIsAffected: string
+  statedReasons: string
+  sourceDoc: string
+  pagesRead: number
+  pagesTotal: number
+  confidence: Confidence
+  model: string
+  generatedAt: string
+}
+
+export interface AgendaItem {
+  n: number
+  text: string
+  workId?: string
+  kind: 'procedural' | 'bill' | 'resolution' | 'report' | 'vote' | 'question' | 'other'
+}
+
+export interface AgendaDoc {
+  sittingId: string
+  date: string
+  title: string
+  agendaNo: string
+  items: AgendaItem[]
+  summary: string
+  pagesRead: number
+  pagesTotal: number
+  confidence: Confidence
+  model: string
+  generatedAt: string
+}
+
+// --- Sittings ---------------------------------------------------------------
+
+export interface Sitting {
+  id: string
+  title: string
+  date: string
+  agendaNo: string
+  agendaPdf?: string
+  /** Bills listed on the sitting's work page. */
+  billIds: string[]
+  url: string
+  agenda?: AgendaDoc
+  sources: SourceDocument[]
 }

@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import type { MP } from '@/types'
 import { partyById } from '@/data'
 import { cn } from '@/utils/cn'
@@ -16,17 +17,20 @@ const SIZES = {
 }
 
 /**
- * MP avatar. Renders the official photo when present; otherwise neutral
- * initials on the party colour — we deliberately avoid fabricated likenesses.
+ * MP avatar. Renders the official photo when present and loadable; otherwise
+ * neutral initials on the party colour — we deliberately avoid fabricated likenesses.
  */
 export function Avatar({ mp, size = 'md', className }: AvatarProps) {
+  const [broken, setBroken] = useState(false)
   const party = partyById(mp.partyId)
-  if (mp.photoUrl) {
+  if (mp.photoUrl && !broken) {
     return (
       <img
         src={mp.photoUrl}
         alt={mp.name}
-        className={cn('rounded-full object-cover', SIZES[size], className)}
+        loading="lazy"
+        onError={() => setBroken(true)}
+        className={cn('rounded-full object-cover shrink-0', SIZES[size], className)}
       />
     )
   }
@@ -35,7 +39,8 @@ export function Avatar({ mp, size = 'md', className }: AvatarProps) {
     <span
       className={cn('rounded-full flex items-center justify-center font-bold shrink-0', SIZES[size], className)}
       style={{ backgroundColor: bg, color: readableText(bg) }}
-      aria-hidden
+      role="img"
+      aria-label={mp.name}
     >
       {mp.initials}
     </span>

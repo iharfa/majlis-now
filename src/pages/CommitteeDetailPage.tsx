@@ -5,7 +5,8 @@ import { PartyTag } from '@/components/ui/PartyTag'
 import { Icon } from '@/components/ui/Icon'
 import { DataMeta } from '@/components/ui/DataMeta'
 import { NotFoundPage } from './NotFoundPage'
-import { committeeById, mpById, constituencyById } from '@/data'
+import { committeeById, mpById, constituencyById, billsForCommittee } from '@/data'
+import { StatusPill } from '@/components/ui/StatusPill'
 import { formatDate } from '@/utils/format'
 
 export function CommitteeDetailPage() {
@@ -17,6 +18,7 @@ export function CommitteeDetailPage() {
   const vice = c.viceChairMpId ? mpById(c.viceChairMpId) : undefined
   const members = c.memberMpIds.map((m) => mpById(m)).filter(Boolean)
   const formerMembers = (c.formerMemberMpIds ?? []).map((m) => mpById(m)).filter(Boolean)
+  const referredBills = billsForCommittee(c.id)
 
   return (
     <Container className="py-8">
@@ -45,7 +47,7 @@ export function CommitteeDetailPage() {
         <Stat value={members.length} label="Members" icon="groups" />
         <Stat value={c.meetings.length} label="Recorded meetings" icon="event" />
         <Stat value={formerMembers.length} label="Former members" icon="history" />
-        <Stat value={c.worksCount ?? 0} label="Works handled" icon="description" />
+        <Stat value={referredBills.length} label="Bills referred" icon="description" />
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-gutter mt-8">
@@ -58,6 +60,20 @@ export function CommitteeDetailPage() {
                 {chair && <LeaderCard role="Chairperson" mpId={chair.id} />}
                 {vice && <LeaderCard role="Vice Chairperson" mpId={vice.id} />}
               </div>
+            </section>
+          )}
+
+          {referredBills.length > 0 && (
+            <section className="bg-white rounded-2xl border border-outline-variant/30 p-6">
+              <h2 className="font-headline-md text-headline-md mb-4">Bills referred to this committee</h2>
+              <ul className="divide-y divide-outline-variant/40">
+                {referredBills.map((b) => (
+                  <li key={b.id} className="py-3 flex items-center justify-between gap-3">
+                    <Link to={`/bills/${b.id}`} className="min-w-0 font-label-bold text-on-surface hover:text-primary truncate">{b.title}</Link>
+                    <StatusPill status={b.status} />
+                  </li>
+                ))}
+              </ul>
             </section>
           )}
 

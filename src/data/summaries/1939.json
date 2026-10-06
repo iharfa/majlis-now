@@ -1,0 +1,22 @@
+{
+  "workId": "1939",
+  "titleDv": "ޤާނޫނު ނަންބަރު 10/2011 (މުދަލާއި ޚިދުމަތުގެ އަގުން ޓެކްސް ނެގުމުގެ ޤާނޫނު) އަށް 8 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This eighth amendment to the GST Act sets clear rules for when goods and services count as supplied in the Maldives. From 1 October 2026, foreign sellers with no base here who sell Maldives holidays (rooms, meals, transport, tours) or booking services must charge GST. It also changes who must register for GST, lets small businesses under MVR 500,000 a year cancel their registration, adds exemptions for licensed waste services and some foreign-funded government projects, and sets rules for tourist boat charters.",
+  "whyItMatters": "Overseas booking sites and tour sellers will collect GST on Maldives trips, raising government revenue. Small shops and traders get clearer rules on when they must register for GST and when they can leave the system.",
+  "keyProvisions": [
+    "New sections 5-1 and 5-2: goods count as supplied in the Maldives if transport starts here or they are made available here; services count if supplied from a Maldivian place of business, or, for unregistered buyers, if performed here, linked to property here, or tied to an inbound tourism product.",
+    "Section 15(a)(6) and 15(b-1): GST applies from 1 October 2026 to inbound tourism products, and related agency or booking services, sold by sellers with no permanent establishment in the Maldives; such sellers cannot claim input tax.",
+    "Section 51: registration required within 30 days for businesses with a Maldivian base whose sales go over MVR 1 million in any 12 months (or are expected to), suppliers of tourism-sector goods and services, and importers other than for personal use.",
+    "Section 55: registered businesses may ask to cancel registration if sales were under MVR 500,000 in the past 12 months and are expected to stay under that.",
+    "Section 20 adds exemptions for licensed waste management services and for goods and services supplied to government for projects under foreign loan or grant agreements that exempt tax; tourist vessel charter rules added (15 days or less, 60-day aggregation).",
+    "Tax invoices or receipts must be issued within 3 days of supply; records kept 5 years; sections 10, 34, 35 and 36(b) repealed; takes effect on gazette publication."
+  ],
+  "whoIsAffected": "Foreign online travel sellers, Maldivian businesses near or below the GST registration thresholds, importers, tourist vessel operators, and waste management companies.",
+  "statedReasons": "",
+  "sourceDoc": "Final Bill",
+  "pagesRead": 17,
+  "pagesTotal": 17,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

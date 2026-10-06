@@ -1,0 +1,223 @@
+[
+  {
+    "id": "1069",
+    "title": "2nd Sitting of third session of 2026",
+    "date": "2026-10-06",
+    "agendaNo": "އޖ/2/3/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/52rvGjCf6UXM60UPEqOAsmu3tMihdVZSqzZeZNZK.pdf",
+    "workIds": [],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1069",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1069-agenda.pdf"
+  },
+  {
+    "id": "1068",
+    "title": "1st Sitting of Third session of 2026",
+    "date": "2026-10-05",
+    "agendaNo": "އޖ/1/3/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/e4VI18wJMZgLUV0MNrdkffCCDa3nI2AF94qiEx9v.pdf",
+    "workIds": [
+      "1954",
+      "1955",
+      "1956"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1068",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1068-agenda.pdf"
+  },
+  {
+    "id": "1067",
+    "title": "28th Sitting of second session of 2026",
+    "date": "2026-08-26",
+    "agendaNo": "އޖ/28/2/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/PqUw9MwSiJn5Fk9LQWnNpV6YPcWIdX3HIJtbYOLM.pdf",
+    "workIds": [
+      "1951",
+      "1952",
+      "1953",
+      "1913",
+      "1940",
+      "1928",
+      "1935",
+      "1853",
+      "1941",
+      "1948",
+      "1732",
+      "1922",
+      "1814"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1067",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1067-agenda.pdf"
+  },
+  {
+    "id": "1066",
+    "title": "27th Sitting of second session of 2026",
+    "date": "2026-08-23",
+    "agendaNo": "އޖ/27/2/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/vUoV5mCxiFLwvHxfRxitBcGUd9oBgyeFG0T55yrP.pdf",
+    "workIds": [
+      "1948",
+      "1949",
+      "1950",
+      "1939",
+      "1944"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1066",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1066-agenda.pdf"
+  },
+  {
+    "id": "1065",
+    "title": "26th Sitting of second session of 2026",
+    "date": "2026-08-18",
+    "agendaNo": "އޖ/26/2/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/LlWKWOgDZCvpO8GxktbacOE7We0JJ12qJY4fEFLq.pdf",
+    "workIds": [
+      "1945",
+      "1946",
+      "1947",
+      "1914",
+      "1943",
+      "1932",
+      "1935"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1065",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1065-agenda.pdf"
+  },
+  {
+    "id": "1064",
+    "title": "25th Sitting of second session of 2026",
+    "date": "2026-08-17",
+    "agendaNo": "އޖ/25/2/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/eHGuFXivme5bZgNqQdshpd44J4azTDsOoTqeybDc.pdf",
+    "workIds": [
+      "1943",
+      "1944",
+      "1899",
+      "1929",
+      "1912"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1064",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1064-agenda.pdf"
+  },
+  {
+    "id": "1063",
+    "title": "24th Sitting of Second session of 2026",
+    "date": "2026-08-16",
+    "agendaNo": "އޖ/24/2/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/m44mgTus4VdQsY81EYZnx2gpJaykffiFzbZ6shYD.pdf",
+    "workIds": [
+      "1939",
+      "1940",
+      "1941",
+      "1942"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1063",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1063-agenda.pdf"
+  },
+  {
+    "id": "1034",
+    "title": "20th Sitting of First session of 2026",
+    "date": "2026-05-31",
+    "agendaNo": "އޖ/20/1/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/DYBo07OOVgnE0VZ2gBTNWMFObANM9YvetkPKEp7U.pdf",
+    "workIds": [
+      "1876"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1034",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1034-agenda.pdf"
+  },
+  {
+    "id": "1033",
+    "title": "19th Sitting of First session of 2026",
+    "date": "2026-05-14",
+    "agendaNo": "އޖ/19/1/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/bjz9VWl7SURN4MGvcfOVzrdAcl1yTUPQcBZnoEVi.pdf",
+    "workIds": [
+      "1875",
+      "1774",
+      "1831",
+      "1873"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1033",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1033-agenda.pdf"
+  },
+  {
+    "id": "1032",
+    "title": "19h Sitting of first session of 2026",
+    "date": "2026-05-13",
+    "agendaNo": "އޖ/19/1/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/5EO5qOBVpWOatlO9ADXUPMshJDTYyTNUiavGfxJm.pdf",
+    "workIds": [
+      "1874"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1032",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1032-agenda.pdf"
+  },
+  {
+    "id": "1031",
+    "title": "18th Sitting of first session of 2026",
+    "date": "2026-05-12",
+    "agendaNo": "އޖ/18/1/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/Ne6CeV2fb7sgagRIPdRR4owjS5gIeNjIQIzfVOOE.pdf",
+    "workIds": [
+      "1873"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1031",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1031-agenda.pdf"
+  },
+  {
+    "id": "1030",
+    "title": "17th Sitting of First session of 2026",
+    "date": "2026-05-11",
+    "agendaNo": "އޖ/17/1/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/06aKRALfWpdBQoGG1n7VL33P2GQizWzSRPROAZxU.pdf",
+    "workIds": [
+      "1870",
+      "1871",
+      "1868",
+      "1864"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1030",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1030-agenda.pdf"
+  },
+  {
+    "id": "1012",
+    "title": "2nd special sitting of 2026",
+    "date": "2026-01-06",
+    "agendaNo": "އޖ/2026/20/ޚޞ/2",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/3nkMx4kGwH6oGgYlUTiNRxY9QrN58h3jzPoS81Vy.pdf",
+    "workIds": [
+      "1833"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1012",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1012-agenda.pdf"
+  },
+  {
+    "id": "1011",
+    "title": "1st special sitting of 2026",
+    "date": "2026-01-05",
+    "agendaNo": "އޖ/2026/20/ޚޞ/1",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/2f1bJ7h93hyH8BWf9VbrIhiDtjsvuqWX7oi1AFhs.pdf",
+    "workIds": [
+      "1830",
+      "1831",
+      "1832",
+      "1742",
+      "1833"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1011",
+    "fetchedAt": "2026-10-06",
+    "agendaFile": "tmp/docs/sitting-1011-agenda.pdf"
+  }
+]

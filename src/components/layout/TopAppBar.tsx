@@ -8,6 +8,7 @@ const NAV = [
   { to: '/bills', label: 'Bills' },
   { to: '/mps', label: 'MPs' },
   { to: '/votes', label: 'Votes' },
+  { to: '/sittings', label: 'Sittings' },
   { to: '/issues', label: 'Issues' },
 ]
 
@@ -54,6 +55,7 @@ export function TopAppBar() {
               value={q}
               onChange={(e) => setQ(e.target.value)}
               placeholder="Search Majlis…"
+              aria-label="Search Majlis Now"
               className="w-40 lg:w-56 bg-surface-container-low border border-outline-variant rounded-full pl-9 pr-3 py-1.5 text-label-sm focus:ring-2 focus:ring-primary focus:border-primary outline-none transition-all"
             />
             <Icon name="search" className="absolute left-2.5 text-on-surface-variant text-[18px]" />

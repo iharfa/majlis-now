@@ -11,8 +11,8 @@ export function Footer() {
             <span className="font-display-lg text-headline-md tracking-tighter text-primary">Majlis Now</span>
           </div>
           <p className="text-outline text-sm max-w-xs">
-            An independent prototype bridging the gap between the Maldivian Parliament and its youth. Open data,
-            evidence-first, non-partisan.
+            An independent, open-source window into the People’s Majlis for young Maldivians. Evidence-first,
+            non-partisan.
           </p>
           <p className="text-outline text-label-sm">
             Data source:{' '}
@@ -24,14 +24,17 @@ export function Footer() {
             >
               People’s Majlis
             </a>{' '}
-            · Roster, committees &amp; roll-call votes are official records.
+            · Roster, committees, sittings &amp; roll-call votes are official records. Bill and agenda summaries are AI translations of
+            the official Dhivehi PDFs — always check the source.
           </p>
         </div>
         <div className="flex gap-6 text-sm">
+          <Link to="/sittings" className="text-outline hover:text-primary font-label-bold">Sittings</Link>
           <Link to="/issues" className="text-outline hover:text-primary font-label-bold">Issues</Link>
           <Link to="/committees" className="text-outline hover:text-primary font-label-bold">Committees</Link>
           <Link to="/compare" className="text-outline hover:text-primary font-label-bold">Compare MPs</Link>
           <Link to="/search" className="text-outline hover:text-primary font-label-bold">Search</Link>
+          <a href="https://github.com/iharfa/majlis-now" target="_blank" rel="noreferrer noopener" className="text-outline hover:text-primary font-label-bold">Source code</a>
         </div>
       </div>
     </footer>

@@ -27,7 +27,7 @@ export function MPsPage() {
       <PageHeader
         eyebrow="Members"
         title="Find your MP and see their record"
-        description="Action-based accountability records — attendance, votes by issue, and recent activity. We show records, not rankings."
+        description="Every member of the 20th Parliament: committee seats, bills sponsored, and how they voted on each recorded roll call. Records, not rankings."
       >
         <Link
           to="/compare"
@@ -46,6 +46,7 @@ export function MPsPage() {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Filter by name, constituency, or atoll…"
+          aria-label="Filter MPs"
           className="flex-1 bg-white border border-outline-variant rounded-full px-5 py-3 focus:ring-2 focus:ring-primary outline-none"
         />
       </div>

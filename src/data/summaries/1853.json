@@ -1,0 +1,22 @@
+{
+  "workId": "1853",
+  "titleDv": "ޤާނޫނު ނަންބަރު 14/2019 (ދިވެހިރާއްޖޭގެ މަސްވެރިކަމުގެ ޤާނޫނު) އަށް 2 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill updates the 2019 Fisheries Act. It bans fishing protected species and fishing inside protected areas. It lets the fisheries ministry license companies to build and run fishing ports, and lease uninhabited islands, lagoons and sea areas for fish farming at fixed yearly rents. It sets up a bond system for getting seized boats and equipment back, and new rules for dealing with foreign boats. It also raises fines sharply and adds a notice, review and court-appeal process for penalties.",
+  "whyItMatters": "Fishers and fishing businesses face much higher fines (up to MVR 2 million in some cases). The bill also creates a legal path for private fishing ports and fish farms on uninhabited islands and lagoons.",
+  "keyProvisions": [
+    "New Article 27-1: fishing protected species, or fishing in a protected area outside approved rules, is banned; under Article 77 fishing them can bring a fine of up to MVR 500,000, and exporting them up to MVR 1 million.",
+    "New Article 30-1: the ministry may grant permits to develop and run fishing ports (mooring, fish cleaning, processing, boat servicing, gear shops), with regulations covering lease terms, safety and port charges.",
+    "Article 50: uninhabited islands and lagoon or sea areas may be leased for aquaculture at MVR 2.50 per square metre per year for island land and 50 laari per square metre for lagoon or sea.",
+    "Articles 65 and 66: seized boats or equipment can be released once the owner lodges a bond with the finance ministry, which is refunded (any balance within 14 days) if the offence is not proven.",
+    "New Article 67-1: a foreign vessel from a country with an agreement can be handed to its flag state once one third of its fine is paid to the state.",
+    "Higher fines: up to MVR 400,000 each for a vessel's master, owner and operator (Art. 73); MVR 2 million (Art. 76); MVR 100,000 to 5 million for companies (Art. 78-2); MVR 200,000 for damaging fisheries facilities (Art. 78-1)."
+  ],
+  "whoIsAffected": "Fishers, boat owners and operators, fish farm and fishing port businesses, foreign fishing vessels, and the fisheries ministry.",
+  "statedReasons": "",
+  "sourceDoc": "Final bill",
+  "pagesRead": 12,
+  "pagesTotal": 16,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,21 @@
+{
+  "workId": "1888",
+  "titleDv": "ޤާނޫނު ނަންބަރު 46/78 (ދިވެހިރާއްޖޭގެ ރަށްރަށުގެ ރަށްވެއްސަކަށް ވުމާބެހޭ ޤާނޫނު) އަށް ...... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill would add a new Article 5-1 to the island residency law. Anyone who legally owns or has the right to live in a plot, house or flat on another island (through inheritance, purchase, gift, a court ruling or a government housing scheme) could apply to move their official residency registration there. Once registered, they would be removed from their old island's register. No one could be registered on two islands at once.",
+  "whyItMatters": "Your registered island decides where you vote and where you can get many local services. Under this bill, owning a home on an island would be enough to register there, without first living there for five years.",
+  "keyProvisions": [
+    "New Article 5-1: a person registered on one island who gets a plot, house, flat or other home on another island by inheritance, land division, purchase, gift, court ruling or a government scheme can apply to become a resident of that island",
+    "The applicant must provide documents proving ownership or a legal right to the property, and is then registered as a resident of that island",
+    "A person registered under this article is removed from their previous island's register, and no one may be registered on more than one island at the same time",
+    "Regulations must set out the registration procedure, the documents required, and how councils handle the transfer",
+    "The related regulations must be updated and published in the Government Gazette within 3 months; the amendment takes effect when published in the Gazette"
+  ],
+  "whoIsAffected": "Maldivians who own or legally hold housing on an island other than the one they are registered on, and the island councils that keep residency registers.",
+  "statedReasons": "The sponsor says the current law only lets people register on an island after living there for 5 years. The bill aims to let people who own or have a legal right to housing on an island register there, and to make the legal framework for this clearer.",
+  "sourceDoc": "Bill",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

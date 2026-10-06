@@ -11,7 +11,7 @@ export function VotesPage() {
       <PageHeader
         eyebrow="Key votes"
         title="How Parliament decided"
-        description="Every recorded vote, what it decided in plain language, and how the parties split."
+        description="Every recorded roll-call vote: whether it was a vote to accept a bill or the final vote, what it decided, and how the parties split."
       />
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-gutter">
         {sorted.map((v) => {
@@ -33,16 +33,14 @@ export function VotesPage() {
                 >
                   {v.result}
                 </span>
-                {v.provenance === 'official-rollcall' && (
-                  <span className="inline-flex items-center gap-1 bg-secondary-container text-on-secondary-container px-2 py-0.5 rounded-full text-label-sm font-label-bold">
-                    <Icon name="verified" className="text-[13px]" /> Official
-                  </span>
-                )}
+                <span className="text-label-sm font-label-bold text-on-surface-variant bg-surface-container px-2 py-0.5 rounded-full">
+                  {v.voteType === 'acceptance' ? 'Acceptance' : 'Final'}
+                </span>
                 {theme && <span className="text-label-sm text-on-surface-variant">{theme.name}</span>}
                 <span className="text-label-sm text-outline ml-auto">{formatDate(v.date)}</span>
               </div>
               <h3 className="font-headline-md text-lg text-on-surface group-hover:text-primary transition-colors">
-                {v.title}
+                {v.title.replace(/ — .*$/, '')}
               </h3>
               <p className="mt-2 text-sm text-on-surface-variant line-clamp-2">{v.whatItDecided}</p>
 
@@ -55,7 +53,7 @@ export function VotesPage() {
               <div className="mt-3 flex items-center gap-4 text-label-sm text-on-surface-variant">
                 <span className="text-secondary font-label-bold">{v.yesCount} Yes</span>
                 <span className="text-error font-label-bold">{v.noCount} No</span>
-                <span className="text-outline">{v.absentCount} Absent</span>
+                <span className="text-outline">{v.absentCount} absent / not voting</span>
                 <Icon name="arrow_forward" className="text-primary ml-auto" />
               </div>
             </Link>

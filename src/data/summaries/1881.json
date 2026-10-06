@@ -1,0 +1,21 @@
+{
+  "workId": "1881",
+  "titleDv": "ޑިޖިޓަލް އައިޑެންޓިޓީގެ ބިލު",
+  "summary": "This government bill would create a legal 'Maldives digital identity system', so people can prove who they are online with government offices, companies and other people. It covers issuing digital ID numbers, authenticators and digital wallets, identity checks, system security and personal data protection. It also sets the rights of people who register and the duties of organisations that use the system. This summary is based on the contents list and the first 19 articles only.",
+  "whyItMatters": "A legal digital ID could change how you log in to government and private services. It would also set rules on who can use your identity data and how it must be protected.",
+  "keyProvisions": [
+    "Article 1: sets principles and rules for setting up and running a Maldives digital identity system, the rights of people who register, and the duties of those taking part in it; the law would be called the 'Digital Identity Act'",
+    "Article 3: applies to people in the Maldives, Maldivians abroad, people outside the Maldives who use the system, and government institutions",
+    "Article 4: recognises a digital identity issued under this law as a way to identify a person in transactions",
+    "Article 19: establishes the 'Maldives Digital Identity System'",
+    "Contents list (chapters not read): issuing digital ID numbers, identity verification services, digital wallets, personal data protection including data breach notices, a supervisory body, and complaints"
+  ],
+  "whoIsAffected": "Everyone who uses government or private services that check identity, and the government bodies and businesses that would rely on the digital ID system.",
+  "statedReasons": "The government says the bill sets up a secure, trusted digital identity system for verifying identity in dealings with state bodies, legal persons and individuals. It also creates the legal framework to run the system and protect the data it uses.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 111,
+  "confidence": "Low",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

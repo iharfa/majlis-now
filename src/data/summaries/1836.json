@@ -1,0 +1,22 @@
+{
+  "workId": "1836",
+  "titleDv": "ވަޒަނީ ޚިދުމަތުގެ ބިލު",
+  "summary": "This bill sets up a National Service Programme. Maldivians aged 16 to 28 can sign up for basic training and education, then serve in the state's defence and emergency services. Joining requires passing a medical check. Participants under 18 need a parent or guardian's consent and cannot be given weapons training. The bill also covers leaving the programme, being dismissed from it, and how it is governed. Only the first 12 of 25 pages were read.",
+  "whyItMatters": "Young Maldivians would get a legal route into structured training in discipline, leadership and emergency skills. The bill also sets protections for 16 and 17-year-olds who take part.",
+  "keyProvisions": [
+    "Creates a 'National Service Programme' with two parts: a basic training and education course, and service in the state's defence and emergency services (Article 3).",
+    "Any Maldivian aged 16 to 28 may enrol under the rules in this law (Article 5).",
+    "Children aged 16 to 17 can enrol only if they ask to join and their parent or guardian agrees. The programme must explain the details to both of them (Article 6).",
+    "Participants under 18 may not be given any training in carrying or using weapons (Article 6).",
+    "Applicants must pass a medical assessment before enrolling (Articles 7 and 8).",
+    "Participants may leave under rules set in regulations, and a parent can withdraw a participant under 18. Participants who break the programme's rules can be dismissed (Articles 9 and 10)."
+  ],
+  "whoIsAffected": "Maldivians aged 16 to 28 who choose to join, their parents, and the defence and emergency services that would train them.",
+  "statedReasons": "The government says it wants to give national service a firm legal basis. The law would set out the programme, its aims, who can join, and participants' rights and duties.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 25,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

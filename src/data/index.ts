@@ -1,16 +1,6 @@
-// Central data access layer. Pages/components import from here so swapping the
-// mock dataset for a real API later only touches this module.
-import type {
-  ActivityFeedItem,
-  Bill,
-  Committee,
-  Issue,
-  IssueTheme,
-  MP,
-  MPVote,
-  ParliamentSignal,
-  Vote,
-} from '@/types'
+// Central data access layer. Pages/components import from here so the data
+// source can change without touching the UI.
+import type { ActivityFeedItem, Bill, Committee, IssueTheme, MP, MPVote, ParliamentSignal, Sitting, Vote } from '@/types'
 
 import { parties, partyById } from './parties'
 import { constituencies, constituencyById } from './constituencies'
@@ -18,58 +8,34 @@ import { themes, themeById } from './themes'
 import { mps, mpById } from './mps'
 import { committees, committeeById } from './committees'
 import { realActivity } from './realActivity'
-import { realBills, realVotes } from './realData'
+import { realBills, realSittings, realVotes } from './realData'
 
 // Everything shown is real, sourced data from the People's Majlis.
 export const bills: Bill[] = realBills
 export const votes: Vote[] = realVotes
+export const sittings: Sitting[] = realSittings
 export const activity: ActivityFeedItem[] = realActivity
-// No mock signals/issues yet; empty arrays keep the helper selectors valid.
+// No authored signals yet; empty array keeps the helper selectors valid.
 export const signals: ParliamentSignal[] = []
-export const issues: Issue[] = []
 export const billById = (id: string) => bills.find((b) => b.id === id)
 export const voteById = (id: string) => votes.find((v) => v.id === id)
+export const sittingById = (id: string) => sittings.find((s) => s.id === id)
 export const signalById = (id: string) => signals.find((s) => s.id === id)
-export const issueById = (id: string) => issues.find((i) => i.id === id)
 
-export {
-  parties,
-  partyById,
-  constituencies,
-  constituencyById,
-  themes,
-  themeById,
-  mps,
-  mpById,
-  committees,
-  committeeById,
-}
+export { parties, partyById, constituencies, constituencyById, themes, themeById, mps, mpById, committees, committeeById }
 
 // --- Derived selectors ------------------------------------------------------
 
-export const billsForTheme = (themeId: string): Bill[] =>
-  bills.filter((b) => b.themeId === themeId)
-
-export const votesForTheme = (themeId: string): Vote[] =>
-  votes.filter((v) => v.themeId === themeId)
-
-export const signalsForTheme = (themeId: string): ParliamentSignal[] =>
-  signals.filter((s) => s.themeId === themeId)
-
-export const signalsForBill = (billId: string): ParliamentSignal[] =>
-  signals.filter((s) => s.billId === billId)
-
-export const signalsForCommittee = (committeeId: string): ParliamentSignal[] =>
-  signals.filter((s) => s.committeeId === committeeId)
-
-export const votesForBill = (billId: string): Vote[] =>
-  votes.filter((v) => v.billId === billId)
-
-export const billsForCommittee = (committeeId: string): Bill[] =>
-  bills.filter((b) => b.committeeId === committeeId)
-
-export const mpsForCommittee = (committeeId: string): MP[] =>
-  mps.filter((m) => m.committeeIds?.includes(committeeId) ?? false)
+export const billsForTheme = (themeId: string): Bill[] => bills.filter((b) => b.themeId === themeId)
+export const votesForTheme = (themeId: string): Vote[] => votes.filter((v) => v.themeId === themeId)
+export const signalsForTheme = (themeId: string): ParliamentSignal[] => signals.filter((s) => s.themeId === themeId)
+export const signalsForBill = (billId: string): ParliamentSignal[] => signals.filter((s) => s.billId === billId)
+export const signalsForCommittee = (committeeId: string): ParliamentSignal[] => signals.filter((s) => s.committeeId === committeeId)
+export const votesForBill = (billId: string): Vote[] => votes.filter((v) => v.billId === billId)
+export const billsForCommittee = (committeeId: string): Bill[] => bills.filter((b) => b.committeeId === committeeId)
+export const billsSponsoredBy = (mpId: string): Bill[] => bills.filter((b) => b.sponsorMpId === mpId)
+export const sittingsForBill = (billId: string): Sitting[] => sittings.filter((s) => s.billIds.includes(billId))
+export const mpsForCommittee = (committeeId: string): MP[] => mps.filter((m) => m.committeeIds?.includes(committeeId) ?? false)
 
 /** Committees a given MP sits on, with their role, derived from real membership. */
 export function committeesForMP(mpId: string): Array<{ committee: Committee; role: 'Chair' | 'Vice Chair' | 'Member' }> {
@@ -77,30 +43,30 @@ export function committeesForMP(mpId: string): Array<{ committee: Committee; rol
     .filter((c) => c.memberMpIds.includes(mpId) || c.chairMpId === mpId || c.viceChairMpId === mpId)
     .map((committee) => ({
       committee,
-      role:
-        committee.chairMpId === mpId ? 'Chair' : committee.viceChairMpId === mpId ? 'Vice Chair' : 'Member',
+      role: committee.chairMpId === mpId ? 'Chair' : committee.viceChairMpId === mpId ? 'Vice Chair' : 'Member',
     }))
 }
 
-export const mpsForParty = (partyId: string): MP[] =>
-  mps.filter((m) => m.partyId === partyId)
+export const mpsForParty = (partyId: string): MP[] => mps.filter((m) => m.partyId === partyId)
 
-/** All recorded votes cast by a given MP, paired with the parent Vote. */
+/** All recorded votes cast by a given MP, paired with the parent Vote (newest first). */
 export function votesByMP(mpId: string): Array<{ vote: Vote; mpVote: MPVote }> {
   const out: Array<{ vote: Vote; mpVote: MPVote }> = []
   for (const v of votes) {
     const mv = v.mpVotes.find((x) => x.mpId === mpId)
     if (mv) out.push({ vote: v, mpVote: mv })
   }
-  return out
+  return out.sort((a, b) => b.vote.date.localeCompare(a.vote.date))
+}
+
+/** Attendance derived from roll calls: present = voted, abstained, or "Not Voted" (in the chamber). */
+export function attendanceForMP(mpId: string): { present: number; total: number } {
+  const rows = votesByMP(mpId)
+  return { present: rows.filter(({ mpVote }) => mpVote.detail !== 'Not Present').length, total: rows.length }
 }
 
 export function themeForBill(bill: Bill): IssueTheme | undefined {
   return themeById(bill.themeId)
-}
-
-export function issuesForTheme(themeId: string): Issue[] {
-  return issues.filter((i) => i.themeId === themeId)
 }
 
 /** Severity-ordered signals for the homepage briefing. */
@@ -111,7 +77,7 @@ export function rankedSignals(): ParliamentSignal[] {
 
 /** Simple cross-entity search used by the global search page. */
 export interface SearchHit {
-  type: 'bill' | 'vote' | 'mp' | 'committee' | 'issue' | 'theme'
+  type: 'bill' | 'vote' | 'mp' | 'committee' | 'theme' | 'sitting'
   id: string
   title: string
   subtitle: string
@@ -123,8 +89,8 @@ export function search(query: string): SearchHit[] {
   const hits: SearchHit[] = []
 
   for (const b of bills)
-    if (`${b.title} ${b.ref} ${b.summary}`.toLowerCase().includes(q))
-      hits.push({ type: 'bill', id: b.id, title: b.title, subtitle: `Bill · ${b.ref}` })
+    if (`${b.title} ${b.ref} ${b.summary} ${b.sponsor}`.toLowerCase().includes(q))
+      hits.push({ type: 'bill', id: b.id, title: b.title, subtitle: `Bill · ${b.status}` })
 
   for (const v of votes)
     if (v.title.toLowerCase().includes(q))
@@ -140,9 +106,9 @@ export function search(query: string): SearchHit[] {
     if (c.name.toLowerCase().includes(q))
       hits.push({ type: 'committee', id: c.id, title: c.name, subtitle: 'Committee' })
 
-  for (const i of issues)
-    if (`${i.title} ${i.plainLanguageQuestion}`.toLowerCase().includes(q))
-      hits.push({ type: 'issue', id: i.id, title: i.title, subtitle: 'Issue' })
+  for (const s of sittings)
+    if (`${s.title} ${s.agenda?.summary ?? ''} ${s.agenda?.items.map((i) => i.text).join(' ') ?? ''}`.toLowerCase().includes(q))
+      hits.push({ type: 'sitting', id: s.id, title: s.title, subtitle: `Sitting · ${s.date}` })
 
   for (const t of themes)
     if (t.name.toLowerCase().includes(q))
@@ -157,9 +123,7 @@ export function findMPs(query: string): MP[] {
   if (!q) return []
   return mps.filter((m) => {
     const c = constituencyById(m.constituencyId)
-    return `${m.name} ${c?.name ?? ''} ${c?.atoll ?? ''} ${c?.islands.join(' ') ?? ''}`
-      .toLowerCase()
-      .includes(q)
+    return `${m.name} ${c?.name ?? ''} ${c?.atoll ?? ''} ${c?.islands.join(' ') ?? ''}`.toLowerCase().includes(q)
   })
 }
 

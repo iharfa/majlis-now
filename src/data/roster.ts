@@ -2,7 +2,7 @@ import type { Constituency, MP } from '@/types'
 
 // ---------------------------------------------------------------------------
 // REAL DATA — 20th People's Majlis roster.
-// Source: https://majlis.gov.mv/en/20-parliament/members (fetched 2026-06).
+// Source: https://majlis.gov.mv/en/20-parliament/members (verified 2026-10-06).
 //
 // Names, constituencies, parties, photos and profile links are taken from the
 // official site. Atoll groupings are derived (best-effort) for Find-your-MP;
@@ -10,7 +10,9 @@ import type { Constituency, MP } from '@/types'
 // are NOT published as open data, so those MP fields are intentionally omitted.
 // ---------------------------------------------------------------------------
 
-const PHOTO_BASE = 'https://majlis.gov.mv/storage/members/'
+// Photos are mirrored into public/photos/<id>.jpg by scripts/fetch_photos.py so
+// the site never hotlinks majlis.gov.mv at runtime. The hash column is kept so
+// the script knows what to fetch.
 const PROFILE_BASE = 'https://majlis.gov.mv/en/20-parliament/members/'
 
 // [ name, constituency, atoll, partyId, photoHash, profileId, leadershipRole? ]
@@ -116,7 +118,7 @@ const RAW: Row[] = [
 // Members no longer sitting (shown with a "Former member" badge).
 const FORMER = new Set(['233'])
 
-function slug(s: string): string {
+export function slug(s: string): string {
   return s
     .toLowerCase()
     .replace(/['’.]/g, '')
@@ -140,11 +142,11 @@ export const constituencies: Constituency[] = RAW.map(([, con, atoll]) => ({
 export const constituencyById = (id: string) => constituencies.find((c) => c.id === id)
 
 // --- Build MPs --------------------------------------------------------------
-export const mps: MP[] = RAW.map(([name, con, , partyId, photoHash, pid, role]) => ({
+export const mps: MP[] = RAW.map(([name, con, , partyId, , pid, role]) => ({
   id: `mp-${pid}`,
   name,
   initials: initials(name),
-  photoUrl: PHOTO_BASE + photoHash + '.jpg',
+  photoUrl: `/photos/${pid}.jpg`,
   profileUrl: PROFILE_BASE + pid,
   constituencyId: slug(con),
   partyId,
@@ -155,7 +157,7 @@ export const mps: MP[] = RAW.map(([name, con, , partyId, photoHash, pid, role]) 
       id: `src-mp-${pid}`,
       label: 'Official member profile — People’s Majlis',
       url: PROFILE_BASE + pid,
-      lastUpdated: '2026-06-12',
+      lastUpdated: '2026-10-06',
       kind: 'official',
     },
   ],

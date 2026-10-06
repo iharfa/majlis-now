@@ -1,0 +1,22 @@
+{
+  "workId": "1873",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ދާއިރާތައް ލާމަރުކަޒީ އުސޫލުން ހިންގުމުގެ ޤާނޫނު) އަށް 18 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This amendment to the Decentralization Act changes how staff are hired and paid at the 'Authority' set up under Article 61. Its staff become civil servants, hired and dismissed by the Civil Service Commission, and its chief executive takes on staff management duties. It also changes council funding: before money is paid to councils under Article 79, any fines a council owes the state are deducted. So are council bills for electricity, water, sewerage or waste left unpaid for 6 months.",
+  "whyItMatters": "Councils that fall behind on utility bills or fines would get less money from the government. That could affect which services they can afford to run on the islands.",
+  "keyProvisions": [
+    "Repeals one sub-clause of Article 61",
+    "New Article 61-3: the Authority's staff are appointed and dismissed by the Civil Service Commission on the Authority's advice, and come under the Civil Service Act (5/2007) and its regulations",
+    "The chief executive officer drafts the staff structure on the board's advice and the Civil Service Commission approves it; the National Pay Commission sets salaries and allowances under the State Wage Policy Act (11/2016)",
+    "For staff matters, the chief executive officer takes on the role that Article 63 of the Civil Service Act gives to another official",
+    "Amended Article 79(n): before revenue is released to councils, any fines the council owes the state are deducted, along with charges for electricity, water, sewerage and waste services left unpaid for 6 months",
+    "Transitional deadlines: staff structure submitted within 30 days, approved within 15 days, pay set within 30 days, and staff placed in posts within 60 days"
+  ],
+  "whoIsAffected": "Staff of the Authority under the Decentralization Act, island and city councils, and the utility and waste companies that bill councils.",
+  "statedReasons": "",
+  "sourceDoc": "Final Bill",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

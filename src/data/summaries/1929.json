@@ -1,0 +1,22 @@
+{
+  "workId": "1929",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2021 (ޤައުމީ ޕޭމަންޓް ސިސްޓަމްގެ ޤާނޫނު) އަށް 2 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This amends the National Payment System Act so the Monetary Authority can pick one system as the 'National Payment Switch'. Banks and payment companies must then route payments through it, both inside the Maldives and abroad, as the rules set out. They get a deadline to join and can keep running their services in the meantime. The bill also says card and payment acquirers must move customers' money to a bank account and pay it out to the customer within set short deadlines.",
+  "whyItMatters": "Card and app payments in the Maldives would run through one central switch the regulator chooses. Shops and other businesses that take card payments get a legal deadline for receiving their money.",
+  "keyProvisions": [
+    "New section 15-1: the Authority may designate a system within the national payment system as the National Payment Switch.",
+    "Banks and payment service providers must route payment transactions specified in regulations, both domestic and cross-border, through the designated switch, and finish joining it within a deadline the Authority sets.",
+    "During that joining period the Authority must allow providers to keep offering their existing services under a transitional arrangement.",
+    "If the switch is run by a licensed operator rather than the Authority, its system rules must follow section 25 and the Act applies to the system and its operator. The Authority can set rules on joining, technical standards, reporting and fees for using the switch.",
+    "New section 20 clause: licensed payment acquirers must deposit customer funds into an account at a licensed bank no later than the first working day after the transaction, and arrange for the money to reach the customer or beneficiary within 1 working day of that deposit.",
+    "Regulations must be amended or written and published in the Gazette within 30 days of the law taking effect."
+  ],
+  "whoIsAffected": "Banks, payment and card-acquiring companies, merchants who accept digital payments, and anyone who pays by card or app.",
+  "statedReasons": "",
+  "sourceDoc": "Final Bill",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

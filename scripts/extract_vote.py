@@ -7,7 +7,7 @@ y-centre. Output: JSON { rows: [{constituency, result}], summary: {...} }.
 
 Usage: python scripts/extract_vote.py <pdf_path> <out_json>
 """
-import sys, json, re
+import os, sys, json, re
 import fitz
 from rapidocr_onnxruntime import RapidOCR
 
@@ -15,7 +15,8 @@ RESULTS = {"Yes", "No", "Abstain", "Not Present", "Not Voted", "No voting right"
 
 def boxes_for_page(ocr, doc, i, dpi=300):
     pix = doc[i].get_pixmap(dpi=dpi)
-    tmp = f"_ocr_p{i}.png"
+    os.makedirs("tmp", exist_ok=True)
+    tmp = os.path.join("tmp", f"_ocr_{os.getpid()}_p{i}.png")  # pid-unique so parallel runs don't collide
     pix.save(tmp)
     res, _ = ocr(tmp)
     out = []
@@ -39,14 +40,14 @@ def group_rows(boxes, ytol=14):
         rows.append(cur)
     return rows
 
-def parse_rollcall(pdf_path):
+def parse_rollcall(pdf_path, dpi=300):
     ocr = RapidOCR()
     doc = fitz.open(pdf_path)
     rows_out = []
     summary = {}
     date = None
     for i in range(len(doc)):
-        boxes, W = boxes_for_page(ocr, doc, i)
+        boxes, W = boxes_for_page(ocr, doc, i, dpi=dpi)
         # DPI-independent column boundaries (fractions of page width)
         id_max, con_lo, con_hi, res_lo = 0.16 * W, 0.45 * W, 0.70 * W, 0.70 * W
         if date is None:

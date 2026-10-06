@@ -1,0 +1,22 @@
+{
+  "workId": "1831",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2009 (ދިވެހިރާއްޖޭގެ ޕެންޝަނާބެހޭ ޤާނޫނު) އަށް 6 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill is the 6th amendment to the Maldives Pension Act. It changes how the Pension Office is run and how pension savings are invested. The Board gets the power to approve investment rules and make investment decisions. The Board itself is rebuilt as 9 members, including 5 from the private sector, all with set qualifications. The bill also creates a Chief Executive Officer post, filled by the Board. Only the first 12 of 24 pages were read.",
+  "whyItMatters": "Pension savings from workers' pay are invested by the Pension Office. This bill changes who controls those investments and what rules they must follow, which can affect how retirement savings grow.",
+  "keyProvisions": [
+    "Adds to the Pension Office's job: investing and managing pension assets, either itself or through asset managers (new Article 3 clause).",
+    "Lets the Pension Office Board approve the investment policy statement, basic investment principles and investment rules, and decide what pension assets are invested in (new Article 6 clauses).",
+    "Rewrites Article 8: the Board has 9 members, appointed by the President. They are a chairperson, one nominee each from three government ministries (one is the Finance Ministry) and 5 people from the private sector.",
+    "Board members must be Maldivian, at least 35, and have at least 5 years' experience in a listed field such as pensions, finance, investment, accounting, economics, law or insurance. Some people are barred, for example anyone convicted of fraud or bribery, MPs, councillors, political party office-holders, and anyone owning 5% or more of a company the Pension Office invests in.",
+    "A nomination committee shortlists candidates for chair and the private-sector seats through a public call, then sends names to the President.",
+    "New Articles 10-1 to 10-5 create a Chief Executive Officer, appointed by the Board and answerable to it. The CEO can serve at most two 5-year terms. These articles also set the CEO's duties, how the CEO can be removed, and when the post becomes vacant."
+  ],
+  "whoIsAffected": "Workers and employers paying into the Maldives Retirement Pension Scheme, pensioners, and the Pension Office and its Board.",
+  "statedReasons": "",
+  "sourceDoc": "Final Bill",
+  "pagesRead": 12,
+  "pagesTotal": 24,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

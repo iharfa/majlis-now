@@ -1,0 +1,22 @@
+{
+  "workId": "1913",
+  "titleDv": "ފަޅުރަށާއި ފަޅު ކުއްޔަށްދިނުމާބެހޭ ބިލު",
+  "summary": "This is a new law on how uninhabited islands and lagoons are assigned to uses and leased out. The President decides what each uninhabited island or lagoon is used for, from a fixed list: tourism, industry, fisheries, agriculture, other economic uses, social uses, or state use. Councils assign uninhabited islands in their own area, except islands for tourism or industry. According to the table of contents, later chapters cover leasing, rent, environmental assessments, customary leases to islanders, fines, and transition rules. Only the first 12 of 71 pages were read.",
+  "whyItMatters": "Uninhabited islands and lagoons are valuable public land. This law sets who decides what happens to them, who can lease them, and on what terms, which affects resorts, industry, farming and fishing jobs.",
+  "keyProvisions": [
+    "Defines an uninhabited island as any island not legally designated as inhabited, and a lagoon as an area not attached to a specific island that is designated under this law for leasing and development.",
+    "Section 7: unless another law says otherwise, the President assigns uninhabited islands and lagoons to uses: tourism, industrial, fisheries, agriculture, other economic, social, state, or a special purpose set by another law. Lagoons can be assigned only to agriculture or social uses.",
+    "Section 9: an island goes to industrial use only after checking environmental sensitivity, distance from inhabited islands, adequate size for safety systems, significant economic benefit, and whether a commercial harbour is possible. It must also follow the Spatial Planning Act's industrial zoning standards.",
+    "Section 13: an island set aside for social use is treated as economic use if the activity there is run commercially.",
+    "Section 14: state use covers defence, state care facilities, rehabilitation centres, social protection, environmental or heritage protection, and other state duties.",
+    "Section 15: councils assign uninhabited islands in their jurisdiction, but the President assigns those meant for tourism or industry. Islands assigned that way leave the council's jurisdiction."
+  ],
+  "whoIsAffected": "Island councils, resort and industrial investors, farmers and fishers seeking island leases, and communities near uninhabited islands.",
+  "statedReasons": "",
+  "sourceDoc": "Final bill",
+  "pagesRead": 12,
+  "pagesTotal": 71,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

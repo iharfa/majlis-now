@@ -1,0 +1,22 @@
+{
+  "workId": "1837",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/2008 (ވަޒީފާއާބެހޭ ޤާނޫނު) އަށް 9 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This is the 9th amendment to the Employment Act, as passed by Parliament. It changes notice rules for ending a job, with 2 weeks' notice for staff employed up to a year and pay allowed instead of notice. Overtime now needs the worker's agreement. Parents get two paid 30-minute breaks a day to go to their child until age two. Cabinet can excuse some small businesses from foreign-worker quota fees. It adds fines for leaking information, impersonating labour officers and false statements.",
+  "whyItMatters": "Workers get clearer notice and overtime rights, and new parents get paid childcare breaks. Some small businesses may pay less in foreign-worker quota fees, and labour officers must keep information confidential.",
+  "keyProvisions": [
+    "Article 22: an open-ended job contract can only be ended after notice; staff employed for up to one year get 2 weeks' notice, and both sides can agree on a longer or shorter notice period",
+    "Article 25: notice can be replaced by paying the salary and benefits for the whole notice period",
+    "Article 37: overtime only under an agreement between employer and employee",
+    "Article 45: from returning after maternity leave until the child turns 2, two 30-minute breaks a day to go to the child, with no pay cut",
+    "Article 65-4: the Cabinet may exempt certain small and medium businesses from foreign-worker quota fees, to support SMEs, long-term jobs and innovation",
+    "Articles 84-86-3: labour officers must keep information confidential (fine MVR 5,000-25,000); impersonating an officer fined MVR 25,000-100,000; giving the Authority false information fined MVR 15,000-100,000; fines paid to MIRA. Article 97 updates the public holiday list to include International Workers' Day"
+  ],
+  "whoIsAffected": "All employees and employers covered by the Employment Act, new parents, small and medium businesses, and the Labour Relations Authority.",
+  "statedReasons": "",
+  "sourceDoc": "Final Bill",
+  "pagesRead": 7,
+  "pagesTotal": 7,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

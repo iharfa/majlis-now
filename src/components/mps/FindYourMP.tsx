@@ -26,6 +26,7 @@ export function FindYourMP({ variant = 'panel' }: { variant?: 'panel' | 'plain' 
           value={q}
           onChange={(e) => setQ(e.target.value)}
           placeholder="e.g. Malé, Addu City, Hoarafushi…"
+          aria-label="Find your MP by island, atoll, or constituency"
           className={
             onPanel
               ? 'w-full px-5 py-4 rounded-xl bg-white/10 border border-white/20 text-white placeholder:text-white/60 focus:ring-2 focus:ring-white outline-none'

@@ -47,7 +47,11 @@ export function BillTimeline({
               {e.title}
             </h4>
             <p className="text-label-sm text-on-surface-variant mt-1">
-              {e.date ? formatDate(e.date) : <span className="italic">{e.expectedLabel ?? 'Pending'}</span>}
+              {e.date ? (
+                formatDate(e.date)
+              ) : (
+                <span className="italic">{e.expectedLabel ?? (e.state === 'upcoming' ? 'Not yet reached' : 'Date not published')}</span>
+              )}
               {e.daysSincePreviousStage != null && variant === 'full' && (
                 <span className="text-outline"> · +{e.daysSincePreviousStage}d</span>
               )}

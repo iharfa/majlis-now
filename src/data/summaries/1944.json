@@ -1,0 +1,22 @@
+{
+  "workId": "1944",
+  "titleDv": "ޤާނޫނު ނަންބަރު 25/2019 (އާމްދަނީން ޓެކްސް ނެގުމުގެ ޤާނޫނު) އަށް 2 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This is the second amendment to the Income Tax Act. When a Maldivian business pays a foreign (non-resident) contractor, it must now hold back 10% of the payment as tax. For contractors with no permanent base in the Maldives, that 10% becomes their full and final tax on that income, so no further tax return or deductions apply to it. The bill also rewrites who counts as a 'non-resident contractor'.",
+  "whyItMatters": "Foreign firms paid for goods or services in the Maldives keep less of each payment, and local businesses that hire them must withhold and pass 10% to the tax authority. The stated aim is fairer competition for Maldivian businesses.",
+  "keyProvisions": [
+    "Section 55(b) rewritten: anyone doing business in the Maldives who pays a non-resident contractor must withhold 10% of the payment as withholding tax.",
+    "New section 27(n): for non-residents without a permanent establishment in the Maldives, the amount withheld is treated as the full tax due on that income; it is left out of taxable income and no related deductions are allowed.",
+    "New section 27(r): sections 43 and 44 of the Act apply only in a way consistent with the new 27(n).",
+    "New section 55(b-1): if a payment could fall under both 55(a) and 55(b), it is treated as a 55(b) contractor payment.",
+    "Section 55(n)(3) redefines 'non-resident contractor' as a non-resident who, other than as an employee, supplies goods or services in the Maldives, or provides or permits another party's goods or services to be supplied here, under a contract or arrangement.",
+    "Takes effect on the date it is published in the Government Gazette after ratification."
+  ],
+  "whoIsAffected": "Foreign contractors paid for work or supplies in the Maldives, and the Maldivian businesses and bodies that pay them.",
+  "statedReasons": "The Final Bill has no reasons section. The original bill's stated reason was to create a fair, competitive environment between Maldivian businesses and non-resident contractors by raising the withholding on payments to non-resident contractors from 5% to 10% and making it their full tax.",
+  "sourceDoc": "Final Bill",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

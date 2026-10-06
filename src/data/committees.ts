@@ -54,7 +54,7 @@ function build(rc: RealCommittee): Committee {
         id: `src-cmt-${rc.id}`,
         label: 'Committee page — People’s Majlis',
         url: rc.url,
-        lastUpdated: '2026-06-15',
+        lastUpdated: rc.fetchedAt,
         kind: 'official',
       },
     ],
