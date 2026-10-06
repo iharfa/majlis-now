@@ -1,0 +1,288 @@
+{
+ "sittingId": "937",
+ "date": "2025-04-23",
+ "title": "22nd Sitting of first Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 45,
+  "onLeave": 4,
+  "officialTravel": 2
+ },
+ "summary": "The sitting opened at 09:02 with 45 members present, and the minutes of the 18th to 20th sittings were accepted because no amendments were submitted. Most of the first half went to questions to the Minister of Homeland Security and Technology, Ali Ihsan, about the national ID (DNR) database being used to fill party membership forms and about police protection for a journalist, with many follow-ups that the Speaker often ruled outside the day's questions. Two presidential nominations (a Broadcasting Commission member and a Civil Service Commission deputy chair) were sent to the independent institutions committee, and the government's Housing Bill had its first reading and began preliminary debate. The part ends with a 30-minute recess; some of the text was garbled but the order of business is clear. After the 10:31-11:00 break, the sitting resumed with the end of the members' free-time debate, where the Vilimale' member spoke on housing pledges. Members then held the preliminary debate on the Housing Bill, sponsored by the member for Central Maafannu: speakers criticised how late the bill arrived and the pace of housing delivery, or backed its escrow, rent and registration provisions. The Speaker paused the debate because many committees were meeting and said it would continue at a later sitting; the next sitting is Monday 28 April 2025 at 9:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "45 present, 4 on leave, 2 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Approval of the minutes of the 18th to 20th sittings of the first session of 2025",
+   "outcome": "accepted by the chair as no amendments were submitted"
+  },
+  {
+   "n": "6.1",
+   "title": "Question to the Minister of Homeland Security and Technology on the DNR database being used to fill party membership forms, and action against officials who signed as witnesses",
+   "outcome": "minister answered; many follow-up questions, several ruled outside the question's scope"
+  },
+  {
+   "n": "6.2",
+   "title": "Question to the Minister of Homeland Security and Technology on police protection for a newspaper CEO after a reported call from the President",
+   "outcome": "minister answered; follow-ups on police conduct, custody deaths, Hope Island and drugs"
+  },
+  {
+   "n": "7.1",
+   "title": "Letter from the President nominating ten candidates for a Broadcasting Commission member (Law 16/2010)",
+   "outcome": "referred to the committee on independent institutions"
+  },
+  {
+   "n": "7.2",
+   "title": "Letter from the President nominating a Civil Service Commission deputy chair (Law 5/2007)",
+   "outcome": "referred to the committee on independent institutions"
+  },
+  {
+   "n": "8.1",
+   "title": "First reading of the Housing Bill, sponsored by Central Maafannu member Asma Rasheed on behalf of the government",
+   "outcome": "first reading announced"
+  },
+  {
+   "n": "9.1",
+   "title": "Preliminary debate on the Housing Bill",
+   "outcome": "debate under way; Speaker called a 30-minute recess; continues in part 2"
+  },
+  {
+   "n": "",
+   "title": "Members' free-time speeches (resumed after break)",
+   "outcome": "Vilimale' member's remarks continued; floor then passed to the bill debate"
+  },
+  {
+   "n": "9",
+   "title": "Housing Bill (Government bill, sponsored by Asma Rasheed): preliminary debate",
+   "outcome": "debated by 4 members in this part; debate paused by the Speaker to resume at a later sitting, no vote"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ali Ihsan",
+   "constituency": "",
+   "turns": 34,
+   "positions": [
+    "Said he has no doubt about DNR data accuracy and that safeguards such as access logs, audit logs, penetration tests and API signatures were added under this government.",
+    "Said a witness must be present when signing a party form and that false signing can lead to Elections Commission and criminal action.",
+    "Said police are not directed on cases, the journalist declined security on 25 March, and drug trade and gang crackdowns are being widened."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 7,
+   "positions": [
+    "Argued the form is designed with a witness section, so the minister's account of forms signed without witnesses conflicts with the minutes.",
+    "Asked about people who died in police custody without cameras installed, and whether procedures or police neglect are to blame.",
+    "Asked how far investigations into reported corruption in customs, corrections and immigration have gone."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 6,
+   "positions": [
+    "Asked what steps protect personal data after the DNR database was reportedly used to fill party forms, and what action is taken against officials who signed as witnesses.",
+    "Said the minister's earlier remarks showed witness sections were filled in bulk without witnesses present.",
+    "Asked what police did to protect a newspaper CEO after the President's alleged call on 14 March, and how influence over police is ruled out.",
+    "Said the bill reached members the night before debate, with no time to consult constituents."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 5,
+   "positions": [
+    "Asked about MVR 38 million handed over for expanding Maafushi jail under the previous government; the Speaker said it was outside the question.",
+    "Asked how many false sign-ups have been made across parties and said MDP claimed thousands of members.",
+    "In the housing debate, welcomed the Housing Bill, praised the President's housing work and criticised past MDP-era borrowing.",
+    "Said many Vilimale' and Male' voters lack housing and praised the President's housing pledges and land and flat handovers, expecting 90% of the homeless housed by end of term."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 5,
+   "positions": [
+    "Said the form in his hand shows he signed as witness while not present, and asked how this fits the minister's account.",
+    "Asked whether any DNR-filled forms were processed into PNC membership and whether the bundle was free of false forms.",
+    "Asked what is being done about drug use and gangs in Kendhoo and Kamadhoo.",
+    "Said a housing bill needs time to study and the sudden tabling gave none."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Asked whether DNR office staff filled party forms using the previous administration's influence.",
+    "Asked whether the Bestnet settlement was made with advice from the Attorney General or the cabinet.",
+    "Said a minister's wife and a former immigration controller are jailed, and asked whether claims of framing have substance."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Said Bangladeshi workers' documents show pending verification but change status after payment, and asked the minister to explain.",
+    "Asked about the Hope Island development, whether two more uninhabited islands are involved, and the acquisition cost and lessor."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Said the question had been repeated many times and criticised how the Rules are being used.",
+    "Asked how much priority the minister gives to the safety of the President and his family given reported death threats."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Asked whether a court or arbitration ordered USD 13.7 million compensation to Bestnet and how it was calculated; the Speaker ruled it outside scope.",
+    "Said housing and service policies exist but are not implemented, citing islands lacking water, power and sewerage.",
+    "Asked for social housing units for island students, and said unpaid rents on state flats are not followed up."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 2,
+   "positions": [
+    "Asked how access to the DNR system is controlled, given claims it could be manipulated.",
+    "Asked at what level and to whom access is granted, citing allegations about thousands of Bangladeshi workers."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked how the Maldives-to-point-zero digital policy fits with the ministry's push for ATMs and cash use on islands."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether the minister has seen fewer killings and gang-related incidents since this government took office, and for details."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether DNR figures are accurate, citing the Thinadhoo council saying its counts were wrong."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Asked for a way to clear police records so that people with past offences can take up jobs."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the ministry has completed legal steps in a recent Malé case and urged the Elections Commission to examine the witness signatures."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Asked whether a list found with a former first lady's circle was DNR data taken under the previous MDP government."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Asked what is being done to secure the Hiyaa flats area, citing rising gang activity."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Asked what offences were committed with the DNR data under the previous government and whether any action has been taken."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Asked what action should be taken against journalists who spread false claims about home affairs matters."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Asked what happened to those responsible after an HRCM report on a 2020 case in which police allegedly framed a man."
+   ]
+  },
+  {
+   "name": "Asma Rasheed",
+   "constituency": "Central Maafannu",
+   "turns": 1,
+   "positions": [
+    "Presented the Housing Bill as the first such law, setting rules for housing programmes, provider registration and standards for low-income families."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as giving effect to the constitutional right to housing, a national housing policy and escrow protection for buyers.",
+    "Asked that land and flats allocated on marriage points be registered in both spouses' names."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of the 18th to 20th sittings were accepted as no amendments were submitted.",
+  "The President's nomination for a Broadcasting Commission member was referred to the committee on independent institutions.",
+  "The President's nomination for Civil Service Commission deputy chair was referred to the committee on independent institutions.",
+  "The Housing Bill had its first reading and preliminary debate began.",
+  "The Speaker called a 30-minute recess near the end of this part.",
+  "Speaker paused the Housing Bill preliminary debate because committees were meeting, to continue at a later sitting",
+  "Sitting closed; next sitting set for Monday 28 April 2025 at 9:00"
+ ],
+ "votes": [],
+ "pagesTotal": 63,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

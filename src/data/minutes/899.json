@@ -1,0 +1,242 @@
+{
+ "sittingId": "899",
+ "date": "2024-11-14",
+ "title": "50th sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker of the Majlis)",
+ "attendance": {
+  "present": 43,
+  "onLeave": 6,
+  "officialTravel": 7
+ },
+ "summary": "The 50th sitting opened at 9:02 with the Speaker presiding. The chair declined an urgent matter filed by the South Galolhu member because it did not meet the rules, welcomed a group of university students to the gallery, and then continued the debate on the proposed 2025 state budget. Eleven members took the floor in this part, mostly defending the budget and criticising earlier governments' spending, with some raising concerns about missing island-level details and revenue forecasts. A break ran from 10:31 to 11:03, and the part ends partway through the last member's speech; no vote was taken. This part continues the debate on the government's proposed 2025 state budget (MVR 56.6 billion in spending, with a deficit lower than in recent years, as cited by speakers). A speech by the member for Central Mahchangolhi that began in part 1 ends, then eight members from several constituencies speak, all saying they support the budget and asking for projects such as roads, harbours, hospitals, schools and sports grounds on their islands. Several speakers also criticise earlier governments for unfinished projects. The sitting broke for midday prayer and resumed at 13:02. The Minister of Finance attended briefly and said he would answer members' questions at the next section on Monday. With no more members present to speak, the Speaker closed this section and announced the next one for Monday at 9:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers and start of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "43 present, 6 on leave, 7 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcing the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "urgent matter from South Galolhu member not admitted; student visitors welcomed"
+  },
+  {
+   "n": "5",
+   "title": "Debate on the proposed 2025 state budget",
+   "outcome": "debated; 11 members spoke in this part, continues past this part"
+  },
+  {
+   "n": "",
+   "title": "Debate on the proposed 2025 state budget (continued)",
+   "outcome": "debated; no vote in this part"
+  },
+  {
+   "n": "",
+   "title": "Minister of Finance attends the debate",
+   "outcome": "Minister said he would reply to members' questions on Monday"
+  },
+  {
+   "n": "",
+   "title": "Speaker closes this section of the sitting",
+   "outcome": "section closed; sitting not finished; next section Monday at 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 3,
+   "positions": [
+    "Called the 2025 budget the most complete and largest yet, with the smallest deficit, and rejected claims it ignores individual islands.",
+    "Criticised MDP-era budgets and project delivery, and argued islands need key projects finished within the year.",
+    "Defended the President's pledges and his island visits and consultations with councils."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 2,
+   "positions": [
+    "Said the budget was submitted within constitutional and legal deadlines and prioritises the economy and tourism revenue.",
+    "Said opposition claims were misleading and listed Kelaa, Filladhoo and Vashafaru roads, industrial area and resort plans.",
+    "Said budgets under the previous government gave small sums to projects on Kelaa and nearby islands, and expressed hope the new budget would change that."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 2,
+   "positions": [
+    "Said the budget is detailed and ambitious, and that opposition claims it was prepared against the law are untrue.",
+    "Asked for a hospital with an intensive care unit and football grounds in Thimarafushi, and for roads, land reclamation and a ferry system for Thaa atoll.",
+    "Said past governments neglected Thaa atoll and asked that its members' views be heard when major projects are decided."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order saying a PNC leader's statement about the nationality of a crowd at a gathering was false and breached the truthfulness rule."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the budget repairs public finances, repays large loans, targets subsidies and cuts waste, with health the largest investment.",
+    "Listed Kudahuvadhoo projects: roads, harbour, hospital, Maaenboodhoo water system and land reclamation."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Spoke without party lines; doubted the tax revenue forecasts and backed reform of state companies and spending cuts.",
+    "Said Addu City councils get too little and Hulhumeedhoo is left out; island-level detail is missing from the budget."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Said the budget is more detailed than earlier ones, with loans and grants itemised, and rejected claims that it lacks detail.",
+    "Highlighted housing, health and education allocations and said past governments spent heavily with little to show."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Welcomed housing, Islamic financing, cancer hospital and targeted subsidy measures in the budget.",
+    "Said past budgets listed Manadhoo projects such as the hospital but little was built, and promised to back island projects."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Said the budget serves the President's promises and the people's hopes, and criticised the previous government's spending.",
+    "Expected Mamendhoo harbour, health centre and Kolamaafushi land reclamation work to continue."
+   ]
+  },
+  {
+   "name": "Ahmed Aslam",
+   "constituency": "Bilehdhoo",
+   "turns": 1,
+   "positions": [
+    "Called it the first budget debate under the PNC government and said earlier budgets padded project amounts.",
+    "Argued past governments spent outside the budget, and criticised COVID-era spending and borrowing."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Cited figures: MVR 56.5 billion budget, 39.8 billion revenue and grants, 49.2 billion spending, calling it the smallest deficit.",
+    "Highlighted housing, health, subsidy reform, fisheries and Fiyoaree and Faresmaathodaa projects."
+   ]
+  },
+  {
+   "name": "Ahmed Xamyr",
+   "constituency": "Central Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Began his speech expressing hope in the proposed budget; the text of this part ends partway through the speech."
+   ]
+  },
+  {
+   "name": "Hussain Imran Latheef",
+   "constituency": "South Henveyru",
+   "turns": 1,
+   "positions": [
+    "Said housing is the biggest concern in Malé and the budget backs housing schemes so that nobody is left out.",
+    "Said Aasandha and ENSPA payments will not be cut for eligible people, and reform will target support better.",
+    "Thanked China for the Malé road works and said the budget would ease parking and cost-of-living problems."
+   ]
+  },
+  {
+   "name": "Hassan Waheed",
+   "constituency": "Vilifushi",
+   "turns": 1,
+   "positions": [
+    "Said the budget has the lowest deficit in recent history and prioritises housing, health (including a cancer hospital) and roads.",
+    "Said Vilifushi's airport and hospital were promised by earlier governments without result, and expressed confidence this budget will deliver."
+   ]
+  },
+  {
+   "name": "Hanan Mohamed Rasheed",
+   "constituency": "Guraidhoo",
+   "turns": 1,
+   "positions": [
+    "Said the budget focuses on fiscal consolidation and debt sustainability, with debt expected to rise from about MVR 138 billion to 150 billion.",
+    "Pointed to a direct cash transfer system, health reform and civil service pay harmonisation as key measures.",
+    "Said Thaa atoll was neglected before and expressed confidence this budget will address constituents' needs."
+   ]
+  },
+  {
+   "name": "Yoosuf Nasheed",
+   "constituency": "Gan",
+   "turns": 1,
+   "positions": [
+    "Said opposition claims that the budget lacks island projects and cuts subsidies are inaccurate, citing the President's published manifesto.",
+    "Raised local needs in Gamu: a mosque, police vehicles, school facilities, electricity network, hospital building and an ice plant."
+   ]
+  },
+  {
+   "name": "Mohamed Ali",
+   "constituency": "Gadhdhoo",
+   "turns": 1,
+   "positions": [
+    "Said the budget prioritises housing, health and education, and that projects will be completed and handed over to people.",
+    "Said a hospital for Gaddhoo, roads and sewerage for Vaadhoo, and past unfinished projects are what residents want resolved."
+   ]
+  },
+  {
+   "name": "Ibrahim Shifaz",
+   "constituency": "Ungoofaaru",
+   "turns": 1,
+   "positions": [
+    "Said the budget should be judged on national interest rather than single-island items, and fully supported it.",
+    "Raised Maakurath harbour works, coastal erosion, football pitches, and Ungoofaaru's planned development as an urban centre."
+   ]
+  },
+  {
+   "name": "Moosa Zameer",
+   "constituency": "",
+   "turns": 1,
+   "positions": [
+    "As Minister of Finance, said he had just returned from an official trip and would answer members' budget questions on Monday."
+   ]
+  }
+ ],
+ "decisions": [
+  "Chair did not admit the urgent matter from the South Galolhu member because the conditions in the Rules of Procedure were not met.",
+  "Chair did not accept the South Galolhu member's point of order as a valid procedural matter and asked the debate to continue.",
+  "Sitting paused for a break from 10:31 to 11:03, then budget debate resumed.",
+  "The Speaker closed this section of the sitting after no further members were present to speak; the sitting itself was not ended.",
+  "The next section of the sitting, continuing the budget debate, is set for Monday at 9:00."
+ ],
+ "votes": [],
+ "pagesTotal": 71,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,158 @@
+{
+ "sittingId": "976",
+ "date": "2025-08-18",
+ "title": "26th Sitting of second session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo)",
+ "attendance": {
+  "present": null,
+  "onLeave": 4,
+  "officialTravel": 5
+ },
+ "summary": "The Majlis approved earlier minutes, referred six presidential nominees for the Civil Service Commission to the Independent Institutions Committee, and debated three committee reports. It then voted to appoint Mohamed Shafeeq Mahmood to the Human Rights Commission of the Maldives and passed the Insurance Bill and the amendment to the National Payment System Act. A power cut paused the sitting from about 9:26 to 11:00. The present-member count at the start was too garbled in the text to read.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "Sitting opened with the Speaker's opening prayer"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "Chair reported 4 on leave and 5 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Approval of minutes of sittings 20 to 22 of the second session of 2025",
+   "outcome": "Accepted by the chair as no amendments were submitted"
+  },
+  {
+   "n": "5.1",
+   "title": "Committee deadlines announced under Rule 174",
+   "outcome": "Deadlines announced: 30 Oct 2025 (referendum bill) and 3 Nov 2025 (resolution on growth in the number of MPs)"
+  },
+  {
+   "n": "6.1",
+   "title": "President's nominees for the Civil Service Commission (3 members' terms end 3 Sept 2025)",
+   "outcome": "Referred to the Independent Institutions Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "Human Rights and Gender Committee report on appointing 2 Human Rights Commission members",
+   "outcome": "Debated; voted in item 8, Shafeeq Mahmood approved 65-0"
+  },
+  {
+   "n": "7.2",
+   "title": "Finance Committee report on the Insurance Bill",
+   "outcome": "Debated, paused by a power cut, debate closed; passed 67-0 in item 8"
+  },
+  {
+   "n": "7.3",
+   "title": "Finance Committee report on the bill to amend the National Payment System Act (Law 8/2021)",
+   "outcome": "Debated; passed 63-0 with 2 abstentions in item 8"
+  },
+  {
+   "n": "8",
+   "title": "Votes on matters ready for decision",
+   "outcome": "Three votes taken; all passed"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Noted 3 of 11 committee members did not attend the scoring and stressed the importance of full attendance.",
+    "Said insurers sometimes underpay policyholders and that the Insurance Bill report carries no major changes.",
+    "Raised concern that social media is used to damage the reputations of people being considered for posts."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 2,
+   "positions": [
+    "Presented the report: the four-article amendment lets the Monetary Authority set up payment companies and supports the India payments link with safeguards for the public.",
+    "Replied that the changes strengthen the Authority and match practice abroad, citing past governor acknowledgements of government influence in earlier documents."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the committee report: both nominees were interviewed and scored; Shafeeq Mahmood scored highest and was recommended for appointment to the Human Rights Commission."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the report as a committee member but worried the President's office sends too few names, limiting choice; asked for more candidates to be interviewed."
+   ]
+  },
+  {
+   "name": "Hamad Abdulla",
+   "constituency": "North Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Presented the Finance Committee report on the Insurance Bill: views were sought from institutions and the public, and the committee passed it by consensus on 16 August."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Welcomed the Insurance Bill, saying insurance systems play an important role worldwide and bring citizens many conveniences."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Said the Authority's independence must be real, citing turnover of its financial intelligence head and concern about reserves being used for a reclamation project."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of sittings 20 to 22 accepted as no amendments were submitted.",
+  "Six presidential nominees for the Civil Service Commission referred to the Independent Institutions Committee.",
+  "Mohamed Shafeeq Mahmood approved as a Human Rights Commission of the Maldives member.",
+  "Insurance Bill passed.",
+  "Bill amending the National Payment System Act (Law 8/2021) passed.",
+  "Next sitting set for Tuesday 19 August 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Appointment of Mohamed Shafeeq Mahmood to the Human Rights Commission of the Maldives",
+   "yes": 65,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Insurance Bill",
+   "yes": 67,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Bill to amend the National Payment System Act (Law 8/2021)",
+   "yes": 63,
+   "no": 0,
+   "abstain": 2
+  }
+ ],
+ "pagesTotal": 29,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,63 @@
+{
+ "sittingId": "915",
+ "date": "2025-02-06",
+ "title": "First Sitting of 1st Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 88,
+  "onLeave": null,
+  "officialTravel": 0
+ },
+ "summary": "This was the opening sitting of the year, held to hear the President's annual address. After the Speaker repeatedly asked members to respect the Rules of Procedure, he named nine members and asked them to leave the chamber, and the sitting paused from 9:14 to 9:25 before the address resumed. President Dr Mohamed Muizzu then outlined his government's plans on economy and the dollar market, housing, health, education, transport, defence and policing, the justice system, a 2040 national development plan and planned constitutional amendments and bills. No vote was held, and the sitting ended at 11:09 with the next sitting set for Monday 10 February 2025 at 9:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "88 members present, none on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced (sitting no. 1/2025 of the first session)"
+  },
+  {
+   "n": "4",
+   "title": "Request to the President to deliver the Presidential Address under Article 84 of the Constitution",
+   "outcome": "Speaker invited the President to address the Majlis; he asked members to respect the rules and had nine members leave the chamber, then recessed 9:14 to 9:25"
+  },
+  {
+   "n": "5",
+   "title": "Presidential Address by President Dr Mohamed Muizzu",
+   "outcome": "address delivered; covered economy, budget, housing, health, education, transport, justice, a 2040 development plan and planned bills"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Mohamed Muizzu",
+   "constituency": "",
+   "turns": 6,
+   "positions": [
+    "Said the economy is projected to grow 4.6 percent in 2025 and reserves rose in 2024, with a foreign-currency law meant to ease the dollar shortage and stabilise the exchange rate.",
+    "Announced housing, health and education plans, including housing loans via a portal, the Asandha medicine reforms, school cooling and teacher training, and said bills on land, real estate and housing would be sent to the Majlis.",
+    "Outlined defence, policing, justice and governance plans: a 2040 national development plan, a national service from April, a public defenders office and constitutional amendments, including a referendum law."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Speaker named nine members (from North Galolhu, South Galolhu, Hanimaadhoo, Vaikaradhoo, South Hithadhoo, Keyodhoo, Maradhoo, Thoddoo and Kendhoo) and asked them to leave the chamber, saying they had not respected the Majlis rules.",
+  "The sitting paused from 9:14 to 9:25, after which the Presidential Address continued.",
+  "The Speaker thanked the President for the address and said the Majlis would carry out its duties; the sitting ended at 11:09.",
+  "Next sitting set for Monday 10 February 2025 at 9:00."
+ ],
+ "votes": [],
+ "pagesTotal": 44,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,281 @@
+{
+ "sittingId": "908",
+ "date": "2024-12-03",
+ "title": "57th sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla; Deputy Speaker Ahmed Nazim took the chair after the 10:28 to 11:01 break",
+ "attendance": {
+  "present": 35,
+  "onLeave": null,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened at 09:01 with 35 members present and one on official travel, then went straight to a question session in which Finance Minister Moosa Zameer answered 14 questions from members on fiscal reports, state debt, late salaries, project funding and council block grants. After that, a resolution on grooming and dress rules for tourism workers had its first reading announced, and the Majlis began debating a government bill to amend the Drugs Act (Law 2011/17), with members from the governing and opposition benches taking the floor. After a break, the Majlis started the first debate on the Attorney General's Office Bill, which was still under way when this part ends. No votes were recorded in this part. This part covers the end of the first-reading debate on the government's Attorney General's Office Bill, a six-chapter bill meant to set out in law how the office works independently. Three more members spoke after a member whose name falls in part 1: supporters said the country has never had a proper law for the office and argued it should work free of politics, while the South Hulhumale' member questioned the bill's timing and warned that a new Attorney General could replace all staff and that salary costs could rise. When no other member asked to speak and the bill's sponsor was not in the chamber, the Speaker paused the item, ended the sitting, and said the next sitting would be on Wednesday 4 December at 09:00. No vote was held.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "35 present, 1 on official travel (leave count not stated in the readable text)"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "no announcements"
+  },
+  {
+   "n": "5.1",
+   "title": "Questions to Minister of Finance Moosa Zameer (opened by North Galolhu member Mohamed Ibrahim on the halted weekly and monthly fiscal reports)",
+   "outcome": "minister answered; 14 member turns of questions and follow-ups"
+  },
+  {
+   "n": "6.1",
+   "title": "Resolution by Kendhoo member Mauroof Zakir urging the government to set general grooming and dress standards for staff in tourism resorts and hotels",
+   "outcome": "first reading announced"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill to amend the Drugs Act, Law 2011/17 (government bill, sponsored by Gan member Yoosuf Nasheed)",
+   "outcome": "first-stage debate; sponsor and 8 members spoke before the break"
+  },
+  {
+   "n": "7.2",
+   "title": "Attorney General's Office Bill (government bill, sponsored by South Maafannu member Abdulla Rifau)",
+   "outcome": "sponsor presented; debate under way, still continuing at end of this part"
+  },
+  {
+   "n": "",
+   "title": "Debate on the Attorney General's Office Bill (continued from part 1; sponsored by South Maafannu member Abdulla Rifau)",
+   "outcome": "debated; item paused as no further member asked to speak, no vote taken"
+  },
+  {
+   "n": "",
+   "title": "Closing of the sitting",
+   "outcome": "sitting ended; next sitting set for Wednesday 4 December 2024 at 09:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Moosa Zameer",
+   "constituency": "",
+   "turns": 15,
+   "positions": [
+    "As Finance Minister, said reports restarted in October on Auditor General advice and project timing will follow cash flow.",
+    "Said block grants follow the legal formula, salaries are paid first each month, and the reform agenda covers SOEs and recurrent costs."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Asked why weekly and monthly fiscal reports stopped after June and when they will resume.",
+    "Asked what replaces the reforms being rolled back, such as the pension change, if cost-cutting targets are missed."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 2,
+   "positions": [
+    "Asked how much was spent on PSIP in five years and what assets it created, and how many bills are pending.",
+    "On the Drugs Act bill, welcomed the amendments but asked whether they are producing results, and called for a broader approach."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Asked how much debt the government inherited, what must be repaid in 2025 and 2026, and its share of revenue.",
+    "Backed the Drugs Act bill and asked for work on treatment, drug-court services and seizing assets of traffickers."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 2,
+   "positions": [
+    "Asked what policies the government has to cut recurrent spending and how it will prioritise projects across constituencies.",
+    "Supported the Drugs Act bill, linking drug problems to family breakdown and weak controls on imports."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether funding delays are holding up Velidhoo hospital, and what happens if Hajj Corporation builds guesthouses.",
+    "Thanked the bill's sponsor and the President, and said the office should serve all citizens equally under the law and work independently of any government.",
+    "Cited corruption cases and public spending concerns, urging the Attorney General and other state bodies to act together, and said the committee stage can improve the bill."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked for PSIP project details for 2025 and 2024, and whether the President was consulted before cutting new retirees' allowances."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why the budget gives no breakdown of spending for his constituency, Maradhoo."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how far block grants to councils follow population, and what is done about misuse of funds by some councils."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Asked about projects started with token budget lines that stalled, and the loss from earlier projects run through SOEs."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why public salaries often arrive a few days after month end and when the Finance Minister will fix it."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said Fenaka staff on some islands are unpaid and raised the cost of regular medicines for permanent patients."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Asked what the reform agenda does to stop repeated leakage and large losses in state-owned companies."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Asked whether block grants to councils next year will be based on past spending or on population."
+   ]
+  },
+  {
+   "name": "Yoosuf Nasheed",
+   "constituency": "Gan",
+   "turns": 1,
+   "positions": [
+    "Presented the Drugs Act bill: new controlled substances, tougher trafficking penalties, treatment and drug courts, and powers for law enforcement."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and said Fuvahmulah youth are heavily affected; argued past governments neglected the Drugs Act."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the changes, said police need more enforcement powers, and cited penalties in other countries."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and called for a national fund to save the country from drugs, plus jobs and activities for youth."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, saying the government has shown real intent to tackle drugs through the 89 amendments."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, noted no opposition member spoke, and pointed to legal loopholes and the vape ban as measures."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Presented the Attorney General's Office Bill, setting out the Attorney General's duties and an independent office under Article 133."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as giving the Attorney General's office independence, and criticised how courts handled past state cases."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, tracing the Attorney General's office from the 1932 constitution and saying no law yet sets out its status or duties.",
+    "Argued the office should be independent of any government and urged the committee to refine the bill so it can pass quickly."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Asked why the bill was brought to the Majlis now, noting it gives the Attorney General powers to appoint staff and set the office's structure and staff benefits.",
+    "Warned that a new Attorney General every five years could replace all staff and lose institutional memory, and that recurrent salary costs could add pressure on the budget."
+   ]
+  }
+ ],
+ "decisions": [
+  "A resolution on grooming and dress standards for tourism workers had its first reading announced.",
+  "The Drugs Act (2011/17) amendment bill went to first-stage debate; no vote recorded in this part.",
+  "The Attorney General's Office Bill was presented and debate began; no vote recorded in this part.",
+  "The Speaker paused the Attorney General's Office Bill item because no member asked to speak and the sponsor was absent.",
+  "The sitting ended with the remaining agenda complete.",
+  "The next sitting was set for Wednesday 4 December 2024 at 09:00."
+ ],
+ "votes": [],
+ "pagesTotal": 55,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

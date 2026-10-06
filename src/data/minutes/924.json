@@ -1,0 +1,112 @@
+{
+ "sittingId": "924",
+ "date": "2025-03-03",
+ "title": "10th Sitting of first Session of 2025",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 38,
+  "onLeave": 8,
+  "officialTravel": 1
+ },
+ "summary": "The 10th sitting of the first session of 2025 was a short one (10:31 to 11:01), the first after the start of Ramadan. Four written questions from the North Galolhu member to the Economic Development and Trade Minister about the Maldives-China free trade agreement were read out with the ministry's answers, and a new animal welfare bill had its first reading. The Foreign Relations Committee reported on two non-resident ambassador nominations, and the Majlis approved both without opposition (65-0 for Russia, 64-0 for Morocco).",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "announced by the chair"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair (committee schedules and committee membership changes)",
+   "outcome": "announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Question on duty on tobacco and cigarettes imported from China under the Maldives-China FTA",
+   "outcome": "written minister's answer read out"
+  },
+  {
+   "n": "5.2",
+   "title": "Question on expected revenue loss from import duties under the Maldives-China FTA",
+   "outcome": "written minister's answer read out"
+  },
+  {
+   "n": "5.3",
+   "title": "Question on import duty on fish and squid products under the Maldives-China FTA",
+   "outcome": "written minister's answer read out"
+  },
+  {
+   "n": "5.4",
+   "title": "Question on differences between FTA duty rates and customs-published rates",
+   "outcome": "written minister's answer read out"
+  },
+  {
+   "n": "6",
+   "title": "President's letter on appointing a non-resident ambassador to the Philippines",
+   "outcome": "sent to the Foreign Relations Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "Animal Keeping and Animal Protection Bill, first reading",
+   "outcome": "first reading read out"
+  },
+  {
+   "n": "8.1",
+   "title": "Foreign Relations Committee report on two non-resident ambassador nominations (Russia, Morocco)",
+   "outcome": "report presented and debated; no one asked to speak"
+  },
+  {
+   "n": "9.1",
+   "title": "Votes on the two non-resident ambassador appointments",
+   "outcome": "Russia passed 65-0; Morocco passed 64-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 4,
+   "positions": [
+    "Asked whether and how much duty will be charged on tobacco and cigarettes imported from China under the free trade agreement.",
+    "Asked how much yearly import-duty revenue the FTA will cost and why the government did not publish the agreement.",
+    "Asked what duty applies to fish, squid and similar imports, and why the FTA rates differ from rates published by Customs."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Presented the committee report supporting the Russia and Morocco non-resident ambassador nominations after reviewing the nominees' documents.",
+    "Said non-resident ambassadors carry no extra pay or cost to the state and help the government cut spending while widening diplomatic ties."
+   ]
+  }
+ ],
+ "decisions": [
+  "Committee schedules and committee membership changes were announced; Ahmed Azaan Marzooq (Central Hithadhoo) replaces others on several committees.",
+  "The President's letter on the non-resident ambassador to the Philippines was sent to the Foreign Relations Committee.",
+  "The Animal Keeping and Animal Protection Bill had its first reading.",
+  "Lt Gen (Retd) Abdul Raheem Abdul Latheef approved as non-resident ambassador to the Russian Federation (65-0).",
+  "Ahmed Sareer approved as non-resident ambassador to the Kingdom of Morocco (64-0).",
+  "The next sitting was set for 4 March 2025 at 10:30."
+ ],
+ "votes": [
+  {
+   "what": "Non-resident ambassador to the Russian Federation, Lt Gen (Retd) Abdul Raheem Abdul Latheef",
+   "yes": 65,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Non-resident ambassador to the Kingdom of Morocco, Ahmed Sareer",
+   "yes": 64,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 25,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

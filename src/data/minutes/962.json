@@ -1,0 +1,171 @@
+{
+ "sittingId": "962",
+ "date": "2025-07-09",
+ "title": "14th Sitting of second session of 2025",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 34,
+  "onLeave": 4,
+  "officialTravel": 2
+ },
+ "summary": "The sitting opened with an urgent matter from Dr. Ahmed Shamheed about staffing and service problems at Hulhumale' Hospital; members voted 10 to 37 not to debate it. The main business was the second day of debate on the government's public referendum (consulting the people) bill, sponsored by Ibrahim Falah. Members mostly said they support the bill in principle while raising points about timelines, committee study and unrelated local concerns, and it was accepted 62-0 and sent to the independent institutions committee. The State Owned Enterprises committee report on MMPR Corporation and Maldives Integrated Tourism Development Corporation was then passed 62-0. Attendance counts at the start are partly garbled in the text.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Sitting opened",
+   "outcome": "opened by the Speaker"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "announced: 34 present, 4 on leave, 2 on official travel (digits partly garbled)"
+  },
+  {
+   "n": "3.1",
+   "title": "Adoption of the day's agenda (agenda no. 14/2/2025)",
+   "outcome": "announced by the chair"
+  },
+  {
+   "n": "4",
+   "title": "Urgent matter on service problems at Hulhumale' Hospital (Rule 192), raised by Dr. Ahmed Shamheed",
+   "outcome": "not accepted for debate, 10 for, 37 against"
+  },
+  {
+   "n": "5.1",
+   "title": "Continued debate on the Public Referendum (Consulting the Public) Bill, sponsored by Ibrahim Falah for the government",
+   "outcome": "debated; accepted 62-0 and sent to the independent institutions committee"
+  },
+  {
+   "n": "6.1",
+   "title": "State Owned Enterprises committee report on the state of Maldives Marketing and Public Relations Corporation and Maldives Integrated Tourism Development Corporation",
+   "outcome": "no further speakers; report passed 62-0"
+  },
+  {
+   "n": "7",
+   "title": "Votes on remaining items",
+   "outcome": "bill accepted and committee report passed; next sitting announced"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Raised an urgent matter: Hulhumale' Hospital short of doctors and specialists, with outages disrupting services; asked the government to act and the Majlis to debate.",
+    "On the referendum bill, said it needed to be matched with the constitution's wording and asked for its fiscal impact to be known before debate."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Welcomed the referendum bill as implementing the constitution's public-consultation provisions and urged the committee to cover how a vote would run in a disaster such as COVID-19."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the constitution's chapter on rights is locked behind public consultation, suggested a citizen petition route, and asked the committee to study other countries and consult experts."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Called the bill generally good but said the 21-day window for the information paper is too short and should be at least three months; also criticised government delivery of promises."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and proposed that a mid-term secret-ballot vote on the Majlis and an approval vote on the President be considered in committee."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it protects the constitution's rights chapter from being changed without a public vote, and spoke on the supermajority and local concerns in his area."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill in principle, citing the change to Addu City's tourism zone without consultation as an example, and favoured committee amendments."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Took the floor and gave up his speaking time."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Called the bill important, explained which constitutional provisions need a public vote, and questioned whether elections should be combined."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Said the bill is needed but argued members should first be given real freedom to debate, and criticised how the previous day's debate ended."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "As sponsor, closed the debate, saying the bill lets the public be asked even if the President does not sign, and that committee can fix concerns raised."
+   ]
+  }
+ ],
+ "decisions": [
+  "Urgent matter on Hulhumale' Hospital was not accepted for debate (10 for, 37 against).",
+  "Public Referendum Bill accepted by the Majlis 62-0 and sent to the independent institutions committee under Rule 106(r).",
+  "State Owned Enterprises committee report on MMPR Corporation and Maldives Integrated Tourism Development Corporation passed 62-0.",
+  "Next sitting announced for Monday 14 July at 9:00 (year printed as 2024 in the text)."
+ ],
+ "votes": [
+  {
+   "what": "Urgent matter on Hulhumale' Hospital (Rule 192): whether to debate",
+   "yes": 10,
+   "no": 37,
+   "abstain": 0
+  },
+  {
+   "what": "Accept Public Referendum Bill (referral to independent institutions committee)",
+   "yes": 62,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Pass State Owned Enterprises committee report on MMPR Corporation and MITDC",
+   "yes": 62,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 39,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,270 @@
+{
+ "sittingId": "956",
+ "date": "2025-06-30",
+ "title": "9th Sitting of second session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 27,
+  "onLeave": 8,
+  "officialTravel": 1
+ },
+ "summary": "The 9th sitting of the second session of 2025 opened at 9:00 on 30 June 2025 with the usual attendance, agenda and minutes items; the minutes of earlier sittings were accepted, an urgent question from the North Galolhu member was ruled out of order, and a Judges Act amendment bill had its first reading announced. Most of the part was the debate on a motion by the Kanditheemu member about overtime pay and working conditions for education and health workers: many members backed it, while PNC and MDP members traded arguments over which government's pay changes helped or hurt staff, before the Speaker closed the debate and said the vote would come at the day's voting time. After a recess (10:31 to 11:00), debate began on a government bill to amend the Thalassemia Control Act, with members supporting it and raising gaps in care for patients; it was still under way when this part ends. The text layer is garbled in places, so attendance figures are read as printed. This part finishes the debate on the bill to amend the Thalassemia Control Act, which would require couples to be tested before they can register a marriage; a member's speech from the previous part ends and the bill's sponsor, the member for Ihavandhoo, speaks last. After a short break the Majlis voted. A motion on fair pay for overtime work by education and health workers, a resolution on the same topic, was accepted 47-0 and sent to a joint committee. The Thalassemia bill was accepted 49-0 and sent to the Social Committee, and the Bandar Naib's Office Act amendment bill was accepted 49-0 and sent to the Judiciary Committee. The Speaker also read out the day's committee meeting times and set the next sitting for Tuesday 1 July 2025 at 9:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened by the Speaker"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "27 present, 8 on leave, 1 on official travel (read as printed)"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced (agenda no. 2025/2/9)"
+  },
+  {
+   "n": "4.1",
+   "title": "Approval of minutes of the 3rd to 5th sittings of the second session of 2025",
+   "outcome": "no amendments submitted; Speaker declared the minutes accepted under Rule 240"
+  },
+  {
+   "n": "5.1",
+   "title": "Announcements from the chair (committee deadline on the Decentralisation Act review resolution; urgent question from the North Galolhu member)",
+   "outcome": "committee deadline announced; urgent question ruled not to meet the Rule 197 conditions"
+  },
+  {
+   "n": "6.1",
+   "title": "First reading of the bill to amend the Judges Act (Act 2010/13), sponsored for the government by the North Thinadhoo member",
+   "outcome": "first reading announced"
+  },
+  {
+   "n": "7.1",
+   "title": "Resolution on overtime pay for education and health workers and a fair working environment (moved by Ameen Faisal, Kanditheemu)",
+   "outcome": "debate concluded in this part; vote to be asked at the day's voting time"
+  },
+  {
+   "n": "7.2",
+   "title": "Bill to amend the Thalassemia Control Act (Act 2012/4), sponsored for the government by Ahmed Naseer, Ihavandhoo",
+   "outcome": "debate under way; continues beyond this part"
+  },
+  {
+   "n": "7.2",
+   "title": "Debate on the bill to amend the Thalassemia Control Act (Law 2012/4) (continued and closed)",
+   "outcome": "debate concluded; accepted 49-0 and sent to the Social Committee"
+  },
+  {
+   "n": "7.3",
+   "title": "Debate on the bill to amend the Bandar Naib's Office Act (Law 2025/8), proposed on behalf of the government by the member for Central Fuvahmulah",
+   "outcome": "no members spoke; debate ended; accepted 49-0 and sent to the Judiciary Committee"
+  },
+  {
+   "n": "8",
+   "title": "Votes on items awaiting a vote",
+   "outcome": "motion on overtime pay for education and health workers passed 47-0 and sent to joint committee; two bills accepted 49-0 and sent to committees"
+  },
+  {
+   "n": "",
+   "title": "Committee meeting schedule and close of sitting",
+   "outcome": "four committee meetings announced for the day; next sitting Tuesday 1 July 2025 at 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 3,
+   "positions": [
+    "On the motion: said education and health staff lack fair pay and benefits and that Velidhoo health centre staff requests were rejected by the Finance Ministry.",
+    "Said money for reclaiming Fushidhiggaru should be spent on schools and clinics instead.",
+    "On the Thalassemia bill: supported the main amendments and said the national thalassemia centre had been neglected by past governments."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 3,
+   "positions": [
+    "Raised a point of order that was not accepted by the chair.",
+    "Said his party backs the motion but called it political, and argued the MDP-era pay structure cut overtime and allowances.",
+    "Cited teacher training and scholarship programmes started under the current government."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "On the motion: supported it and listed teacher concerns including unpaid overtime, large classes and weekend duties, asking the President to address them.",
+    "On the Thalassemia bill: said it clarifies the Director General's duties and called for more awareness work and further amendments in committee."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order saying he has been a teacher since 2007 and disputing claims about when the pay changes began.",
+    "In closing, thanked supporters, denied a political motive and said conflicts between the pay framework and the employment and civil service laws need fixing in committee."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion on overtime pay for education and health staff, saying they work long hours and the pay rules need review."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion and said overtime and allowances have gone unpaid under past governments, pushing teachers toward council jobs.",
+    "Said the current government would work to secure these allowances if the President so wishes."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion and said pay changes brought some gains, but overtime payment, staff shortages and school space and furniture remain problems.",
+    "Cited a collapsed school wall in Nellaidhoo as an example of repair delays."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion and said the Finance Minister had pledged to work on pay for these sectors in next year's budget.",
+    "Said overtime for staff should be arranged through the proper financial and legal rules."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the motion as a former teacher and said the shortage of Maldivian teachers is a national problem, with many posts filled from abroad.",
+    "Said Maldivian staff leaving for councils and other jobs should be studied and reversed."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Supported the motion, linking good service to fair pay in education and health.",
+    "Said the new debit card limit and other policies show the government improving things, and that Maldivians should hold jobs now filled by foreigners."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion for the MDP, saying the government is cutting the rights of teachers and health workers, including unpaid Saturday work.",
+    "Disputed the government's claims about the debit card limit and fees."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the motion and traced the pay structure issue from a 2005 World Bank and IMF study to the 2022 pay change that raised basic pay but left overtime unpaid.",
+    "Urged consulting staff in committee to find a lasting fix."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Said the current government air-conditioned schools and added hospital wards, and that opposition claims about the debit card announcement were misleading."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the earlier pay change was made without enough study and cut overtime, and called for equal pay across state institutions and better attendance allowances."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the Thalassemia bill, saying it sets the Director General's responsibilities and requires thalassemia testing before marriage to reduce affected births."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Said the bill is mainly administrative and does not fix care gaps; cited rising registered cases and child deaths and urged a patient registry and treatment centres in the atolls."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, thanked its sponsor and credited the President with having a thalassemia centre built in 40 days; urged quick passage in committee."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Called thalassemia the biggest problem facing the country and hoped the bill would bring improvements.",
+    "Asked that the bill be studied widely at committee stage and urged members to support it, including rules to be followed before marriage."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of the 3rd to 5th sittings of the second session of 2025 declared accepted under Rule 240, as no amendments were submitted.",
+  "The urgent question from the North Galolhu member was ruled not to meet the Rule 197 conditions, so it could not be taken up as urgent.",
+  "Committee deadline on the Decentralisation Act review resolution announced (15 August 2025).",
+  "First reading announced of the Judges Act (Act 2010/13) amendment bill from the government.",
+  "Debate on the overtime and working-conditions motion closed; the Speaker said the vote would be asked at the day's voting time.",
+  "The Majlis accepted the proposed motion on overtime pay for education and health workers (member for Kanditheemu) and sent it to the joint committee of the National Development and Heritage Committee and the Social Committee.",
+  "The Thalassemia Control Act amendment bill (member for Ihavandhoo) was accepted and sent to the Social Committee.",
+  "The Bandar Naib's Office Act amendment bill (member for Central Fuvahmulah) was accepted and sent to the Judiciary Committee.",
+  "The next Majlis sitting was set for Tuesday 1 July 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Motion on fair overtime pay for education and health workers, proposed by the member for Kanditheemu (93 members in total, 49 present, 24 needed to pass)",
+   "yes": 47,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Bill to amend the Thalassemia Control Act, proposed by the member for Ihavandhoo (51 present, 25 needed to pass)",
+   "yes": 49,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Bill to amend the Bandar Naib's Office Act, proposed by the member for Central Fuvahmulah (51 present, 25 needed to pass)",
+   "yes": 49,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 59,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,345 @@
+{
+ "sittingId": "938",
+ "date": "2025-04-28",
+ "title": "23rd Sitting of first Session of 2025",
+ "presiding": "Deputy Speaker Ahmed Nazim",
+ "attendance": {
+  "present": 43,
+  "onLeave": 4,
+  "officialTravel": 4
+ },
+ "summary": "Most of the sitting was question time for the Minister of Construction, Housing and Infrastructure, Dr. Abdulla Mutalib. The minister said the stalled Lhohi water and sewerage project passed to Fenaka in March 2025 with about MVR 37.8 million and 540 days left, aiming to finish by September 2026. He also answered on the Binveriya plot scheme. Many members tried to ask follow-ups on other projects and the chair ruled them outside the day's questions. The text is partly garbled, so some details are approximate. After a break the house began debating a government housing bill sponsored by Central Maafannu's Asma Rasheed; the debate was still under way when this part ended. This part continues the first-stage debate on the government's housing bill (a bill on basic housing and social housing). A member whose speech began in the previous part points to articles on safety standards, registering existing providers within 180 days, who qualifies for social housing and how rent is set against the minimum wage. The member for West Maafannu and then the member for Huraa also speak on the bill, and the Speaker ends the debate for the day because many more members still want to speak. The next sitting was set for Tuesday 29 April 2025 at 9:00. The text is garbled in places, so some figures are not repeated here.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "43 present; absences noted"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair",
+   "outcome": "none"
+  },
+  {
+   "n": "5.1",
+   "title": "Question to the Construction, Housing and Infrastructure minister on Lhohi water and sewerage works",
+   "outcome": "minister answered (completion targeted Sept 2026); many follow-ups ruled out of scope"
+  },
+  {
+   "n": "5.2",
+   "title": "Question on Binveriya plots and Hulhumale' housing records",
+   "outcome": "minister answered; follow-ups taken"
+  },
+  {
+   "n": "5 (end)",
+   "title": "Urgent matter proposed by the Kendhoo member",
+   "outcome": "not accepted by the chair (conditions not met)"
+  },
+  {
+   "n": "6.1",
+   "title": "Resolution by South Galolhu member on the chair's conduct",
+   "outcome": "first reading of the resolution tabled"
+  },
+  {
+   "n": "7",
+   "title": "Unfinished business: housing bill sponsored by Central Maafannu member",
+   "outcome": "debate under way, continues in next part"
+  },
+  {
+   "n": "",
+   "title": "Debate on the housing bill (continued)",
+   "outcome": "debated; no vote in this part"
+  },
+  {
+   "n": "",
+   "title": "Speaker closes the sitting and announces the next one",
+   "outcome": "debate paused; next sitting Tuesday 29 April 2025 at 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 9,
+   "positions": [
+    "Raised points of order saying ministers must answer members' questions and that questions were wrongly ruled out of scope.",
+    "Asked about Hulhumale' Phase 3 plot timelines, Binveriya scheme investigation, lost documents after the fire, and handling of a former HDC managing director.",
+    "In the bill debate, raised the death of a young woman and the police response; the chair repeatedly asked him to keep to the bill."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 5,
+   "positions": [
+    "Raised points of order objecting to how the chair handled follow-up questions under the Rules.",
+    "Asked why Hithadhoo's water, housing, harbour and road works are stalled and why Binveriya plots and Hulhumale' flats are undelivered.",
+    "Asked whether the government plans to change the bandaara-plot (Binveriya) policy; said Hulhudhoo's water works are about 80% done."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 5,
+   "positions": [
+    "Asked for completion dates for water and sewerage work at Kendhoo, Kihaadhoo, Dhonfan and Kudarikilu.",
+    "Raised points of order that the chair was blocking questions; submitted an urgent matter.",
+    "Asked whether the Speaker, President, First Lady or ministers received plots under the Gedhoruveriya scheme."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 4,
+   "positions": [
+    "Asked why Kunahandhoo's works are stalled like Lhohi's.",
+    "Said people on two islands lack water and sewerage and asked for the chair to allow the question."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 3,
+   "positions": [
+    "Asked for dates when Lhohi's stalled water and sewerage works will restart and finish, then raised harbour work in his area.",
+    "In the housing bill debate, welcomed the bill but questioned delivery of the 85,000-flat pledge and noted Velidhoo was left out."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 3,
+   "positions": [
+    "Said the minister does not reply to calls and messages from members and asked why.",
+    "Asked about Binveriya plots in Hulhumale' and whether action was taken against politically appointed staff."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Raised a point of order that the Rules do not limit questions to a named island.",
+    "Argued that if ministers must answer all questions, parliament cannot function.",
+    "Asked how many plots remain unhanded after 600 days and for Hulhumale' Phase 3 and Lhohi timelines."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 3,
+   "positions": [
+    "Asked whether the state companies handed water and sewerage works at Vaikaradhoo, Nellaidhoo and Kurinbee have the capacity to finish them.",
+    "Asked why contractors were not replaced and questioned the minister's earlier answer on Fenaka's capacity."
+   ]
+  },
+  {
+   "name": "Mohamed Niushad",
+   "constituency": "Keyodhoo",
+   "turns": 3,
+   "positions": [
+    "Asked whether this government will continue the stalled water and sewerage works at Lhohi and elsewhere.",
+    "Asked when Keyodhoo reclamation (a presidential pledge) will start and on relocating small island communities."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 3,
+   "positions": [
+    "Supported the housing bill, saying it covers all citizens and sets standards, registry and monitoring.",
+    "Said the bill sets up a housing fund, points system and contract rules, citing a 1901 Dutch law.",
+    "Said that homes given to people who do not need housing, and large plots handed out free, should be reconsidered in the bill.",
+    "Proposed adding a system to the bill so that land used for commercial purposes can be taxed."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 2,
+   "positions": [
+    "Asked when road building and land reclamation will start at Kelaa and Filladhoo.",
+    "Asked why no action was taken over Binveriya plots allegedly given without planning, causing large losses to the state."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 2,
+   "positions": [
+    "Asked when stalled sewerage work at Maamendhoo will restart.",
+    "Criticised the minister's earlier answers on the Addu link road and argued members should not be cut off."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Asked who is responsible for stalled housing for HDC staff and about delays on two contractor-financed housing projects.",
+    "Asked whether Binveriya plot handling served any particular interests and why the staff flats project has not progressed."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when harbour and airport runway work at Makunudhoo will begin.",
+    "Asked whether plots under the Binveriya scheme will come with basic services."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 2,
+   "positions": [
+    "Declined to ask a question outside the day's topic.",
+    "Asked about the flat committee's composition and scoring complaints, and stalled sewerage at Nilandhoo and Kondey."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 2,
+   "positions": [
+    "Asked how many projects the previous government left unfinished and what is owed on them.",
+    "Asked how many billion rufiyaa it would cost to reclaim and hand over Binveriya plots."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 2,
+   "positions": [
+    "Asked when Rasdhoo harbour, Ukulhas reclamation and Thoddoo roads will be completed.",
+    "Asked whether the Rasmale project falls under the Binveriya scheme, when it will give plots, and how it is funded."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 2,
+   "positions": [
+    "Welcomed the minister's work on housing and asked how rightful beneficiaries of plots are determined given many complaints.",
+    "Thanked the government and the sponsoring member and described housing as a basic right the state must make sure people can access.",
+    "Asked the committee to prioritise families most in need and set up a social housing allocation system quickly, also outside Malé.",
+    "Called for more flats on every island, including land-reclamation islands, and honest information from applicants."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said water, sewerage and harbour works in his area are heavily delayed and asked for the minister's response."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when water and sewerage work at Fulhadhoo and Fehendhoo will start and finish."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why Lhohi's work has dragged for years and how the government will prevent similar delays."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Began a question to the minister and was interrupted by the chair."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about the MVR 37.8 million Lhohi contract and whether Fenaka has the technical capacity and delivery ability."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the 9,000-plus Binveriya plots exist on the ground and whether the budget funds reclamation."
+   ]
+  },
+  {
+   "name": "Faruhath Mohamed",
+   "constituency": "South Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Asked why the 400 housing units at Kulhudhuffushi are stalled and how they will be completed."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Said the minister misleads about stalled projects and asked whether the 85,000-flat pledge has started in practice."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Noted audit issues with the Binveriya scheme and asked about islanders' chances to join such schemes."
+   ]
+  },
+  {
+   "name": "Ibrahim Naufal",
+   "constituency": "Mulaku",
+   "turns": 1,
+   "positions": [
+    "Asked when work on the causeway linking Naalaafushi will begin (a presidential pledge)."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the government will change policy on Binveriya plots and the level of water service at Thulusdhoo."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the housing bill as a legal framework to find who needs housing and to support housing projects."
+   ]
+  }
+ ],
+ "decisions": [
+  "Chair ruled that many follow-up questions were outside the scope of the day's questions and did not take them.",
+  "The urgent matter from the Kendhoo member was not accepted as it did not meet Rule 197(k).",
+  "Debate on the housing bill began; speaking time was divided among parties.",
+  "The Speaker ended the debate for the day because many more members from government and opposition parties still wished to speak.",
+  "The next Majlis sitting was set for Tuesday 29 April 2025 at 9:00."
+ ],
+ "votes": [],
+ "pagesTotal": 59,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,151 @@
+{
+ "sittingId": "958",
+ "date": "2025-07-01",
+ "title": "10th Sitting of second session of 2025",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 34,
+  "onLeave": 5,
+  "officialTravel": 6
+ },
+ "summary": "The sitting opened at 9:01 with a delegation from the Turkish parliament's friendship group welcomed in the gallery. MP Mauroof Zakir's urgent motion on the new foreign-currency conversion rules was voted on and did not get enough votes to be debated (11 for, 29 against). The rest of the sitting was the first debate on the government's bill to amend the Judges Act (Law 2010/13), with eleven MPs speaking for and against; no vote on the bill was recorded and the sitting ended at 10:31.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "sitting opened; Turkish parliamentary friendship delegation welcomed"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "announced by the chair"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Chair's announcements: urgent motion by Mauroof Zakir (Kendhoo) on foreign-currency conversion rules",
+   "outcome": "not passed 11-29; will not be debated"
+  },
+  {
+   "n": "5.1",
+   "title": "Initial debate on the bill to amend the Judges Act (Law 2010/13), submitted by the government through Saudulla Hilmy (North Thinadhoo)",
+   "outcome": "debated; no vote recorded in this part"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 2,
+   "positions": [
+    "Said the amendments would not speed up cases or secure independence, and raised judges' pay and pensions and corruption concerns.",
+    "Raised a point of order that members should name any colleague they refer to."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Argued the bill does not remove political influence over judges and that the Judicial Service Commission's makeup should change.",
+    "Said he would vote for amendments to make the judiciary independent."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 2,
+   "positions": [
+    "Supported the bill, saying rules on judge transfers, conduct and finances strengthen independence and trust in courts.",
+    "Criticised past governments' record on courts and said the changes would curb outside interference."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Asked the Majlis to debate the Monetary Authority's new rules forcing more dollar earnings to be sold to banks, citing harm to businesses, travellers and prices."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Introduced the bill: judicial conduct standards, rules for moving judges between courts, financial disclosure, and protecting judges' independence and public trust."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying judges need protection from outside pressure and a good working environment so they can rule independently."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Opposed the bill, arguing it gives the Judicial Service Commission more power and that courts and judges have been subjected to political influence."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Compared retirement payouts to judges and officials with ordinary workers, urged fairness, and said the committee stage could refine the bill."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill, saying differing views are fine and the amendments help judges act independently."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Voiced concern about some amendments such as pension loss on removal, and questioned public trust in courts given politically linked removals."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Supported the amendments, said fixes can be made in committee, and criticised the MDP's past record on the judiciary."
+   ]
+  }
+ ],
+ "decisions": [
+  "Urgent motion on foreign-currency conversion rules did not pass, so it will not be debated.",
+  "The bill to amend the Judges Act was debated; no vote was recorded in this part.",
+  "Committee meetings scheduled for the day: Petitions Committee (11:00) and a joint Social and National Development and Heritage committee meeting (13:00).",
+  "Next sitting set for Wednesday 2 July 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate Mauroof Zakir's urgent motion on foreign-currency conversion rules (21 votes needed)",
+   "yes": 11,
+   "no": 29,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 40,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

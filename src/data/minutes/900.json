@@ -1,0 +1,173 @@
+{
+ "sittingId": "900",
+ "date": "2024-11-18",
+ "title": "50th sitting of the 20th Majlis (Continuation)",
+ "presiding": "Speaker Abdul Raheem Abdulla; a Deputy Speaker took the chair mid-debate and again after the 30-minute break (named in the text as Ahmed Nazim)",
+ "attendance": {
+  "present": null,
+  "onLeave": null,
+  "officialTravel": null
+ },
+ "summary": "This continuation sitting ran from 09:01 to 13:05 and was taken up by the debate on the proposed 2025 state budget of MVR 56.6 billion, which the government expects to fund with about MVR 39.8 billion in revenue and grants. Government-aligned members backed the budget, citing health, education, housing, harbour and island projects and a lower deficit. Opposition MDP members criticised cuts to electricity, fuel and food subsidies, higher taxes, pensions and the lack of named island projects, and the Finance Minister replied to several of these points. The text of this part ends with no vote recorded; the Speaker was handing the floor to the next member. Members continued the debate on the proposed 2025 State Budget (about MVR 56.6 billion, with a deficit of roughly MVR 9.4 billion). Four government-side members from Naifaru, Central Hulhumale', Mathiveri and North Feydhoo spoke in support, describing it as a housing budget and listing stalled projects in their islands that they expect it to fund, while defending the government's handling of debt and the dollar shortage. The sitting paused from 11:55 to 13:00; no vote was taken and the Speaker closed the day's session with the budget debate still open. Parts of the text layer are garbled, so figures are quoted loosely.",
+ "items": [
+  {
+   "n": "",
+   "title": "Debate on the proposed 2025 State Budget (MVR 56.6 billion)",
+   "outcome": "debated; no vote in this part, debate continues into part 2"
+  },
+  {
+   "n": "cont.",
+   "title": "Continued debate on the proposed 2025 State Budget",
+   "outcome": "debated; four members spoke, no vote taken; sitting closed and next sitting set for 09:00 the following day"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 2,
+   "positions": [
+    "Supported the budget, saying it has the smallest deficit since 2018 and allocates funds to health, housing, land reclamation and water.",
+    "Said MDP's difficulty is internal party selection, and accused the opposition of attacking a budget that cut spending."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Said the budget has a smaller deficit than recent ones, includes Islamic-finance housing loans open to fishers, and sets aside MVR 500 million for civil service pay harmonisation.",
+    "Supported Aasandha reform and targeted subsidies, arguing benefits should go to those who need them, and defended the government's response to the dollar shortage and inherited debt.",
+    "Listed projects for Maradhoofeydhoo and Feydhoo he said were written into earlier budgets but not delivered, and asked that they be prioritised."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the budget, citing projects for a court complex, hospitals and stalled school and health works on his islands.",
+    "Called for better water and sewerage, harbour and road works, and hoped delayed projects would finish under this budget."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Said he was not consulted on the budget and listed stalled harbour, road, power, school and hospital works on Velidhoo.",
+    "Said health services on his island are poor and asked the government to deliver its promised hospital and dialysis service."
+   ]
+  },
+  {
+   "name": "Moosa Zameer",
+   "constituency": "",
+   "turns": 1,
+   "positions": [
+    "As Finance Minister, said projects are being prioritised through the Presidential priority list and no island will be left out.",
+    "Said Aasandha leakage fixes, pension and allowance rules, and the new subsidy model were explained, and promised written answers to other questions."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Abdul Rahman",
+   "constituency": "Alifushi",
+   "turns": 1,
+   "positions": [
+    "Supported the budget, citing planned land reclamation, an industrial zone, a bank branch, a hospital upgrade and a sports centre for Alifushi.",
+    "Said many earlier projects are unfinished but expressed confidence the President's promises will be delivered."
+   ]
+  },
+  {
+   "name": "Adam Zahir",
+   "constituency": "Felidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the budget, arguing earlier governments listed projects without checking whether people wanted them.",
+    "Rejected opposition criticism on cancer hospital and debt, and urged members to back the President's reform work."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Argued the budget sets the country back, citing higher taxes, subsidy cuts and rising prices for ordinary people.",
+    "Questioned cuts to pensions and old-age allowance, fuel, electricity, fisheries and food subsidies while state companies keep subsidies.",
+    "Questioned the jump in miscellaneous grants and said the budget was not what the people had been promised."
+   ]
+  },
+  {
+   "name": "Mohamed Abdul Rahman",
+   "constituency": "Hinnavaru",
+   "turns": 1,
+   "positions": [
+    "Supported the budget, saying it aims to ease housing, health and cost-of-living pressures and keeps the deficit under 5% of GDP.",
+    "Said stalled works in Hinnavaru, including roads, a futsal ground and school classrooms, should resume under it."
+   ]
+  },
+  {
+   "name": "Ahmed Zahir",
+   "constituency": "Maduvvari",
+   "turns": 1,
+   "positions": [
+    "Supported the budget but said earlier budgets listed health centre and harbour works that were never carried out.",
+    "Said project details for his constituency are visible in documents and hoped ending corruption would let benefits reach people."
+   ]
+  },
+  {
+   "name": "Azim Abdul Azeez",
+   "constituency": "Vilingili",
+   "turns": 1,
+   "positions": [
+    "Supported the budget, noting spending cuts of MVR 6.6 billion, a shift to targeted subsidies, and the pension and Aasandha reforms.",
+    "Said the government has repaid debts owed to contractors and fishermen, and criticised the previous government's pandemic spending."
+   ]
+  },
+  {
+   "name": "Asadhulla Shihab",
+   "constituency": "Gemanafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the budget, saying it would address Gemanafushi's ATM, ferry, road, school hall and youth centre needs.",
+    "Said the previous government left heavy debt, and that this budget avoids new taxes on ordinary citizens."
+   ]
+  },
+  {
+   "name": "Yaaseen Abdulla",
+   "constituency": "Naifaru",
+   "turns": 1,
+   "positions": [
+    "Backed the budget, saying past governments neglected Naifaru and left projects unfinished, and that he expects pledged works to be delivered over the next five years."
+   ]
+  },
+  {
+   "name": "Abdulla Shazeem",
+   "constituency": "Central Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Called the budget a housing budget, citing about MVR 1.5 billion for housing projects and MVR 2-4 billion in housing loans.",
+    "Said he expects the budget to bring a tertiary hospital and more schools to Hulhumale'."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Said the budget differs from earlier ones, with large housing support through a 5% service charge and about MVR 12.4 billion for PSIP projects.",
+    "Asked that stalled works in his constituency's five islands (schools, reclamation, harbour, youth centre, airport) be started under this budget.",
+    "Defended the government's dollar measures and said the budget lays groundwork for GDP to roughly double to USD 10 billion by 2028."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Speaker paused the sitting from 11:55 to 13:00 and then resumed the budget debate.",
+  "The Speaker closed the day's session with the budget debate unfinished; the next session was set for 09:00 the following day."
+ ],
+ "votes": [],
+ "pagesTotal": 56,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,277 @@
+{
+ "sittingId": "990",
+ "date": "2025-10-21",
+ "title": "9th Sitting of third session of 2025",
+ "presiding": "Deputy Speaker Ahmed Nazim",
+ "attendance": {
+  "present": 27,
+  "onLeave": 2,
+  "officialTravel": null
+ },
+ "summary": "The sitting opened at 09:00 with the Deputy Speaker in the chair and 27 members present. The chair announced changes to committee memberships and deadlines for two committee-sent bills, and a question to the Minister of Higher Education, Labour and Skills Development was held over because the minister was unwell. Members then began the opening debate on the government's bill to amend the Special Economic Zones Act, brought by the Baarashu member: supporters said clearer rules would attract foreign investment and jobs, while critics said it favoured certain developers, doubted investors would come, or questioned trust in the courts. Debate was still under way when this part ends, with no vote taken. The sitting continued the debate on the bill amending the Special Economic Zones Act (Law 24/2014), with speakers split on whether the changes help the ongoing North Atoll township project or give away tax revenue. The Majlis then took the Independent Institutions Committee's report on three Media and Broadcasting Commission members, which drew one supporting and one opposing speech. After a break, six votes were held: a pension-law amendment and a resolution failed, an organ transplant bill was accepted and sent to committee, and three commission members were approved. The text is heavily garbled in places, so some details are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened at 09:00"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "27 present, 2 on leave (official travel count unreadable)"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Announcements from the chair: changes to committee memberships (Rule 151)",
+   "outcome": "three changes to the Economic Committee announced (effective 20 October 2025)"
+  },
+  {
+   "n": "4.2",
+   "title": "Announcements from the chair: deadlines for bills sent to committees (Rule 174)",
+   "outcome": "deadline 30 November 2025 for the Law 2009/5 amendment bill; 30 April 2026 for the Employment Bill"
+  },
+  {
+   "n": "5.1",
+   "title": "Question from the Kendhoo member to the Minister of Higher Education, Labour and Skills Development",
+   "outcome": "not taken; minister unable to attend, to be put on the agenda on a later date"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate on the bill to amend the Special Economic Zones Act (Law 2014/24)",
+   "outcome": "debated; recess 10:30 to 11:01; debate unfinished at end of this part"
+  },
+  {
+   "n": "6",
+   "title": "Special Economic Zones Act (Law 24/2014) amendment bill, initial debate (continued)",
+   "outcome": "debated; debate not concluded in this part"
+  },
+  {
+   "n": "7.1",
+   "title": "Independent Institutions Committee report on the three Media and Broadcasting Commission members the Majlis appoints (Law 16/2025, art. 17)",
+   "outcome": "debated for about 30 minutes; report put to the appointment votes"
+  },
+  {
+   "n": "8",
+   "title": "Votes: Pension Act amendment bill (Law 8/2009), a resolution, human organ transplant bill, three Media and Broadcasting Commission appointments",
+   "outcome": "pension bill 5-52 not accepted; resolution 10-53 not accepted; transplant bill 63-0 accepted; three appointees 54-9 approved"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 4,
+   "positions": [
+    "Introduced the government's bill, saying clearer zone conditions would attract foreign investment, jobs, revenue and sustainable townships.",
+    "In the debate, said the 2014 law was meant to draw investors and recalled the F. Atoll project being lost to opposition.",
+    "Defended the SEZ amendment, citing the 100 MW solar deal signed in July as an economic zone benefit.",
+    "Criticised the MDP-era record on the judiciary and corruption."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Argued the bill seemed aimed at giving certain groups tax benefits, and that resorts could become tax-free under it.",
+    "Cited 1% on villa sales and 5% on business profit, and asked how other tourism businesses could compete.",
+    "Opposed the amendment, saying it waives import duty and other taxes for a township project without clear public benefit.",
+    "Said the bill is loosely drafted, for example on the promised hospital and training centre, and called for it to be removed."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Supported the amendment, saying doubts are natural but laws must make investing easy and safe for foreign investors.",
+    "Compared with Singapore and Malaysia, where an investment brings residency or citizenship, and said the Maldives must compete."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the amendment, saying large investments could bring hospitals, training schools and local jobs to the atolls.",
+    "Said Maldivians need jobs at home instead of foreign labour, and that he backs the bill whichever party proposes it."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Backed the bill, saying investors need legal certainty and that opposition has repeatedly cost the country large projects.",
+    "Said airports being built across the islands support tourism growth.",
+    "Said the SEZ amendments are well-intended reforms, and that claims they let individuals profit unfairly mislead the public.",
+    "Cited past corruption cases under MDP-era governments and said this government is acting on corruption."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Fully backed the bill, saying special zones bring foreign investors, new skills and technology, and jobs for Maldivians.",
+    "Recalled the F. Atoll project and said it was lost, arguing investors need an enabling environment."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment as important, saying zones with good rules and incentives can bring investment, jobs and, over time, tax revenue."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, citing zones in China, India and Dubai that created jobs, and said it would help the Maldives attract large investors.",
+    "Said zones could also be set up around protected and environmentally friendly areas."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment after studying it, saying outside investors are needed because developing 180 islands is costly.",
+    "Said earlier investment was lost due to opposition, and that investor confidence in the legal system matters."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and thanked the Baarashu member, saying it benefits the whole country and urging MDP members to back it.",
+    "Said clear laws let specialised industries and large investments set up in Maldives."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Said he first welcomed the amendments but his doubts grew during the debate, stressing investor trust as the main issue.",
+    "Recalled opposing foreign land ownership changes earlier, and questioned trust in the Supreme Court after its recent change of judges."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying the economy depends on tourism and investors need protection and incentives in the law.",
+    "Called on all parties to back changes that help investment and young people's opportunities."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the amendment is not a good one, noting the Special Economic Zones law has existed for about ten years without investors coming.",
+    "Criticised the government's borrowing and spending, citing a pension fund loan and drone purchases."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the SEZ law itself is not flawed, claimed no suitable project was brought in five years of the previous government, and supported the amendment.",
+    "Said island services such as water and health also need development; speech continues into part 2."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the SEZ amendment, saying the projects it covers in North Atoll bring investment and long-term benefit.",
+    "Said opposition members criticising it had not read the bill, and accused earlier MDP governments of corruption."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the committee report: candidates were interviewed, no complaints were received by the 16 October deadline, and those scoring 75 or above were found eligible."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the report, saying the media law was passed against best practice and most media outlets reject it.",
+    "Called on the government to repeal the law and drop the commission that can penalise media."
+   ]
+  }
+ ],
+ "decisions": [
+  "Chair announced three Economic Committee membership changes effective 20 October 2025.",
+  "Chair announced a 30 November 2025 deadline for the Law 2009/5 amendment bill and 30 April 2026 for the Employment Bill.",
+  "The Kendhoo member's question to the Minister of Higher Education, Labour and Skills Development was not taken because the minister was unwell; to be scheduled later.",
+  "Chair clarified that under the State's Fiscal Responsibility Act the Majlis must publish the impact analysis and charter, with the deadline of 15 December.",
+  "Pension Act (Law 8/2009) amendment bill by North Galolhu member Mohamed Ibrahim was not accepted for consideration (5 yes, 52 no).",
+  "Resolution tabled by North Galolhu member Mohamed Ibrahim was not accepted (10 yes, 53 no).",
+  "Government-sponsored human organ transplant bill (South Feydhoo member Ibrahim Didi) was accepted 63-0 and sent to the Social Committee.",
+  "Majlis approved Farasath, Safa Shafeeq and Aminath Sarahath Izzath as Media and Broadcasting Commission members (54 yes, 9 no each).",
+  "Next sitting set for 22 October 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the Pension Act (Law 8/2009) amendment bill for consideration",
+   "yes": 5,
+   "no": 52,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the resolution tabled by North Galolhu member Mohamed Ibrahim",
+   "yes": 10,
+   "no": 53,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the human organ transplant bill for consideration",
+   "yes": 63,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Mohamed Farasath as Media and Broadcasting Commission member",
+   "yes": 54,
+   "no": 9,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Safa Shafeeq as Media and Broadcasting Commission member",
+   "yes": 54,
+   "no": 9,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Aminath Sarahath Izzath as Media and Broadcasting Commission member",
+   "yes": 54,
+   "no": 9,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 83,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

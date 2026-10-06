@@ -1,0 +1,179 @@
+{
+ "sittingId": "950",
+ "date": "2025-06-16",
+ "title": "3rd Sitting of second session of 2025",
+ "presiding": "Deputy Speaker Ahmed Saleem",
+ "attendance": {
+  "present": 34,
+  "onLeave": null,
+  "officialTravel": null
+ },
+ "summary": "The sitting ran from 09:01 to 10:34 under the Deputy Speaker, with 34 members recorded as present at the start. Members debated a resolution from the Baarashu member seeking the House's views on the 15-year-old Decentralisation Act, including its rule of at least five councillors per island: some backed reviewing the Act and trimming councillor numbers on small islands, while others argued councils are not the cause of high costs or slow development. The chair then broke off that debate to take a committee report on a Broadcasting Commission appointment, which drew criticism and defence over the independence of appointees, and the House approved the nominee 56-0 with 60 members present. The next sitting was set for 17 June at 09:00. Parts of the text layer are garbled, including the leave and travel attendance figures.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "34 members present announced; leave and travel figures unclear in the text"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair (committee deadline on the Civil Aviation Authority Act amendment bill, Law 2/2012)",
+   "outcome": "National Development and Heritage Committee deadline of 31 July 2025 announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Resolution by the Baarashu member Ibrahim Shujau seeking members' views on the Decentralisation Act (Law 7/2010)",
+   "outcome": "first reading of the resolution read out"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate on the resolution on the Decentralisation Act",
+   "outcome": "debated by ten members; debate interrupted by the chair to move to item 7, not concluded"
+  },
+  {
+   "n": "7.1",
+   "title": "Independent Institutions Committee report on the presidential nominee for the Maldives Broadcasting Commission (Broadcasting Act, Law 16/2010)",
+   "outcome": "report presented and debated"
+  },
+  {
+   "n": "8",
+   "title": "Vote on the committee report: appointment of Zama'thu Ahmed Waheed to the Maldives Broadcasting Commission",
+   "outcome": "passed 56-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Sought members' views on the Decentralisation Act after 15 years, citing repeated amendments, high costs and the requirement of at least five councillors per island.",
+    "In closing, cited MVR 325.8 million spent on councillor pay and MVR 975.6 million on council civil servants, and called for limits on political appointees.",
+    "Argued that the Act's origins and amendments under all governments show a need for cross-party consultation to strengthen the system."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 2,
+   "positions": [
+    "Opposed cutting councillors, saying the problem lies with governments' political motives and not with councils' record over the past 15 years.",
+    "Said the proposal fits a series of moves against institutions such as the Supreme Court and Audit Office, and that councils should decide island matters."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order that the resolution does not propose cutting councillor numbers but only seeks the House's views, and asked speakers not to mislead the public.",
+    "On the Broadcasting Commission report, praised the committee's work and rejected opposition claims that appointees are partisan, citing Supreme Court judges at MDP events."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 2,
+   "positions": [
+    "Opposed the resolution, saying the President has already settled his position on decentralisation, so it merely endorses a decision already taken.",
+    "Questioned the government's payroll growth and political appointments, asking where savings are while councillor numbers are targeted.",
+    "On the Broadcasting Commission report, questioned appointees' independence, citing a recently appointed member seen signing for PNC at a party gathering."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the resolution, saying islands with a few hundred people have five councillors while large Addu City areas have only one or two.",
+    "Said councils now charge fees at youth sports facilities and spend budgets on fairs and gifts, and questioned what benefit residents get."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution and opposed the 19th Majlis change from three to five councillors, saying small islands do not need five.",
+    "Said island development stalls because governments do not follow through, citing a missing harbour in Foddhoo and slow ministry replies to council letters."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution, calling 15 amendments in 15 years a joke and saying the Act was originally framed for political ends.",
+    "Said many councils are inactive with staff only signing attendance, and that the Local Government Authority acts too weakly on audit and corruption findings.",
+    "Urged the government to reverse the last amendment passed by the previous Majlis affecting city mayors and councils."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution, saying the government works closely with councils in her constituency and the Act has been amended many times since 2010.",
+    "Urged wide consultation including island residents, and said councillor numbers should reflect each island's economic activity and location, not one fixed rule.",
+    "Said councillors play an important role in island planning and land-use plans."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Supported decentralisation but opposed most of the resolution, saying Malé City Council's problems are no reason to change the whole system.",
+    "Argued costs come from ministries renting expensive Malé buildings and political jobs, and said councils should receive about 10 percent of the budget.",
+    "Said councils deliver projects more cheaply than ministries and opposed cutting councillor numbers."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the resolution, saying earlier MDP-era amendments strengthened councils and brought in women's development committees.",
+    "Said the President, as a former minister overseeing local government, suspended councillors and weakened councils, and questioned the government's decentralisation intent.",
+    "Said about 2,000 extra political posts cost over MVR 600 million, versus the MVR 30-40 million saved by trimming councillors."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the Independent Institutions Committee's report recommending Zama'thu Ahmed Waheed for the Broadcasting Commission; no public complaints were received."
+   ]
+  }
+ ],
+ "decisions": [
+  "Zama'thu Ahmed Waheed (G.Dh. Thinadhoo) approved as a member of the Maldives Broadcasting Commission, 56-0",
+  "Debate on the Decentralisation Act resolution interrupted by the chair to take the committee report; not concluded in this sitting",
+  "Chair announced the National Development and Heritage Committee's deadline of 31 July 2025 for the Civil Aviation Authority Act amendment bill",
+  "Next sitting set for Tuesday 17 June 2025 at 09:00"
+ ],
+ "votes": [
+  {
+   "what": "Approval of Zama'thu Ahmed Waheed as member of the Maldives Broadcasting Commission (93 members total, 60 present, 29 needed)",
+   "yes": 56,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 41,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

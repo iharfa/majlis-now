@@ -1,0 +1,327 @@
+{
+ "sittingId": "947",
+ "date": "2025-05-15",
+ "title": "32nd Sitting of first Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 45,
+  "onLeave": 8,
+  "officialTravel": 6
+ },
+ "summary": "The sitting opened at 13:32 with 45 members present. The main business was a no-confidence motion against the Minister of Transport and Civil Aviation, Mohamed Ameen, filed by 12 MDP members over claims linking him to a house tied to the 18 April rooftop-fall case; the minister denied any involvement or influence over the police, PNC and MDA members rejected the motion, and MDP members questioned the police handling. Debate was repeatedly interrupted by points of order and calls from the chair for quiet, and it closed with a vote promised for the day's vote time. This part then moves to the Judiciary Committee report on the bill against gang-run and other crimes, which had just opened with a proposed wording fix when the text ends. The second half of the 32nd sitting covered three committee reports, a round of votes and the closing of the first session of 2025. Members debated the Bandaara Naib's Office bill and the decentralisation law amendment, with the opposition MDP voicing concerns about the process. A no-confidence motion against the Transport and Civil Aviation minister was not passed (11 yes, 54 no), while the gang-crimes bill, the Bandaara Naib's Office bill (with an amendment) and the decentralisation amendment bill all passed. The Speaker then summarised the session's work and closed it. The text layer is garbled in places, so some speaker gists are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayers",
+   "outcome": "sitting opened by the Speaker"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "45 present, 8 on leave, 6 on official duties"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee-set schedule announced under Rule 174 (housing bill)",
+   "outcome": "announced by the chair"
+  },
+  {
+   "n": "4.2",
+   "title": "Change of committee membership (Human Rights and Gender Committee)",
+   "outcome": "South Maafannu member Abdulla Rifau named to replace Gadhdhoo member Mohamed Ali"
+  },
+  {
+   "n": "5.1",
+   "title": "No-confidence motion against Minister of Transport and Civil Aviation Mohamed Ameen",
+   "outcome": "debated; vote set for the day's vote time"
+  },
+  {
+   "n": "6.1",
+   "title": "Judiciary Committee report on the bill to stop gang-run and other crimes",
+   "outcome": "report presented with a proposed wording amendment; debate under way"
+  },
+  {
+   "n": "6.1",
+   "title": "Judiciary Committee report on the bill to stop crimes run by gangs and other unsafe acts (third reading)",
+   "outcome": "third reading announced; vote set for the day's voting time"
+  },
+  {
+   "n": "6.2",
+   "title": "Judiciary Committee report on the Bandaara Naib's Office bill (report M20/R/JD/2025/3), returned to the committee by the Majlis",
+   "outcome": "debated; third reading announced; passed in the vote 64-0 with an amendment"
+  },
+  {
+   "n": "6.3",
+   "title": "Decentralised Committee report on the bill to amend Law 7/2010 (Law on Administrative Divisions of the Maldives)",
+   "outcome": "debated; third reading announced; passed in the vote 55-11"
+  },
+  {
+   "n": "7.1",
+   "title": "Votes on matters ready for decision: no-confidence motion, gang-crimes bill, Bandaara Naib's Office bill and amendment, decentralisation amendment bill",
+   "outcome": "no-confidence motion not passed 11-54; gang bill passed 55-0 (11 abstained); Bandaara Naib bill amendment passed 65-0; bill passed 64-0; decentralisation bill passed 55-11"
+  },
+  {
+   "n": "Closing",
+   "title": "Speaker's review of the first session of 2025 and closing of the sitting",
+   "outcome": "session closed"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 9,
+   "positions": [
+    "Described the motion as unfounded and recalled earlier no-confidence motions in past Majlis terms.",
+    "Urged the MDP to act as a responsible opposition and said it would not win the minister's removal.",
+    "Supported the Judiciary Committee report and said the Majlis, not the government, prepares and passes bills after debate.",
+    "Supported the decentralisation law amendment, saying the law is important for the Maldives and that the president and this government can deliver the changes."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 7,
+   "positions": [
+    "Asked why the Commissioner of Police resigned and questioned links to people dismissed from the President's office.",
+    "Argued the minister should answer protesters' resignation demands.",
+    "On the gang bill, said ministries pushed changes to the committee's amendments, leaving concerns."
+   ]
+  },
+  {
+   "name": "Mohamed Ameen",
+   "constituency": "",
+   "turns": 4,
+   "positions": [
+    "Denied that he or relatives were named as involved by any authority and said the Maandhoo house has several owners.",
+    "Said he did not influence the Maldives Police Service, which does not answer to him, and that he was abroad at the time.",
+    "Said he has no reason to resign and found nothing in the motion to justify it."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 4,
+   "positions": [
+    "Raised a point of order that a Vaikaradhoo member was not being checked by the chair.",
+    "Said he and his party, the MDA, fully support the minister and called the motion a false claim.",
+    "Said the minister had stopped irregular vehicle registration in the ministry."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 3,
+   "positions": [
+    "Said the motion was built on false claims and urged members not to bring ministers' families and names into debate."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 3,
+   "positions": [
+    "Raised a point of order that remarks on a drug case were unrelated to the motion.",
+    "Called the motion political drama and said the government has no minister it lacks confidence in."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order about a member shouting at another member while speaking.",
+    "Did not support the decentralisation report, saying members' concerns (including those of Addu City) were not addressed and that changing laws within days without public consultation is a concern."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order that PNC members should not speak disrespectfully of members who filed the motion."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Recalled past governments and cabinet approvals, and criticised the MDP for bringing the motion without a basis.",
+    "Argued the opposition's role should be to hold government to account on real issues."
+   ]
+  },
+  {
+   "name": "Ahmed Thariq",
+   "constituency": "Mahibadhoo",
+   "turns": 2,
+   "positions": [
+    "Said the transport ministry's mandate does not cover police investigations, so the motion rests on speculation."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 2,
+   "positions": [
+    "Said the minister's answers showed the allegations were false.",
+    "Cited the rule requiring motions to rest on accurate information."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Said a no-confidence motion is serious, and asked what link the minister had to the house, comparing it to an Argentina hotel death case.",
+    "Questioned the police handling, including missing CCTV footage and when police entered the house."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order asking that a member's claim about members be made explicit or withdrawn.",
+    "Supported the Bandaara Naib's Office bill.",
+    "Raised concern about outside influence on bills, citing the gang bill being changed after Home Security requested amendments."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 2,
+   "positions": [
+    "Presented the Judiciary Committee report on the gang bill and proposed correcting a cross-reference in section 59(b).",
+    "Presented the Judiciary Committee's report on the Bandaara Naib's Office bill, which the Majlis had sent back to the committee, for the House to pass."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Supported the report and the committee amendments, and described the bill as the President's initiative to curb gang crime.",
+    "Seconded the amendment proposed by Ali Moosa."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Introduced the motion citing constitution articles 131, 132 and 136, pointing to the minister's alleged family links to the Maandhoo house and his alleged influence over the police probe."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Called the motion baseless and said the minister's reply cleared him, so no resignation or removal was warranted."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Said the motion was brought for political gain, questioned why signatories filed it, and defended the minister's record."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Cited the constitutional right to privacy of home and family, and cautioned against using a motion built on unproven claims."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Briefly interjected to correct a reference to the sitting President's name."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Said he would not support the motion and stressed that parents and society must guide young people away from drugs."
+   ]
+  },
+  {
+   "name": "Ahmed Xamyr",
+   "constituency": "Central Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Presented the Decentralised Committee's report on amending Law 7/2010, saying the committee passed it by 6 members' votes at its 10th meeting on 15 May 2025."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Proposed an amendment to Article 33(b) of the Bandaara Naib's Office bill listing which staff (such as the Deputy Attorney General, Secretary General and legal and administrative service posts) it covers."
+   ]
+  }
+ ],
+ "decisions": [
+  "The chair accepted the no-confidence motion against the transport minister as meeting the Majlis rules, and debate went ahead.",
+  "The chair announced that the vote on the motion would be taken at the day's vote time.",
+  "South Maafannu member Abdulla Rifau was named to the Human Rights and Gender Committee in place of Gadhdhoo member Mohamed Ali.",
+  "The Judiciary Committee report on the gang-crime bill was presented with a proposed section 59 wording amendment.",
+  "No-confidence motion against Transport and Civil Aviation Minister Mohamed Ameen was not passed (11 yes, 54 no, needed 47).",
+  "Bill to stop crimes run by gangs and other unsafe acts passed (55 yes, 0 no, 11 abstained).",
+  "Amendment to the Bandaara Naib's Office bill passed 65-0.",
+  "Bandaara Naib's Office bill passed with the amendment (64-0).",
+  "Bill to amend Law 7/2010 on administrative divisions (decentralisation) passed (55 yes, 11 no).",
+  "Speaker closed the sitting and the first session of 2025 after summarising the session's work."
+ ],
+ "votes": [
+  {
+   "what": "No-confidence motion against the Minister of Transport and Civil Aviation, Mohamed Ameen",
+   "yes": 11,
+   "no": 54,
+   "abstain": 0
+  },
+  {
+   "what": "Bill to stop crimes run by gangs and other unsafe acts (Judiciary Committee report)",
+   "yes": 55,
+   "no": 0,
+   "abstain": 11
+  },
+  {
+   "what": "Amendment by Ali Moosa to the Bandaara Naib's Office bill",
+   "yes": 65,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Bandaara Naib's Office bill, as amended by the Majlis",
+   "yes": 64,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Bill to amend Law 7/2010 (Law on Administrative Divisions), Decentralised Committee report",
+   "yes": 55,
+   "no": 11,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 74,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

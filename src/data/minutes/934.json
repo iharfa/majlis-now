@@ -1,0 +1,241 @@
+{
+ "sittingId": "934",
+ "date": "2025-04-15",
+ "title": "20th Sitting of first Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 48,
+  "onLeave": 4,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened at 09:01 with 48 members present. The House first voted on whether to debate a North Galolhu member's motion about neglect of health and social care for people with disabilities, and declined (12 for, 44 against). Most of the sitting went on the committee report on a bill amending the Immigration Act to bar entry on Israeli passports: government-side members backed the committee version, while MDP members questioned its wording and loopholes, and the debate saw many points of order and accusations about each side's past record on Israel. After a recess, the House passed the amended bill 83-0 and approved Mohamed Anas as chair of the Privatisation and Corporatisation Board 82-0; the sitting ended at 11:10. This part contains only the electronic voting records attached to the end of the minutes, with no debate text. It includes the tail of a roll-call whose summary is in part 1, and an open vote on the nomination of Mohamed Anas as chair of the Privatization and Corporatization Board: 84 members present, 83 eligible to vote (the Speaker has no voting right), 82 voted yes, none no, none abstained and one did not vote.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened at 09:01"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "48 present, 4 on leave, 1 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Matter raised by North Galolhu member Mohamed Ibrahim under Rule 201: neglect by state institutions of health and social protection for people with disabilities",
+   "outcome": "not accepted for debate (12 for, 44 against; 29 needed)"
+  },
+  {
+   "n": "6.1",
+   "title": "Committee report on the bill to amend the Immigration Act, Law 1/2007 (bill by South Galolhu member Meekail Ahmed Nasym; Public Safety Services committee)",
+   "outcome": "debated for the 1-hour limit, then passed 83-0"
+  },
+  {
+   "n": "6.2",
+   "title": "State and Enterprises committee report on President's nomination of Mohamed Anas as chair of the Privatisation and Corporatisation Board (Law 3/2013, Article 9)",
+   "outcome": "debated; approved 82-0"
+  },
+  {
+   "n": "7",
+   "title": "Votes on matters ready for a vote",
+   "outcome": "Immigration Act bill passed 83-0; Anas nomination approved 82-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 13,
+   "positions": [
+    "Said the committee, after holding his bill for 308 days, changed it against its purpose of keeping Israeli passport holders out, under pressure on the government.",
+    "Asked who would decide that Israeli attacks had stopped and said the bill should keep Israeli Defence Forces members out.",
+    "Repeatedly raised points of order that false claims about other members and MDP-era conduct broke the Rules of Procedure."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 9,
+   "positions": [
+    "Supported the committee report as a stand against Israeli actions and said the sponsor's amendment was not made in good faith.",
+    "Said Israel ties, diplomatic relations and Israeli flights were set up under the MDP government, and raised points of order on other members' remarks.",
+    "As State and Enterprises committee rapporteur, presented the report on Mohamed Anas's nomination as Privatisation and Corporatisation Board chair."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 5,
+   "positions": [
+    "Backed the report, thanked the President and said earlier MDP governments never banned the Israeli passport.",
+    "Said MDP was invited several times to give views to the committee but did not appear.",
+    "As a committee member, said Immigration told the committee that dual citizenship holders cannot be verified."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 4,
+   "positions": [
+    "Welcomed the committee's approach but said the bill has loopholes letting Israeli ministers or military enter on other passports.",
+    "Said Immigration can check for dual passports and that lying on arrival forms is an offence.",
+    "Said Israelis kept arriving until recently despite the Cabinet's earlier ban announcement."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 4,
+   "positions": [
+    "Thanked the rapporteur and supported the committee report on Mohamed Anas's nomination.",
+    "Tried to raise Israeli-made products being sold in the Maldives; the chair said this was off-topic for the report."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 3,
+   "positions": [
+    "Recounted Maldives-Israel ties from 1965 through the MDP government's 2009 agreement and a 2011 foreign minister visit.",
+    "Said a 2021 law passed under MDP majority penalised disrespect to Israel's flag rather than banning the passport.",
+    "Backed the report and thanked the President for his stand on Palestine."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Raised neglect by state bodies of health and social protection for people with disabilities, citing unpaid therapy fees and long queues at therapy centres.",
+    "Said calling MDP members irreligious puts them in physical danger and asked the chair to take responsibility; the Speaker said the rules do not provide this."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order that the speaker's claims about Israelis entering on other passports did not match what the bill says.",
+    "Said his party (MDA) fully backed the committee report and thanked the President and the committee."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Raised points of order that the PNC parliamentary group leader should not speak on MDP's intentions and that absent members should not be named in debate."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 2,
+   "positions": [
+    "Fully supported the amendment, saying the PNC majority acted where earlier governments had not.",
+    "Said MDP had a majority in the 19th Parliament yet did not amend the bill, and called passage a golden day in history."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the Public Safety Services committee report on the Immigration Act amendment bill, which the committee passed unanimously among members voting on 14 April."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that the member's remarks on dual passports conflicted with international law and were meant to confuse the public."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order asking the speaker to prove that a dual passport holder could enter the country."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Thanked the committee and said Immigration advised that dual citizens cannot be reliably identified, and the sponsor did not file amendments when offered the chance."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Said Palestine is a sensitive issue and that the President has acted for Palestinian rights; criticised opposition remarks as political.",
+    "Said the PNC supermajority is banning the Israeli passport and called the day historic."
+   ]
+  },
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that the Kendhoo member was misleading the public and asked how dual passport holders could be identified."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Said the public wants practical help for Palestinians and that the ban shows Maldives' stance.",
+    "Said the committee invited parties and former presidents to give views and claimed some did not appear."
+   ]
+  }
+ ],
+ "decisions": [
+  "North Galolhu member's motion on disability health and social care was not accepted for debate (12 for, 44 against, 0 abstain).",
+  "Bill amending the Immigration Act (Law 1/2007), as changed by the Public Safety Services committee, passed 83-0.",
+  "Mohamed Anas was approved as chair of the Privatisation and Corporatisation Board, 82-0.",
+  "Next sitting set for Wednesday 16 April 2025 at 09:00.",
+  "Open vote on Mohamed Anas for chair of the Privatization and Corporatization Board recorded 82 yes, 0 no, 0 abstain, 1 not voted"
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate the Rule 201 motion on disability health and social care (needed 29 of 56 voting)",
+   "yes": 12,
+   "no": 44,
+   "abstain": 0
+  },
+  {
+   "what": "Passing the Immigration Act (Law 1/2007) amendment bill as reported by committee",
+   "yes": 83,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approving Mohamed Anas as chair of the Privatisation and Corporatisation Board",
+   "yes": 82,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Mohamed Anas as chair (Raees) of the Privatization and Corporatization Board (open vote)",
+   "yes": 82,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 57,
+ "parts": 2,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

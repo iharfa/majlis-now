@@ -1,0 +1,438 @@
+{
+ "sittingId": "906",
+ "date": "2024-11-27",
+ "title": "55th sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 45,
+  "onLeave": 4,
+  "officialTravel": 0
+ },
+ "summary": "The sitting opened at 09:01 with 45 members present. The Speaker welcomed a school volleyball team and parents visiting from Ihavandhoo and said he would put a vote on extending the current term from 30 November to 15 December 2024 at the day's voting time. Most of the part was question time with the Minister of Construction and Infrastructure, Dr Abdulla Muttalib, on stalled harbours, land reclamation, coastal protection and water and sewerage projects in many islands; he said many projects were signed under the previous government without matching budget, so money had to be moved between projects and priorities set. Debate on the 2025 budget committee report then resumed and four members had spoken when the Speaker called a 30-minute recess; no votes were held in this part. The Majlis closed debate on the 2025 State Budget report, then took up the Urban Development Bill report, received the State Debt and Fiscal Responsibility bill reports, and debated an amendment to the 2015 Sports Act. After the midday break, members voted on seven items: extending the current session to 15 December 2024, a budget-report amendment, the 2025 Budget (about MVR 56.6 billion), and three bills, plus accepting the Sports Act amendment bill for committee study. The Budget and Urban Development Bill passed 70-11; the debt and fiscal responsibility bills and the sports bill's acceptance passed 81-0.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "45 present, 4 on leave, none on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Approval of the minutes of the 49th and 50th sittings of 2024",
+   "outcome": "no amendments were submitted, so the Speaker declared them accepted"
+  },
+  {
+   "n": "5",
+   "title": "Announcements from the chair (school visitors; planned vote to extend the term to 15 December 2024)",
+   "outcome": "visitors welcomed; vote on extending the term to be held at the day's voting time"
+  },
+  {
+   "n": "6.1",
+   "title": "Question to the Minister of Construction and Infrastructure from the Velidhoo member on the Foddhoo harbour, with supplementary questions from other members",
+   "outcome": "answered by the minister; question time ran out"
+  },
+  {
+   "n": "6.2",
+   "title": "Question to the Minister of Construction and Infrastructure from the Velidhoo member on the Velidhoo harbour upgrade, with supplementary questions from other members",
+   "outcome": "answered by the minister; question time ended and the minister was thanked"
+  },
+  {
+   "n": "8.1",
+   "title": "Debate on the Budget Review Committee's report on the proposed 2025 State Budget",
+   "outcome": "debated; 18 members had spoken before this sitting and four more spoke before a 30-minute recess; continues into part 2"
+  },
+  {
+   "n": "8.1",
+   "title": "2025 State Budget: committee report debate (closing) and amendment",
+   "outcome": "debate closed with no more speakers; amendment removing the report's general recommendations passed 68-11; budget passed 70-11"
+  },
+  {
+   "n": "8.2",
+   "title": "Urban Development Bill: report of the joint National Development/Heritage and Decentralisation committees",
+   "outcome": "debated by 2 members; passed 70-11"
+  },
+  {
+   "n": "8.3",
+   "title": "State Debt Bill: Finance Committee report",
+   "outcome": "report presented, no debate; passed 81-0"
+  },
+  {
+   "n": "8.4",
+   "title": "Fiscal Responsibility Bill: Finance Committee report",
+   "outcome": "report presented, no debate; passed 81-0"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill to amend the Maldives Sports Act (Act 30/2015)",
+   "outcome": "debated by 8 members; accepted for consideration 81-0 and sent to the Social Committee"
+  },
+  {
+   "n": "9.1",
+   "title": "Votes on the day's business, including extension of the current session to 15 December 2024",
+   "outcome": "session extension passed 68-11"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Abdulla Muttalib",
+   "constituency": "",
+   "turns": 39,
+   "positions": [
+    "As Minister of Construction and Infrastructure, said many projects were signed under the previous government without funding, forcing the ministry to move money between projects.",
+    "Said Foddhoo harbour is in its environmental assessment stage after design changes, and that Velidhoo harbour work restarted and is expected to finish around October 2025.",
+    "Said water and sewerage projects in many islands were moved to MWSC after earlier contracts were terminated, and that projects are prioritised by need and available money."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 4,
+   "positions": [
+    "Asked when work on the Foddhoo harbour would start and about progress on the Lhohi sewerage project.",
+    "Thanked the minister for full answers on Foddhoo, Lhohi and Velidhoo, and asked when the Velidhoo harbour upgrade would be finished."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 4,
+   "positions": [
+    "Asked when sewerage works in Kudarikilu, Kamadhoo, Kihaadhoo and Dhonfanu would resume and how the Fushidhiggaru reclamation is funded.",
+    "Said the minister had promised Dhonfanu harbour money in the budget but it is absent, and asked how Fushidhiggaru harbour will be funded.",
+    "Asked when the Kamadhoo harbour, reportedly 90 percent done but halted over diesel, would be completed.",
+    "Said the constitutional amendment on party seats is unconstitutional and he will keep saying so."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 4,
+   "positions": [
+    "Asked for an update on the Kulhudhuffushi harbour extension and the 400-unit housing project, both stalled despite large sums awarded to MTCC.",
+    "Asked when the Kulhudhuffushi harbour extension would go ahead.",
+    "Thanked the sponsor but said removing clause 8(r) and giving the Commissioner of Sports wide powers could reduce sports' independence.",
+    "Said school timetables leave little time for sport; second turn was a brief thanks after his time ran out."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 3,
+   "positions": [
+    "Asked whether the 2025 budget has money for the Hithadhoo causeway and Maavashu reclamation, and for an update on Kunahandhoo water and sewerage.",
+    "Said Kunahandhoo has seen no work at all on water and sewerage and asked for an update."
+   ]
+  },
+  {
+   "name": "Mohamed Niushad",
+   "constituency": "Keyodhoo",
+   "turns": 3,
+   "positions": [
+    "Asked when work on the Vaavu Thinadhoo harbour would start given the president's pledge to finish it by end of 2024, and whether 2025 funds the Fushidhiggaru harbour.",
+    "Asked when work would start on Rakeedhoo coastal protection and Keyodhoo reclamation, and what the Fushidhiggaru harbour would cost.",
+    "Said an inter-school volleyball event treats atoll schools differently from Malé schools (sand versus turf, fewer officials) and urged the education and sports ministries to fix this."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 3,
+   "positions": [
+    "Asked what the ministry is doing to find a lasting fix for erosion on the Hoarafushi coast.",
+    "In the budget debate, said the budget book runs to 233 pages of detail, cited debt-service costs from past loans and recurrent spending near 73 percent of the budget.",
+    "Supported the Urban Development Bill as important and well-researched, saying it should not obstruct island or atoll councils.",
+    "Asked critics to name the specific clauses they believe obstruct councils."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 3,
+   "positions": [
+    "Asked whether permission exists to leave the rock breakwater out of the Manadhoo harbour works, as residents are worried.",
+    "Supported the sports bill's non-discrimination amendment and urged stronger island academies and a national sports institute.",
+    "Moved an amendment to the 2025 Budget report to remove its general recommendations."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Said the minister's account that the PSIP budget was spent was misleading and cited ministry figures showing most island funds unspent.",
+    "In the budget debate, said about 70 percent of island project money in 2024 was diverted and the 2025 budget leans on borrowing and cuts subsidies.",
+    "Warned that 2026 debt repayments leave no room in the budget and that the tourism tax increases may hurt the industry."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 3,
+   "positions": [
+    "In the budget debate, said the committee made little change and the budget lacks project detail, and raised fishermen, traders and health services in Thoddoo.",
+    "Said Thoddoo's promised projects (school, road, health centre, bank) have not started after a year, and criticised the budget's lack of detail for constituencies.",
+    "Said the Urban Development Bill's aims are unclear and that agencies' concerns raised at committee were not resolved.",
+    "Worried that the 10,000-resident city threshold and undefined timelines could clash with the decentralisation law."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 3,
+   "positions": [
+    "As Finance Committee vice-rapporteur, tabled the State Debt Bill report and asked the Majlis to decide on it.",
+    "Tabled the Fiscal Responsibility Bill report with the committee's changes and asked the Majlis to decide."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 2,
+   "positions": [
+    "Said heavy vehicles using the Vilimale beach-side road during the Thilamale bridge works are damaging it and causing flooding, and asked what the minister plans.",
+    "Seconded the amendment to the 2025 Budget report proposed by the member for Manadhoo."
+   ]
+  },
+  {
+   "name": "Ahmed Zahir",
+   "constituency": "Maduvvari",
+   "turns": 2,
+   "positions": [
+    "Asked when sand would fill the pond left at the Maduvvari reclamation and when the stalled Meedhoo harbour work would start.",
+    "Asked for an update on Maduvvari land reclamation, which he said was due to start in 2024 under the presidential pledge."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 2,
+   "positions": [
+    "Asked whether Gulhi reclamation stalled midway would get priority in 2025, citing erosion and the housing need on the island.",
+    "In the budget debate, said past projects often took years to finish and urged members to approve the budget so projects can be completed."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when Addu Meedhoo's serious coastal erosion would be addressed and why the minister does not meet MPs.",
+    "Asked why Huludhumeedhoo reclamation and the Mifco harbour stopped and when they would restart."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 2,
+   "positions": [
+    "Asked when Fuvahmulah road works would start and why stalled, and about the delayed 400 housing units pledged under the previous government.",
+    "Gave up his speaking slot on the Sports Act amendment bill, saying he had wanted to speak the previous day."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether the council's requested design changes to the Dhidhdhoo harbour breakwater could be made, and whether any MP-linked firm received work under the MVR 39 billion projects.",
+    "As sponsor of the sports bill, thanked members and said further changes can be made at committee stage."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Asked for the status of the Fushidhiggaru harbour project, which he noted appeared to be drying out.",
+    "Agreed with the sports bill's vision and said sport is more than football; cited athletes' medal results over the past five years.",
+    "Criticised sports associations being controlled by a few in Malé and questioned the government's will to implement the bill."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Asked about harbour repairs at Rathafandhoo, Fiyoaree and Faresmaathodaa, noting the Fiyoaree harbour works have stopped, and for a sewerage update."
+   ]
+  },
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 1,
+   "positions": [
+    "Asked how far the Madaveli sewerage project, started in 2017, has got, and about the stalled sewerage in Nadellaa."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether any step would be taken on the deteriorating Thulhaadhoo and Feheythoo harbours, and when sewerage would start in Fulhadhoo and Feheythoo."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why MTCC stopped work on the Kurinbee harbour, when it would resume, and whether the 2025 budget funds Kurinbee and Fushidhiggaru."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how far the Thinadhoo industrial zone under construction is from completion."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when work on the new Kumundhoo harbour would start since the harbour entrance still cannot be used by residents."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked for a date and priority for resurfacing the Addu link road, saying lives and property are at risk."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked what is first in the 2025 budget for Thimarafushi and Vaymandhoo, citing the old harbour and the Vaymandhoo road."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when Kudahuvadhoo harbour would be built and questioned the approach of sending equipment to every island to begin work."
+   ]
+  },
+  {
+   "name": "Mohamed Shamin Habeeb",
+   "constituency": "Kurendhoo",
+   "turns": 1,
+   "positions": [
+    "Thanked the ministry for sending a team on Kurendhoo flooding and asked when the Kurendhoo harbour would be finished."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked for the status of Naivaadhoo harbour, Finey harbour and Naivaadhoo reclamation, saying harbour work has nearly stopped."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Asked when the Kelaa coastal protection project, signed by the previous government, would start, and when the Filladhoo-Kelaa road would proceed."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "As committee rapporteur, presented the Urban Development Bill report: seven chapters, six committee meetings, agencies consulted, passed unanimously on 18 November.",
+    "Asked the Majlis to pass the bill as reported."
+   ]
+  },
+  {
+   "name": "Ahmed Thariq",
+   "constituency": "Mahibadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported abolishing the Sports Corporation and moving association registration under the Commissioner of Sports.",
+    "Blamed past neglect and the football association's governance for football's problems; backed school sports programmes."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Speaker declared the minutes of the 49th and 50th sittings of 2024 accepted, as no amendments were submitted.",
+  "The Speaker said a vote on extending the term from 30 November to 15 December 2024 would be held at the day's voting time.",
+  "The minister agreed to send several members written details on their projects after the sitting.",
+  "The Speaker ended question time and called a 30-minute recess during the budget debate.",
+  "Debate on the 2025 State Budget committee report was closed because no further members asked to speak.",
+  "The current session of the Majlis was extended to 15 December 2024.",
+  "An amendment removing the general recommendations from the budget committee report was passed.",
+  "The 2025 State Budget (about MVR 56.6 billion) was passed.",
+  "The Urban Development Bill was passed.",
+  "The State Debt Bill and the Fiscal Responsibility Bill were passed.",
+  "The Sports Act (30/2015) amendment bill was accepted for consideration and sent to the Social Committee.",
+  "The Speaker called the day historic as the first state budget passed by this Majlis; next sitting Monday 2 December 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Extend the current Majlis session to 15 December 2024",
+   "yes": 68,
+   "no": 11,
+   "abstain": 0
+  },
+  {
+   "what": "Amendment removing general recommendations from the 2025 Budget committee report",
+   "yes": 68,
+   "no": 11,
+   "abstain": 0
+  },
+  {
+   "what": "2025 State Budget with the committee report as amended",
+   "yes": 70,
+   "no": 11,
+   "abstain": 0
+  },
+  {
+   "what": "Urban Development Bill",
+   "yes": 70,
+   "no": 11,
+   "abstain": 0
+  },
+  {
+   "what": "State Debt Bill",
+   "yes": 81,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Fiscal Responsibility Bill",
+   "yes": 81,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the Sports Act (30/2015) amendment bill for consideration",
+   "yes": 81,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 102,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

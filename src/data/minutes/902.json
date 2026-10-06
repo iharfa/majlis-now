@@ -1,0 +1,290 @@
+{
+ "sittingId": "902",
+ "date": "2024-11-20",
+ "title": "51st sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 39,
+  "onLeave": 1,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened with routine business: attendance, the agenda, approval of earlier minutes, and the Speaker announcing committee deadlines for the Urban Development bill and an Immigration Act amendment bill. The main debate was on a motion from North Galolhu MP Mohamed Ibrahim urging the government to speed up a bill banning entry to the Maldives on Israeli passports; MDP members and some others backed it and criticised the delay, while PNC members who spoke said the matter should not be politicised and that stakeholders should be consulted. Several points of order were raised and the debate closed with the motion going to the vote period. A government Constitution amendment bill (sea boundaries, foreign military presence, loss of an MP's seat on changing party) was then read for the first time and its preliminary debate was still under way when this part ended. The text layer is partly garbled, so the attendance figures in particular are uncertain. This part finishes the preliminary debate on the government's bill to amend the Constitution (item 7.2), which would add a clause on what happens to an MP removed from their party and a clause on giving up parts of the country's sea territory. Six MDP members and one independent spoke; they said they back the idea of anti-defection rules but objected to MPs losing their seats on a party's say-so and wanted big decisions put to a referendum, while the Majority Leader backed the bill. Three votes followed: the resolution urging the government to ban entry on Israeli passports (item 7.1) failed 15 to 63, the Constitution bill was accepted for consideration 69 to 12, and it was sent to a committee of the whole House 71 to 12. The chair then closed the sitting and said the committee would meet at 12:30; some of the text layer is garbled.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "39 members present, 1 on leave, 1 on official travel (figures partly garbled)"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Approval of minutes 43/2024 to 48/2024",
+   "outcome": "accepted as approved, no amendments were submitted"
+  },
+  {
+   "n": "5.1",
+   "title": "Speaker's announcements: committee deadlines under Rule 174",
+   "outcome": "announced: Urban Development bill due 25 Nov 2024; Immigration Act (1/2007) amendment bill due 28 Feb 2025"
+  },
+  {
+   "n": "6.1",
+   "title": "Bills to be introduced: Constitution amendment bill from the government (sponsored by Hulhudhoo MP Mohamed Shahid)",
+   "outcome": "first reading read"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on motion urging the government to speed up the bill banning entry to the Maldives on Israeli passports (North Galolhu MP Mohamed Ibrahim)",
+   "outcome": "debated by 16 members; debate closed, vote deferred to the day's vote period"
+  },
+  {
+   "n": "7.2",
+   "title": "Preliminary debate on the Constitution amendment bill (sea boundaries, foreign military presence, loss of an MP's seat on changing party)",
+   "outcome": "debate under way, continues beyond this part"
+  },
+  {
+   "n": "7.1",
+   "title": "Resolution urging the government to speed up a bill banning entry to the Maldives on Israeli passports (moved by the member for North Galolhu)",
+   "outcome": "put to a vote; not accepted, 15 yes, 63 no, 1 abstain"
+  },
+  {
+   "n": "7.2",
+   "title": "Government bill to amend the Constitution (an MP removed from their party, and the sea territory clause)",
+   "outcome": "debate closed; accepted for consideration 69-12; sent to a committee of the whole House 71-12"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 7,
+   "positions": [
+    "Said his amendment had sat in committee for 163 days and criticised PNC members for not joining the debate.",
+    "Raised points of order and noted no PNC member was on the speakers list for the motion.",
+    "On the Constitution bill, backed anti-defection in principle but opposed giving party leaders power over MPs' seats and asked for more consultation."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 4,
+   "positions": [
+    "Argued that earlier governments never banned the passport either and that the present government has given aid to Palestinians.",
+    "Backed the Constitution bill, saying MPs should stay with the party they were elected on and it would strengthen MPs' integrity."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 3,
+   "positions": [
+    "Raised a point of order that the remarks did not relate to the bill.",
+    "Thanked the MDP members who brought the motion and described violence against Palestinians in Gaza.",
+    "Said removing MPs' seats at a party's request weakens their independence under the separation of powers, and raised concern about the sea territory clause."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 3,
+   "positions": [
+    "Backed the motion, said the committee had left the bill idle and called on the ruling majority to act.",
+    "Urged the PNC parliamentary group leader to take the lead in passing the ban.",
+    "Said an MP removed by a party should be able to keep the seat, and raised concerns about vote negotiation; said he would support the bill if it were amended."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order objecting to remarks that named another member.",
+    "Backed the amendments, recalling that MDP passed an anti-defection law in the last Majlis, and supported sending the bill to a committee of the whole House."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 2,
+   "positions": [
+    "Said he supports Palestine but asked members to weigh the effects of a ban on Maldivian interests before deciding.",
+    "Said members should consult their constituents on the matter."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Backed the motion and said the government blames committee recess while the delay lies with the majority.",
+    "Said he is not against anti-defection law itself but fears a later law letting party leaders remove MPs, and wants major decisions such as ceding sea territory put to a referendum."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Supported the motion but said a decision should reflect today's situation and follow consultation.",
+    "On the Constitution bill, supported ending party switching but questioned the speed and argued for committee scrutiny."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 2,
+   "positions": [
+    "Said the government and PNC members have prioritised Palestine and called for consultation.",
+    "On the Constitution bill, supported the national security amendments and asked for a long-term national plan."
+   ]
+  },
+  {
+   "name": "Hussain Imran Latheef",
+   "constituency": "South Henveyru",
+   "turns": 2,
+   "positions": [
+    "Said the MDP raised the motion and then left the chamber, and that ties with Israel date back to earlier presidents."
+   ]
+  },
+  {
+   "name": "Mohamed Niushad",
+   "constituency": "Keyodhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order that more MDP members were present than claimed.",
+    "Said the cabinet decided on the ban six months earlier and no step had been taken to speed up the bill."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Moved the motion urging the government to push the Israeli passport ban bill, citing delay in committee and no practical effect from the cabinet's announced ban."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order, claiming past governments had kept ties with Israel."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported banning passports of Israeli officials and military but not all Israeli citizens, citing tourism and economic risks."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Criticised the MDP for raising the motion and pointed to Israeli doctors and links during earlier MDP governments."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Said the president has spoken firmly for Palestine and asked the MDP not to politicise it, with stakeholders to be consulted."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Introduced the bill: sea boundary changes and foreign military use need two-thirds Majlis approval, plus rules on MPs losing seats."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Backed the amendments on sea boundaries, foreign troops and removal of MPs, saying the anti-defection law lacks constitutional backing."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and suggested requiring two-thirds approval for outside use of any facility and constitutional backing for the anti-defection law."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the Article 73 addition, saying removal from a party and loss of the seat silences the voters who elected him, and urged members to put the public ahead of party leaders."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Agreed the Constitution can change but said these amendments need wider thought, preferably a referendum, and questioned the party-removal and military training clauses."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Said MDP opposes giving parties the power to end an MP's membership and that the sea territory clause should need a referendum, not a two-thirds vote; cannot back the draft as written."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes 43/2024 to 48/2024 accepted as approved, since no amendments were submitted.",
+  "Speaker announced committee deadlines: Urban Development bill (25 Nov 2024) and Immigration Act amendment bill (28 Feb 2025).",
+  "Debate on the Israeli passport motion closed; the motion goes to the vote period of the sitting.",
+  "Constitution amendment bill read for the first time and its preliminary debate begun.",
+  "The resolution on Israeli passports (item 7.1) was not accepted, 15 yes, 63 no, 1 abstain.",
+  "The Constitution amendment bill (item 7.2) was accepted for consideration, 69 yes, 12 no.",
+  "The Constitution amendment bill was sent to a committee of the whole House, 71 yes, 12 no.",
+  "The chair closed the sitting and announced the committee of the whole House would meet at 12:30."
+ ],
+ "votes": [
+  {
+   "what": "Resolution urging the government to speed up a bill banning entry on Israeli passports (item 7.1)",
+   "yes": 15,
+   "no": 63,
+   "abstain": 1
+  },
+  {
+   "what": "Accept the Constitution amendment bill for consideration (item 7.2)",
+   "yes": 69,
+   "no": 12,
+   "abstain": 0
+  },
+  {
+   "what": "Send the Constitution amendment bill to a committee of the whole House (item 7.2)",
+   "yes": 71,
+   "no": 12,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 69,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

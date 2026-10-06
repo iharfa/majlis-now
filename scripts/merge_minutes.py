@@ -48,7 +48,7 @@ for m in json.load(open(MAN, encoding="utf-8")):
         "decisions": [d for p in parts for d in p.get("decisions", [])],
         "votes": [v for p in parts for v in p.get("votes", [])],
         "pagesTotal": m["pages"], "parts": len(parts),
-        "confidence": max((p.get("confidence", "Low") for p in parts if not p.get("stub")), key=lambda c: ORDER.get(c, 2)),
+        "confidence": max((p.get("confidence", "Low") for p in parts if not p.get("stub") and (p.get("speakers") or p.get("items"))) or ["Low"], key=lambda c: ORDER.get(c, 2)),
         "model": next((p.get("model", "") for p in parts if not p.get("stub")), ""),
         "generatedAt": next((p.get("generatedAt", "") for p in parts if not p.get("stub")), ""),
     }

@@ -1,0 +1,174 @@
+{
+ "sittingId": "961",
+ "date": "2025-07-08",
+ "title": "13th Sitting of second session of 2025",
+ "presiding": "Abdul Raheem Abdulla (Speaker of the People's Majlis)",
+ "attendance": {
+  "present": null,
+  "onLeave": null,
+  "officialTravel": null
+ },
+ "summary": "The sitting opened at 9:01 and closed at 10:23. An urgent motion about the government requiring Gulhifalhu plot recipients to sign new agreements was put to a vote and did not get enough support to be debated. The Majlis then began the preliminary debate on the government's Public Referendum Bill, with members from both sides arguing over its purpose, cost and effect on election terms, and started debating a State Owned Enterprises Committee report; neither debate finished before the sitting ended.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "announced by the chair (figures not legible in the text layer)"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair (committee sitting times, deadlines for input on bills and a resolution on extra-hours pay)",
+   "outcome": "announced"
+  },
+  {
+   "n": "4",
+   "title": "Urgent motion by the member for North Galolhu on the Gulhifalhu plot agreements",
+   "outcome": "not accepted for debate, 12 yes, 34 no (24 needed)"
+  },
+  {
+   "n": "5.1",
+   "title": "Judicial Service Commission: names of 8 public candidates for membership",
+   "outcome": "referred to the Judiciary Committee for review"
+  },
+  {
+   "n": "6.1",
+   "title": "Public Referendum Bill (government bill), preliminary debate",
+   "outcome": "debated; debate not concluded"
+  },
+  {
+   "n": "7.1",
+   "title": "State Owned Enterprises Committee report on MMPRC and MITDC, continued debate",
+   "outcome": "debate continued; not concluded"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the bill as a way to give citizens a direct say, using the release of Addu territory as an example.",
+    "Raised a point of order objecting to a claim that the President wants extra terms, saying it is untrue and not in the bill."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 2,
+   "positions": [
+    "Welcomed the bill, saying defined referendum circumstances and Elections Commission procedures bring clarity, and noted the 2023 Majlis resolution on a referendum.",
+    "On the SOE committee report, said the companies' problems built up over years and described the current government as putting matters in order."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Submitted an urgent motion on the government requiring Gulhifalhu plot recipients to sign revised agreements, calling it a legal and constitutional issue affecting many residents."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Introduced the Public Referendum Bill, saying it sets when and how public votes are held on constitutional changes such as term lengths, the presidential election method and territory."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Called the bill historic, cited referendums abroad, and said Maldivian law has no procedure for holding one; mentioned a single combined election as a possibility."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Argued the bill could be used to merge elections and extend the presidential term, and questioned its cost and the Elections Commission's independence."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Described the bill as important because it ties constitutional change to a direct public vote; discussed election timing and the 11 November term-end date."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it lets both the Majlis and the President seek public opinion and spells out the Elections Commission's role."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Argued the bill's aim is to merge elections and lengthen the presidential term, and that cost of living, medicine supply and stalled island projects should come first."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Said the bill is not wrong but lacks a way for citizens to petition for a referendum, and that a vote would not change the current term."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, citing a 2020 burial-site decision in Male' and a sale of sea territory as reasons the public needs a say; urged quick passage."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying public votes are needed on questions such as political parties and the independence of state institutions."
+   ]
+  }
+ ],
+ "decisions": [
+  "The urgent motion on the Gulhifalhu plot agreements was not accepted for debate (12 yes, 34 no; 24 needed).",
+  "The names of 8 public candidates for the Judicial Service Commission were sent to the Judiciary Committee for review.",
+  "Preliminary debate on the Public Referendum Bill began but was not concluded.",
+  "Debate on the SOE Committee report on MMPRC and MITDC continued without conclusion.",
+  "The next sitting was set for Wednesday 9 July 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate the urgent motion on the Gulhifalhu plot agreements",
+   "yes": 12,
+   "no": 34,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 35,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

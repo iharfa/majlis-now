@@ -1,0 +1,398 @@
+{
+ "sittingId": "910",
+ "date": "2024-12-10",
+ "title": "59th sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 50,
+  "onLeave": 5,
+  "officialTravel": 2
+ },
+ "summary": "The sitting opened at 09:05 with 50 members present. The Speaker marked Fishermen's Day and announced a committee deadline of 28 February 2025 on a Sports Act amendment bill. Hassan Mufeed (Milandhoo) then raised an urgent motion asking authorities to investigate remarks by the MDP chairperson that he said encouraged an attack on the President; the House voted 44-8 to debate it, and a vote extended the debate time. Almost all speakers backed the motion and criticised the remarks and the MDP's past conduct, while Ameen Faisal (MDP) opposed removing an elected government by force but defended lawful rallies. Debate was still under way when this part ends, with no decision on the motion itself. The text layer is somewhat garbled in places. This part opens mid-way through the debate on an urgent motion from Hassan Mufeed Abdul Gadir (Milandhoo) about remarks by the MDP chair concerning the President. PNC-side members condemned the remarks and backed the motion, while Dr. Ahmed Shamheed (MDP) said the motion was meant to stir unrest; the chair closed the debate after a recess from 12:00 to 14:00 and extended the sitting to 15:30. The House then began the preliminary debate on the government's Foreign Currency Bill (item 5.1): sponsor Ibrahim Falah presented it and members from both sides raised concerns about tourism-industry consultation and the dollar rate while mostly saying they would vote for it. The text ends mid-debate with no vote, and the PDF text layer is garbled in places. The debate on the government's foreign currency bill (item 5.1) wrapped up. Two members, Mauroof Zakir and Dr. Ahmed Shamheed, raised concerns about consultation with the tourism industry, the share of Maldivian workers in tourism and the country's dollar shortage and foreign debt. The bill's sponsor, Ibrahim Falah, then replied, and the bill was accepted for consideration by a vote of 51 to 4 and sent to the Finance Committee. The attached vote sheets also record two earlier procedural votes of the day.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened at 09:05"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "50 present, 5 on leave, 2 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair (Fishermen's Day greetings)",
+   "outcome": "announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee deadline announcement: Social Committee, bill amending the Sports Act (Law 30/2015)",
+   "outcome": "deadline set for 28 February 2025"
+  },
+  {
+   "n": "4 (urgent matter)",
+   "title": "Urgent motion by Hassan Mufeed (Milandhoo) under Rule 192 asking investigators to look into MDP chairperson's remarks, citing the Terrorism Prevention Act (Law 32/2015)",
+   "outcome": "admitted for debate 44-8-1; debate time extended 31-1; debate ongoing"
+  },
+  {
+   "n": "urgent",
+   "title": "Urgent motion on the MDP chair's remarks about the President, submitted by Hassan Mufeed Abdul Gadir (Milandhoo)",
+   "outcome": "debated; chair closed the debate once all members who asked to speak had been heard; no vote shown in this part"
+  },
+  {
+   "n": "5.1",
+   "title": "Preliminary debate on the Foreign Currency Bill, submitted by Ibrahim Falah on behalf of the government",
+   "outcome": "debated; presented and discussed by seven members; text ends mid-debate, no vote shown"
+  },
+  {
+   "n": "5.1",
+   "title": "Preliminary debate on the Foreign Currency Bill, submitted by Ibrahim Falah on behalf of the government",
+   "outcome": "debate ended; accepted 51-4; sent to the Finance Committee for review"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 4,
+   "positions": [
+    "Said he is an MDP member, opposed removing an elected government by force, but saw rallies held with permission as acceptable.",
+    "Said political parties will always seek power and questioned how the motion linked to events under earlier presidents.",
+    "Said the bill sets no figure for the share converted for the Monetary Authority and hoped committee would settle it.",
+    "Did not oppose the US$500 clause but asked what the Governor expects for the dollar rate, and criticised the noise on the floor."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 4,
+   "positions": [
+    "Said the urgent motion was meant to stir unrest, and that MDP's chair said the party aims to hold rulers to account under the constitution.",
+    "Defended MDP's role as opposition, said it gave many current MPs their start, and rejected linking its chair to hatred.",
+    "On the bill, said banks weigh risk and foreign investors may react badly; he would back it if the rufiyaa rate fell as promised.",
+    "Said the dollar shortage comes from government dollar needs growing faster than the economy, with external debt rising."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 3,
+   "positions": [
+    "Moved the urgent motion asking investigative bodies to examine the MDP chair's rally remarks under the Terrorism Prevention Act.",
+    "Argued the remarks were deliberate and risked inciting fear; repeated his call for investigation.",
+    "Raised a point of order that floor noise stopped Ameen Faisal being heard calmly; the chair did not accept it as one."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 3,
+   "positions": [
+    "Supported the motion, argued the remarks should be treated as a serious crime, and called for investigation of MDP statements.",
+    "Presented the bill: rules for foreign currency dealings, a US$500 per-tourist conversion or 20% of earnings option, aimed at easing the dollar shortage.",
+    "As sponsor, welcomed support, including from the MDP.",
+    "Said the bill was consulted on with stakeholders and that yacht and passenger-line concerns were addressed, with exemptions for short stays and young children."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Condemned the remarks on behalf of the MDA, called for the MDP chair's arrest and investigation, and said past corruption cases should also be pursued.",
+    "Said he could not fully back the bill, warned it could strain tourism, urged consulting stakeholders, but said he would vote for it."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 2,
+   "positions": [
+    "Condemned the remarks, said the constitution permits only peaceful politics, and moved to extend the debate time.",
+    "Raised a point of order that the bill's wording on the 20% option be read accurately; the chair did not accept it as one."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Strongly backed the motion, tied the MDP chair's remarks to the party's history of unrest, and called for an investigation.",
+    "On the Foreign Currency Bill, supported it, said it should not become a war with resort owners, and urged gradual change."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Backed debating the motion; argued defending the constitution does not justify calls that endanger the President; urged authorities to act promptly."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Called the motion serious and condemned the remarks, citing earlier MDP rallies, and urged institutions to investigate."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Condemned the remarks, criticised the MDP's history, and urged the public not to attend the MDP gathering that night and police to investigate."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion, urged those who made the remarks be summoned to explain; also criticised past changes to Thinadhoo's city status and council."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the motion, pointed to violence after the 2012 events, and urged committees and police to examine the MDP's leaders."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the motion, said calls like these endanger people, and asked for action against those who encouraged them."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Supported the motion, criticised the MDP's past conduct, and called for investigation of the chair's remarks."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Condemned the remarks, urged prompt action against those behind them, and praised the government's fisheries measures on Fishermen's Day."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Greeted fishers, supported the motion, and criticised the MDP's past conduct including the 2012 unrest in Addu."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Seconded the time extension, backed the motion, and urged MDP members not to attend the rally."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Supported the motion, argued the MDP should be treated as a terrorist group, and said the Election Commission should take note."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Condemned attempts to destabilise the country, argued constitutional change should come through the House, and criticised the MDP's past conduct."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion, argued free speech does not cover remarks endangering life, and called on investigators to act."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Greeted fishers, backed the motion, and criticised the MDP's record, urging the public not to be misled."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Called the motion dangerous, argued the President should be obeyed unless in clear violation, and cited religious grounds against harming rulers."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Condemned the chair's remarks, urged the strictest lawful action, and praised the President's work on debt and services."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion, argued power comes from God and not from force, and called for the MDP chair to be prosecuted."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion and criticised the MDP's past conduct, recalling the February 2012 unrest; speech ran into the end of this part."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Condemned the MDP chair's remarks as encouraging harm to the President, citing Law 9/2014, the constitution and Islamic teaching on protecting life."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Supported the motion; said the MDP chair's remarks endangered an elected President and that political rivals were trying to unsettle the country."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Backed the motion, said MDP has a criminal past, and urged police and security forces to stop the planned protest that night."
+   ]
+  },
+  {
+   "name": "Ahmed Thariq",
+   "constituency": "Mahibadhoo",
+   "turns": 1,
+   "positions": [
+    "Called the motion a serious matter about calls to harm an elected President, and said MDP no longer holds its original ideology."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Said criticising the government is acceptable but speech encouraging harm is not, citing the Quranic call to speak kindly to others."
+   ]
+  },
+  {
+   "name": "Ahmed Xamyr",
+   "constituency": "Central Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Reviewed MDP's history, saying its governments fell through party infighting; his time ran out while he questioned the party's identity."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said accounts of what happened to Amin Didi are as uncertain as the Rannamaari legend, so the MDP chair's remark was no cause for alarm."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Welcomed the percentage option over a flat US$500, urged consulting tourism stakeholders in committee, and called on government to raise tourist arrivals."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Urged real consultation with industry stakeholders on the bill.",
+    "Argued more Maldivians should fill tourism jobs, citing foreign security staff, to keep dollars in the country.",
+    "Opposed forcing dollars out of guesthouses and small businesses."
+   ]
+  }
+ ],
+ "decisions": [
+  "Urgent motion by the Milandhoo member admitted for debate by a vote of 44-8 with 1 abstention.",
+  "Debate time on the urgent motion extended until all members who wished to speak had done so (31-1).",
+  "Speaker announced a committee deadline of 28 February 2025 for the Sports Act amendment bill.",
+  "Sitting paused 10:31 to 11:01 and debate resumed; no decision on the motion itself within this part.",
+  "The chair closed the debate on the urgent motion after all members who asked to speak had been heard.",
+  "The House broke from 12:00 to 14:00 and the chair extended the sitting to 15:30 under the rule for sittings with an urgent motion.",
+  "The chair announced the intention to take the vote on the Foreign Currency Bill straight after its debate without interruption.",
+  "Chair closed debate on the Foreign Currency Bill.",
+  "Bill accepted for consideration 51 yes, 4 no, and sent to the Finance Committee under rule 106(b) of the Majlis rules.",
+  "Next sitting set for Thursday 12 December 2024 at 9:00 am."
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate the urgent motion on the MDP chair's remarks (Rule 192)",
+   "yes": 44,
+   "no": 8,
+   "abstain": 1
+  },
+  {
+   "what": "Extending debate time on the urgent motion until all listed speakers finish",
+   "yes": 31,
+   "no": 1,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the Foreign Currency Bill for consideration (sent to the Finance Committee)",
+   "yes": 51,
+   "no": 4,
+   "abstain": 0
+  },
+  {
+   "what": "Procedural motion on debating all matters, moved by Hassan Mufeed Abdul Gadir (9:16 am, from vote sheet; title only in transliteration)",
+   "yes": 44,
+   "no": 8,
+   "abstain": 1
+  },
+  {
+   "what": "Procedural motion to extend debate time on all matters (10:20 am, from vote sheet; title only in transliteration)",
+   "yes": 31,
+   "no": 1,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 98,
+ "parts": 3,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

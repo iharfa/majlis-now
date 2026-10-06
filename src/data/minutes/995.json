@@ -1,0 +1,58 @@
+{
+ "sittingId": "995",
+ "date": "2025-10-30",
+ "title": "14th Sitting of third session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo)",
+ "attendance": {
+  "present": 41,
+  "onLeave": 11,
+  "officialTravel": 4
+ },
+ "summary": "A short sitting (about 27 minutes) held to receive the government's proposed 2026 state budget. The Minister of Finance and Planning presented it, covering inherited debt repayments, growth forecasts, revenue, spending and borrowing plans. The Speaker said the budget would be studied by the committees, with floor debate to be scheduled after a 7-day period, and set the next sitting for 4 November 2025.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened by the Speaker"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "41 present, 11 on leave, 4 on official travel (as announced)"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced by the Speaker"
+  },
+  {
+   "n": "5.1",
+   "title": "Presentation of the proposed 2026 state budget by the Minister of Finance and Planning",
+   "outcome": "presented; to be studied by committee, floor debate to be scheduled after 7 days"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Moosa Zameer",
+   "constituency": "",
+   "turns": 1,
+   "positions": [
+    "Presented the 2026 budget as a fiscal and debt sustainability plan, citing inherited debt and a USD 600 million lump-sum repayment due in 2026.",
+    "Forecast economic growth of about 5.4% in 2025 and 5.3% in 2026, led by tourism, with official reserves rising.",
+    "Said no new revenue measures are proposed; most spending is recurrent, including pay changes, and borrowing is planned to cover the deficit and debt repayments."
+   ]
+  }
+ ],
+ "decisions": [
+  "The proposed 2026 state budget was formally presented to the Majlis by the Minister of Finance and Planning.",
+  "Speaker said the budget will be reviewed by the committee(s) responsible, with budget details placed on members' desks.",
+  "Budget debate to be put on the agenda after a 7-day period from this sitting, per the Majlis rules.",
+  "Next sitting set for Tuesday 4 November 2025 at 9:00."
+ ],
+ "votes": [],
+ "pagesTotal": 11,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -223,7 +223,7 @@
  ],
  "pagesTotal": 47,
  "parts": 2,
- "confidence": "Low",
+ "confidence": "High",
  "model": "claude-sonnet-5-5",
  "generatedAt": "2026-10-06"
 }

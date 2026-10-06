@@ -1,0 +1,331 @@
+{
+ "sittingId": "970",
+ "date": "2025-08-04",
+ "title": "20th Sitting of second session of 2025",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 41,
+  "onLeave": 9,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened with attendance, approval of earlier minutes, and the chair's condolences for former member Hassan Sabir and congratulations to Qasim Ibrahim on a national honour. Two presidential nominations (tax authority board seats and a judicial post) went to committees and two government bills had their first reading. Members then debated a Penal Code amendment to make reckless or frightening motor-vehicle driving an offence; speakers from several parties backed it in principle, with many also raising enforcement, licensing and underage driving. After a recess, a bill amending the decentralisation law's rules on council finances was presented and its debate began, carrying into the next part. The text layer is heavily garbled, so attendance figures and some details may be imperfect. Members finished the floor debate on the government-sponsored bill to amend the Decentralisation Act (Law 2010/7), which would change what local councils can spend, hire, lease and invest in. Opposition and several other members said it would cut councils' financial and administrative independence ahead of the 2026 local council elections, while PNC members and the sponsor said it makes councils more accountable and does not dismantle the system. The bill was accepted for consideration, 48 in favour and 11 against, and sent to the Decentralisation Committee. The first lines of this part are the tail of a speech begun in part 1 and are not attributed.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "41 present, 9 on leave, 1 on official travel (as read from the text)"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Approval of minutes of sittings 15 to 19",
+   "outcome": "accepted by the chair, no amendments were submitted"
+  },
+  {
+   "n": "5",
+   "title": "Chair's announcements: condolences and congratulations",
+   "outcome": "condolences for former member Hassan Sabir with a moment of silence; congratulations to Qasim Ibrahim (Maamigili)"
+  },
+  {
+   "n": "6.1",
+   "title": "President's nominations for four Maldives Inland Revenue Authority board seats (Law 3/2010)",
+   "outcome": "referred to the Economic Committee"
+  },
+  {
+   "n": "6.2",
+   "title": "President's nominee for a judicial appointment (Constitution art. 147)",
+   "outcome": "referred to the Judiciary Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill to amend the Decentralisation Act (Law 7/2010), presented for the government by South Fuvahmulah member",
+   "outcome": "first reading"
+  },
+  {
+   "n": "7.2",
+   "title": "Bill to amend the National Payment System Act (Law 8/2021), presented for the government by Makunudhoo member",
+   "outcome": "first reading"
+  },
+  {
+   "n": "8.1",
+   "title": "Preliminary debate: bill to amend the Penal Code (Law 9/2014) on reckless driving of motor vehicles",
+   "outcome": "debated; time ran out and debate to resume on another day"
+  },
+  {
+   "n": "8.1",
+   "title": "Committee membership changes announced by the chair",
+   "outcome": "two PNC seat swaps announced"
+  },
+  {
+   "n": "8.2",
+   "title": "Preliminary debate: bill to amend the Decentralisation Act (Law 7/2010), 16th amendment",
+   "outcome": "presented after recess, debate under way (continues in part 2)"
+  },
+  {
+   "n": "8.2",
+   "title": "Debate on the bill to amend the Decentralisation Act (Law 2010/7), sponsored for the government by the member for South Fuvahmulah",
+   "outcome": "debate concluded; sponsor gave closing remarks"
+  },
+  {
+   "n": "10",
+   "title": "Vote on accepting the Decentralisation Act amendment bill for consideration",
+   "outcome": "passed 48-11; referred to the Decentralisation Committee"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 3,
+   "positions": [
+    "Backed the amendment but said it alone will not solve the problem; police face practical constraints.",
+    "Called for vehicle tracking so speeding can be detected and licences suspended.",
+    "First turn: opposed the bill, questioning the reasons for it, the limits on council finances and the last-year restrictions.",
+    "Second turn: said councils should pay utility bills but objected to the MVR 10 million cap on council business and urged committee changes."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 3,
+   "positions": [
+    "On the Penal Code bill: backed it and said enforcement against rule-breakers is weak; also responded to remarks about corruption and members' pay.",
+    "On the decentralisation bill: said he could not support the amendments, arguing they could paralyse councils in the final year of their term.",
+    "Said he would not vote for the bill, urged members to reject it, and said voters would answer in the coming local council elections."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 3,
+   "positions": [
+    "Backed the bill on behalf of the opposition and said the opposition will support measures that help the public.",
+    "Urged a clearer licensing route for older teenagers and safe tracks for young people to practise.",
+    "Opposed the bill, saying it hampers council projects and jobs in the run-up to elections, and hoped the committee would strengthen councils instead."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 3,
+   "positions": [
+    "On the Penal Code bill: backed it, raised concern about riders under 18 and called for awareness programmes and safe places for young people.",
+    "On the decentralisation bill: presented it, saying it defines council company business, tightens funding rules and limits big financial decisions late in a council term.",
+    "As sponsor, gave closing remarks urging members to read the bill, citing misuse of council land, and asked for a vote to accept it."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 2,
+   "positions": [
+    "Presented his Penal Code bill so reckless or frightening motor-vehicle driving is defined as an offence the justice system can act on.",
+    "Said penalties alone are not enough; awareness work is needed and the committee should consult Traffic Police.",
+    "Opposed the bill, saying it limits councils' financial independence and shows the government expects to lose next year's council elections."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Backed the bill and said vehicles are often driven outside the rules.",
+    "Asked what the Transport Ministry and Police have done to educate the public, and about standards for converting foreign licences.",
+    "Opposed the bill, saying a final-year freeze would paralyse councils, and questioned grant levels and the lack of government island projects."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Supported the amendment but said the real test is whether passed laws are enforced and enforcers held to account.",
+    "Also raised corruption and called for central procurement controls in state companies.",
+    "Defended the amendments as a fairness measure, including that councils pay government service bills like ordinary customers, and criticised earlier-government record on decentralisation."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Backed the bill though it came from the opposition, and urged the committee to involve all relevant ministries and public views.",
+    "Highlighted pressure on police on the roads.",
+    "Supported the amendment, saying it aims to strengthen the decentralised system, not end it."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 2,
+   "positions": [
+    "Backed the bill even though it came from the opposition, noting the ruling party's large majority.",
+    "Argued vehicles should be registered with fixed speed limits, as in the UK, India and UAE, and that the penalty should reflect real danger."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 2,
+   "positions": [
+    "First turn: opposed the amendments, saying they would slow island development and move service powers to central government.",
+    "Second turn (point of order): disputed the claim that PNC holds council majorities, saying members were elected on PPM's slot."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, citing road deaths and serious injuries among young people and pedestrians in Male and the islands.",
+    "Said clearer offences would help courts and victims seeking justice."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill but asked whether it goes far enough; said enforcement of existing speed signs is lacking.",
+    "Asked the committee to set different penalties for driving unlicensed, with a suspended licence, or with the licence left at home."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, citing a recent fatal crash in his island, and urged quick passage.",
+    "Suggested the committee also consider battery-powered vessels and vehicles in the wording."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Backed the bill as important and urged the committee to also consider negligence in construction, industry and at sea.",
+    "Said negligent conduct should be treated in a wider way than engine vehicles alone."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, citing police data of about eight accidents a day and over 1,700 recorded so far this year.",
+    "Asked the committee to cover sea collisions and vehicles with altered or double plates, and said engine type should not change the rules."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, citing 4,379 accidents recorded in 2024 against 3,800 in 2023.",
+    "Said insurance cover for victims is low (about 100,000 rufiyaa in total) and should be raised in the related law."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, saying such laws protect society and one person's freedom ends where another's safety begins.",
+    "Urged quick passage and further additions at committee stage."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill and asked who should be responsible when a minor drives: the guardian, or whoever handed over the vehicle.",
+    "Called for speed limits (such as 80 and 30 km/h) to be fixed at registration and for a vehicle tracking system."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill but said current penalties and enforcement are inadequate, with only three or four police officers on many islands.",
+    "Said teenagers need a way to learn and be licensed, and awareness should be raised."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order about how a colleague characterised PNC members' position on the amendments."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Said he does not personally back reducing councils' powers, and criticised earlier governments over land-use plans and a long lease of Mathiveri's land."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the bill, saying it shifts councils' financial and administrative powers to the government and limits council business such as guesthouse leasing."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, citing concern about land and jobs handed out by councils before elections, and urged all members to back it."
+   ]
+  },
+  {
+   "name": "Mohamed Niushad",
+   "constituency": "Keyodhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the bill, saying its aim is to move council powers to central government, and asked that councils' current powers be left as they are."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of sittings 15 to 19 accepted by the chair after no amendments were submitted.",
+  "Moment of silence held for former member Hassan Sabir.",
+  "President's nominations for four Maldives Inland Revenue Authority board seats sent to the Economic Committee.",
+  "President's judicial nominee sent to the Judiciary Committee.",
+  "Committee changes: Hanan Mohamed Rasheed replaces Ibrahim Shujau on the Finance Committee; Ibrahim Shujau replaces Ibrahim Didi on the National Development and Heritage Committee (PNC seats).",
+  "Debate on the Penal Code amendment paused when time ran out, to resume another day.",
+  "Sitting recessed 10:30 to 11:00; the decentralisation bill (Law 7/2010) debate began afterwards.",
+  "The bill to amend the Decentralisation Act (Law 2010/7) was accepted for consideration by the People's Majlis.",
+  "Under Rule 106 the bill was sent to the Decentralisation Committee for study.",
+  "Next sitting set for Tuesday 5 August 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the Decentralisation Act (Law 2010/7) amendment bill for consideration (93 members total, 60 present, 59 voted, 30 needed)",
+   "yes": 48,
+   "no": 11,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 76,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

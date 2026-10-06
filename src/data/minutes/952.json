@@ -1,0 +1,334 @@
+{
+ "sittingId": "952",
+ "date": "2025-06-18",
+ "title": "5th Sitting of second session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 35,
+  "onLeave": 8,
+  "officialTravel": 5
+ },
+ "summary": "The sitting ran from 9:02 to 11:15. Members questioned the Minister of Construction, Housing and Infrastructure about stalled water, sewerage, road, harbour and housing projects across many islands. The Majlis agreed to debate and then refer a privilege complaint (about access to a special-needs centre in K. Guraidhoo) to committee, accepted a resolution on the decentralisation law for committee study (52-11), and approved two non-resident ambassador nominations (Ireland, Ukraine). Some text is garbled, so counts and gists are best-effort.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "Speaker opened the sitting"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "35 present, 8 on leave, 5 on official travel at the start"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Questions to the Minister of Construction, Housing and Infrastructure (Dr. Abdulla Muaththalib)",
+   "outcome": "Debated; 24 member questions and follow-ups, minister answered 23 and declined one as unrelated"
+  },
+  {
+   "n": "",
+   "title": "Privilege matter raised by North Galolhu MP Mohamed Ibrahim (rule 208) over access to the K. Guraidhoo special-needs centre",
+   "outcome": "Debate accepted 55-0; later referred to the Privileges and Conduct Committee 63-0"
+  },
+  {
+   "n": "6.1",
+   "title": "Resolution by Kanditheemu MP Ameen Faisal on overtime pay and fair working conditions for education and health workers",
+   "outcome": "First reading read out"
+  },
+  {
+   "n": "7.1",
+   "title": "Resolution by Baarashu MP Ibrahim Shuja seeking members' views on problems in the Decentralisation Act (Law 2010/7), third day of debate",
+   "outcome": "Debate closed; accepted 52-11 and sent to the Decentralisation Committee"
+  },
+  {
+   "n": "8.1",
+   "title": "Foreign Relations Committee report on non-resident ambassador nominations for Ireland and Ukraine",
+   "outcome": "Debated; both nominations approved 66-0"
+  },
+  {
+   "n": "9",
+   "title": "Votes on pending matters",
+   "outcome": "Four votes taken: privilege referral, decentralisation resolution, Ireland ambassador, Ukraine ambassador"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Abdulla Muaththalib",
+   "constituency": "",
+   "turns": 23,
+   "positions": [
+    "As Construction, Housing and Infrastructure minister: Kudarikilu, Kihaadhoo and Dhonfanu sewerage restarted under MWSC; completion targeted September 2026; many projects stuck awaiting URA approvals.",
+    "Said housing loans are government-subsidised through financial institutions; agreements being signed, lending to start after eligibility checks, applications going to banks around early July.",
+    "Said the Addu Link Road site is being finalised for mobilisation, with works to start once fixed. Declined some questions as unrelated to the day's topic."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 4,
+   "positions": [
+    "Asked when stalled water and sewerage work in Kudarikilu, Kihaadhoo and Dhonfanu would start and finish; said Kendhoo's system is finished but not serving residents.",
+    "Backed sending the privilege motion to committee, citing MPs' duty to oversee state institutions.",
+    "In the decentralisation debate, said council reform should not erode public trust in councils and questioned cutting councils while political posts grow."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when Ulaidhoo road work, Kurinbee housing signing and Vaikaradhoo's finished sewerage service would begin.",
+    "On the ambassador report, backed the committee's diligence but argued the Majlis agenda is crowded with President's Office submissions and ministers need to deliver more."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Asked when FDC flats will be handed over per the President's pledge and whether applicants left out have been told.",
+    "Raised a privilege complaint: the Health Minister did not answer his 19 April letter seeking access to the K. Guraidhoo special-needs centre.",
+    "Argued the law on Majlis privileges requires ministries to arrange such visits and urged action on unanswered MP letters."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 2,
+   "positions": [
+    "Asked when harbour and road works at Kelaa, where the beach is eroding, and Fillaadhoo road and reclamation would be finished.",
+    "In the decentralisation debate, said 15 years of amendments have not produced good results and welcomed gathering MPs' views."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when ministry works on islands in his constituency would start and whether delays stem from the previous government.",
+    "Moved referral of the privilege matter to committee; said the Majlis should accept useful motions from any party and blamed the centre's condition on the previous government."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Argued MPs should debate in citizens' interest and that jobs near resorts and in waste management should go to Maldivians rather than expatriates.",
+    "Said 15 years of decentralisation amendments have not resolved the problems and criticised the opposition's arguments as politically driven."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Said Manadhoo's sewerage, installed in 2014, lacks spares and sewage is flowing into the island; asked for a permanent fix and timeline."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the minister knows Hithadhoo's sewerage is poorly maintained and overflowing, and when residents will get a solution."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Asked when planned housing units in Fuvahmulah would start and why the work is stalled."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Asked about Rathafandhoo harbour and shore protection, flooding concerns, and when Faresmaathodaa's land reclamation would begin."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when unfinished water and sewerage work in Feheendhoo and Fulhadhoo would restart and when residents would get service."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when the northern reclaimed land in Thinadhoo, reclaimed around 2016-17, would get water and sewerage."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Asked about Kunahandhoo water and sewerage work handed to MWSC but not started, and where the ministry's responsibility ends after handover."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Said his question was unrelated to the day's topic and thanked the minister for the ministry's work."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when practical work on the Addu Link Road would begin, citing residents' difficulties and damage to vehicles."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Asked when completed water and sewerage in Feydhoo, Goidhoo and Bilehfahi would serve residents and about hookups for new houses in Kanditheemu."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked about response to the Vaemandhoo-Kinbidhoo causeway, a Bandaara plot letter from the council, and Thimarafushi harbour upgrade work."
+   ]
+  },
+  {
+   "name": "Ibrahim Naufal",
+   "constituency": "Mulaku",
+   "turns": 1,
+   "positions": [
+    "Said about 100 completed houses in Kolhufushi remain unhanded to residents without utilities, despite the President's pledge, and asked for a solution."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when practical work on the Addu bridge would begin and whether vehicles for Addu road works have reached the company."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when Makunudhoo and Neykurendhoo water and sewerage work would finish and when airport works would start, citing residents' isolation."
+   ]
+  },
+  {
+   "name": "Mohamed Siruhaan",
+   "constituency": "Hithaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked for the date the completed Dharavandhoo sewerage will be formally handed over."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Citing statistics, said about MVR 1.5bn (11%) of this year's MVR 12.3bn PSIP budget had been spent; asked whether works or releases of funds are lagging."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked for an update on the announced housing loans and when funds will be released."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why Diddoo bridge work has been stalled for a long time and when it will restart."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 1,
+   "positions": [
+    "Questioned whether a Majlis view would settle a 15-year dispute and urged cross-party consultation.",
+    "Said council grants and local tourism promotion trips have mixed value; supported overhauling the system but not cutting councils alone."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Presented the Foreign Relations Committee report: both nominees already serve as ambassadors, so no further interviews or documents were sought.",
+    "Said the committee approved both nominations unanimously among members voting, at its meeting on 16 June 2025."
+   ]
+  }
+ ],
+ "decisions": [
+  "North Galolhu MP's privilege complaint accepted for debate (55-0) and referred to the Privileges and Conduct Committee (63-0).",
+  "Decentralisation Act resolution accepted 52-11 and sent to the Decentralisation Committee for study.",
+  "Nomination of H. Orchid, Alfadila Irtisham Adam as non-resident ambassador to Ireland approved 66-0.",
+  "Nomination of M. Geelaavila, Alfadila Qeela Ali as non-resident ambassador to Ukraine approved 66-0.",
+  "Resolution on overtime pay and working conditions for education and health workers had its first reading.",
+  "Chair announced the next sitting for Monday 23 June 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Debate the privilege complaint raised by North Galolhu MP Mohamed Ibrahim",
+   "yes": 55,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Refer the privilege complaint to the relevant committee (Privileges and Conduct)",
+   "yes": 63,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the Decentralisation Act resolution and send to the Decentralisation Committee",
+   "yes": 52,
+   "no": 11,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint non-resident ambassador to Ireland (Irtisham Adam)",
+   "yes": 66,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint non-resident ambassador to Ukraine (Qeela Ali)",
+   "yes": 66,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 66,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

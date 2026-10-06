@@ -1,0 +1,221 @@
+{
+ "sittingId": "921",
+ "date": "2025-02-24",
+ "title": "7th Sitting of first Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo)",
+ "attendance": {
+  "present": 44,
+  "onLeave": 6,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened with the Minority Leader's reply to the President's address, which criticised the government's handling of the economy, housing, health, fisheries and other areas, with the Speaker repeatedly asking members to keep order. After a recess the House debated the Finance Committee report on the President's two-year cost-cutting plan, with several points of order and a dispute over whether remarks about the judiciary were on topic, and passed it 44-0. It then approved four non-resident ambassador appointments from the Foreign Relations Committee, sent two more nominations to that committee, and held the first reading of a bill amending the Courts Act. The attendance figures in item 2 and some of the opening text are partly garbled. This part of the minutes contains only the electronic voting records, with no speeches. Members voted in open votes on three nominations of non-resident ambassadors: to Luxembourg and the Netherlands, to France, and to Australia. Each nomination received only Yes votes, with no No votes or abstentions. Every vote had 74 members present and 73 eligible to vote, and 25 to 28 members did not cast a vote.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "Sitting opened by the Speaker (started 9:01)"
+  },
+  {
+   "n": "2",
+   "title": "Attendance",
+   "outcome": "44 members present, 6 on leave, 1 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Passing of minutes of sittings 1 to 3",
+   "outcome": "Accepted as passed, no amendments had been submitted"
+  },
+  {
+   "n": "5",
+   "title": "Announcements from the chair (committee deadline, committee change, urgent matter)",
+   "outcome": "Judiciary Committee deadline of 27 Feb 2025 announced for the bill on preventing gang crimes; Hulhudhoo member replaced Milandhoo member on that committee; an urgent matter from the South Galolhu member was not accepted"
+  },
+  {
+   "n": "6.1",
+   "title": "Reply to the President's address (Minority Leader)",
+   "outcome": "Debated; reply delivered by Minority Leader Ibrahim Nazil"
+  },
+  {
+   "n": "6.2",
+   "title": "Appointment of a non-resident ambassador to the Russian Federation (ambassador based in Turkiye)",
+   "outcome": "Referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "6.3",
+   "title": "Appointment of a non-resident ambassador to Morocco (ambassador based in Saudi Arabia)",
+   "outcome": "Referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "First reading of a bill to amend the Courts Act (Law 2010/22), submitted by the Holhudhoo member",
+   "outcome": "First reading held"
+  },
+  {
+   "n": "8.1",
+   "title": "Finance Committee report on the President's cost-cutting measures under the economic reform agenda",
+   "outcome": "Debated; passed 44-0"
+  },
+  {
+   "n": "8.2",
+   "title": "Foreign Relations Committee report on four non-resident ambassador appointments",
+   "outcome": "All four approved (47-0, 48-0, 45-0, 48-0)"
+  },
+  {
+   "n": "9",
+   "title": "Votes on matters ready for a vote",
+   "outcome": "Finance report and four ambassador appointments all passed with no votes against"
+  },
+  {
+   "n": "",
+   "title": "Vote on appointing Geela Ali as non-resident Ambassador of the Maldives to the Grand Duchy of Luxembourg and the Kingdom of the Netherlands",
+   "outcome": "voted 48 yes, 0 no, 0 abstain (25 did not vote)"
+  },
+  {
+   "n": "",
+   "title": "Vote on appointing Iruthisham Adam as non-resident Ambassador of the Maldives to France",
+   "outcome": "voted 45 yes, 0 no, 0 abstain (28 did not vote)"
+  },
+  {
+   "n": "",
+   "title": "Vote on appointing Mohamed Luveiz as non-resident Ambassador of the Maldives to Australia",
+   "outcome": "voted 48 yes, 0 no, 0 abstain (25 did not vote)"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 11,
+   "positions": [
+    "Said the President's address offered no plan for economic hardship, citing rising prices, a dollar shortage and unpaid government bills.",
+    "Argued the 2024 deficit, borrowing and negative usable reserves contradict campaign promises and the claim of a strong economy.",
+    "Criticised the China trade deal, housing, health and fisheries record, and raised concerns about media freedom, corruption and independent institutions."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 9,
+   "positions": [
+    "Argued judicial pay cuts, alongside a bill to cut Supreme Court judges from seven to five, amount to government pressure on the court.",
+    "Objected to the chair interrupting him, saying this departs from past practice in the Majlis.",
+    "After the recess, repeated that the pay cuts and the bill to reduce Supreme Court seats threaten judicial independence."
+   ]
+  },
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 4,
+   "positions": [
+    "Presented the Finance Committee report: some measures need law changes first, while salary reductions under the guidelines could save about 14 million rufiyaa a year.",
+    "Raised points of order saying the South Galolhu member was off topic and asked whether repeated interruptions should be limited.",
+    "Thanked the President for the cost-cutting plan and argued the deficit and unpaid bills require cuts, including subsidies."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order saying the debate had drifted from the report and cast aspersions on the President."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that the South Galolhu member stayed off topic despite repeated chair warnings and alleged repeated untruths."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Said a strong economy matters for a state, backed expanding industries such as fisheries and supporting youth entrepreneurship."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Presented the Foreign Relations Committee report on four ambassador nominations, noting the committee agreed unanimously and no extra salary cost arises."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of sittings 1 to 3 accepted as passed.",
+  "Finance Committee report on the President's cost-cutting measures passed 44-0.",
+  "Dr. Mariyam Shabeena Ahmed (Malaysia-based) approved as non-resident ambassador to Brunei, 47-0.",
+  "Belgium-based ambassador approved as non-resident ambassador to Luxembourg and the Netherlands, 48-0.",
+  "UK-based ambassador approved as non-resident ambassador to France, 45-0.",
+  "Singapore-based ambassador approved as non-resident ambassador to Australia, 48-0.",
+  "Nominations for non-resident ambassadors to Russia and Morocco referred to the Foreign Relations Committee.",
+  "First reading held on the bill amending the Courts Act; next sitting set for Tuesday 25 Feb 2025 at 9:00.",
+  "Geela Ali's nomination as non-resident ambassador to Luxembourg and the Netherlands received 48 Yes votes and none against.",
+  "Iruthisham Adam's nomination as non-resident ambassador to France received 45 Yes votes and none against.",
+  "Mohamed Luveiz's nomination as non-resident ambassador to Australia received 48 Yes votes and none against."
+ ],
+ "votes": [
+  {
+   "what": "Finance Committee report on the President's cost-cutting measures",
+   "yes": 44,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Non-resident ambassador to Brunei (Dr. Mariyam Shabeena Ahmed)",
+   "yes": 47,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Non-resident ambassador to Luxembourg and the Netherlands (Belgium-based ambassador)",
+   "yes": 48,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Non-resident ambassador to France (UK-based ambassador)",
+   "yes": 45,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Non-resident ambassador to Australia (Singapore-based ambassador)",
+   "yes": 48,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Non-resident ambassador to Luxembourg and the Netherlands: Geela Ali",
+   "yes": 48,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Non-resident ambassador to France: Iruthisham Adam",
+   "yes": 45,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Non-resident ambassador to Australia: Mohamed Luveiz",
+   "yes": 48,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 62,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

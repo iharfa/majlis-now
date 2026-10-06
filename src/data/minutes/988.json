@@ -1,0 +1,288 @@
+{
+ "sittingId": "988",
+ "date": "2025-10-15",
+ "title": "7th Sitting of third session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 27,
+  "onLeave": 4,
+  "officialTravel": 19
+ },
+ "summary": "The sitting opened with a long question time for Attorney General Ahmed Usham, covering the Bestinet foreign-worker system contract, settlements made by the previous government, the Judicial Service Commission, asset declaration, corruption cases and the use of Dhivehi in bills. A request to debate an urgent matter on cigarettes lost from the Hulhumale' commercial port was voted down 8 to 34. A resolution on blood supply had its first reading, debate on the human organ transplantation bill was postponed because nobody signed up, and the House approved ratification of the UN Convention against Cybercrime 34 to 0. Some of the text is garbled, so the attendance counts are the least certain figures.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "27 present, 4 on leave, 19 on official travel announced"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Question time: Dr Ahmed Shamheed's question to the Attorney General on the Bestinet foreign-worker system agreement",
+   "outcome": "Debated; Attorney General answered 18 follow-up questions"
+  },
+  {
+   "n": "5.2",
+   "title": "Question time: Abdul Rahman's question to the Attorney General on the civil court case 1726/Cv-C/2019 and recovery of state money",
+   "outcome": "Debated; Attorney General answered 18 follow-up questions"
+  },
+  {
+   "n": "Urgent matter",
+   "title": "Urgent matter by Ibrahim Nazil on the loss of cigarettes from a container held at the Hulhumale' commercial port",
+   "outcome": "Not accepted for debate, 8 yes to 34 no (22 needed)"
+  },
+  {
+   "n": "6.1",
+   "title": "Resolution by Mohamed Ibrahim on the difficulty of getting blood in the Maldives",
+   "outcome": "First reading read out"
+  },
+  {
+   "n": "7.1",
+   "title": "Government bill on transplanting human organs, sponsored by Ibrahim Didi",
+   "outcome": "Debate postponed as no member asked to speak"
+  },
+  {
+   "n": "8.1",
+   "title": "Foreign Relations Committee report on joining the UN Convention against Cybercrime",
+   "outcome": "Report presented and debated; no member spoke in debate"
+  },
+  {
+   "n": "9",
+   "title": "Vote on ratifying the UN Convention against Cybercrime",
+   "outcome": "Passed 34-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ahmed Usham",
+   "constituency": "",
+   "turns": 38,
+   "positions": [
+    "Gave a timeline of the Bestinet agreement and said he advised the Home Ministry to treat it as not continued, with the Economic Council consulted.",
+    "Said some matters, such as loss assessments, fall outside his mandate and belong to the relevant government bodies.",
+    "Said he plans to propose amendments to the Judicial Service Commission composition, assorted laws and a new defamation law."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 5,
+   "positions": [
+    "Asked what basis the Attorney General's advice on the Bestinet contract had, given a claim of about USD 13.7 million.",
+    "Asked under which law settlement agreements were voided while the Bestinet agreement was not, and whether any loss assessment was done.",
+    "Asked about public money spent on legal cases for state companies and about single-source procurement and corruption risk."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 4,
+   "positions": [
+    "Asked whether the Attorney General plans to repeal the assembly law that he has called unconstitutional.",
+    "Asked whether projects handed to companies without bids, and settling disputes outside court, fit the law.",
+    "Asked what policy governs the police use of a long-range acoustic device on the public."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 3,
+   "positions": [
+    "Asked how much Bestinet seeks in damages and whether its record and blacklisting claims were checked.",
+    "Asked whether an agreement with the people can be cancelled by a minister's press statement.",
+    "Said some bills in committees are stalled waiting for the Attorney General's advice."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Asked how true it is that the previous government sold part of the Maldives' sea territory.",
+    "Asked whether the government will pursue fairness over flats and land allocations that the public sees as unjust.",
+    "Asked how bills could be drafted with less foreign wording and more Dhivehi."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 3,
+   "positions": [
+    "Asked whether any study has been done on how well enacted laws are implemented.",
+    "Asked whether the Attorney General believes laws are enforced without discrimination.",
+    "Asked what is being done to examine firms allegedly given favourable settlements, and about amending the compensation law."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether the Bestinet agreement could cause any loss to the state.",
+    "Presented an urgent matter on cigarette containers reported lost at the Hulhumale' port and asked for a Majlis debate."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked about the legislative agenda of about 200 bills, stalled committee work and the Kaadedhdhoo airport lease.",
+    "Asked how far the planned change to the Judicial Service Commission composition has progressed."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Asked about settlements worth over MVR 800 million by the previous government and the loss to the state.",
+    "Asked which government had the best chance to examine the MMPRC corruption case."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 2,
+   "positions": [
+    "Asked what the Attorney General's office sought to review in the long-running Strata civil court case.",
+    "Asked whether the state has a set order or rules for recovering money owed in cases such as MMPRC."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether the MMPRC case staying with the Anti-Corruption Commission for years means officials met their legal duties.",
+    "Asked about the container case, and who is accountable for officials not carrying out their duties."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what exclusivity the Bestinet agreement gave and how many bills and amendments the government has submitted so far."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether immigration law action against absconding foreign workers, especially Bangladeshis, could be tightened."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Asked what can be done to recover money shown missing in the 2023 finance ministry report."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether any documents show Maldivian fishing grounds were given to outside parties by the previous government."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether freedom of assembly could be limited in small places such as Male' without breaching the constitution."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Asked when the Judicial Service Commission composition will change and about national-security risks of foreign workers going to single agencies."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked about enforcing a Dubai court order to repay money paid for ventilators and what the state has spent."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about progress on a bill on asset declaration and how long it will take."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why island institutions wait months for the Attorney General's legal advice and whether it can be faster."
+   ]
+  },
+  {
+   "name": "Ahmed Thariq",
+   "constituency": "Mahibadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how much compensation was given through the previous government's settlement committee and how it was valued."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about the status of regulations under the 2008 general regulations law and when a replacement bill would come."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Presented the Foreign Relations Committee report recommending ratifying the UN Convention against Cybercrime, citing technical help, training and cooperation benefits."
+   ]
+  }
+ ],
+ "decisions": [
+  "Urgent matter on the lost cigarette container was not accepted for debate (8 yes, 34 no).",
+  "The first reading of the blood-access resolution was read out.",
+  "Debate on the human organ transplantation bill was postponed because no member wished to speak.",
+  "The House approved the Foreign Relations Committee report to ratify the UN Convention against Cybercrime (34-0).",
+  "Next sitting set for Monday 20 October 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Ibrahim Nazil's urgent matter on the lost cigarette container (43 present, 22 needed)",
+   "yes": 8,
+   "no": 34,
+   "abstain": 0
+  },
+  {
+   "what": "Ratifying the UN Convention against Cybercrime (35 present, 18 needed)",
+   "yes": 34,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 60,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}
