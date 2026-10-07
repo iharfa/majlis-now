@@ -6,7 +6,9 @@ import { Icon } from '@/components/ui/Icon'
 import { DataMeta } from '@/components/ui/DataMeta'
 import { AiBadge } from '@/components/ui/AiBadge'
 import { NotFoundPage } from './NotFoundPage'
-import { billById, themeById, committeeById, votesForBill, sittingsForBill } from '@/data'
+import { billById, themeById, committeeById, votesForBill, sittingsForBill, mpById, constituencyById } from '@/data'
+import { Avatar } from '@/components/ui/Avatar'
+import { PartyTag } from '@/components/ui/PartyTag'
 import { daysSince, formatDate } from '@/utils/format'
 
 export function BillDetailPage() {
@@ -15,6 +17,7 @@ export function BillDetailPage() {
   if (!bill) return <NotFoundPage />
 
   const theme = themeById(bill.themeId)
+  const sponsor = bill.sponsorMpId ? mpById(bill.sponsorMpId) : undefined
   const committee = bill.committeeId ? committeeById(bill.committeeId) : undefined
   const relatedVotes = votesForBill(bill.id)
   const sittings = sittingsForBill(bill.id)
@@ -52,16 +55,22 @@ export function BillDetailPage() {
               <Icon name={theme.icon} className="text-[16px]" /> {theme.name}
             </Link>
           )}
-          <span className="text-on-surface-variant text-label-sm">
-            · Sponsor:{' '}
-            {bill.sponsorMpId ? (
-              <Link to={`/mps/${bill.sponsorMpId}`} className="text-primary hover:underline">{bill.sponsor}</Link>
-            ) : (
-              bill.sponsor
-            )}
-          </span>
         </div>
         <h1 className="font-headline-lg text-headline-lg text-on-surface max-w-3xl">{bill.title}</h1>
+        {sponsor ? (
+          <Link to={`/mps/${sponsor.id}`} className="mt-3 inline-flex items-center gap-3 bg-white rounded-2xl border border-outline-variant/30 px-4 py-2 hover:shadow-md transition-all">
+            <Avatar mp={sponsor} size="md" />
+            <span className="min-w-0">
+              <span className="block text-label-sm text-outline">Introduced by</span>
+              <span className="flex items-center gap-2 text-sm text-on-surface font-label-bold">
+                {sponsor.name} <PartyTag partyId={sponsor.partyId} />
+                <span className="text-label-sm text-outline font-normal">{constituencyById(sponsor.constituencyId)?.name}</span>
+              </span>
+            </span>
+          </Link>
+        ) : bill.sponsor ? (
+          <p className="mt-3 text-on-surface-variant text-label-sm">Introduced by {bill.sponsor}</p>
+        ) : null}
         {ai?.titleDv && <p className="text-on-surface-variant font-body-lg mt-1" lang="dv" dir="rtl">{ai.titleDv}</p>}
         <p className="text-on-surface-variant font-body-lg mt-2 max-w-2xl">{bill.officialSummary}</p>
         {officialSource && (

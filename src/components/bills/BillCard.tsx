@@ -1,7 +1,9 @@
 import { Link } from 'react-router-dom'
 import type { Bill } from '@/types'
-import { themeById, signalsForBill } from '@/data'
+import { themeById, signalsForBill, mpById, constituencyById } from '@/data'
 import { StatusPill } from '@/components/ui/StatusPill'
+import { Avatar } from '@/components/ui/Avatar'
+import { PartyTag } from '@/components/ui/PartyTag'
 import { SignalBadge } from '@/components/ui/SignalBadge'
 import { Icon } from '@/components/ui/Icon'
 import { daysSince, formatDate } from '@/utils/format'
@@ -9,6 +11,7 @@ import { daysSince, formatDate } from '@/utils/format'
 export function BillCard({ bill }: { bill: Bill }) {
   const theme = themeById(bill.themeId)
   const sigs = signalsForBill(bill.id)
+  const sponsor = bill.sponsorMpId ? mpById(bill.sponsorMpId) : undefined
   return (
     <Link
       to={`/bills/${bill.id}`}
@@ -27,6 +30,20 @@ export function BillCard({ bill }: { bill: Bill }) {
         {bill.title}
       </h3>
       <p className="mt-2 text-on-surface-variant line-clamp-2">{bill.summary}</p>
+
+      {(sponsor || bill.sponsor) && (
+        <div className="mt-4 flex items-center gap-3">
+          {sponsor && <Avatar mp={sponsor} size="md" />}
+          <div className="min-w-0">
+            <p className="text-label-sm text-outline">Introduced by</p>
+            <p className="text-sm text-on-surface font-label-bold flex items-center gap-2 min-w-0">
+              <span className="truncate">{sponsor?.name ?? bill.sponsor}</span>
+              {sponsor && <PartyTag partyId={sponsor.partyId} />}
+              {sponsor && <span className="text-label-sm text-outline font-normal truncate hidden sm:inline">{constituencyById(sponsor.constituencyId)?.name}</span>}
+            </p>
+          </div>
+        </div>
+      )}
 
       <div className="mt-4 flex items-center gap-2 flex-wrap">
         {sigs.map((s) => (
