@@ -1,0 +1,70 @@
+{
+  "sittingId": "1046",
+  "date": "2026-07-01",
+  "title": "9th Sitting of second session of 2026",
+  "agendaNo": "އޖ/9/2/2026",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/9/2/2026).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "Question by Galolhu North MP Mohamed Ibrahim to the Minister of Arts, Culture and Heritage Heena Waleed: the total spent by the ministry on activities marking 60 years of independence with a breakdown of costs, details of independence-day activities held outside Malé, and the spending in the atolls shown separately.",
+      "kind": "question"
+    },
+    {
+      "n": 6,
+      "text": "From the Speaker's desk: a matter on changes to how members belonging to political parties are represented on Parliament's standing committees.",
+      "kind": "other"
+    },
+    {
+      "n": 7,
+      "text": "Continuation of the debate on the Maldives 2.0 Digital Transformation Bill, submitted on behalf of the government by Gadhdhoo MP Mohamed Ali.",
+      "kind": "bill"
+    },
+    {
+      "n": 7,
+      "text": "Continuation of the debate on the Digital Identity Bill, submitted on behalf of the government by Alifushi MP Abdul Latheef Abdul Rahman.",
+      "kind": "bill"
+    },
+    {
+      "n": 8,
+      "text": "Report of the Committee of the Whole House on the bill to amend the Export Import Act of the Maldives (Law No. 31/79).",
+      "workId": "1887",
+      "kind": "report"
+    },
+    {
+      "n": 9,
+      "text": "Voting on items from the day's business that have reached the voting stage.",
+      "kind": "vote"
+    },
+    {
+      "n": 10,
+      "text": "Any other business.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The sitting questioned the heritage minister on independence anniversary spending, raised a change to party representation on committees, continued the digital transformation and digital identity bill debates, and took the whole-house committee report on the Export Import Act amendment.",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

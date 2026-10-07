@@ -1,0 +1,25 @@
+{
+  "sittingId": "1024",
+  "date": "2026-04-22",
+  "title": "11th Sitting of first session of 2026",
+  "agendaNo": "އޖ/11/1/2026",
+  "items": [
+    { "n": 1, "text": "Opening recitation (Hamd and Salawat); the sitting begins.", "kind": "procedural" },
+    { "n": 2, "text": "Roll call of members present at the sitting.", "kind": "procedural" },
+    { "n": 3, "text": "Announcement of the day's agenda (Agenda No. އޖ/11/1/2026).", "kind": "procedural" },
+    { "n": 4, "text": "Approval of the minutes of three previous sittings (minutes Nos. 5/1/2026 to 7/1/2026).", "kind": "procedural" },
+    { "n": 5, "text": "Announcements from the Chair.", "kind": "procedural" },
+    { "n": 6, "text": "Question from Galolhu South MP Meekail Ahmed Naseem to Minister of Islamic Affairs and Endowments Dr Mohamed Shaheem Ali Saeed: on exactly what date will the list of people selected to perform Hajj that year, who have paid, be published?", "kind": "question" },
+    { "n": 7, "text": "First reading of the Bill to amend the Prevention of Sexual Abuse and Harassment Act (Law No. 16/2014), submitted on behalf of the government by Kelaa MP Abdulla Shareef.", "workId": "1859", "kind": "bill" },
+    { "n": 8, "text": "Preliminary debate on the Bill to amend the Employment Act (Law No. 2/2008), submitted by Kendhoo MP Mauroof Zakir.", "workId": "1838", "kind": "bill" },
+    { "n": 9, "text": "Unfinished business: debate continues on the Bill to amend the Maldives Fisheries Act (Law No. 14/2019), submitted on behalf of the government by Thinadhoo South MP Mohamed Alsan Ahmed.", "kind": "bill" },
+    { "n": 10, "text": "Voting on items from the day's business that have reached the voting stage.", "kind": "vote" },
+    { "n": 11, "text": "Any other business.", "kind": "other" }
+  ],
+  "summary": "The sitting was set to question the Islamic Minister on the Hajj list, introduce a Sexual Abuse and Harassment Act amendment, open debate on an Employment Act amendment, and continue the Fisheries Act amendment.",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}
