@@ -1,0 +1,64 @@
+{
+  "sittingId": "844",
+  "date": "2024-05-28",
+  "title": "1st sitting of the 20th Majlis",
+  "agendaNo": "އޖ/1/2024",
+  "items": [
+    {
+      "n": 1,
+      "text": "After the opening recitation, with the longest-serving member presiding under Article 82(a) of the Constitution: forming a five-member temporary committee to count the secret ballots for electing the Speaker and Deputy Speaker.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Nominating and seconding members for the post of Speaker of the People's Majlis.",
+      "kind": "other"
+    },
+    {
+      "n": 3,
+      "text": "Nominating and seconding members for the post of Deputy Speaker of the People's Majlis.",
+      "kind": "other"
+    },
+    {
+      "n": 4,
+      "text": "Secret ballot to elect the Speaker of the People's Majlis under Article 82(a) of the Constitution.",
+      "kind": "vote"
+    },
+    {
+      "n": 5,
+      "text": "Counting and announcing the result of the secret ballot for Speaker.",
+      "kind": "other"
+    },
+    {
+      "n": 6,
+      "text": "Secret ballot to elect the Deputy Speaker of the People's Majlis under Article 82(a) of the Constitution.",
+      "kind": "vote"
+    },
+    {
+      "n": 7,
+      "text": "Counting and announcing the result of the secret ballot for Deputy Speaker.",
+      "kind": "other"
+    },
+    {
+      "n": 8,
+      "text": "Handing over the chair to the elected Speaker of the 20th People's Majlis.",
+      "kind": "procedural"
+    },
+    {
+      "n": 9,
+      "text": "Matter on the Standing Orders (rules of procedure) that Parliament must adopt under Article 88 of the Constitution.",
+      "kind": "other"
+    },
+    {
+      "n": 10,
+      "text": "Matter on forming Parliament's standing committees.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The first sitting of the new Majlis was scheduled to elect its Speaker and Deputy Speaker by secret ballot and then take up its standing orders and committees.",
+  "pagesRead": 2,
+  "pagesTotal": 2,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

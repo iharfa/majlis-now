@@ -1,0 +1,64 @@
+{
+  "sittingId": "902",
+  "date": "2024-11-20",
+  "title": "51st sitting of the 20th Majlis",
+  "agendaNo": "އޖ/51/2024",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/51/2024).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Approval of the minutes of six previous sittings (minutes Nos. 43/2024 to 48/2024).",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 6,
+      "text": "First reading of the Bill amending the Constitution of the Republic of Maldives, submitted on behalf of the government by Hulhudhoo MP Mohamed Shahid.",
+      "kind": "bill"
+    },
+    {
+      "n": 7,
+      "text": "Preliminary debate on the resolution submitted by Galolhu North MP Mohamed Ibrahim calling on the government to push for speedy passage of the bill banning entry into the Maldives on Israeli passports.",
+      "kind": "resolution"
+    },
+    {
+      "n": 7,
+      "text": "Preliminary debate on the Bill amending the Constitution of the Republic of Maldives, submitted on behalf of the government by Hulhudhoo MP Mohamed Shahid.",
+      "kind": "bill"
+    },
+    {
+      "n": 8,
+      "text": "Voting on items from the day's business that have reached the voting stage.",
+      "kind": "vote"
+    },
+    {
+      "n": 9,
+      "text": "Any other business.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The sitting gave first reading to and then began debating the government's Constitution amendment bill, and debated a resolution urging a quick ban on entry with Israeli passports.",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

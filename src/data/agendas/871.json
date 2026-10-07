@@ -1,0 +1,79 @@
+{
+  "sittingId": "871",
+  "date": "2024-08-13",
+  "title": "27th sitting of the 20th Majlis",
+  "agendaNo": "އޖ/27/2024",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/27/2024).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "Question time: Kendhoo MP Mauroof Zakir asks Minister of Construction and Infrastructure Dr Abdulla Muththalib why work on the RO plant, admin building and pump stations of the B. Dhonfanu water and sewerage project (started under the previous government) has stopped, and when it will restart and serve residents.",
+      "kind": "question"
+    },
+    {
+      "n": 6,
+      "text": "First reading of the Foreign Investment Bill, submitted on behalf of the government by Hithadhoo Central MP Ahmed Azaan Marzooq.",
+      "kind": "bill"
+    },
+    {
+      "n": 6,
+      "text": "First reading of the Bill amending the Business Registration Act (Law No. 18/2014), submitted on behalf of the government by Faresmaathodaa MP Ashraf Rasheed.",
+      "kind": "bill"
+    },
+    {
+      "n": 6,
+      "text": "First reading of the Bill amending the Maldives Securities Act (Law No. 2/2006), submitted on behalf of the government by Kendhikulhudhoo MP Mohamed Afoo Hamid.",
+      "kind": "bill"
+    },
+    {
+      "n": 6,
+      "text": "First reading of the Bill amending the Maldives Tourism Act (Law No. 2/99), submitted on behalf of the government by Dhangethi MP Abdulla Rasheed.",
+      "kind": "bill"
+    },
+    {
+      "n": 7,
+      "text": "Preliminary debate on the Built Environment Planning and Management Bill, submitted on behalf of the government by Kolamaafushi MP Ibrahim Didi.",
+      "kind": "bill"
+    },
+    {
+      "n": 7,
+      "text": "Preliminary debate on the Bill amending the Decentralisation Act (Law No. 7/2010), submitted on behalf of the government by Dhaandhoo MP Mohamed Fazeel.",
+      "kind": "bill"
+    },
+    {
+      "n": 8,
+      "text": "Voting on items from the day's business that have reached the voting stage.",
+      "kind": "vote"
+    },
+    {
+      "n": 9,
+      "text": "Any other business.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The sitting questioned the infrastructure minister on Dhonfanu water works, introduced four government bills (foreign investment, business registration, securities, tourism) and debated the built-environment planning and decentralisation bills.",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}
