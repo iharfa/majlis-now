@@ -6,6 +6,35 @@ import { IssueThemeCard } from '@/components/cards/IssueThemeCard'
 import { Icon } from '@/components/ui/Icon'
 import { votes, activity, themes, billById, sittings, bills } from '@/data'
 import { formatDate, pct } from '@/utils/format'
+import { headline, floorTime, recentWindow } from '@/data/insights'
+
+function ByTheNumbers() {
+  const month = recentWindow(30)
+  const top = floorTime[0]
+  const tiles: Array<[string, string, string]> = [
+    ['Sittings, last 30 days', String(month.sittings), `${month.votes} votes taken`],
+    ['Busiest speaker, last 30 days', month.topSpeaker?.mp.name ?? '—', month.topSpeaker ? `${month.topSpeaker.turns} turns` : 'no digested sittings'],
+    ['Most floor time overall', top?.mp.name ?? '—', top ? `${top.turns} turns in ${top.sittingsSpoken} sittings` : ''],
+    ['Votes recorded in minutes', String(headline.tallyVotes), `${headline.unanimousPct}% unanimous`],
+  ]
+  return (
+    <section className="space-y-stack-gap">
+      <div className="flex items-center justify-between">
+        <h2 className="font-headline-lg text-headline-lg text-on-surface">By the numbers</h2>
+        <Link to="/insights" className="text-primary font-label-bold text-label-sm hover:underline shrink-0">All insights</Link>
+      </div>
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+        {tiles.map(([label, value, sub]) => (
+          <Link key={label} to="/insights" className="bg-white rounded-2xl border border-outline-variant/30 p-4 hover:shadow-md transition-all">
+            <p className="text-label-sm font-label-bold uppercase text-outline">{label}</p>
+            <p className="font-headline-md text-xl text-on-surface mt-1 truncate">{value}</p>
+            <p className="text-label-sm text-on-surface-variant mt-1">{sub}</p>
+          </Link>
+        ))}
+      </div>
+    </section>
+  )
+}
 
 function ResultBadge({ result }: { result: string }) {
   const passed = result === 'Passed'
@@ -70,6 +99,8 @@ export function HomePage() {
             </Link>
           </section>
         )}
+
+        <ByTheNumbers />
 
         {hero && (
           <section className="space-y-stack-gap">

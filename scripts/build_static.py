@@ -10,7 +10,7 @@ sittings = json.load(open("src/data/sittings.json", encoding="utf-8"))
 mp_ids = re.findall(r"'(\d{3})'(?:, '[^']*')?\],", open("src/data/roster.ts", encoding="utf-8").read())
 cmt_ids = re.findall(r'"id": "(\d+)"', open("src/data/realCommittees.ts", encoding="utf-8").read())
 
-urls = ["/", "/bills", "/votes", "/mps", "/compare", "/issues", "/committees", "/sittings", "/search"]
+urls = ["/", "/bills", "/votes", "/mps", "/compare", "/issues", "/committees", "/sittings", "/search", "/insights"]
 urls += [f"/bills/bill-{w['id']}" for w in works]
 urls += [f"/sittings/sitting-{s['id']}" for s in sittings]
 urls += [f"/mps/mp-{i}" for i in mp_ids]

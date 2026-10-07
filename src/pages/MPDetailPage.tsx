@@ -7,6 +7,7 @@ import { PartyTag } from '@/components/ui/PartyTag'
 import { StatusPill } from '@/components/ui/StatusPill'
 import { NotFoundPage } from './NotFoundPage'
 import { mpById, partyById, constituencyById, votesByMP, committeesForMP, attendanceForMP, billsSponsoredBy, speechesByMP, committeeAttendanceForMP } from '@/data'
+import { floorRank } from '@/data/insights'
 import { cn } from '@/utils/cn'
 import { formatDate, pct } from '@/utils/format'
 
@@ -22,6 +23,7 @@ export function MPDetailPage() {
   const sponsored = billsSponsoredBy(mp.id)
   const speeches = speechesByMP(mp.id)
   const cmtAttendance = committeeAttendanceForMP(mp.id)
+  const rank = floorRank(mp.id)
   const isSpeaker = mp.leadershipRole === 'Speaker'
   const committeeRoles = committeesForMP(mp.id).sort((a, b) => {
     const rank = { Chair: 0, 'Vice Chair': 1, Member: 2 } as const
@@ -74,7 +76,7 @@ export function MPDetailPage() {
       </section>
 
       <section className="grid grid-cols-2 md:grid-cols-4 gap-gutter mb-gutter">
-        <Fact icon="record_voice_over" label="Spoke at sittings" value={speeches.length ? `${speeches.length} (${speeches.reduce((n, s) => n + s.turns, 0)} turns)` : '—'} />
+        <Fact icon="record_voice_over" label="Floor time" value={speeches.length ? `${speeches.reduce((n, s) => n + s.turns, 0)} turns${rank ? ` · #${rank.rank} of ${rank.of}` : ''}` : rank ? `No turns · #${rank.rank} of ${rank.of}` : '—'} />
         <Fact
           icon="groups"
           label="Committee attendance"
