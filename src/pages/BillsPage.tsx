@@ -3,7 +3,9 @@ import { Link } from 'react-router-dom'
 import { Container, PageHeader } from '@/components/ui/Container'
 import { BillCard } from '@/components/bills/BillCard'
 import { StatusPill } from '@/components/ui/StatusPill'
-import { bills, committeeById, themes } from '@/data'
+import { bills, committeeById, constituencyById, mpById, partyById, themes } from '@/data'
+import { Avatar } from '@/components/ui/Avatar'
+import { PartyTag } from '@/components/ui/PartyTag'
 import type { BillStatus } from '@/types'
 import { cn } from '@/utils/cn'
 import { TODAY, daysBetween, formatShortDate } from '@/utils/format'
@@ -62,7 +64,7 @@ function Timeline({ list }: { list: typeof bills }) {
     <div className="bg-white rounded-2xl border border-outline-variant/30 p-4 overflow-x-auto">
       <div className="min-w-[640px]">
         <div className="grid grid-cols-[minmax(0,2fr)_minmax(0,3fr)] gap-3 items-end mb-1 text-label-sm font-label-bold uppercase text-outline">
-          <p>Bill · status · committee</p>
+          <p>Bill · sponsor · status · committee</p>
           <div className="relative h-4 normal-case font-normal">
             {months.filter((_, i) => months.length <= 6 || i % Math.ceil(months.length / 6) === 0).map((m) => (
               <span key={m.label} className="absolute -translate-x-1/2 whitespace-nowrap" style={{ left: `${m.left}%` }}>{m.label}</span>
@@ -76,20 +78,29 @@ function Timeline({ list }: { list: typeof bills }) {
             const width = Math.max(0.6, x(end) - left)
             const events = b.timeline.filter((e) => e.date)
             const cmt = b.committeeId ? committeeById(b.committeeId) : undefined
+            const sponsor = b.sponsorMpId ? mpById(b.sponsorMpId) : undefined
             const range = `${formatShortDate(b.introducedDate)} → ${DONE.has(b.status) ? formatShortDate(b.lastActionDate) : 'now'} · ${daysBetween(b.introducedDate, end)} days`
             return (
               <li key={b.id} className="grid grid-cols-[minmax(0,2fr)_minmax(0,3fr)] gap-3 items-center py-1.5">
-                <div className="min-w-0">
-                  <Link to={`/bills/${b.id}`} className="block text-sm text-on-surface truncate hover:underline" title={`${b.title}
+                <div className="min-w-0 flex items-center gap-2">
+                  {sponsor && (
+                    <Link to={`/mps/${sponsor.id}`} className="shrink-0" title={`Introduced by ${sponsor.name} (${partyById(sponsor.partyId)?.shortName ?? ''}, ${constituencyById(sponsor.constituencyId)?.name ?? ''})`}>
+                      <Avatar mp={sponsor} size="sm" />
+                    </Link>
+                  )}
+                  <div className="min-w-0">
+                    <Link to={`/bills/${b.id}`} className="block text-sm text-on-surface truncate hover:underline" title={`${b.title}
 ${range}`}>{b.title}</Link>
-                  <p className="flex items-center gap-2 mt-0.5 min-w-0">
-                    <StatusPill status={b.status} className="text-[10px] px-2 py-0 shrink-0" />
-                    {cmt && (
-                      <Link to={`/committees/${cmt.id}`} className="text-label-sm text-on-surface-variant truncate hover:underline hover:text-primary" title={cmt.name}>
-                        {cmt.name.replace(/^Committee on /, '').replace(/ Committee$/, '')}
-                      </Link>
-                    )}
-                  </p>
+                    <p className="flex items-center gap-2 mt-0.5 min-w-0">
+                      <StatusPill status={b.status} className="text-[10px] px-2 py-0 shrink-0" />
+                      {sponsor && <PartyTag partyId={sponsor.partyId} className="shrink-0" />}
+                      {cmt && (
+                        <Link to={`/committees/${cmt.id}`} className="text-label-sm text-on-surface-variant truncate hover:underline hover:text-primary" title={cmt.name}>
+                          {cmt.name.replace(/^Committee on /, '').replace(/ Committee$/, '')}
+                        </Link>
+                      )}
+                    </p>
+                  </div>
                 </div>
                 <div className="relative h-4" title={range}>
                   {months.map((m) => <span key={m.label} className="absolute top-0 bottom-0 border-l border-outline-variant/30" style={{ left: `${m.left}%` }} />)}
