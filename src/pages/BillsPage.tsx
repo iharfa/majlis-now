@@ -6,24 +6,9 @@ import { StatusPill } from '@/components/ui/StatusPill'
 import { bills, themes } from '@/data'
 import type { BillStatus } from '@/types'
 import { cn } from '@/utils/cn'
-import { formatShortDate } from '@/utils/format'
+import { TODAY, daysBetween, formatShortDate } from '@/utils/format'
 
 const STATUS_ORDER: BillStatus[] = ['Passed', 'Ratified', 'In committee', 'Active debate', 'Vote scheduled', 'Introduced', 'Rejected', 'Withdrawn', 'Stalled']
-
-/** Every dated timeline event across all bills, newest first, grouped by month. */
-const timelineByMonth = (() => {
-  const events = bills
-    .flatMap((b) => b.timeline.filter((e) => e.date).map((e) => ({ ...e, bill: b })))
-    .sort((a, b) => b.date!.localeCompare(a.date!) || a.bill.title.localeCompare(b.bill.title))
-  const groups: Array<{ month: string; events: typeof events }> = []
-  for (const e of events) {
-    const month = new Date(e.date! + 'T00:00:00Z').toLocaleDateString('en-GB', { month: 'long', year: 'numeric', timeZone: 'UTC' })
-    const g = groups.at(-1)
-    if (g && g.month === month) g.events.push(e)
-    else groups.push({ month, events: [e] })
-  }
-  return groups
-})()
 
 function StatusCards({ active, onPick }: { active: BillStatus | 'all'; onPick: (s: BillStatus | 'all') => void }) {
   const counts = new Map<BillStatus, number>()
@@ -58,26 +43,60 @@ function StatusCards({ active, onPick }: { active: BillStatus | 'all'; onPick: (
   )
 }
 
+const DONE = new Set<BillStatus>(['Passed', 'Ratified', 'Rejected', 'Withdrawn'])
+const TRACK: Record<string, string> = { Passed: 'bg-primary', Ratified: 'bg-primary', Rejected: 'bg-error', Withdrawn: 'bg-outline', Stalled: 'bg-error' }
+
+/** One row per bill: a bar from introduction to its last action (or today if still moving), with a dot per dated stage. */
 function Timeline() {
+  const today = TODAY.toISOString().slice(0, 10)
+  const rows = [...bills].sort((a, b) => b.introducedDate.localeCompare(a.introducedDate))
+  const min = rows.reduce((m, b) => (b.introducedDate < m ? b.introducedDate : m), today)
+  const span = Math.max(1, daysBetween(min, today))
+  const x = (d: string) => (daysBetween(min, d) / span) * 100
+  const months: Array<{ label: string; left: number }> = []
+  for (let d = new Date(min.slice(0, 7) + '-01T00:00:00Z'); d.toISOString().slice(0, 10) <= today; d.setUTCMonth(d.getUTCMonth() + 1)) {
+    const iso = d.toISOString().slice(0, 10)
+    if (iso >= min) months.push({ label: d.toLocaleDateString('en-GB', { month: 'short', year: '2-digit', timeZone: 'UTC' }), left: x(iso) })
+  }
   return (
-    <div className="space-y-8">
-      {timelineByMonth.map((g) => (
-        <section key={g.month}>
-          <h2 className="font-label-bold text-label-bold uppercase tracking-widest text-on-surface-variant mb-3 sticky top-16 bg-background py-2 z-10">{g.month} · {g.events.length} event{g.events.length === 1 ? '' : 's'}</h2>
-          <ol className="relative border-l-2 border-outline-variant/40 ml-3 space-y-3">
-            {g.events.map((e) => (
-              <li key={e.id} className="pl-5 relative">
-                <span className={cn('absolute -left-[7px] top-2 w-3 h-3 rounded-full border-2 border-white', e.stage === 'Passed or rejected' ? (e.bill.status === 'Rejected' ? 'bg-error' : 'bg-primary') : e.stage === 'Introduced' || e.stage === 'First reading' ? 'bg-secondary' : 'bg-outline')} />
-                <Link to={`/bills/${e.bill.id}`} className="block bg-white rounded-xl border border-outline-variant/30 p-3 hover:shadow-sm">
-                  <p className="text-label-sm text-outline">{formatShortDate(e.date)} · {e.title}</p>
-                  <p className="text-sm text-on-surface font-label-bold mt-0.5 line-clamp-2">{e.bill.title}</p>
-                  <StatusPill status={e.bill.status} className="mt-2 text-[10px] px-2 py-0.5" />
-                </Link>
-              </li>
+    <div className="bg-white rounded-2xl border border-outline-variant/30 p-4 overflow-x-auto">
+      <div className="min-w-[640px]">
+        <div className="grid grid-cols-[minmax(0,2fr)_minmax(0,3fr)] gap-4 items-end mb-2">
+          <p className="text-label-sm font-label-bold uppercase text-outline">Bill · status</p>
+          <div className="relative h-5 text-label-sm text-outline">
+            {months.filter((_, i) => months.length <= 14 || i % 2 === 0).map((m) => (
+              <span key={m.label} className="absolute -translate-x-1/2 whitespace-nowrap" style={{ left: `${m.left}%` }}>{m.label}</span>
             ))}
-          </ol>
-        </section>
-      ))}
+          </div>
+        </div>
+        <ol className="divide-y divide-outline-variant/20">
+          {rows.map((b) => {
+            const end = DONE.has(b.status) ? b.lastActionDate : today
+            const left = x(b.introducedDate)
+            const width = Math.max(0.6, x(end) - left)
+            const events = b.timeline.filter((e) => e.date)
+            return (
+              <li key={b.id} className="grid grid-cols-[minmax(0,2fr)_minmax(0,3fr)] gap-4 items-center py-2">
+                <Link to={`/bills/${b.id}`} className="min-w-0 hover:underline">
+                  <p className="text-sm text-on-surface font-label-bold truncate" title={b.title}>{b.title}</p>
+                  <p className="text-label-sm text-outline mt-0.5 flex items-center gap-2">
+                    <StatusPill status={b.status} className="text-[10px] px-2 py-0.5" />
+                    <span>{formatShortDate(b.introducedDate)} → {DONE.has(b.status) ? formatShortDate(b.lastActionDate) : 'now'} · {daysBetween(b.introducedDate, end)} days</span>
+                  </p>
+                </Link>
+                <div className="relative h-6">
+                  {months.map((m) => <span key={m.label} className="absolute top-0 bottom-0 border-l border-outline-variant/30" style={{ left: `${m.left}%` }} />)}
+                  <div className={cn('absolute top-2 h-2 rounded-full', TRACK[b.status] ?? 'bg-secondary', !DONE.has(b.status) && 'opacity-60')} style={{ left: `${left}%`, width: `${width}%` }} />
+                  {events.map((e) => (
+                    <span key={e.id} className="absolute top-1 w-4 h-4 -translate-x-1/2 rounded-full bg-white border-2 border-on-surface-variant hover:scale-125 transition-transform" style={{ left: `${x(e.date!)}%` }} title={`${formatShortDate(e.date)} · ${e.title}`} />
+                  ))}
+                </div>
+              </li>
+            )
+          })}
+        </ol>
+        <p className="text-label-sm text-outline mt-3">Bar runs from introduction to the last recorded action, or to today for bills still in progress. Dots are the dated stages on the Majlis work page; hover for the stage name.</p>
+      </div>
     </div>
   )
 }
