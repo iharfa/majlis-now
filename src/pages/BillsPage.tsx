@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { Container, PageHeader } from '@/components/ui/Container'
 import { BillCard } from '@/components/bills/BillCard'
 import { StatusPill } from '@/components/ui/StatusPill'
-import { bills, themes } from '@/data'
+import { bills, committeeById, themes } from '@/data'
 import type { BillStatus } from '@/types'
 import { cn } from '@/utils/cn'
 import { TODAY, daysBetween, formatShortDate } from '@/utils/format'
@@ -47,9 +47,9 @@ const DONE = new Set<BillStatus>(['Passed', 'Ratified', 'Rejected', 'Withdrawn']
 const TRACK: Record<string, string> = { Passed: 'bg-primary', Ratified: 'bg-primary', Rejected: 'bg-error', Withdrawn: 'bg-outline', Stalled: 'bg-error' }
 
 /** One row per bill: a bar from introduction to its last action (or today if still moving), with a dot per dated stage. */
-function Timeline() {
+function Timeline({ list }: { list: typeof bills }) {
   const today = TODAY.toISOString().slice(0, 10)
-  const rows = [...bills].sort((a, b) => b.introducedDate.localeCompare(a.introducedDate))
+  const rows = [...list].sort((a, b) => b.introducedDate.localeCompare(a.introducedDate))
   const min = rows.reduce((m, b) => (b.introducedDate < m ? b.introducedDate : m), today)
   const span = Math.max(1, daysBetween(min, today))
   const x = (d: string) => (daysBetween(min, d) / span) * 100
@@ -61,41 +61,49 @@ function Timeline() {
   return (
     <div className="bg-white rounded-2xl border border-outline-variant/30 p-4 overflow-x-auto">
       <div className="min-w-[640px]">
-        <div className="grid grid-cols-[minmax(0,2fr)_minmax(0,3fr)] gap-4 items-end mb-2">
-          <p className="text-label-sm font-label-bold uppercase text-outline">Bill · status</p>
-          <div className="relative h-5 text-label-sm text-outline">
-            {months.filter((_, i) => months.length <= 14 || i % 2 === 0).map((m) => (
+        <div className="grid grid-cols-[minmax(0,5fr)_minmax(0,3fr)_minmax(0,6fr)] gap-3 items-end mb-1 text-label-sm font-label-bold uppercase text-outline">
+          <p>Bill</p>
+          <p>Committee</p>
+          <div className="relative h-4 normal-case font-normal">
+            {months.filter((_, i) => months.length <= 6 || i % Math.ceil(months.length / 6) === 0).map((m) => (
               <span key={m.label} className="absolute -translate-x-1/2 whitespace-nowrap" style={{ left: `${m.left}%` }}>{m.label}</span>
             ))}
           </div>
         </div>
-        <ol className="divide-y divide-outline-variant/20">
+        <ol className="divide-y divide-outline-variant/15">
           {rows.map((b) => {
             const end = DONE.has(b.status) ? b.lastActionDate : today
             const left = x(b.introducedDate)
             const width = Math.max(0.6, x(end) - left)
             const events = b.timeline.filter((e) => e.date)
+            const cmt = b.committeeId ? committeeById(b.committeeId) : undefined
+            const range = `${formatShortDate(b.introducedDate)} → ${DONE.has(b.status) ? formatShortDate(b.lastActionDate) : 'now'} · ${daysBetween(b.introducedDate, end)} days`
             return (
-              <li key={b.id} className="grid grid-cols-[minmax(0,2fr)_minmax(0,3fr)] gap-4 items-center py-2">
-                <Link to={`/bills/${b.id}`} className="min-w-0 hover:underline">
-                  <p className="text-sm text-on-surface font-label-bold truncate" title={b.title}>{b.title}</p>
-                  <p className="text-label-sm text-outline mt-0.5 flex items-center gap-2">
-                    <StatusPill status={b.status} className="text-[10px] px-2 py-0.5" />
-                    <span>{formatShortDate(b.introducedDate)} → {DONE.has(b.status) ? formatShortDate(b.lastActionDate) : 'now'} · {daysBetween(b.introducedDate, end)} days</span>
-                  </p>
+              <li key={b.id} className="grid grid-cols-[minmax(0,5fr)_minmax(0,3fr)_minmax(0,6fr)] gap-3 items-center py-1">
+                <Link to={`/bills/${b.id}`} className="min-w-0 flex items-center gap-2 hover:underline" title={`${b.title}
+${range}`}>
+                  <StatusPill status={b.status} className="text-[10px] px-2 py-0 shrink-0" />
+                  <span className="text-sm text-on-surface truncate">{b.title}</span>
                 </Link>
-                <div className="relative h-6">
+                {cmt ? (
+                  <Link to={`/committees/${cmt.id}`} className="text-label-sm text-on-surface-variant truncate hover:underline hover:text-primary" title={cmt.name}>
+                    {cmt.name.replace(/^Committee on /, '').replace(/ Committee$/, '')}
+                  </Link>
+                ) : (
+                  <span className="text-label-sm text-outline">—</span>
+                )}
+                <div className="relative h-4" title={range}>
                   {months.map((m) => <span key={m.label} className="absolute top-0 bottom-0 border-l border-outline-variant/30" style={{ left: `${m.left}%` }} />)}
-                  <div className={cn('absolute top-2 h-2 rounded-full', TRACK[b.status] ?? 'bg-secondary', !DONE.has(b.status) && 'opacity-60')} style={{ left: `${left}%`, width: `${width}%` }} />
+                  <div className={cn('absolute top-1.5 h-1.5 rounded-full', TRACK[b.status] ?? 'bg-secondary', !DONE.has(b.status) && 'opacity-60')} style={{ left: `${left}%`, width: `${width}%` }} />
                   {events.map((e) => (
-                    <span key={e.id} className="absolute top-1 w-4 h-4 -translate-x-1/2 rounded-full bg-white border-2 border-on-surface-variant hover:scale-125 transition-transform" style={{ left: `${x(e.date!)}%` }} title={`${formatShortDate(e.date)} · ${e.title}`} />
+                    <span key={e.id} className="absolute top-0.5 w-3 h-3 -translate-x-1/2 rounded-full bg-white border-2 border-on-surface-variant hover:scale-125 transition-transform" style={{ left: `${x(e.date!)}%` }} title={`${formatShortDate(e.date)} · ${e.title}`} />
                   ))}
                 </div>
               </li>
             )
           })}
         </ol>
-        <p className="text-label-sm text-outline mt-3">Bar runs from introduction to the last recorded action, or to today for bills still in progress. Dots are the dated stages on the Majlis work page; hover for the stage name.</p>
+        <p className="text-label-sm text-outline mt-3">Bar runs from introduction to the last recorded action, or to today for bills still in progress. Dots are the dated stages on the Majlis work page; hover a dot for the stage, a row for the dates. Committee is the one the Majlis lists the bill under.</p>
       </div>
     </div>
   )
@@ -141,10 +149,6 @@ export function BillsPage() {
         ))}
       </div>
 
-      {tab === 'timeline' ? (
-        <Timeline />
-      ) : (
-        <>
       <div className="flex flex-col lg:flex-row gap-4 mb-6">
         <div className="relative flex-1">
           <input
@@ -168,6 +172,10 @@ export function BillsPage() {
         ))}
       </div>
 
+      {tab === 'timeline' ? (
+        <Timeline list={filtered} />
+      ) : (
+        <>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-gutter">
         {filtered.map((b) => (
           <BillCard key={b.id} bill={b} />
