@@ -16,7 +16,6 @@ OUT = os.path.join("tmp", "agenda_batches")
 LEDGER = os.path.join(OUT, "_launched.txt")
 os.makedirs(OUT, exist_ok=True)
 man = json.load(open(os.path.join("tmp", "text", "agenda_manifest.json"), encoding="utf-8"))
-man = [m for m in man if not os.path.exists(os.path.join("src", "data", "agendas", m["id"] + ".json"))]
 man.sort(key=lambda m: -int(m["id"]))
 launched = set(open(LEDGER, encoding="utf-8").read().split()) if os.path.exists(LEDGER) else set()
 batches = [man[i : i + n] for i in range(0, len(man), n)]
@@ -24,9 +23,11 @@ pending = []
 for b in batches:
     path = os.path.join(OUT, f"batch-{b[0]['id']}.json")
     json.dump(b, open(path, "w", encoding="utf-8", newline="\n"), ensure_ascii=False, indent=0)
-    if path not in launched:
+    done = all(os.path.exists(os.path.join("src", "data", "agendas", m["id"] + ".json")) for m in b)
+    if path not in launched and not done:
         pending.append(path)
-print(f"remaining sittings {len(man)}, batches {len(batches)}, unlaunched {len(pending)}")
+left = sum(not os.path.exists(os.path.join("src", "data", "agendas", m["id"] + ".json")) for m in man)
+print(f"remaining sittings {left}, batches {len(batches)}, unlaunched {len(pending)}")
 for p in pending[:take]:
     print(p)
 if mark:

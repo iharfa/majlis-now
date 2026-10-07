@@ -1,0 +1,29 @@
+{
+  "sittingId": "916",
+  "date": "2025-02-10",
+  "title": "2nd Sitting of 1st Session of 2025",
+  "agendaNo": "އޖ/2/1/2025",
+  "items": [
+    { "n": 1, "text": "Opening recitation (Hamd and Salawat); the sitting begins.", "kind": "procedural" },
+    { "n": 2, "text": "Roll call of members present at the sitting.", "kind": "procedural" },
+    { "n": 3, "text": "Announcement of the day's agenda (Agenda No. އޖ/2/1/2025).", "kind": "procedural" },
+    { "n": 4, "text": "Approval of the minutes of three previous sittings (minutes Nos. 58/2024 to 60/2024).", "kind": "procedural" },
+    { "n": 5, "text": "Announcements from the Chair.", "kind": "procedural" },
+    { "n": 6, "text": "From the Speaker's desk: the President's submission, under Constitution Article 116(a), of changes to the mandates of three of the ministries created on 17 November 2023 is sent to the relevant standing committee.", "kind": "other" },
+    { "n": 6, "text": "From the Speaker's desk: the President's submission on the measures decided for the next two years to cut state expenditure under the economic reform agenda is sent to the relevant standing committee.", "kind": "other" },
+    { "n": 6, "text": "From the Speaker's desk: the President's submission to appoint the President and Vice President of the Elections Commission (Elections Commission Act, Law No. 8/2008, Article 7(b)) is sent to the relevant standing committee.", "kind": "other" },
+    { "n": 6, "text": "From the Speaker's desk: the President's submission to appoint the Vice President of the Anti-Corruption Commission (Anti-Corruption Commission Act, Law No. 13/2008, Article 7(b)) is sent to the relevant standing committee.", "kind": "other" },
+    { "n": 6, "text": "From the Speaker's desk: the President's request for Parliament's consent, under Constitution Article 129, for Thoriq Ibrahim (G. Noomaraahiya), appointed Minister of Tourism and Environment on 1 February 2025, is sent to the relevant standing committee.", "kind": "other" },
+    { "n": 7, "text": "First reading of the Bill amending the Decentralisation Act (Law No. 7/2010), submitted on behalf of the government by Machchangoalhi Central MP Ahmed Zameer.", "kind": "bill" },
+    { "n": 8, "text": "Preliminary debate on a resolution by Kendhoo MP Mauroof Zakir calling on the government to remove barriers that resort and hotel grooming and dress codes place on staff wearing the hijab or keeping a neat beard and moustache, and to set a general grooming and dress standard for tourism workers.", "kind": "resolution" },
+    { "n": 8, "text": "Preliminary debate on the Bill on Prevention of Gang Crimes and Other Serious Crimes, submitted on behalf of the government by Machchangoalhi South MP Mustafa Hussain.", "kind": "bill" },
+    { "n": 9, "text": "Voting on items from the day's business that have reached the voting stage.", "kind": "vote" },
+    { "n": 10, "text": "Any other business.", "kind": "other" }
+  ],
+  "summary": "The first working sitting of 2025 was scheduled to send five presidential submissions (ministry mandates, spending cuts, EC and ACC appointments, a new minister) to committees, introduce the Decentralisation Act amendment, and debate a resort dress-code resolution and the gang crimes bill.",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

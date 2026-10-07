@@ -1,0 +1,94 @@
+{
+  "sittingId": "909",
+  "date": "2024-12-09",
+  "title": "58th sitting of the 20th Majlis",
+  "agendaNo": "އޖ/58/2024",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/58/2024).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Approval of the minutes of five previous sittings (minutes Nos. 51/2024 to 55/2024).",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 6,
+      "text": "From the Speaker's desk: the President's nominee for a seat on the Board of Directors of the Maldives Inland Revenue Authority under Article 4(b)(2) of the Tax Administration Act (Law No. 3/2010) is sent to the relevant standing committee for review.",
+      "kind": "other"
+    },
+    {
+      "n": 7,
+      "text": "First reading of the Foreign Currency Bill, submitted on behalf of the government by Inguraidhoo MP Ibrahim Falah.",
+      "kind": "bill"
+    },
+    {
+      "n": 8,
+      "text": "Unfinished business: continued debate on the Bill to amend the Drugs Act (Law No. 17/2011), submitted on behalf of the government by Gan MP Yoosuf Nasheed.",
+      "kind": "bill"
+    },
+    {
+      "n": 8,
+      "text": "Unfinished business: continued debate on the Attorney General's Office Bill, submitted on behalf of the government by Maafannu South MP Abdulla Rifau.",
+      "kind": "bill"
+    },
+    {
+      "n": 9,
+      "text": "Judiciary Committee report on its review of the Bill to amend the Penal Code of the Maldives (Law No. 9/2014).",
+      "kind": "report"
+    },
+    {
+      "n": 9,
+      "text": "Judiciary Committee report on its joint review of two bills to amend the Criminal Procedure Act (Law No. 12/2016).",
+      "kind": "report"
+    },
+    {
+      "n": 9,
+      "text": "Judiciary Committee report on its review of the Bill to amend the Mutual Legal Assistance in Criminal Matters Act (Law No. 2/2015).",
+      "kind": "report"
+    },
+    {
+      "n": 9,
+      "text": "Foreign Relations Committee report on its review of the President's nominee for Ambassador of the Maldives to the Kingdom of Thailand.",
+      "kind": "report"
+    },
+    {
+      "n": 9,
+      "text": "Independent Institutions Committee report on its review of the President's nominee for membership of the National Integrity Commission.",
+      "kind": "report"
+    },
+    {
+      "n": 10,
+      "text": "Voting on items from the day's business that have reached the voting stage.",
+      "kind": "vote"
+    },
+    {
+      "n": 11,
+      "text": "Any other business.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The sitting was scheduled to approve old minutes, send a MIRA board nominee to committee, introduce the Foreign Currency Bill, continue the Drugs Act amendment and Attorney General's Office Bill, and take up five committee reports on criminal-law amendments, an ambassador to Thailand and a National Integrity Commission nominee.",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}
