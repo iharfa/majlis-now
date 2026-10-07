@@ -1,0 +1,39 @@
+{
+  "sittingId": "995",
+  "date": "2025-10-30",
+  "title": "14th Sitting of third session of 2025",
+  "agendaNo": "އޖ/14/3/2025",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/14/3/2025).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "From the Speaker's desk: presentation of the proposed state budget for 2026 to Parliament, as required by Article 96(a) of the Constitution.",
+      "kind": "other"
+    }
+  ],
+  "summary": "This short afternoon sitting was scheduled solely for the government's proposed 2026 state budget to be presented to Parliament.",
+  "pagesRead": 2,
+  "pagesTotal": 2,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

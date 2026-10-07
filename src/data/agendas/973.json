@@ -1,0 +1,64 @@
+{
+  "sittingId": "973",
+  "date": "2025-08-11",
+  "title": "23rd Sitting of second session of 2025",
+  "agendaNo": "އޖ/23/2/2025",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/23/2/2025).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "First reading of the Zakat Bill submitted on behalf of the government by Vilufushi MP Hassan Waheed.",
+      "kind": "bill"
+    },
+    {
+      "n": 6,
+      "text": "Report of the Economic Committee on its review of the Maldives Intellectual Property Office Bill.",
+      "kind": "report"
+    },
+    {
+      "n": 6,
+      "text": "Report of the Public Finance Committee on the special audit report (2018-2020) on diesel purchase transactions for Maldives Ports Limited operations.",
+      "kind": "report"
+    },
+    {
+      "n": 6,
+      "text": "Report of the Environment and Climate Change Committee on the Bill amending the Water and Sewerage Act (Law No. 8/2020).",
+      "kind": "report"
+    },
+    {
+      "n": 7,
+      "text": "Voting on items from the day's business that have reached the voting stage.",
+      "kind": "vote"
+    },
+    {
+      "n": 8,
+      "text": "Any other business.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The sitting introduced the Zakat Bill and took up committee reports on the Intellectual Property Office Bill, an MPL diesel-purchase audit, and the Water and Sewerage Act amendment.",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}
