@@ -61,9 +61,9 @@ function Timeline({ list }: { list: typeof bills }) {
     if (iso >= min) months.push({ label: d.toLocaleDateString('en-GB', { month: 'short', year: '2-digit', timeZone: 'UTC' }), left: x(iso) })
   }
   return (
-    <div className="bg-white rounded-2xl border border-outline-variant/30 p-4 overflow-x-auto">
-      <div className="min-w-[640px]">
-        <div className="grid grid-cols-[minmax(0,2fr)_minmax(0,3fr)] gap-3 items-end mb-1 text-label-sm font-label-bold uppercase text-outline">
+    <div className="bg-white rounded-2xl border border-outline-variant/30 p-6 overflow-x-auto">
+      <div className="min-w-[720px]">
+        <div className="grid grid-cols-[minmax(0,2fr)_minmax(0,3fr)] gap-6 items-end mb-2 text-label-sm font-label-bold uppercase text-outline">
           <p>Bill · sponsor · status · committee</p>
           <div className="relative h-4 normal-case font-normal">
             {months.filter((_, i) => months.length <= 6 || i % Math.ceil(months.length / 6) === 0).map((m) => (
@@ -71,7 +71,7 @@ function Timeline({ list }: { list: typeof bills }) {
             ))}
           </div>
         </div>
-        <ol className="divide-y divide-outline-variant/15">
+        <ol className="divide-y divide-outline-variant/20">
           {rows.map((b) => {
             const end = DONE.has(b.status) ? b.lastActionDate : today
             const left = x(b.introducedDate)
@@ -81,18 +81,18 @@ function Timeline({ list }: { list: typeof bills }) {
             const sponsor = b.sponsorMpId ? mpById(b.sponsorMpId) : undefined
             const range = `${formatShortDate(b.introducedDate)} → ${DONE.has(b.status) ? formatShortDate(b.lastActionDate) : 'now'} · ${daysBetween(b.introducedDate, end)} days`
             return (
-              <li key={b.id} className="grid grid-cols-[minmax(0,2fr)_minmax(0,3fr)] gap-3 items-center py-1.5">
-                <div className="min-w-0 flex items-center gap-2">
+              <li key={b.id} className="grid grid-cols-[minmax(0,2fr)_minmax(0,3fr)] gap-6 items-center py-3">
+                <div className="min-w-0 flex items-center gap-3">
                   {sponsor && (
                     <Link to={`/mps/${sponsor.id}`} className="shrink-0" title={`Introduced by ${sponsor.name} (${partyById(sponsor.partyId)?.shortName ?? ''}, ${constituencyById(sponsor.constituencyId)?.name ?? ''})`}>
-                      <Avatar mp={sponsor} size="sm" />
+                      <Avatar mp={sponsor} size="md" />
                     </Link>
                   )}
                   <div className="min-w-0">
-                    <Link to={`/bills/${b.id}`} className="block text-sm text-on-surface truncate hover:underline" title={`${b.title}
+                    <Link to={`/bills/${b.id}`} className="block text-sm text-on-surface font-label-bold truncate hover:underline" title={`${b.title}
 ${range}`}>{b.title}</Link>
-                    <p className="flex items-center gap-2 mt-0.5 min-w-0">
-                      <StatusPill status={b.status} className="text-[10px] px-2 py-0 shrink-0" />
+                    <p className="flex items-center gap-2 mt-1.5 min-w-0">
+                      <StatusPill status={b.status} className="text-[10px] px-2 py-0.5 shrink-0" />
                       {sponsor && <PartyTag partyId={sponsor.partyId} className="shrink-0" />}
                       {cmt && (
                         <Link to={`/committees/${cmt.id}`} className="text-label-sm text-on-surface-variant truncate hover:underline hover:text-primary" title={cmt.name}>
@@ -102,11 +102,11 @@ ${range}`}>{b.title}</Link>
                     </p>
                   </div>
                 </div>
-                <div className="relative h-4" title={range}>
+                <div className="relative h-6" title={range}>
                   {months.map((m) => <span key={m.label} className="absolute top-0 bottom-0 border-l border-outline-variant/30" style={{ left: `${m.left}%` }} />)}
-                  <div className={cn('absolute top-1.5 h-1.5 rounded-full', TRACK[b.status] ?? 'bg-secondary', !DONE.has(b.status) && 'opacity-60')} style={{ left: `${left}%`, width: `${width}%` }} />
+                  <div className={cn('absolute top-2 h-2 rounded-full', TRACK[b.status] ?? 'bg-secondary', !DONE.has(b.status) && 'opacity-60')} style={{ left: `${left}%`, width: `${width}%` }} />
                   {events.map((e) => (
-                    <span key={e.id} className="absolute top-0.5 w-3 h-3 -translate-x-1/2 rounded-full bg-white border-2 border-on-surface-variant hover:scale-125 transition-transform" style={{ left: `${x(e.date!)}%` }} title={`${formatShortDate(e.date)} · ${e.title}`} />
+                    <span key={e.id} className="absolute top-0.5 w-5 h-5 -translate-x-1/2 rounded-full bg-white border-2 border-on-surface-variant hover:scale-125 transition-transform" style={{ left: `${x(e.date!)}%` }} title={`${formatShortDate(e.date)} · ${e.title}`} />
                   ))}
                 </div>
               </li>
