@@ -9,7 +9,7 @@ import { NotFoundPage } from './NotFoundPage'
 import { billById, themeById, committeeById, votesForBill, sittingsForBill, mpById, constituencyById } from '@/data'
 import { Avatar } from '@/components/ui/Avatar'
 import { PartyTag } from '@/components/ui/PartyTag'
-import { daysSince, formatDate } from '@/utils/format'
+import { daysBetween, daysSince, formatDate } from '@/utils/format'
 
 export function BillDetailPage() {
   const { id } = useParams()
@@ -87,15 +87,34 @@ export function BillDetailPage() {
               <Icon name="alt_route" className="text-sm" /> Legislative journey
             </h3>
             <BillTimeline events={bill.timeline} variant="compact" />
-            <div className="mt-6 pt-4 border-t border-outline-variant/40 grid grid-cols-2 gap-3 text-center">
-              <div>
-                <p className="font-headline-md text-on-surface">{daysSince(bill.introducedDate)}</p>
-                <p className="text-[10px] font-label-bold uppercase text-outline">Days since introduced</p>
-              </div>
-              <div>
-                <p className="font-headline-md text-on-surface">{closed ? '—' : daysSince(bill.lastActionDate)}</p>
-                <p className="text-[10px] font-label-bold uppercase text-outline">{closed ? `Closed ${formatDate(bill.lastActionDate)}` : 'Days since last action'}</p>
-              </div>
+            <div className="mt-6 pt-4 border-t border-outline-variant/40">
+              {closed ? (
+                <div className="text-center">
+                  <p className="text-[10px] font-label-bold uppercase text-outline">Total duration</p>
+                  <p className="font-headline-md text-on-surface text-2xl mt-0.5">{daysBetween(bill.introducedDate, bill.lastActionDate)} days</p>
+                  <p className="text-label-sm text-on-surface-variant mt-1">
+                    {formatDate(bill.introducedDate)} → {formatDate(bill.lastActionDate)}
+                    <br />
+                    {bill.status === 'Passed' ? 'Ended with a vote that passed it' : bill.status === 'Rejected' ? 'Ended with a vote that rejected it' : 'Withdrawn by the sponsor'}
+                  </p>
+                </div>
+              ) : (
+                <>
+                  <p className="text-center text-label-sm font-label-bold text-primary flex items-center justify-center gap-1 mb-3">
+                    <span className="w-2 h-2 rounded-full bg-primary animate-pulse" aria-hidden /> Still ongoing
+                  </p>
+                  <div className="grid grid-cols-2 gap-3 text-center">
+                    <div>
+                      <p className="font-headline-md text-on-surface">{daysSince(bill.introducedDate)}</p>
+                      <p className="text-[10px] font-label-bold uppercase text-outline">Days so far</p>
+                    </div>
+                    <div>
+                      <p className="font-headline-md text-on-surface">{daysSince(bill.lastActionDate)}</p>
+                      <p className="text-[10px] font-label-bold uppercase text-outline">Days since last action</p>
+                    </div>
+                  </div>
+                </>
+              )}
             </div>
           </div>
         </aside>
