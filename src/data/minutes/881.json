@@ -1,0 +1,152 @@
+{
+ "sittingId": "881",
+ "date": "2024-09-16",
+ "title": "Second special sitting of 2024",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 59,
+  "onLeave": 3,
+  "officialTravel": 0
+ },
+ "summary": "The Majlis held its second special sitting outside the regular session and debated, at first reading stage, a government bill to amend the Companies Act (Law No. 7/2023), shortening notice periods for company meetings and easing how directors are appointed. Eleven members spoke: most supported the bill, while some opposition members questioned why a special sitting was needed and raised the state of the economy. The sitting paused, then the Majlis voted 77-0 to accept the bill and sent it to the Economic Committee.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "59 present at the start, 3 on leave, none on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda (agenda no. 20/2024/Special 2)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair",
+   "outcome": "none made"
+  },
+  {
+   "n": "5.1",
+   "title": "First-stage debate: bill to amend the Companies Act (Law No. 7/2023), submitted by Feydhoo North member Ismail Nizar for the government",
+   "outcome": "debated by 11 members; debate closed by the chair"
+  },
+  {
+   "n": "6",
+   "title": "Vote on accepting the Companies Act amendment bill",
+   "outcome": "passed 77-0; referred to the Economic Committee"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Said the amendment makes company meeting procedures and director appointments clearer and notice periods more workable, and strengthens corporate governance and shareholder protection."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment as important for running state companies well and strengthening their governance."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Questioned why a sudden amendment and special sitting were needed, and said companies' real problems are cash flow and unpaid government dues."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment and defended the special sitting, arguing the government wants companies run so they benefit the public."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Said shorter meeting notice would help state companies such as BML and STO act quickly, citing the pending Fenaka takeover by STO."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported shorter notice periods, saying a 21-day wait is unnecessary today, and blamed past governments for company problems."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, saying companies, public or private, need a strong administrative structure to serve the public quickly."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the amendments as timely and criticised the opposition's remarks and the previous government's handling of state companies."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Noted the changes to articles 100 and 113 and asked what benefit the bill has delivered, while criticising the government over living costs."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what the purpose of the special sitting is, arguing the notice-period changes are small and political appointments could result."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Said strong structures help companies serve the nation, and criticised opposition members' record while in government."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Majlis accepted the Companies Act (Law No. 7/2023) amendment bill at first reading stage.",
+  "The bill was referred to the Economic Committee for study under rule 106(r) of the Majlis rules.",
+  "The next sitting was set for 9:00 on Tuesday 17 September 2024."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the Companies Act (Law No. 7/2023) amendment bill (78 members present, 39 needed to pass)",
+   "yes": 77,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 26,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

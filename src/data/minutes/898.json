@@ -1,0 +1,239 @@
+{
+ "sittingId": "898",
+ "date": "2024-11-13",
+ "title": "49th sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker, Fonadhoo)",
+ "attendance": {
+  "present": 39,
+  "onLeave": 1,
+  "officialTravel": 6
+ },
+ "summary": "The sitting opened at 9:02 with 39 members present. Parliament voted 52-0 to extend sitting time so every member who wants to can speak in the debate on the 2025 state budget, then nine members spoke on the budget, mostly in support, while one member from the opposition benches criticised its tax, debt and council funding. The first reading of the Maldives Media and Broadcasting Commission Bill took place, and two other bills (Penal Code amendment, Political Parties Act amendment) moved to a vote with no one asking to debate them. The budget debate was still going at the end of this part. The sitting continued the debate on the 2025 state budget, with members from the government side defending it and the opposition criticising its size, debt, taxes and lack of project detail. The chair paused the sitting at 11:49 for noon prayer; when it resumed at 13:00 the Majlis voted to accept a Penal Code amendment bill (sent to the Judiciary Committee) and passed a Political Parties Act amendment bill 61-10. The chair ended the day without further speakers and set the next sitting for 14 November 2024 at 09:00.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "39 members present, 6 on official travel"
+  },
+  {
+   "n": "5.1",
+   "title": "Maldives Media and Broadcasting Commission Bill (submitted by Thulhaadhoo member Abdul Hannan Aboobakuru)",
+   "outcome": "first reading held"
+  },
+  {
+   "n": "6.1",
+   "title": "Debate on the 2025 state budget (continued)",
+   "outcome": "debated; sitting time extended 52-0; nine members spoke, debate unfinished"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill to amend the Penal Code (Law 9/2014), submitted on behalf of the government by Maafushi member Hussain Riza Adam",
+   "outcome": "debate closed with no speakers; sponsor gave final remarks; vote set for the day's voting time"
+  },
+  {
+   "n": "8.1",
+   "title": "Bill to amend the Political Parties Act (Law 4/2013), whole-House committee report",
+   "outcome": "no members asked to debate; third reading and vote set for the day's voting time"
+  },
+  {
+   "n": "9",
+   "title": "Vote on accepting the bill to amend the Penal Code (Law 9/2014), sponsored by Maafushi member Hussain Riza Adam",
+   "outcome": "accepted 70-0; sent to the Judiciary Committee"
+  },
+  {
+   "n": "9",
+   "title": "Vote on passing the bill to amend the Political Parties Act (Law 4/2013), sponsored by Dhidhdhoo member Abdul Latheef Mohamed",
+   "outcome": "passed 61-10"
+  },
+  {
+   "n": "10",
+   "title": "Debate on the proposed 2025 state budget",
+   "outcome": "debated; no further speakers asked to speak; continues at next sitting"
+  },
+  {
+   "n": "",
+   "title": "Close of sitting",
+   "outcome": "next sitting set for 14 November 2024 at 09:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 2,
+   "positions": [
+    "Supports the budget, citing the record MVR 56.6 billion size, housing funds and a civil service salary increase.",
+    "Calls on the Anti-Corruption Commission to investigate past misuse of public funds.",
+    "Raises Madaveli land shortage, school, harbour and road needs, and similar needs in Hoandeddhoo and Nadellaa."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Opposes the budget, saying it has no projects for his constituency and disadvantages constituencies of opposition members.",
+    "Criticises higher taxes, rising debt and a reduction of about MVR 1 billion in council block grants.",
+    "Says the budget cuts the basic pension amount and Aasandha coverage; asks for Kendhoo harbour, housing and water and sewerage."
+   ]
+  },
+  {
+   "name": "Abdulla Rasheed",
+   "constituency": "Dhangethi",
+   "turns": 2,
+   "positions": [
+    "Thanked the finance minister and president and said the budget should let outstanding projects in his constituency's islands be completed next year.",
+    "Cited classroom, harbour, health centre, water and sewerage and mosque works planned for Mandhoo, Dhiddhoo, Omadhoo, Dhigurah and Dhangethi."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supports the 2025 budget, saying the MVR 9.3 billion deficit is the lowest in recent years.",
+    "Argues subsidies and Aasandha should go to those who need them, which he says could save about MVR 6 billion.",
+    "Asks for the promised Thinadhoo hospital, airport, roads and industrial zone, and checks on flat construction quality."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supports the budget, saying it lists amounts for housing, health, airports, roads and other sectors.",
+    "Defends the 5 percent housing loan fund as consistent with Islamic finance principles.",
+    "Argues subsidies currently reach the wealthiest most and should be targeted at those who need them."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Supports the budget, citing MVR 4.9 billion for housing and expected gains from airport upgrades.",
+    "Lists his constituency's projects: land reclamation, water and sewerage, a multipurpose hall and harbour works.",
+    "Mentions Nekurendhoo and Kumundhoo harbour, school, power and water works continuing next year."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supports the budget, saying it sets out expenditure by category in detail.",
+    "Cites allocations for health, education, social protection, housing, the Thilamale bridge and the airport.",
+    "Notes debt to GDP is projected to fall from 127.2 to 124.8 percent and says housing is West Maafannu's main need."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supports the budget and welcomes its detail compared with past years.",
+    "Asks for an ATM, health centre lab testing, school classes and an outdoor gym for Huraa.",
+    "Asks for a hospital in Himmafushi and land reclamation and flats in Gulhi, Huraa and Himmafushi."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Thanks the finance minister and raises concern that new housing and Hulhumale plots are not reaching the neediest.",
+    "Asks for land allocation, ATMs and tourism-related services in Goidhoo, Fulhadhoo and Fehendhoo.",
+    "Welcomes the Thulhaadhoo airport pledge and says 100 housing units there are unused because of court cases."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order saying a member had spoken inaccurately about the president's pledges to Kendhoo; the chair ruled it was not a point of order."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "As sponsor of the Penal Code amendment, says the bill's definition of public servant covers many categories.",
+    "Says he will ask the committee to consider points raised, including private sector workers, and consult experts."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the MVR 56.6 billion budget is tax-heavy and debt-heavy, with no projects listed for Hanimaadhoo and nearby islands.",
+    "Criticised electricity bills, the dollar rate, foreign reserves, housing delivery and falling state-company dividends, and alleged corruption in government.",
+    "Said the opposition will judge the government on delivery and will oppose measures it considers wrong."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Said the 2024 budget under the previous government left heavy debt, and listed past loans and unfinished projects as the reason.",
+    "Said the 2025 budget is the first from this government, is detailed island by island, and fulfils the president's pledges.",
+    "Cited Hulhudhoo school, youth centre, land reclamation and fish factory plans, and argued the budget will reduce the gap between rich and poor."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Said the MVR 56 billion budget is only about MVR 1 billion larger than last year's and expects revenue of about MVR 40 billion.",
+    "Said budgeted projects such as the Eydhafushi harbour and hospital were repeatedly allocated funds but not started, and urged a system so projects are completed.",
+    "Said the budget's aim should be to stop corruption and spend fairly; also criticised past deficits and spending of about MVR 200 billion over five years."
+   ]
+  }
+ ],
+ "decisions": [
+  "Parliament extended sitting time (today's until 11 pm, and tomorrow's) so members can finish speaking on the 2025 budget.",
+  "First reading of the Maldives Media and Broadcasting Commission Bill was held.",
+  "Debate on the Penal Code (Law 9/2014) amendment bill closed with no speakers; to be put to a vote at the day's voting time.",
+  "Political Parties Act (Law 4/2013) amendment bill: third reading and vote set for the day's voting time after no one asked to debate the committee report.",
+  "Majlis voted 52-0 to extend the sitting time (vote recorded 09:09, before the prayer recess).",
+  "Bill to amend the Penal Code (Law 9/2014) accepted for consideration 70-0 and sent to the Judiciary Committee.",
+  "Bill to amend the Political Parties Act (Law 4/2013) passed 61-10.",
+  "Sitting paused at 11:49 for noon prayer and resumed at 13:00.",
+  "Budget debate to continue at the next sitting on 14 November 2024 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Extend sitting time for the 2025 budget debate (53 present, 27 needed)",
+   "yes": 52,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Extend the sitting time beyond 11:00 so all members who wished to speak could do so",
+   "yes": 52,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the bill to amend the Penal Code (Law 9/2014) (Maafushi member Hussain Riza Adam)",
+   "yes": 70,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Pass the bill to amend the Political Parties Act (Law 4/2013) (Dhidhdhoo member Abdul Latheef Mohamed)",
+   "yes": 61,
+   "no": 10,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 70,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

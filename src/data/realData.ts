@@ -90,11 +90,13 @@ const STATUS: Record<string, BillStatus> = {
 const STAGE: Record<string, BillStage> = {
   'First Reading': 'First reading', 'Parliamentary Debate': 'Debate', 'Committee Stage': 'Committee meetings',
   'Third Reading': 'Vote', 'Passed at Parliament': 'Passed or rejected', 'Rejected by Vote': 'Passed or rejected', Withdrawn: 'Withdrawn',
+  'Bill has been sent back': 'Sent to committee',
 }
 const STAGE_TITLE: Record<string, string> = {
   'First Reading': 'Introduced (first reading)', 'Parliamentary Debate': 'Debated on the floor',
   'Committee Stage': 'In committee', 'Third Reading': 'Third reading', 'Passed at Parliament': 'Passed at Parliament',
   'Rejected by Vote': 'Rejected by vote', Withdrawn: 'Withdrawn',
+  'Bill has been sent back': 'Sent back to committee',
 }
 
 type Work = (typeof works)[number]

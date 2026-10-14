@@ -1,0 +1,210 @@
+{
+ "sittingId": "1071",
+ "date": "2026-10-12",
+ "title": "4rd Sitting of third session of 2026",
+ "presiding": "Deputy Speaker Ahmed Saleem",
+ "attendance": {
+  "present": 28,
+  "onLeave": 6,
+  "officialTravel": 5
+ },
+ "summary": "The 4th sitting of the third session opened at 09:01 on 12 October 2026 under Deputy Speaker Ahmed Saleem with 28 members present, and the chair announced that the MDP's Abdulla Sodig replaces Mauroof Zakir on two committees. MPs then continued the debate on the government's Criminal Procedure Act amendment, which speakers from both sides backed, with some raising concerns about a six-month wait before the Asset Recovery law applies and about courts withholding evidence, and several turning to the Raasmale investment project. After a recess (10:30 to 11:01) members debated the Foreign Relations Committee's report on joining the OIC anti-corruption convention, and the Majlis voted 56-0 to accept the Asset Recovery Bill for committee study and 58-0 to approve joining the convention. The text is partly garbled, so some details of the speeches are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "prayers and opening recitation"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "28 present, 6 on leave, 5 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the Chair",
+   "outcome": "MDP committee seat change announced (Economic and Decentralisation committees)"
+  },
+  {
+   "n": "5.1",
+   "title": "Asset Recovery Bill (property obtained through crime), government bill sponsored by Central Fuvahmulah MP Ali Fazad",
+   "outcome": "debated; accepted for study 56-0 and sent to the Judiciary Committee",
+   "workId": "1951"
+  },
+  {
+   "n": "5.2",
+   "title": "Bill to amend the Criminal Procedure Act (Law No. 12/2016), government bill sponsored by Funadhoo MP Mohamed Mamdooh",
+   "outcome": "debated; paused for the recess, no vote this sitting",
+   "workId": "1952"
+  },
+  {
+   "n": "6.1",
+   "title": "Foreign Relations Committee report on joining the OIC Makkah Al-Mukarramah anti-corruption law enforcement convention",
+   "outcome": "debated; approved 58-0"
+  },
+  {
+   "n": "7",
+   "title": "Votes on items that reached the voting stage",
+   "outcome": "two votes held, both passed"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ali Fazad",
+   "constituency": "Central Fuvahmulah",
+   "turns": 2,
+   "positions": [
+    "Said the Asset Recovery Bill allows taking property without a conviction only in narrow cases, such as a dead or fugitive suspect.",
+    "Supported the Criminal Procedure Act amendments as the evidence rules needed to apply the Asset Recovery Bill."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the amendments, arguing crime methods and evidence change over time so laws must be updated, and citing the government's law-reform record.",
+    "Backed the bill and defended the planned large Raasmale investment, saying it brings jobs and revenue and that claims against investors are untrue."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Supported the amendment and defended the Raasmale investment, saying foreign investors bring jobs and revenue and that claims against them are untrue.",
+    "Presented the Foreign Relations Committee report backing the OIC anti-corruption convention: more cooperation on fugitives and asset recovery, no annual fee."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Supported the amendments as the procedures the Asset Recovery law needs, and said all parties agree it should be passed and put to work soon.",
+    "Argued the law should come with a recovery fund, financial-crime (FATF) standards and safeguards that keep genuine investors confident."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the amendments, arguing that protecting witnesses and evidence helps courts deliver justice and keeps the three branches of state balanced."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Said he supports the amendment but argued the judiciary and oversight institutions act on the ruling side's orders rather than independently.",
+    "Criticised the Raasmale project and the government's handling of the country."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the amendments but raised two concerns: the six-month wait before the Asset Recovery law applies, and a clause letting courts withhold evidence.",
+    "Raised concern about foreign ownership of land in investment projects and about enforcing local-hiring promises."
+   ]
+  },
+  {
+   "name": "Ahmed Aslam",
+   "constituency": "Bilehdhoo",
+   "turns": 1,
+   "positions": [
+    "Said the two bills are drafts that members can improve at committee stage rather than criticise.",
+    "Defended the government's stance on the Raasmale project and Israeli passports, and criticised earlier governments over the 2015 MMPRC case and COVID-era spending."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the amendments overall, saying fair justice is the base of development and evidence rules must protect witnesses and judges from intimidation.",
+    "Recalled past cases where courts were disrupted and judges targeted."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendments as a follow-up to the Asset Recovery Bill, noting Criminal Procedure Act articles 192 to 197 would cease to apply.",
+    "Urged the law start sooner than six months after ratification.",
+    "Rejected claims that Israelis could settle in the Maldives, citing constitutional limits on citizenship and the passport ban."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendments, saying many killings go unpunished because witnesses are too afraid to testify.",
+    "Suggested adding a witness protection programme to the law.",
+    "Pointed out that 99-year island leases were granted under earlier governments."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Supported laws protecting public money but said past corruption cases, such as the MMPRC, ended without accountability.",
+    "Cited a recent fatal road accident on Sosun Magu, questioning how existing traffic rules and cases were handled."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Thanked the committee and government, saying joining the OIC convention strengthens the anti-corruption effort and international cooperation.",
+    "Said earlier parliaments left anti-corruption laws unmade and urged all members to vote in favour."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Welcomed the convention but argued the Anti-Corruption Commission has used large public funds without any ruler being convicted.",
+    "Said either corruption does not exist or the institutions have failed, and urged support for those doing real anti-corruption work."
+   ]
+  }
+ ],
+ "decisions": [
+  "Abdulla Sodig (North Hithadhoo) replaces Mauroof Zakir (Kendhoo) as the MDP member on the Economic and Decentralisation committees.",
+  "The Asset Recovery Bill was accepted for study and sent to the Judiciary Committee (56 yes, none against).",
+  "The Majlis approved the Maldives joining and implementing the OIC anti-corruption law enforcement convention (58 yes, none against).",
+  "Debate on the Criminal Procedure Act amendment paused for the recess with no vote; next sitting set for 13 October 2026 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the Asset Recovery Bill for committee study (59 members present)",
+   "yes": 56,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approve the Maldives joining the OIC anti-corruption law enforcement convention (59 members present)",
+   "yes": 58,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 50,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-14"
+}

@@ -1,5 +1,6 @@
-"""Scrape every 20th-Majlis bill ("Parliament Works" type 1) into src/data/works.json
-and download its labelled PDFs into tmp/docs/.
+"""Scrape every 20th-Majlis work (ids probed from 1462 up; bills, questions, approvals...).
+Bills -> src/data/works.json with labelled PDFs downloaded into tmp/docs/;
+all other works -> src/data/works_other.json (document urls only, no downloads).
 
 Each record: id, title, number, type, sponsor {constituency, name}, status,
 summary (the site's own one-liner), stages [{name, done}], sittings
@@ -7,10 +8,12 @@ summary (the site's own one-liner), stages [{name, done}], sittings
 
 Run from repo root: python scripts/fetch_works.py
 """
-import json, os, re, sys
+import json, os, re, sys, urllib.error
+from collections import Counter
 from majlis import BASE, TMP, RUN_DATE, fetch, iso_date, slug, strip_tags
 
 OUT = os.path.join("src", "data", "works.json")
+OUT_OTHER = os.path.join("src", "data", "works_other.json")
 DOCS = os.path.join(TMP, "docs")
 
 FIELDS = ["Name", "Number", "Sitting", "Type", "Sponsor", "Status", "Summary"]
@@ -83,19 +86,49 @@ def download_docs(rec):
             open(path, "wb").write(fetch(d["url"], binary=True))
 
 
+START, MAX_GAP = 1462, 40
+
+
+def is_bill(rec):
+    return rec["type"].strip().lower().startswith("bill")
+
+
 if __name__ == "__main__":
-    listing = fetch(f"{BASE}/parliament-works/type/1", refresh=True)
-    ids = []
-    for wid in re.findall(r'parliament-work/(\d+)"', listing):
-        if wid not in ids:
-            ids.append(wid)
-    print(f"{len(ids)} bills listed")
-    works = []
-    for wid in ids:
-        rec = parse_work(wid)
-        download_docs(rec)
-        works.append(rec)
-        print(f"{wid} {rec['status'][:24]:24} docs={len(rec['documents'])} stages={len(rec['stages'])} cmt={rec['committeeId']} {rec['title'][:50]}")
-    works.sort(key=lambda w: int(w["id"]), reverse=True)
-    json.dump(works, open(OUT, "w", encoding="utf-8", newline="\n"), indent=2, ensure_ascii=False)
-    print("wrote", OUT, len(works))
+    prev = json.load(open(OUT, encoding="utf-8")) if os.path.exists(OUT) else []
+    known_max = max([int(w["id"]) for w in prev] + [0])
+    bills, others, failed, gap, wid, hi = [], [], [], 0, START, 0
+    while gap < MAX_GAP:
+        try:
+            rec = parse_work(wid) if wid <= known_max else None
+            if rec is None:  # ids above the known max: always refetch so new works appear
+                fetch(f"{BASE}/parliament-work/{wid}", refresh=True)
+                rec = parse_work(wid)
+            ok = bool(rec["title"])
+        except urllib.error.HTTPError as e:
+            if e.code != 404:
+                failed.append(wid); print(wid, "FAILED", e)
+            ok = False
+        except Exception as e:
+            failed.append(wid); print(wid, "FAILED", e)
+            wid += 1
+            continue
+        if ok:
+            gap, hi = 0, wid
+            rec["id"] = str(wid)
+            if is_bill(rec):
+                rec["type"] = "Bills"
+                download_docs(rec)
+                bills.append(rec)
+            else:
+                others.append(rec)
+            print(f"{wid} {rec['type'][:22]:22} {rec['status'][:20]:20} docs={len(rec['documents'])} {rec['title'][:50]}")
+        else:
+            gap += 1
+        wid += 1
+    key = lambda w: int(w["id"])
+    bills.sort(key=key, reverse=True); others.sort(key=key, reverse=True)
+    for path, data in ((OUT, bills), (OUT_OTHER, others)):
+        json.dump(data, open(path, "w", encoding="utf-8", newline="\n"), indent=2, ensure_ascii=False)
+    print("highest id", hi, "| failed", failed)
+    print("by type:", dict(Counter(w["type"] for w in bills + others)))
+    print("wrote", OUT, len(bills), "and", OUT_OTHER, len(others))

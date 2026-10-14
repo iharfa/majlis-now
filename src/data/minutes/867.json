@@ -1,0 +1,95 @@
+{
+ "sittingId": "867",
+ "date": "2024-08-05",
+ "title": "23rd sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 50,
+  "onLeave": 2,
+  "officialTravel": 0
+ },
+ "summary": "The sitting opened with 50 members present at the start and none away on official travel. The chair announced the deadline for committee submissions on a bill to amend the Legal Profession law, and deferred a minister's question because the minister could not attend. The Finance Committee presented its reports on the audit reports of the Communications Authority of Maldives and the Family Protection Authority. Nobody asked to debate either report, and both were passed 81-0 in open votes before the sitting closed early so committees could meet.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening and prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "50 present, 2 on leave, none on official travel (as read out; text partly garbled)"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee deadline for the bill amending the Legal Profession law",
+   "outcome": "Judiciary Committee deadline announced as 12 August 2024"
+  },
+  {
+   "n": "5.1",
+   "title": "Question to the Minister of Housing, Land and Urban Development from the North Galolhu member",
+   "outcome": "deferred; minister unable to attend"
+  },
+  {
+   "n": "6.1",
+   "title": "Insurance Bill, first reading",
+   "outcome": "first reading held; bill submitted on behalf of the government by the Mahibadhoo member"
+  },
+  {
+   "n": "7.1",
+   "title": "Finance Committee report on the 2016-2020 audit reports of the Communications Authority of Maldives",
+   "outcome": "no debate; passed 81-0"
+  },
+  {
+   "n": "7.2",
+   "title": "Finance Committee report on the 2014 and 2017-2023 audit reports of the Family Protection Authority",
+   "outcome": "no debate; passed 81-0"
+  },
+  {
+   "n": "8",
+   "title": "Items for vote",
+   "outcome": "both committee reports passed 81-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 2,
+   "positions": [
+    "As Finance Committee chair, presented the committee report on the Communications Authority of Maldives audit reports and asked the House to pass it.",
+    "Presented the Family Protection Authority audit report findings, noting the Auditor General found no breach of law or budget and asking the House to pass it."
+   ]
+  }
+ ],
+ "decisions": [
+  "Finance Committee report on the Communications Authority of Maldives audit reports (2016-2020) passed 81-0.",
+  "Finance Committee report on the Family Protection Authority audit reports (2014, 2017-2023) passed 81-0.",
+  "Question for the Housing Minister deferred until he can attend.",
+  "Next sitting set for Tuesday 6 August 2024 at 9:00; sitting closed at 11:10 so committees could meet."
+ ],
+ "votes": [
+  {
+   "what": "Finance Committee report on the Communications Authority of Maldives audit reports 2016-2020",
+   "yes": 81,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Finance Committee report on the Family Protection Authority audit reports 2014, 2017-2023",
+   "yes": 81,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 14,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

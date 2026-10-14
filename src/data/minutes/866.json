@@ -1,0 +1,304 @@
+{
+ "sittingId": "866",
+ "date": "2024-07-31",
+ "title": "22nd sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 52,
+  "onLeave": 3,
+  "officialTravel": 0
+ },
+ "summary": "The sitting opened with 52 members present, passed the minutes of sittings 16 to 18 and heard that members would vote later on seats for a new Housing committee. Most of the part was the opening debate on a government bill to change the Local Councils Elections Act so by-elections for vacant council seats are held twice a year, between 120 and 183 days apart, instead of within 60 days. Members from both sides argued about cost, low turnout, e-voting and council size, and the debate closed with the vote left for the day's voting time. After the break the House heard that a committee approved Ismail Habeeb for the Human Rights Commission, then began the debate on a bill amending the Employment Act, which is cut off mid-speech at the end of this part. This part continues the debate on the bill to amend the Employment Act (2008/2), which mostly concerns caps and rules for bringing in foreign workers. Members raised worries about unregulated migration, absconding workers, fines on employers, a 30-day paid sick leave rule and the black market for dollars, while several said the bill is a good step. After the break at 11:49 the sitting resumed at 13:00 with four votes: a housing committee membership motion, the Local Councils Elections Act amendment, the appointment of a Human Rights Commission member, and the Employment Act bill, which was accepted 79-0 and sent to the Security Services committee.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of sitting",
+   "outcome": "opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "52 present, 3 on leave, none on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Minutes of sittings 2024/16 to 2024/18",
+   "outcome": "accepted by the chair as no amendments were submitted"
+  },
+  {
+   "n": "5",
+   "title": "Announcements by the chair",
+   "outcome": "no announcements"
+  },
+  {
+   "n": "6.1",
+   "title": "Election of members to the new Housing committee (standing committee)",
+   "outcome": "vote scheduled for the day's voting time"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill to amend the Local Councils Elections Act (2010/10): first reading debate",
+   "outcome": "debate concluded; vote scheduled for the day's voting time"
+  },
+  {
+   "n": "9.1",
+   "title": "Human Rights and Gender Committee report on the nominee for Human Rights Commission member (Ismail Habeeb Abdulrahman)",
+   "outcome": "report presented (nominee scored 89%); no speakers; vote scheduled for the day's voting time"
+  },
+  {
+   "n": "8.1",
+   "title": "Bill to amend the Employment Act (2008/2): continuation of debate",
+   "outcome": "debate in progress at the end of this part"
+  },
+  {
+   "n": "",
+   "title": "Debate on bill to amend the Employment Act (Act 2008/2) on foreign workers (continued)",
+   "outcome": "debate closed; mover declined closing remarks; accepted 79-0 and sent to Security Services committee"
+  },
+  {
+   "n": "",
+   "title": "Vote: membership of the new Housing committee",
+   "outcome": "passed 79-0-0"
+  },
+  {
+   "n": "",
+   "title": "Bill to amend the Local Councils Elections Act (Act 10/2010), sponsored by the government",
+   "outcome": "accepted 77-0-0; sent to Decentralisation committee"
+  },
+  {
+   "n": "",
+   "title": "Appointment of Ismail Habeeb Abdul Rahim as member of the Human Rights Commission",
+   "outcome": "approved 74-3"
+  },
+  {
+   "n": "",
+   "title": "Adjournment and notice of committee schedule",
+   "outcome": "next sitting Monday 5 August 2024 at 09:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hassan Waheed",
+   "constituency": "Vilifushi",
+   "turns": 3,
+   "positions": [
+    "Told the chair how he voted after a voting-machine fault: supported the HRC appointment and the acceptance of the Employment Act bill."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Said electronic voting could cut by-election costs and that dropping by-elections would set back democratic practice.",
+    "Raised concern about low youth interest in voting and argued the government's reasoning about costs was weak."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Argued decentralisation has not delivered results for citizens and cited low turnout in Male' by-elections as support for the change.",
+    "Calls migration a national-level concern, citing the dollar black market and migrant networks in trade and food supply.",
+    "Raises worry about cultural change but regards the bill as a good one."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Supported the bill and spoke on decentralisation, local resource sharing and the history of council elections.",
+    "On the Employment Act bill, voiced concern about the proposed MVR 50,000 fine on employers and said foreign worker rules are poorly enforced."
+   ]
+  },
+  {
+   "name": "Munthazim Ibrahim",
+   "constituency": "Kaashidhoo",
+   "turns": 1,
+   "positions": [
+    "Introduced the bill: hold by-elections for vacant council seats twice a year, 120 to 183 days apart, instead of within 60 days, to cut election costs."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that statements attributed to the President were false and against the rules; the chair ruled it was not a point of order."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying frequent elections strain government and parties and holding elections together would help."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill but asked that the committee consider how councils with changed structure, such as Thinadhoo moving to a city council, are treated."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the bill is not only about cost, pointing to low by-election turnout and councils losing a quorum when seats stay empty."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and argued councillors need better pay and allowances so fewer resign and fewer by-elections are needed."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as national work and responded to opposition criticism of the government's reasons."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, said by-election money could fund services, and opposed introducing e-voting."
+   ]
+  },
+  {
+   "name": "Ahmed Thariq",
+   "constituency": "Mahibadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, reviewing the constitution's decentralisation chapter and past changes to council numbers and election timing."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Raised concern that Addu City ward seats could sit vacant for months without a councillor under the new timing."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported fewer by-elections but asked why council elections are not held together with presidential and parliamentary elections."
+   ]
+  },
+  {
+   "name": "Fathimath Sauda",
+   "constituency": "Nilandhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the committee report recommending Ismail Habeeb Abdulrahman for the Human Rights Commission after an interview scored 89%."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "On the Employment Act bill, expressed concern about foreign worker quotas being moved to ministry control; speech continues beyond this part."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Supports much of the bill but questions a flat MVR 50,000 fine per employee, saying costs fall on local businesses, and urges the committee to revisit it.",
+    "Wants a defined window for reporting absconding workers and doubts deportation alone solves the problem."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Backs the bill, saying 2022 figures show a Bangladeshi worker count that could not be monitored; quotas should follow job-market studies.",
+    "Asks the committee to let businesses with several outlets use workers across sites and to reconsider 30 days of paid sick leave."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Says unregulated migration is a major problem and laws are written without looking at conditions on the ground.",
+    "Asks for regulation of recruitment agencies and enforceable rules on insurance and absconding workers."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 1,
+   "positions": [
+    "Supports setting administrative fees by regulation and keeping the cap on workers from one country.",
+    "Argues the aim is to bring irregular workers into the rules and that Maldivians should take up jobs."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of sittings 2024/16 to 2024/18 accepted by the chair.",
+  "Debate on the Local Councils Elections Act amendment bill concluded; vote set for the day's voting time.",
+  "Debate on the Human Rights Commission nominee report concluded without speakers; vote set for the day's voting time.",
+  "Vote on electing members to the Housing committee set for the day's voting time.",
+  "Housing committee membership proposal passed 79-0-0.",
+  "Local Councils Elections Act amendment bill accepted 77-0-0 and sent to the Decentralisation committee.",
+  "Ismail Habeeb Abdul Rahim's appointment to the Human Rights Commission approved 74-3.",
+  "Employment Act amendment bill accepted 79-0-0 and sent to the Security Services committee.",
+  "Next sitting set for Monday 5 August 2024 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Membership and ratio for the new Housing committee",
+   "yes": 79,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accept bill to amend the Local Councils Elections Act (10/2010)",
+   "yes": 77,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Ismail Habeeb Abdul Rahim to the Human Rights Commission",
+   "yes": 74,
+   "no": 3,
+   "abstain": 0
+  },
+  {
+   "what": "Accept bill to amend the Employment Act (2008/2)",
+   "yes": 79,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 73,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

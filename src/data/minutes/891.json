@@ -1,0 +1,332 @@
+{
+ "sittingId": "891",
+ "date": "2024-10-29",
+ "title": "42nd sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 48,
+  "onLeave": null,
+  "officialTravel": 2
+ },
+ "summary": "The sitting opened with the daily prayer, an attendance report (48 members present, 2 on official travel) and the announcement of the agenda. The rest of this part was the preliminary debate on a government-backed bill, sponsored by Adam Zahir of Felidhoo, amending the Anti-Corruption Commission Act (Law 2008/13) so that the commission's president and vice president are nominated by the President and approved by the Majlis. Eighteen members spoke; most supported the bill, citing the existing Civil Service Commission model, while MDP members Meekail Ahmed Nasym and Ibrahim Nazil argued it weakens the independence of oversight bodies. No vote was held in this part; a 30-minute recess was taken and the debate continued. This part opens with the end of a debate on a bill to change the Anti-Corruption Commission Act, then takes up three committee reports: one on three ministerial nominees, one on a nominee for ambassador to Saudi Arabia, and one on the 2024 supplementary budget. The bill's debate resumed later in the sitting and was paused for midday prayer, to continue at the next sitting. After the break the Majlis voted on the reports: the three ministers and the ambassador were approved 86-0, and the supplementary budget passed 75-11. The sitting was adjourned until Wednesday 30 October 2024 at 9:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened by the Speaker"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "48 members present, 2 on official travel reported"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "none made"
+  },
+  {
+   "n": "5.1",
+   "title": "Preliminary debate on the bill to amend the Anti-Corruption Commission Act (Law 2008/13), sponsored by Adam Zahir (Felidhoo)",
+   "outcome": "debated; 18 members spoke; recess 10:31-11:01; debate continuing at end of this part"
+  },
+  {
+   "n": "5",
+   "title": "Bill to amend the Anti-Corruption Commission Act (Act 13/2008), debate paused to move to committee reports",
+   "outcome": "debated; paused, debate resumed under item 8 and continues at the next sitting"
+  },
+  {
+   "n": "6.1",
+   "title": "Committee report on approving three ministers nominated by the President (Foreign Affairs, Finance, Health)",
+   "outcome": "debated; later approved 86-0 for each nominee"
+  },
+  {
+   "n": "6.2",
+   "title": "Foreign Relations Committee report on the nominee for ambassador to Saudi Arabia",
+   "outcome": "debated; later approved 86-0"
+  },
+  {
+   "n": "6.3",
+   "title": "Budget Review Committee report on the 2024 supplementary budget",
+   "outcome": "debated; later passed 75-11"
+  },
+  {
+   "n": "7.1",
+   "title": "Votes on the matters debated during the day",
+   "outcome": "five votes held; all passed"
+  },
+  {
+   "n": "8",
+   "title": "Other business: Anti-Corruption Commission Act amendment bill",
+   "outcome": "debated; paused at midday prayer, debate to continue at the next sitting"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 4,
+   "positions": [
+    "Supported the bill but asked how commission independence would be protected.",
+    "Questioned the ACC's results on past large cases and urged it to act.",
+    "Backed the committee reports on the three ministerial nominees and the ambassador nominee, calling the reports thorough.",
+    "Said a balanced foreign policy with many countries is best for Maldives' finances."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 3,
+   "positions": [
+    "Supported the bill, questioning why a vote among the full Majlis would be less independent than a vote within the commission.",
+    "Questioned the ACC's results over the years.",
+    "Presented the Foreign Relations Committee report on the ambassador nominee, saying the committee sought information from several offices and agreed unanimously the nominee is suitable.",
+    "In debate, praised the President's foreign policy for building ties with neighbours, Europe and Africa."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 3,
+   "positions": [
+    "Presented the Government Accountability Committee report recommending approval of the three ministerial nominees for Foreign Affairs, Finance and Health.",
+    "Said the committee checked the constitutional requirements with the President's Office, the courts administration, corrections, the Anti-Corruption Commission and the economy ministry, and approved all three unanimously."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 2,
+   "positions": [
+    "Supported the bill, noting similar practice in other countries.",
+    "Argued commission spending over the years has not produced matching recoveries.",
+    "Argued that opposition votes against the supplementary budget affect funding for services such as Aasandha and state companies.",
+    "Noted that large past spending on development projects showed little visible result."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Opposed the bill, saying powers of councils and commissions are being drawn toward the President.",
+    "Was cautioned by the chair to keep to the bill under debate."
+   ]
+  },
+  {
+   "name": "Adam Zahir",
+   "constituency": "Felidhoo",
+   "turns": 1,
+   "positions": [
+    "As sponsor, said the bill aligns how commission presidents and vice presidents are appointed, as was done for the Civil Service Commission, and urged swift passage."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as a small change with precedent in the Civil Service Commission process.",
+    "Cited past commission conduct as the reason for changing how the president is chosen."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying all commissions should follow the same nomination-and-approval route.",
+    "Argued the stolen public funds of past years should be pursued and recovered."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, citing the constitutional articles on the ACC and the Majlis role in approving names.",
+    "Argued it would help the commission pursue recovery of public money."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it aims to secure commission independence and public trust.",
+    "Rejected the MDP's concerns, noting the Majlis approves the names."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying the Majlis still decides who is appointed.",
+    "Criticised the ACC for not acting on many complaints filed with it."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and said claims it adds presidential powers are mistaken.",
+    "Said independent-body appointments already go through the Majlis."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Opposed the bill, saying it weakens the checks and balances of an independent commission system.",
+    "Described it as a signal to independent bodies from the President."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and said MDP members were misleading the public about its content.",
+    "Asked the ACC to investigate a police housing project raised the previous day."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it does not give the President absolute power.",
+    "Compared appointment practice in Singapore and Malaysia and suggested studying commission size."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Said he had no major objection if the majority wants the change.",
+    "Argued the ACC's role overseeing government could be harder if its leaders are presidential nominees."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, calling it only two small amendments.",
+    "Argued the Majlis approving names keeps the process proper."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying the President should hold the powers needed to act against corruption.",
+    "Rejected the view that it places the ACC under government control."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and welcomed its sponsor.",
+    "Said changing how independent bodies are appointed began under the previous government."
+   ]
+  },
+  {
+   "name": "Ali Fazad",
+   "constituency": "Central Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Presented the Budget Review Committee report, saying the supplementary budget is needed because spending would exceed the 2024 budget passed by the Majlis."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the Anti-Corruption Commission bill, saying it improves accountability and independence.",
+    "Rejected claims it concentrates power, saying the chair and deputy chair are named by the President and must be approved by a Majlis vote."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Read out the proposed amendment to Article 7 of the Anti-Corruption Commission Act.",
+    "Said the names go to the Majlis for debate, interviews and a vote, and he does not see the change as a step back for democracy."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Argued the President is responsible for making the commission work and that the bill aims to improve it, not to protect anyone.",
+    "Criticised the opposition for not recalling their own record with independent commissions."
+   ]
+  }
+ ],
+ "decisions": [
+  "The sitting was opened and the day's agenda announced.",
+  "The chair announced no announcements for the day.",
+  "A 30-minute recess was taken from 10:31 to 11:01 during the debate.",
+  "The chair said the debate would run to about 11:15, then move to committee reports, then resume.",
+  "Dr. Abdulla Khaleel was approved as Minister of Foreign Affairs, 86-0.",
+  "Moosa Zameer was approved as Minister of Finance, 86-0.",
+  "Abdulla Nazim Ibrahim was approved as Minister of Health, 86-0.",
+  "Ahmed Sareer was approved as ambassador to Saudi Arabia, 86-0.",
+  "The 2024 supplementary budget report was passed, 75-11.",
+  "Debate on the Anti-Corruption Commission Act amendment bill was paused for midday prayer, to continue at the next sitting.",
+  "The Majlis adjourned until Wednesday 30 October 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Approval of Dr. Abdulla Khaleel as Minister of Foreign Affairs",
+   "yes": 86,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approval of Moosa Zameer as Minister of Finance",
+   "yes": 86,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approval of Abdulla Nazim Ibrahim as Minister of Health",
+   "yes": 86,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approval of Ahmed Sareer as ambassador to Saudi Arabia",
+   "yes": 86,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Passing the 2024 supplementary budget per the Budget Review Committee report",
+   "yes": 75,
+   "no": 11,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 80,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,5 +1,40 @@
 [
   {
+    "id": "1072",
+    "title": "5th Sitting of Third session of 2026",
+    "date": "2026-10-13",
+    "term": "2026 Third Term",
+    "agendaNo": "އޖ/5/3/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/3rOu3LVh1HrmrlVz57g7c768Ms6ZsDgbwYFrhapP.pdf",
+    "minutesPdf": "https://majlis.gov.mv/storage/sessions/minutes/s0YeAkwHt4CBeAnFWnCsUSSvuaiQTIILUDQdszsG.pdf",
+    "pointOfOrderPdf": null,
+    "workIds": [
+      "1952"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1072",
+    "fetchedAt": "2026-10-14",
+    "agendaFile": "tmp/docs/sitting-1072-agenda.pdf",
+    "minutesFile": "tmp/docs/sitting-1072-minutes.pdf"
+  },
+  {
+    "id": "1071",
+    "title": "4rd Sitting of third session of 2026",
+    "date": "2026-10-12",
+    "term": "2026 Third Term",
+    "agendaNo": "އޖ/4/2/2026",
+    "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/lHxINxzXzLPSgabA9tRf1hnonWeQxhcV3OKgDxPP.pdf",
+    "minutesPdf": "https://majlis.gov.mv/storage/sessions/minutes/oH6cvDHKQ6dmvtH3HsEksVUM6IcE6W2jn2JIKbiz.pdf",
+    "pointOfOrderPdf": null,
+    "workIds": [
+      "1951",
+      "1956"
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1071",
+    "fetchedAt": "2026-10-14",
+    "agendaFile": "tmp/docs/sitting-1071-agenda.pdf",
+    "minutesFile": "tmp/docs/sitting-1071-minutes.pdf"
+  },
+  {
     "id": "1070",
     "title": "3rd Sitting of third session of 2026",
     "date": "2026-10-07",
@@ -10,7 +45,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1070",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1070-agenda.pdf"
   },
   {
@@ -24,7 +59,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1069",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1069-agenda.pdf"
   },
   {
@@ -42,7 +77,7 @@
       "1956"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1068",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1068-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1068-minutes.pdf"
   },
@@ -71,7 +106,7 @@
       "1814"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1067",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1067-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1067-minutes.pdf"
   },
@@ -92,7 +127,7 @@
       "1944"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1066",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1066-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1066-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1066-point-of-order.pdf"
@@ -116,7 +151,7 @@
       "1935"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1065",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1065-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1065-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1065-point-of-order.pdf"
@@ -138,7 +173,7 @@
       "1912"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1064",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1064-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1064-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1064-point-of-order.pdf"
@@ -159,7 +194,7 @@
       "1942"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1063",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1063-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1063-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1063-point-of-order.pdf"
@@ -180,7 +215,7 @@
       "1938"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1062",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1062-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1062-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1062-point-of-order.pdf"
@@ -203,7 +238,7 @@
       "1748"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1061",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1061-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1061-minutes.pdf"
   },
@@ -224,7 +259,7 @@
       "1913"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1060",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1060-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1060-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1060-point-of-order.pdf"
@@ -246,7 +281,7 @@
       "1910"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1059",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1059-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1059-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1059-point-of-order.pdf"
@@ -265,7 +300,7 @@
       "1921"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1058",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1058-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1058-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1058-point-of-order.pdf"
@@ -286,7 +321,7 @@
       "1912"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1057",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1057-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1057-minutes.pdf"
   },
@@ -309,7 +344,7 @@
       "1908"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1056",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1056-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1056-minutes.pdf"
   },
@@ -328,7 +363,7 @@
       "1902"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1055",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1055-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1055-minutes.pdf"
   },
@@ -346,7 +381,7 @@
       "1902"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1053",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1053-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1053-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1053-point-of-order.pdf"
@@ -365,7 +400,7 @@
       "1899"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1052",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1052-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1052-minutes.pdf"
   },
@@ -386,7 +421,7 @@
       "1902"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1051",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1051-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1051-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1051-point-of-order.pdf"
@@ -407,7 +442,7 @@
       "1894"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1050",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1050-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1050-minutes.pdf"
   },
@@ -427,7 +462,7 @@
       "1882"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1048",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1048-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1048-minutes.pdf"
   },
@@ -447,7 +482,7 @@
       "1881"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1047",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1047-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1047-minutes.pdf"
   },
@@ -466,7 +501,7 @@
       "1887"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1046",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1046-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1046-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1046-point-of-order.pdf"
@@ -487,7 +522,7 @@
       "1892"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1045",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1045-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1045-minutes.pdf"
   },
@@ -505,7 +540,7 @@
       "1888"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1044",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1044-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1044-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1044-point-of-order.pdf"
@@ -527,7 +562,7 @@
       "1886"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1042",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1042-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1042-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1042-point-of-order.pdf"
@@ -548,7 +583,7 @@
       "1884"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1041",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1041-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1041-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1041-point-of-order.pdf"
@@ -567,7 +602,7 @@
       "1871"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1039",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1039-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1039-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1039-point-of-order.pdf"
@@ -586,7 +621,7 @@
       "1879"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1038",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1038-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1038-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1038-point-of-order.pdf"
@@ -613,7 +648,7 @@
       "1874"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1036",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1036-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1036-minutes.pdf"
   },
@@ -630,7 +665,7 @@
       "1877"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1035",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1035-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1035-minutes.pdf"
   },
@@ -647,7 +682,7 @@
       "1876"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1034",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1034-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1034-minutes.pdf"
   },
@@ -667,7 +702,7 @@
       "1873"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1033",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1033-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1033-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1033-point-of-order.pdf"
@@ -685,7 +720,7 @@
       "1874"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1032",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1032-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1032-minutes.pdf"
   },
@@ -702,7 +737,7 @@
       "1873"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1031",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1031-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1031-minutes.pdf"
   },
@@ -722,7 +757,7 @@
       "1864"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1030",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1030-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1030-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1030-point-of-order.pdf"
@@ -741,7 +776,7 @@
       "1869"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1029",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1029-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1029-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1029-point-of-order.pdf"
@@ -764,7 +799,7 @@
       "1861"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1028",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1028-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1028-minutes.pdf"
   },
@@ -784,7 +819,7 @@
       "1858"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1027",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1027-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1027-minutes.pdf"
   },
@@ -802,7 +837,7 @@
       "1863"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1026",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1026-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1026-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1026-point-of-order.pdf"
@@ -820,7 +855,7 @@
       "1861"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1025",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1025-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1025-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1025-point-of-order.pdf"
@@ -840,7 +875,7 @@
       "1838"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1024",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1024-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1024-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1024-point-of-order.pdf"
@@ -858,7 +893,7 @@
       "1696"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1023",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1023-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1023-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1023-point-of-order.pdf"
@@ -882,7 +917,7 @@
       "1847"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1022",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1022-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1022-minutes.pdf"
   },
@@ -903,7 +938,7 @@
       "1849"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1021",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1021-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1021-minutes.pdf"
   },
@@ -920,7 +955,7 @@
       "1851"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1020",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1020-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1020-minutes.pdf"
   },
@@ -938,7 +973,7 @@
       "1845"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1019",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1019-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1019-minutes.pdf"
   },
@@ -961,7 +996,7 @@
       "1837"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1018",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1018-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1018-minutes.pdf"
   },
@@ -984,7 +1019,7 @@
       "1842"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1017",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1017-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1017-minutes.pdf"
   },
@@ -1004,7 +1039,7 @@
       "1828"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1016",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1016-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1016-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1016-point-of-order.pdf"
@@ -1028,7 +1063,7 @@
       "1832"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1015",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1015-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1015-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1015-point-of-order.pdf"
@@ -1044,7 +1079,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1013",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1013-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1013-minutes.pdf"
   },
@@ -1061,7 +1096,7 @@
       "1833"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1012",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1012-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1012-minutes.pdf"
   },
@@ -1082,7 +1117,7 @@
       "1833"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1011",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1011-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1011-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1011-point-of-order.pdf"
@@ -1108,7 +1143,7 @@
       "1579"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1010",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1010-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1010-minutes.pdf"
   },
@@ -1131,7 +1166,7 @@
       "1738"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1009",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1009-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1009-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1009-point-of-order.pdf"
@@ -1154,7 +1189,7 @@
       "1807"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1008",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1008-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1008-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1008-point-of-order.pdf"
@@ -1180,7 +1215,7 @@
       "1813"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1007",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1007-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1007-minutes.pdf"
   },
@@ -1198,7 +1233,7 @@
       "1805"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1006",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1006-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1006-minutes.pdf"
   },
@@ -1217,7 +1252,7 @@
       "1803"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1005",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1005-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1005-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1005-point-of-order.pdf"
@@ -1243,7 +1278,7 @@
       "1628"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1004",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1004-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1004-minutes.pdf"
   },
@@ -1258,7 +1293,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/JpMPCMn9sbnOokQZkpGiAGGOeHGdNo6HSUYiexce.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1003",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1003-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1003-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-1003-point-of-order.pdf"
@@ -1274,7 +1309,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1002",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1002-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1002-minutes.pdf"
   },
@@ -1293,7 +1328,7 @@
       "1807"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1001",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-1001-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-1001-minutes.pdf"
   },
@@ -1308,7 +1343,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/999",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-999-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-999-minutes.pdf"
   },
@@ -1327,7 +1362,7 @@
       "1703"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/998",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-998-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-998-minutes.pdf"
   },
@@ -1347,7 +1382,7 @@
       "1485"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/997",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-997-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-997-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-997-point-of-order.pdf"
@@ -1367,7 +1402,7 @@
       "1804"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/996",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-996-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-996-minutes.pdf"
   },
@@ -1384,7 +1419,7 @@
       "1801"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/995",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-995-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-995-minutes.pdf"
   },
@@ -1405,7 +1440,7 @@
       "1755"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/994",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-994-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-994-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-994-point-of-order.pdf"
@@ -1424,7 +1459,7 @@
       "1796"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/993",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-993-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-993-minutes.pdf"
   },
@@ -1445,7 +1480,7 @@
       "1790"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/992",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-992-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-992-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-992-point-of-order.pdf"
@@ -1468,7 +1503,7 @@
       "1783"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/991",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-991-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-991-minutes.pdf"
   },
@@ -1488,7 +1523,7 @@
       "1775"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/990",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-990-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-990-minutes.pdf"
   },
@@ -1508,7 +1543,7 @@
       "1786"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/989",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-989-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-989-minutes.pdf"
   },
@@ -1529,7 +1564,7 @@
       "1778"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/988",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-988-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-988-minutes.pdf"
   },
@@ -1548,7 +1583,7 @@
       "1778"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/987",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-987-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-987-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-987-point-of-order.pdf"
@@ -1575,7 +1610,7 @@
       "1764"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/986",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-986-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-986-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-986-point-of-order.pdf"
@@ -1596,7 +1631,7 @@
       "1753"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/985",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-985-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-985-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-985-point-of-order.pdf"
@@ -1621,7 +1656,7 @@
       "1749"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/984",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-984-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-984-minutes.pdf"
   },
@@ -1647,7 +1682,7 @@
       "1767"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/983",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-983-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-983-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-983-point-of-order.pdf"
@@ -1672,7 +1707,7 @@
       "1755"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/982",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-982-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-982-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-982-point-of-order.pdf"
@@ -1690,7 +1725,7 @@
       "1741"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/981",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-981-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-981-minutes.pdf"
   },
@@ -1708,7 +1743,7 @@
       "1747"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/980",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-980-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-980-minutes.pdf"
   },
@@ -1727,7 +1762,7 @@
       "1707"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/979",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-979-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-979-minutes.pdf"
   },
@@ -1748,7 +1783,7 @@
       "1697"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/978",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-978-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-978-minutes.pdf"
   },
@@ -1768,7 +1803,7 @@
       "1744"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/977",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-977-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-977-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-977-point-of-order.pdf"
@@ -1789,7 +1824,7 @@
       "1729"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/976",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-976-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-976-minutes.pdf"
   },
@@ -1808,7 +1843,7 @@
       "1733"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/975",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-975-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-975-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-975-point-of-order.pdf"
@@ -1829,7 +1864,7 @@
       "1698"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/974",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-974-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-974-minutes.pdf"
   },
@@ -1849,7 +1884,7 @@
       "1725"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/973",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-973-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-973-minutes.pdf"
   },
@@ -1868,7 +1903,7 @@
       "1728"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/972",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-972-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-972-minutes.pdf"
   },
@@ -1890,7 +1925,7 @@
       "1731"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/971",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-971-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-971-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-971-point-of-order.pdf"
@@ -1911,7 +1946,7 @@
       "1731"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/970",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-970-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-970-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-970-point-of-order.pdf"
@@ -1927,7 +1962,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/EkGUK4OqTVH6L7TwmZa2w2SLy5cEkWv9fjvpJi2t.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/969",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-969-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-969-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-969-point-of-order.pdf"
@@ -1948,7 +1983,7 @@
       "1723"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/966",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-966-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-966-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-966-point-of-order.pdf"
@@ -1967,7 +2002,7 @@
       "1713"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/965",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-965-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-965-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-965-point-of-order.pdf"
@@ -1987,7 +2022,7 @@
       "1710"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/964",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-964-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-964-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-964-point-of-order.pdf"
@@ -2006,7 +2041,7 @@
       "1713"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/963",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-963-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-963-minutes.pdf"
   },
@@ -2025,7 +2060,7 @@
       "1708"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/962",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-962-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-962-minutes.pdf"
   },
@@ -2043,7 +2078,7 @@
       "1710"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/961",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-961-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-961-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-961-point-of-order.pdf"
@@ -2063,7 +2098,7 @@
       "1703"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/960",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-960-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-960-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-960-point-of-order.pdf"
@@ -2081,7 +2116,7 @@
       "1706"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/959",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-959-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-959-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-959-point-of-order.pdf"
@@ -2099,7 +2134,7 @@
       "1705"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/958",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-958-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-958-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-958-point-of-order.pdf"
@@ -2120,7 +2155,7 @@
       "1698"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/956",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-956-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-956-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-956-point-of-order.pdf"
@@ -2136,7 +2171,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/955",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-955-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-955-minutes.pdf"
   },
@@ -2154,7 +2189,7 @@
       "1702"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/954",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-954-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-954-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-954-point-of-order.pdf"
@@ -2175,7 +2210,7 @@
       "1700"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/953",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-953-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-953-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-953-point-of-order.pdf"
@@ -2198,7 +2233,7 @@
       "1689"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/952",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-952-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-952-minutes.pdf"
   },
@@ -2215,7 +2250,7 @@
       "1693"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/951",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-951-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-951-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-951-point-of-order.pdf"
@@ -2234,7 +2269,7 @@
       "1682"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/950",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-950-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-950-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-950-point-of-order.pdf"
@@ -2254,7 +2289,7 @@
       "1690"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/949",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-949-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-949-minutes.pdf"
   },
@@ -2275,7 +2310,7 @@
       "1691"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/948",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-948-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-948-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-948-point-of-order.pdf"
@@ -2296,7 +2331,7 @@
       "1679"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/947",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-947-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-947-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-947-point-of-order.pdf"
@@ -2318,7 +2353,7 @@
       "1673"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/946",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-946-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-946-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-946-point-of-order.pdf"
@@ -2340,7 +2375,7 @@
       "1659"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/945",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-945-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-945-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-945-point-of-order.pdf"
@@ -2362,7 +2397,7 @@
       "1669"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/944",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-944-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-944-minutes.pdf"
   },
@@ -2380,7 +2415,7 @@
       "1678"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/943",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-943-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-943-minutes.pdf"
   },
@@ -2399,7 +2434,7 @@
       "1676"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/942",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-942-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-942-minutes.pdf"
   },
@@ -2422,7 +2457,7 @@
       "1572"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/941",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-941-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-941-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-941-point-of-order.pdf"
@@ -2444,7 +2479,7 @@
       "1660"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/940",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-940-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-940-minutes.pdf"
   },
@@ -2463,7 +2498,7 @@
       "1666"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/939",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-939-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-939-minutes.pdf"
   },
@@ -2482,7 +2517,7 @@
       "1663"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/938",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-938-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-938-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-938-point-of-order.pdf"
@@ -2504,7 +2539,7 @@
       "1660"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/937",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-937-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-937-minutes.pdf"
   },
@@ -2524,7 +2559,7 @@
       "1651"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/935",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-935-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-935-minutes.pdf"
   },
@@ -2543,7 +2578,7 @@
       "1649"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/934",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-934-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-934-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-934-point-of-order.pdf"
@@ -2562,7 +2597,7 @@
       "1650"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/933",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-933-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-933-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-933-point-of-order.pdf"
@@ -2583,7 +2618,7 @@
       "1647"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/932",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-932-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-932-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-932-point-of-order.pdf"
@@ -2603,7 +2638,7 @@
       "1643"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/931",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-931-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-931-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-931-point-of-order.pdf"
@@ -2624,7 +2659,7 @@
       "1646"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/930",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-930-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-930-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-930-point-of-order.pdf"
@@ -2643,7 +2678,7 @@
       "1646"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/929",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-929-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-929-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-929-point-of-order.pdf"
@@ -2663,7 +2698,7 @@
       "1641"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/928",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-928-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-928-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-928-point-of-order.pdf"
@@ -2681,7 +2716,7 @@
       "1643"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/927",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-927-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-927-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-927-point-of-order.pdf"
@@ -2705,7 +2740,7 @@
       "1642"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/926",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-926-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-926-minutes.pdf"
   },
@@ -2723,7 +2758,7 @@
       "1628"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/925",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-925-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-925-minutes.pdf"
   },
@@ -2747,7 +2782,7 @@
       "1621"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/924",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-924-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-924-minutes.pdf"
   },
@@ -2769,7 +2804,7 @@
       "1619"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/923",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-923-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-923-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-923-point-of-order.pdf"
@@ -2788,7 +2823,7 @@
       "1619"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/922",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-922-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-922-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-922-point-of-order.pdf"
@@ -2810,7 +2845,7 @@
       "1618"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/921",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-921-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-921-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-921-point-of-order.pdf"
@@ -2837,7 +2872,7 @@
       "1615"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/920",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-920-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-920-minutes.pdf"
   },
@@ -2857,7 +2892,7 @@
       "1605"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/919",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-919-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-919-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-919-point-of-order.pdf"
@@ -2879,7 +2914,7 @@
       "1617"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/918",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-918-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-918-minutes.pdf"
   },
@@ -2902,7 +2937,7 @@
       "1612"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/917",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-917-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-917-minutes.pdf"
   },
@@ -2925,7 +2960,7 @@
       "1605"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/916",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-916-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-916-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-916-point-of-order.pdf"
@@ -2941,7 +2976,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/915",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-915-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-915-minutes.pdf"
   },
@@ -2958,7 +2993,7 @@
       "1598"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/914",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-914-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-914-minutes.pdf"
   },
@@ -2976,7 +3011,7 @@
       "1595"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/913",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-913-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-913-minutes.pdf"
   },
@@ -2994,7 +3029,7 @@
       "1593"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/912",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-912-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-912-minutes.pdf"
   },
@@ -3016,7 +3051,7 @@
       "1580"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/911",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-911-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-911-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-911-point-of-order.pdf"
@@ -3034,7 +3069,7 @@
       "1585"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/910",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-910-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-910-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-910-point-of-order.pdf"
@@ -3053,7 +3088,7 @@
       "1586"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/909",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-909-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-909-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-909-point-of-order.pdf"
@@ -3071,7 +3106,7 @@
       "1582"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/908",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-908-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-908-minutes.pdf"
   },
@@ -3089,7 +3124,7 @@
       "1580"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/907",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-907-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-907-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-907-point-of-order.pdf"
@@ -3109,7 +3144,7 @@
       "1578"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/906",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-906-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-906-minutes.pdf"
   },
@@ -3124,7 +3159,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/c72Po8DFLPrcJ2u748uKFh1Rh9CHJGN9pDVDX0U9.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/905",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-905-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-905-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-905-point-of-order.pdf"
@@ -3145,7 +3180,7 @@
       "1575"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/904",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-904-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-904-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-904-point-of-order.pdf"
@@ -3161,7 +3196,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/903",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-903-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-903-minutes.pdf"
   },
@@ -3178,7 +3213,7 @@
       "1571"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/902",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-902-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-902-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-902-point-of-order.pdf"
@@ -3194,7 +3229,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/901",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-901-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-901-minutes.pdf"
   },
@@ -3209,7 +3244,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/900",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-900-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-900-minutes.pdf"
   },
@@ -3224,7 +3259,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/zHggZxUO9u49ywkLO6oybvTdPoRJXCmoiXrTxYt9.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/899",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-899-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-899-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-899-point-of-order.pdf"
@@ -3243,7 +3278,7 @@
       "1724"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/898",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-898-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-898-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-898-point-of-order.pdf"
@@ -3264,7 +3299,7 @@
       "1568"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/897",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-897-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-897-minutes.pdf"
   },
@@ -3281,7 +3316,7 @@
       "1564"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/896",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-896-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-896-minutes.pdf"
   },
@@ -3296,7 +3331,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/2hrcdzyoFJ9ezCH5kEv3YXjhDaZck2cMMrkfEmmK.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/895",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-895-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-895-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-895-point-of-order.pdf"
@@ -3314,7 +3349,7 @@
       "1563"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/894",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-894-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-894-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-894-point-of-order.pdf"
@@ -3332,7 +3367,7 @@
       "1562"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/893",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-893-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-893-minutes.pdf"
   },
@@ -3351,7 +3386,7 @@
       "1561"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/892",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-892-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-892-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-892-point-of-order.pdf"
@@ -3367,7 +3402,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/891",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-891-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-891-minutes.pdf"
   },
@@ -3387,7 +3422,7 @@
       "1558"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/890",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-890-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-890-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-890-point-of-order.pdf"
@@ -3406,7 +3441,7 @@
       "1554"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/889",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-889-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-889-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-889-point-of-order.pdf"
@@ -3426,7 +3461,7 @@
       "1552"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/888",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-888-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-888-minutes.pdf"
   },
@@ -3443,7 +3478,7 @@
       "1549"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/887",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-887-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-887-minutes.pdf"
   },
@@ -3462,7 +3497,7 @@
       "1548"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/886",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-886-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-886-minutes.pdf"
   },
@@ -3477,7 +3512,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/885",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-885-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-885-minutes.pdf"
   },
@@ -3494,7 +3529,7 @@
       "1545"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/884",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-884-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-884-minutes.pdf"
   },
@@ -3520,7 +3555,7 @@
       "1544"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/883",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-883-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-883-minutes.pdf"
   },
@@ -3535,7 +3570,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/882",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-882-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-882-minutes.pdf"
   },
@@ -3550,7 +3585,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/881",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-881-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-881-minutes.pdf"
   },
@@ -3568,7 +3603,7 @@
       "1534"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/880",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-880-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-880-minutes.pdf"
   },
@@ -3583,7 +3618,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/HIw80323zYwb9Ux5wOnAd3yAPchrOawEFgynHmyt.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/878",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-878-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-878-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-878-point-of-order.pdf"
@@ -3599,7 +3634,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/877",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-877-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-877-minutes.pdf"
   },
@@ -3614,7 +3649,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/Zu0qnWFl5DEgGfgjWp4v2nxLNmho78ZAZovpWGTm.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/876",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-876-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-876-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-876-point-of-order.pdf"
@@ -3639,7 +3674,7 @@
       "1532"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/875",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-875-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-875-minutes.pdf"
   },
@@ -3654,7 +3689,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/yP19kPoDXaAwJAErjz5G4yLYM53Y7nbRaE1vZFIV.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/874",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-874-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-874-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-874-point-of-order.pdf"
@@ -3674,7 +3709,7 @@
       "1524"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/873",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-873-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-873-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-873-point-of-order.pdf"
@@ -3697,7 +3732,7 @@
       "1521"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/871",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-871-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-871-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-871-point-of-order.pdf"
@@ -3717,7 +3752,7 @@
       "1515"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/870",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-870-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-870-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-870-point-of-order.pdf"
@@ -3733,7 +3768,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/74imuNNRXB3nwv7CIv3ccz0ChqcPcANtvCPuDM44.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/869",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-869-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-869-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-869-point-of-order.pdf"
@@ -3752,7 +3787,7 @@
       "1512"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/868",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-868-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-868-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-868-point-of-order.pdf"
@@ -3772,7 +3807,7 @@
       "1510"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/867",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-867-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-867-minutes.pdf"
   },
@@ -3789,7 +3824,7 @@
       "1507"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/866",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-866-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-866-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-866-point-of-order.pdf"
@@ -3807,7 +3842,7 @@
       "1506"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/865",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-865-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-865-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-865-point-of-order.pdf"
@@ -3826,7 +3861,7 @@
       "1505"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/864",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-864-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-864-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-864-point-of-order.pdf"
@@ -3846,7 +3881,7 @@
       "1503"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/863",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-863-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-863-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-863-point-of-order.pdf"
@@ -3864,7 +3899,7 @@
       "1500"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/862",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-862-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-862-minutes.pdf"
   },
@@ -3879,7 +3914,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/zYVak4ZtqnzLeNnCZJWTK3dJO4Ioyaf6WmU0hYVp.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/861",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-861-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-861-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-861-point-of-order.pdf"
@@ -3900,7 +3935,7 @@
       "1499"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/860",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-860-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-860-minutes.pdf"
   },
@@ -3915,7 +3950,7 @@
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/859",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-859-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-859-minutes.pdf"
   },
@@ -3934,7 +3969,7 @@
       "1495"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/857",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-857-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-857-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-857-point-of-order.pdf"
@@ -3954,7 +3989,7 @@
       "1485"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/856",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-856-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-856-minutes.pdf"
   },
@@ -3971,7 +4006,7 @@
       "1490"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/855",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-855-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-855-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-855-point-of-order.pdf"
@@ -3993,7 +4028,7 @@
       "1489"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/854",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-854-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-854-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-854-point-of-order.pdf"
@@ -4012,7 +4047,7 @@
       "1484"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/853",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-853-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-853-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-853-point-of-order.pdf"
@@ -4028,7 +4063,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/7kZrsMNunNptp1Hm418n8DnjMQgwYXidoXq93rNq.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/852",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-852-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-852-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-852-point-of-order.pdf"
@@ -4044,7 +4079,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/AI08bPl39NmefD8GdGq6lTEc5eE14kzk9OwjCjJh.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/851",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-851-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-851-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-851-point-of-order.pdf"
@@ -4066,7 +4101,7 @@
       "1482"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/850",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-850-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-850-minutes.pdf"
   },
@@ -4084,7 +4119,7 @@
       "1476"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/849",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-849-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-849-minutes.pdf"
   },
@@ -4099,7 +4134,7 @@
     "pointOfOrderPdf": "https://majlis.gov.mv/storage/sessions/point_of_order/ukcyDxGMdfzCp1E9bBf2BLBlwxL1eZJgLPG8VKk9.pdf",
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/848",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-848-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-848-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-848-point-of-order.pdf"
@@ -4118,7 +4153,7 @@
       "1474"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/847",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-847-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-847-minutes.pdf"
   },
@@ -4138,7 +4173,7 @@
       "1472"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/846",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-846-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-846-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-846-point-of-order.pdf"
@@ -4159,7 +4194,7 @@
       "1468"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/845",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-845-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-845-minutes.pdf",
     "pointOfOrderFile": "tmp/docs/sitting-845-point-of-order.pdf"
@@ -4179,7 +4214,7 @@
       "1464"
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/844",
-    "fetchedAt": "2026-10-06",
+    "fetchedAt": "2026-10-14",
     "agendaFile": "tmp/docs/sitting-844-agenda.pdf",
     "minutesFile": "tmp/docs/sitting-844-minutes.pdf"
   }

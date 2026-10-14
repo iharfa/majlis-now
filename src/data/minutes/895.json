@@ -1,0 +1,302 @@
+{
+ "sittingId": "895",
+ "date": "2024-11-05",
+ "title": "46th sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 35,
+  "onLeave": 6,
+  "officialTravel": 6
+ },
+ "summary": "The sitting opened at 09:00 with 35 members present. The chair announced the Budget Review Committee's deadline for its 2025 state budget report, then members debated the government's bill to amend the Penal Code's unexplained-wealth provision (section 515) so it also reaches people who formerly held state posts and shifts the burden of proof onto those holding assets they cannot account for. Speakers backed the aim, several urged the committee stage to widen it to everyone, not just state employees, and the debate drew in earlier governments, the MMPRC case and the Anti-Corruption Commission, with two points of order. After a recess from 10:29 to 11:00, debate began on the government's bill to amend the Anti-Corruption Commission Act and was still under way when this part ends; no vote was taken in this part. This part finishes the debate on a bill amending the Anti-Corruption Commission law and then debates a bill amending the Elections Commission law, which PNC members backed as taking the choice of commission chair and deputy out of the President's hands, while MDP's Hussain Ziyad argued that presidential powers keep being added. After a break, the Majlis voted: the Anti-Corruption, Elections Commission and Political Parties amendment bills were each accepted (60 yes to 5 or 6 no) and sent to committee, and Abdul Haseeb Ismail was approved as an Elections Commission member by 67 votes to none. The sitting then adjourned until Wednesday 6 November 2024 at 9:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "35 present, 6 on leave, 6 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda (agenda 2024/46)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee deadline notice under Rule 174: Budget Review Committee, estimated state budget for 2025",
+   "outcome": "chair announced the deadline (20 November 2024)"
+  },
+  {
+   "n": "5.1",
+   "title": "First-stage debate: government bill amending the Penal Code (Law 9/2014), unexplained wealth, sponsored by the Maafushi member",
+   "outcome": "debated; no vote in this part"
+  },
+  {
+   "n": "6",
+   "title": "Unfinished business",
+   "outcome": "taken up after the recess"
+  },
+  {
+   "n": "6.1",
+   "title": "Debate on the government bill amending the Anti-Corruption Commission Act (Law 13/2008), sponsored by the Felidhoo member",
+   "outcome": "debate begun; two members spoke in this part"
+  },
+  {
+   "n": "6.1",
+   "title": "Bill to amend the Anti-Corruption Commission Act (No. 13/2008), debate concluded",
+   "outcome": "accepted 60-5; sent to the Independent Institutions Committee"
+  },
+  {
+   "n": "6.2",
+   "title": "Bill to amend the Elections Commission Act (No. 8/2008), presented by the member for Kelaa",
+   "outcome": "debated; accepted 60-6; sent to the Independent Institutions Committee"
+  },
+  {
+   "n": "6.3",
+   "title": "Bill to amend the Political Parties Act (No. 4/2013), presented by the member for Dhidhdhoo",
+   "outcome": "debated (sponsor only); accepted 60-5; sent to the Committee of the Whole House"
+  },
+  {
+   "n": "7.1",
+   "title": "Independent Institutions Committee report on the President's nominee for Elections Commission member (Abdul Haseeb Ismail, Hulhumale')",
+   "outcome": "debated; nominee approved 67-0"
+  },
+  {
+   "n": "8.1",
+   "title": "Votes on items debated earlier in the day",
+   "outcome": "four votes taken, all passed"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 5,
+   "positions": [
+    "Fully supported the bill and criticised how corruption cases were handled in the past.",
+    "Said the ACC chair and deputy are appointed by the President, which another member disputed in a point of order.",
+    "Said recent bills have moved powers such as pardons, tax relief and appointments toward the President, and asked why so much power is wanted.",
+    "After a point of order, said he found the amendment itself a good one but that members' concerns should be heard, and that a committee of about nine could decide as well as 93 members."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 2,
+   "positions": [
+    "Presented the bill: widen section 515 to former state officials and people linked to them, and make the holder answerable for assets they cannot show were lawfully gained.",
+    "As Independent Institutions Committee spokesperson, presented the report on the Elections Commission nominee and asked the Majlis to vote on it."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order that remarks must relate to the bill and that a claim about ACC appointments did not match the bill's text.",
+    "Supported the committee report, praised the committee's work and asked for the nominee to be approved quickly."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Said corruption cuts across parties and many ACC cases fail in court, so the system needs wider study than this amendment alone.",
+    "Said that if the President wanted to, a committee of nine could decide; sending the choice through the Majlis is the more democratic way.",
+    "Criticised the previous administration over past reforms and said the opposition's claims about the bill are not accurate."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order that the previous speaker's claims about presidential powers over tourism and island leasing were false and off the bill's subject.",
+    "Said the amendment lets Majlis members, not the President's appointees, shape commission leadership, and defended the government's record against the opposition."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Thanked the sponsor and backed the bill, praising the President's anti-corruption stance and saying members themselves should accept being examined under the law."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as important, saying earlier law was hard to apply; also said an asset declaration bill is expected soon."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Said unexplained wealth should be examined for everyone, not only state employees, and proposed changing section 515 to apply to any person gaining unlawfully.",
+    "Urged parliamentary committees to be more active."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Strongly backed the amendment as overdue and said the law should also cover people who gained wealth without holding state posts."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying changing the wording to cover people who held posts in the past makes it stronger, and urged speedy passage."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill but said laws only work if institutions such as police, the ACC and courts enforce them and are held accountable."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and called for stronger penalties, linking wealth from crime to drugs and other serious offences; criticised earlier governments."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and said officials should keep transparent financial records so lawful wealth can be shown."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Called the amendment important but asked whether state-company staff are covered and urged the committee to widen the section and review the burden of proof."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, referring to the MMPRC case, and said investigations should be fair while protecting the dignity of officials."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order about remarks by another member; the chair then ruled that follow-up questions to the chair's reply are not allowed."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, saying corruption exists across governments and institutions, and called for justice in cases such as the MMPRC."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the Anti-Corruption Commission amendment and urged quick passage so its benefits reach the public."
+   ]
+  },
+  {
+   "name": "Adam Zahir",
+   "constituency": "Felidhoo",
+   "turns": 1,
+   "positions": [
+    "Said the Anti-Corruption Commission amendment is thorough, that members debated it fully, and asked the committee stage to finish quickly."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the amendment lets all islands' voices reach the commission through a Majlis vote on chair and deputy, and that commissions must be independent of any government."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "As the bill's sponsor, thanked members for debating the Elections Commission bill and asked for committee consultation with commission heads and experts."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "As the sponsor of the Political Parties bill, noted its wide debate and asked for it to be passed and sent to committee."
+   ]
+  }
+ ],
+ "decisions": [
+  "The chair announced the Budget Review Committee's deadline for its 2025 state budget report (20 November 2024).",
+  "The chair ruled members may not ask follow-up questions on the chair's reply to a point of order.",
+  "Sitting recessed from 10:29 to 11:00 and resumed with unfinished business item 6.1.",
+  "The Anti-Corruption Commission amendment bill (No. 13/2008) was accepted and sent to the Independent Institutions Committee.",
+  "The Elections Commission amendment bill (No. 8/2008) was accepted and sent to the Independent Institutions Committee.",
+  "The Political Parties amendment bill (No. 4/2013) was accepted and sent to the Committee of the Whole House.",
+  "Abdul Haseeb Ismail was approved as a member of the Elections Commission.",
+  "The Majlis adjourned until Wednesday 6 November 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the Anti-Corruption Commission Act (13/2008) amendment bill",
+   "yes": 60,
+   "no": 5,
+   "abstain": 0
+  },
+  {
+   "what": "Accepting the Elections Commission Act (8/2008) amendment bill",
+   "yes": 60,
+   "no": 6,
+   "abstain": 0
+  },
+  {
+   "what": "Accepting the Political Parties Act (4/2013) amendment bill",
+   "yes": 60,
+   "no": 5,
+   "abstain": 0
+  },
+  {
+   "what": "Appointing Abdul Haseeb Ismail as an Elections Commission member",
+   "yes": 67,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 76,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,56 @@
+{
+ "sittingId": "880",
+ "date": "2024-09-11",
+ "title": "First special sitting of 2024",
+ "presiding": "Speaker Abdulraheem Abdulla",
+ "attendance": {
+  "present": 76,
+  "onLeave": 3,
+  "officialTravel": 0
+ },
+ "summary": "This was a short special sitting held outside the normal term, the first of 2024. The Speaker announced it was called at members' request to deal with two matters. A moment of silence was held for the late Abdul Aziz Abdulla, a former member of the Majlis. The nomination of Abbas Shareef for Prosecutor General was sent to the Judiciary Committee, and the Companies Act amendment bill had its first reading before the sitting closed.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening and prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "76 present, 3 on leave, none on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda (agenda no. 20/2024/Khusoosi/1)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "explained the two matters requested for this sitting; moment of silence for the late Abdul Aziz Abdulla"
+  },
+  {
+   "n": "5.1",
+   "title": "Nomination for Prosecutor General (Law 2008/9) sent by the President",
+   "outcome": "President's letter read out; nomination of Abbas Shareef referred to the Judiciary Committee"
+  },
+  {
+   "n": "6.1",
+   "title": "First reading of the bill to amend the Companies Act (Law 2023/7)",
+   "outcome": "first reading given, government bill"
+  }
+ ],
+ "speakers": [],
+ "decisions": [
+  "Nomination of Abbas Shareef for Prosecutor General referred to the Judiciary Committee under Rule 129(a)",
+  "Companies Act (Law 2023/7) amendment bill introduced with its first reading",
+  "Sitting closed; next sitting set for Monday 16 September 2024 at 9:00"
+ ],
+ "votes": [],
+ "pagesTotal": 5,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,210 @@
+{
+ "sittingId": "887",
+ "date": "2024-10-22",
+ "title": "38th sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 56,
+  "onLeave": 4,
+  "officialTravel": 2
+ },
+ "summary": "The sitting ran from 09:02 to 11:16 with 56 members present. The Speaker sent the President's letter on nominees for the vacant Tax Appeal Tribunal seats to the Judiciary Committee. Members then debated a government bill, sponsored by Ibrahim Muhammad of North Mahchangolhi, to raise import duty on tobacco, e-cigarettes and vapes and to set rules for waiving duties. Most speakers backed it on health grounds, while some opposition members questioned the size of the increase, the rushed timing before the 15 November vape import ban, and the power to waive duties. The bill was accepted for consideration 65-3-1 and sent to a committee of the whole House.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "56 present, 4 on leave, 2 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "none"
+  },
+  {
+   "n": "5.1",
+   "title": "President's letter on nominees for the vacant seats on the Tax Appeal Tribunal (Tax Administration Act, Law 3/2010)",
+   "outcome": "letter read out; referred to the Judiciary Committee under Rule 129(k)"
+  },
+  {
+   "n": "6.1",
+   "title": "Bill to amend the Export Import Act, Law 79/31 (government bill sponsored by North Mahchangolhi member Ibrahim Muhammad): first-stage debate",
+   "outcome": "debated by 16 members plus sponsor's closing remarks"
+  },
+  {
+   "n": "7",
+   "title": "Vote on accepting the bill to amend the Export Import Act, Law 79/31, for consideration",
+   "outcome": "accepted 65-3-1; sent to a committee of the whole House under Rule 106(r)"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 2,
+   "positions": [
+    "Presented the bill: higher import duty on tobacco, e-cigarettes and vapes, plus rules on waiving duty, framed as a health measure rather than revenue-raising.",
+    "In closing, urged quick passage, saying the change protects young people's health and that opposition concerns should be weighed against that."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Asked how much revenue the government expects before the 15 November ban date and why the earlier ban bill was not passed.",
+    "Asked for clarity on expected revenue in such a short window and whether price rises have cut smoking before."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Backed the bill as a key step on tobacco control, citing rising vape use among school students and health harm to society."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Supported the ban on vapes but said vape imports grew because the old law left vapes outside tobacco rules, with tax set at 200%.",
+    "Warned that higher cigarette prices only work if enforcement is strong, citing black-market risk and past energy-drink duty results."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as a health measure, citing rising youth tobacco and vape use, and compared Maldivian cigarette prices with other countries."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Accepted the health harm but opposed the size of the increase, citing a large jump in duty per cigarette.",
+    "Asked about shops invested in vapes, tourists who use vapes, and whether ordinary people can bear the cost."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill, saying it will reduce smoking and ease health spending, especially on cancer care."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Argued tobacco tax is meant to protect people from harm, noting Aasandha health spending exceeds what the tax raises, and urged members to quit smoking."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Questioned the power to waive duty in article 8 and said past duty rises had not cut tobacco use, warning of inflation effects."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Fully backed the bill, saying tobacco control and health goals deserve firm work and that behaviour change will bring public benefit."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it is not about revenue and pointing to cancer rates and widespread tobacco use among young people."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported all the changes, said opposition members misdescribe the bill, and said he will stop smoking from 15 November."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported higher prices and proposed banning smoking in public places near schools, a register of smokers, and reviewing Aasandha cover for them."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Raised concern about the power to waive import duty and royalty, citing Vitol fuel storage, and asked why ordinary people pay while others get relief."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, citing falls in smoking after tax rises in Australia, France and the UK, and the New Zealand generational ban as an example."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the aim but questioned the sudden bill after the President's tweet and the high rate, asking for studies and time for businesses to adjust."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill, saying it is not a revenue measure and that the vape ban and higher duties protect the next generation."
+   ]
+  }
+ ],
+ "decisions": [
+  "The President's letter on Tax Appeal Tribunal nominees was referred to the Judiciary Committee.",
+  "The bill to amend the Export Import Act (Law 79/31) was accepted for consideration, 65 yes, 3 no, 1 abstain.",
+  "The bill was sent to a committee of the whole House for study under Rule 106(r).",
+  "The next sitting is set for Wednesday 23 October 2024 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the bill to amend the Export Import Act (Law 79/31) for consideration",
+   "yes": 65,
+   "no": 3,
+   "abstain": 1
+  }
+ ],
+ "pagesTotal": 44,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

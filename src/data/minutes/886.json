@@ -1,0 +1,227 @@
+{
+ "sittingId": "886",
+ "date": "2024-10-21",
+ "title": "37th sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 56,
+  "onLeave": 4,
+  "officialTravel": 2
+ },
+ "summary": "The sitting opened with the Speaker announcing committee deadlines, then a question session in which 12 MPs put questions to the Minister of Climate Change, Environment and Energy, Thoriq Ibrahim, on solar net-metering, power cuts and tariffs, flooding, coastal erosion, waste management and marine protection. Next a government bill to amend the Export Import Act had its first reading. The Majlis then debated the Finance Committee's report on the Auditor General's Office 2025 budget (about MVR 114.5 million) and passed it 75 to 0.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "56 present, 4 on leave, 2 on official travel announced"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Chair announcement of committee report deadlines",
+   "outcome": "deadlines announced for Elections Commission member nomination (28 Oct 2024), a resolution on MP numbers (15 May 2025) and the Urban Development Bill joint committee (7 Nov 2024)"
+  },
+  {
+   "n": "5.1",
+   "title": "Questions to the Minister of Climate Change, Environment and Energy",
+   "outcome": "12 members questioned the minister; one answer to be given in writing; question time ended"
+  },
+  {
+   "n": "6.1",
+   "title": "First reading of the bill to amend the Export Import Act (Act 31/79)",
+   "outcome": "first reading, introduced on behalf of the government"
+  },
+  {
+   "n": "7.1",
+   "title": "Finance Committee report on the Auditor General's Office 2025 budget",
+   "outcome": "debated; passed 75-0"
+  },
+  {
+   "n": "8.1",
+   "title": "Vote on the Finance Committee report on the Auditor General's Office 2025 budget",
+   "outcome": "passed 75-0-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Thoriq Ibrahim",
+   "constituency": "",
+   "turns": 14,
+   "positions": [
+    "Minister said net-metering solar is capped near 40% of peak load for grid stability, and battery storage is being expanded.",
+    "Said Addu generators are being overhauled, a 1.2 MW generator tender opens, and solar and waste-heat power are planned.",
+    "Said Waste Management Zone 1 works for 11 islands start within weeks; erosion studies and a vulnerability index are under way."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Asked when Kanditheemu households can install rooftop solar, given the island's 60% net-metering share is already used up.",
+    "Asked whether the net-metering rules could be changed so the capacity is shared fairly among all households."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked what the minister or the Energy Authority has done about rising household electricity bills.",
+    "In the budget debate, supported the Finance Committee's report and said no problems with the Auditor General's work had been noted."
+   ]
+  },
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 2,
+   "positions": [
+    "Presented the Finance Committee report recommending the Auditor General's Office 2025 budget of MVR 114.5 million, including funds for its building.",
+    "Said audit reports for some years are overdue and the office has staffing and building shortages, so the committee made no cuts."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what is planned to fix repeated flooding in Feydhoo, where the drainage system installed in 2017 was later affected by reclamation."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Asked whether the questioner had tried contacting the minister by meeting or letter before raising an ordinary question in the chamber."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how climate change is affecting fisheries and tourism and what the ministry is doing to understand those impacts."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about progress on fixing low-voltage supply in Thulhaadhoo that is damaging household electronics."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when water and sewerage services will reach residents of Kumundhoo, Makunudhoo and Nekurendhoo, and how long the damaged power networks take to fix."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked for a timeline to end frequent power cuts in Addu City and for action on beach erosion along Maradhoo's link road."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about the government's waste plan for the northern atolls after Kunburudhoo work stalled, and whether climate links to rising bills."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Asked whether the ministry had an internal audit and its findings, and what is planned for erosion near the Vilimale' bridge."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Asked when newly settled areas in Kelaa and Filladhoo will get electricity, and what will protect Kelaa beach from erosion."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Asked what the Environment research boat is for, what compensation was recovered for damaged reefs, and how protected areas are managed."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the budget and hoped the coming state budget reflects constituency priorities with enough funds so projects do not stall mid-year."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the budget and urged the Auditor General's Office to speed up overdue audit reports, saying reports for years back to 2012 are still outstanding."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the report; noted rented offices cost the state heavily and urged long-term planning to house offices in state-owned buildings."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Did not fully support the new-building spending but accepted the committee's decision.",
+    "Criticised past audits of the MMPRC case and hoped the office will scrutinise institutions more closely."
+   ]
+  }
+ ],
+ "decisions": [
+  "Finance Committee report on the Auditor General's Office 2025 budget passed 75 to 0.",
+  "Government bill to amend the Export Import Act (Act 31/79) given its first reading.",
+  "Chair announced committee deadlines: Elections Commission nomination 28 Oct 2024, MP-numbers resolution 15 May 2025, Urban Development Bill joint committee 7 Nov 2024.",
+  "Chair ruled an urgent matter sent by Mohamed Ibrahim (North Galolhu) could not be tabled because it did not meet the rules.",
+  "Minister agreed to answer the Makunudhoo member's question in writing.",
+  "Next sitting set for 22 October 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Finance Committee report on the Auditor General's Office 2025 budget",
+   "yes": 75,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 32,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}
