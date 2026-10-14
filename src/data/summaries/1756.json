@@ -1,0 +1,20 @@
+{
+  "workId": "1756",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޤާނޫނު އަސާސީއަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Constitution of the Maldives. It changes Article 138 only, by replacing its existing wording with a new set of lettered sub-clauses. A second short section appears to say when the amendment starts, which looks like the date it is ratified and published. The scans are hard to read, so the actual wording of the new Article 138 could not be made out and some details are uncertain.",
+  "whyItMatters": "Because it changes the Constitution itself, any effect would apply to the whole state. The scans were not clear enough to say who or what would be affected in practice.",
+  "keyProvisions": [
+    "Section 1 amends Article 138 of the Constitution and sets out a rewritten Article 138 with several lettered sub-clauses, (a) onwards.",
+    "The new sub-clauses cross-refer to one another (for example, later clauses refer back to clause (a)), so they work as one connected set of rules.",
+    "Section 2 is a one-sentence start-date clause. It appears to bring the amendment into effect on ratification and publication, but this part is not fully legible.",
+    "Pages 5 to 7 are a rotated side-by-side table of the current and proposed text of Article 138. It could not be read reliably, so no further changes are listed here."
+  ],
+  "whoIsAffected": "Unclear from the scans; as a constitutional amendment it would apply to whoever Article 138 covers.",
+  "statedReasons": "An explanatory note is printed on page 2, but it could not be read reliably, so no reason is reported here.",
+  "sourceDoc": "Bill",
+  "pagesRead": 7,
+  "pagesTotal": 7,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

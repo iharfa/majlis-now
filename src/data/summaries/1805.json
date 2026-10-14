@@ -1,0 +1,21 @@
+{
+  "workId": "1805",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޤާނޫނުއަސާސީ ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Constitution of the Maldives in three places: Article 73, Article 230 and Article 231. It replaces a paragraph of Article 73, adds a paragraph to Article 230, removes one item from a paragraph of Article 231 and adds a paragraph to it. The text appears to deal with seats held by people elected as a political party's candidates, but the scans are hard to read, so some details are uncertain. A table at the end sets the current text beside the proposed text for Articles 230 and 231.",
+  "whyItMatters": "Constitutional rules on who keeps an elected seat could change, which would affect elected members and the voters who chose them.",
+  "keyProvisions": [
+    "Clause 1 replaces a paragraph of Article 73 with new text.",
+    "Clause 2 adds a new paragraph to Article 230.",
+    "Clause 3 removes item (3) of a paragraph of Article 231, and clause 4 adds a new paragraph to Article 231.",
+    "Clause 5 is a transitional clause with several sub-paragraphs on how the Article 230 and 231 changes take effect. The scan is too unclear for details.",
+    "Clause 6 deals with when the amendment comes into force."
+  ],
+  "whoIsAffected": "Members of the People's Majlis and local councils, and the parties and voters connected to their seats.",
+  "statedReasons": "The explanatory note appears to concern how seats of elected members are treated, but it is too hard to read to summarise reliably.",
+  "pagesRead": 7,
+  "pagesTotal": 7,
+  "confidence": "Medium",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

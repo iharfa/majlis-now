@@ -1,0 +1,22 @@
+{
+  "titleDv": "ޤާނޫނު ނަންބަރު 11/2022 (ހެކިބަސްގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Evidence Act (Law No. 11/2022), the law on what evidence courts can accept. It changes or replaces wording in about eight articles (24, 39, 57, 58, 67, 68, 79 and 87) and repeals three others (51, 59 and 75). Article 57 gets a long new list of numbered conditions, and several other articles refer back to it. The scans are hard to read, so the exact rules being changed are uncertain. This summary covers the first 12 of 71 pages.",
+  "whyItMatters": "The Evidence Act decides what can be used to prove facts in court, so changes to it could affect how both sides present their cases. The details could not be read reliably.",
+  "keyProvisions": [
+    "Clause 1 amends Article 24 by changing wording in paragraph (b) and adding a new paragraph (c) with two numbered limbs.",
+    "Clause 2 amends Article 39(c)(3), and clause 3 repeals Article 51.",
+    "Clause 4 amends Article 57, replacing paragraph (b) with a six-point list of conditions and adding further paragraphs (c) to (e), some with sub-points (i) to (iii).",
+    "Clauses 5 and 8 amend Articles 58 and 68(c) so they work with the new Article 57 conditions; clause 6 repeals Article 59.",
+    "Clauses 7, 10 and 11 amend Articles 67, 79 and 87. Article 87 is rewritten with a long set of new paragraphs; the text was too hard to read to say more.",
+    "Clause 9 repeals Article 75."
+  ],
+  "whoIsAffected": "Judges, lawyers, prosecutors and anyone involved in a court case as a party or witness.",
+  "statedReasons": "The explanatory note refers to the Evidence Act and its Article 136, then lists four points. The scan was too hard to read to quote them reliably.",
+  "pagesRead": 12,
+  "pagesTotal": 71,
+  "confidence": "Low",
+  "workId": "1797",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

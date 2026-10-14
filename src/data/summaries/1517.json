@@ -1,0 +1,21 @@
+{
+  "workId": "1517",
+  "titleDv": "ޤާނޫނު ނަންބަރު 18/2014 (ވިޔަފާރި ރަޖިސްޓްރީކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Business Registration Act (Law no. 18/2014). It replaces Article 5 with a new three-paragraph version and adds a new Article 5-1. The new Article 5-1 refers to the Securities Act (Law no. 2/2006) and includes a 10 percent figure. A comparison table at the end shows the current Article 5, which names the Companies Act (10/96) and the Partnership Act (13/2011). The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "It changes the rules on how businesses are registered and ties them to the securities law. The scans are too hard to read to say exactly who must register or what changes for them.",
+  "keyProvisions": [
+    "Article 1 replaces Article 5, which deals with registering businesses under the Act. The new text has three paragraphs, and its wording is hard to read.",
+    "The current Article 5, shown in the comparison table, refers to businesses formed under the Companies Act (10/96) and the Partnership Act (13/2011).",
+    "Article 2 adds a new Article 5-1. Paragraph (a) refers to the Securities Act (2/2006).",
+    "Paragraph (b) of the new Article 5-1 sets a 10 percent (ten percent) threshold. What the threshold is measured against is hard to read.",
+    "Article 3 says the amendment takes effect once it is ratified and published, with no waiting period visible in the text."
+  ],
+  "whoIsAffected": "Businesses that have to register under the Business Registration Act, including those linked to the Securities Act, though the scans do not name them clearly.",
+  "statedReasons": "An explanatory note is printed but is too faint to read, so its stated reasons cannot be given reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 6,
+  "pagesTotal": 6,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

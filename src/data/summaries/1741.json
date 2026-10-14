@@ -1,0 +1,22 @@
+{
+  "workId": "1741",
+  "titleDv": "މީޑިއާ އަދި ބްރޯޑްކާސްޓިންގ ރެގިއުލޭޝަން ބިލު",
+  "summary": "This bill sets up one framework for regulating media and broadcasting in the Maldives. It repeals Law No. 47/78 and Law No. 15/2008, and amends the Broadcasting Act (Law No. 16/2010) so that its references line up with the new arrangement. It also deals with moving staff, work and assets over to the new body and with how the new body is first formed. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 70 pages.",
+  "whyItMatters": "If passed, the rules and the regulator that oversee newspapers, broadcasters and other media would change, which affects both journalists and the companies they work for.",
+  "keyProvisions": [
+    "Article 1 gives the short title and states what the law is for; Article 2 makes it take effect once ratified.",
+    "Articles 3 to 7 appear to set out the new regulatory body and its functions and powers, with Article 6 listing duties that refer back to Article 28 of the bill.",
+    "Article 8 repeals Law No. 47/78 and Law No. 15/2008.",
+    "Article 9 amends several articles of the Broadcasting Act (Law No. 16/2010), including articles 3, 18, 20, 37, 42 and 45, and Article 10 swaps references to the repealed law for the new law.",
+    "Articles 13 and 14 cover transferring employees, work and assets and how their terms of service carry over; Article 15 deals with members' terms (a five-year term is mentioned).",
+    "Article 16 appears to start the new law's operation in stages. The remaining 58 pages were not rendered."
+  ],
+  "whoIsAffected": "Journalists, newspaper and broadcast owners, staff of the current media and broadcasting bodies, and the public that relies on them.",
+  "statedReasons": "The explanatory note could not be read reliably; it appears to say the current media and broadcasting laws are being replaced by a single, updated framework.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 70,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

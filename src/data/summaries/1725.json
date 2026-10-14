@@ -1,0 +1,22 @@
+{
+  "workId": "1725",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2020 (ފެނާއި ނަރުދަމާގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Water and Sewerage Act (No. 8/2020). It changes Articles 8, 11, 15, 25, 43, 54 and 62. Several articles get new clauses and one clause each in Articles 8 and 15 is deleted. It also changes the fines in Article 54, with figures of MVR 1,000,000, MVR 100,000 and MVR 5,000 printed. A date of 2027 appears in the new text of Article 8. The pages that compare old and new wording are rotated and hard to read, so some details are uncertain.",
+  "whyItMatters": "Water and sewerage service providers could face different duties and larger fines, and the new text of Article 8 sets a 2027 deadline for something.",
+  "keyProvisions": [
+    "Article 8: adds new clauses, one of which refers to the year 2027, and deletes two existing clauses. The wording of the new clauses could not be read reliably.",
+    "Article 11: adds two new clauses about the duties of service providers. The wording could not be read reliably.",
+    "Article 15: deletes one clause.",
+    "Article 25: adds a clause that refers to Law No. 4/93 and to sewage or waste water being handled in line with that law.",
+    "Article 54 (penalties): adds a fine of up to MVR 1,000,000 in one clause and MVR 100,000 in another. A further clause mentions MVR 5,000, which appears to be a per-day amount.",
+    "Article 62 (definitions): adds definitions of 'water and sewerage service provider' and a second related term. Clause 13 says the amendment takes effect on ratification and publication in the Gazette."
+  ],
+  "whoIsAffected": "Water and sewerage service providers, island councils and utilities, and households and businesses that use their services.",
+  "statedReasons": "The short explanatory note says the bill is brought to amend the Water and Sewerage Act (No. 8/2020) in several articles; the full wording of the reasons could not be read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 12,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

@@ -1,0 +1,21 @@
+{
+  "workId": "1742",
+  "titleDv": "ރި-އެމްޕްލޯޔްމަންޓްގެ ބިލު",
+  "summary": "This is a new bill that sets up a system for re-employing people who have already retired. It is organised into chapters on general provisions, how re-employment works, rules for re-employment, and final provisions, with 27 articles in total. It sets age limits, with the numbers 65 and 75 appearing in the age article (6), and a 12-unit period in the next article (7). The definitions refer to the Civil Service Act (Law 5/2007), and later articles link the system to the Employment Act (Law 2/2008). The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 23 pages.",
+  "whyItMatters": "If it works as described, people who have retired could go back to work in certain roles, within set age and time limits.",
+  "keyProvisions": [
+    "Article 5 covers who can be re-employed after retiring, and sets some conditions in two clauses. A 7-year figure appears in clause (b).",
+    "Article 6 sets the age range for re-employment; the numbers 65 and 75 appear in it.",
+    "Article 7 sets how long a re-employment lasts; the figure 12 appears in it.",
+    "Articles 8 to 11 set conditions for different groups of retirees, and clause 11 concerns people who retired from companies or similar bodies.",
+    "Article 4 (definitions) refers to Article 49 of the Civil Service Act (Law 5/2007). Articles 13 to 16, in the third chapter, link the system to the Employment Act (Law 2/2008), including its Articles 14 and 22."
+  ],
+  "whoIsAffected": "People who have retired and want to work again, and the government bodies or companies that could re-employ them.",
+  "statedReasons": "The explanatory note on page 2 appears to say the bill is meant to let retired people be re-employed, with the age of 75 mentioned, but the scan is hard to read so this is uncertain.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 23,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

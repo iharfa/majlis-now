@@ -1,0 +1,22 @@
+{
+  "workId": "1504",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ދާއިރާތައް ލާމަރުކަޒީ އުސޫލުން ހިންގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Decentralization Act (Law 7/2010). It has seven clauses that rewrite or change Articles 15, 16, 26, 29, 42 and 45, which cover what happens when a local council member's seat becomes vacant and a by-election is held. The new text sets several time periods, including 14, 183, 365, 60, 30 and 7 days, but the scans are hard to read, so what each period applies to is partly uncertain. This summary covers the first 12 of 14 pages.",
+  "whyItMatters": "It would set the timetable for filling empty seats on atoll, island and city councils, so how long a seat stays vacant before a by-election could change.",
+  "keyProvisions": [
+    "Clauses 1, 4 and 6 replace Articles 15, 29 and 45 with the same structure. Their side headings are about holding a by-election when a council member's seat becomes vacant.",
+    "In each of those articles, paragraph (a) appears to give 14 days to inform the Elections Commission of the vacancy, and paragraph (b) appears to require the Commission to hold the by-election within 183 days.",
+    "Paragraph (c) of each article mentions 365 days left in the council's term, and appears to make an exception to the by-election rule in that case. The scan is not clear enough to say exactly what happens.",
+    "Paragraphs (d) and (e) of those articles add further rules, including a 60-day period. Their wording could not be read reliably.",
+    "Clauses 2, 3 and 5 amend Articles 16, 26 and 42, adding paragraphs with 30-day and 7-day periods tied to the by-election rule above. Who must act within those periods is unclear in the scan.",
+    "Clause 7 sets when the amendment takes effect. It appears to be on publication in the government gazette, but the wording is partly unclear."
+  ],
+  "whoIsAffected": "Members of atoll, island and city councils, residents of councils with a vacant seat, and the Elections Commission.",
+  "statedReasons": "The note refers to the Decentralization Act (Law 7/2010), to by-elections for vacant council seats, and to periods of 183 days and 60 days. The exact wording was hard to read.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 14,
+  "confidence": "Medium",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "titleDv": "ޤާނޫނު ނަންބަރު 24/2014 (ސްޕެޝަލް އިކޮނޮމިކް ޒޯން ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Special Economic Zone Act (Law No. 24/2014). It adds a new category of very large investment project, with a minimum investment of US$500,000,000, and sets special rules for it. It adds new Articles 17-1, 22-1, 70-1 and 70-2 and a new chapter, and changes Articles 9, 20, 73 and 82. Article 70-2 sets step-by-step percentage rates, including 5% for the first 10 years and 10% for years 11 to 20, after which the Income Tax Act (Law No. 25/2019) applies. Some terms in the scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "A project that invests at least US$500 million could get its own approval route and a different tax schedule from other businesses in special economic zones.",
+  "keyProvisions": [
+    "Article 9 is amended and a new Article 17-1 is added to introduce the new project category.",
+    "Article 70-1 sets conditions for qualifying, including a minimum investment of US$500,000,000, with some steps that have a 60 day deadline.",
+    "Article 70-2(1) sets percentage rates of 1%, 2% and 4% in three tiers; the scans do not make clear what they are charged on.",
+    "Article 70-2(2) sets 5% for the first 10 years, 10% for years 11 to 20, and from year 21 the Income Tax Act (Law No. 25/2019) applies.",
+    "Articles 20, 22-1, 73 and 79 are amended to link the new category into the existing law, and Article 79 also touches Laws 11/2024 and 5/2011 in the comparison table.",
+    "Article 82 adds a definition of the new project type based on the US$500,000,000 threshold. Regulations must be made within 6 months."
+  ],
+  "whoIsAffected": "Large foreign and local investors, businesses in special economic zones, and the government agencies that approve zones and collect tax.",
+  "statedReasons": "The explanatory note says the bill amends the Special Economic Zone Act to make it easier to bring in large investment. Some of the wording was hard to read.",
+  "pagesRead": 12,
+  "pagesTotal": 12,
+  "confidence": "Medium",
+  "workId": "1783",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

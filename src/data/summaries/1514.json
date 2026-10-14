@@ -1,0 +1,21 @@
+{
+  "workId": "1514",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 ... އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Decentralization Act (Act no. 7/2010) in 15 short articles. It rewrites or adds clauses in Articles 22, 23, 39, 40, 56-2, 69-3, 107-1, 107-2 and 152, and changes some wording in Article 152. The final article is a closing clause. The scans are hard to read, so the exact rules are uncertain, and the pages after the bill text are a table comparing old and new wording.",
+  "whyItMatters": "The Decentralization Act governs how local councils work, so these changes could alter rules for council members or councils. The exact change is unreadable in the scans.",
+  "keyProvisions": [
+    "Articles 1 to 3 replace clause (c) of Article 22 and add clauses (d) and (e) to it; the new text could not be read reliably.",
+    "Articles 4 and 5 amend Article 23(c)(11) and Article 39(a), and Article 6 adds a new clause (c1) to Article 39. Their content is unreadable.",
+    "Article 7 amends Article 40(c)(11), and Article 8 adds a new clause (e) to Article 56-2.",
+    "Articles 9 to 13 delete or amend clauses in Article 56-2, add a new clause to Article 69-3, and amend Article 107-1 and add Article 107-2 with its own sub-clauses.",
+    "Article 14 replaces words in Article 152 with other wording, and Article 15 is the closing clause."
+  ],
+  "whoIsAffected": "Probably local councils and their members, but the exact groups could not be confirmed from the scans.",
+  "statedReasons": "An explanatory note is printed on page 2 but could not be read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 18,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

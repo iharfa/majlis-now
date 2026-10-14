@@ -1,0 +1,21 @@
+{
+  "workId": "1721",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2008 (އިލެކްޝަންސް ކޮމިޝަނުގެ ޤާނޫނު) އަށް .. ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Elections Commission Act (Law No. 8/2008). It replaces Article 4 of the Act with new text made up of four lettered clauses. The scanned pages are hard to read, and the amendment is printed as a side-by-side table of old and new wording, so the exact changes are uncertain. From the layout, the article appears to deal with how the Commission's members are chosen and appointed. The bill also says it takes effect once it is ratified and published in the Gazette.",
+  "whyItMatters": "Article 4 of the Act appears to be about the Commission's members, so a change here could alter who sits on the body that runs the country's elections.",
+  "keyProvisions": [
+    "Clause 1 replaces Article 4 of the Elections Commission Act with a new Article 4 containing four clauses, (a) to (d).",
+    "The new Article 4 appears to concern the Commission's members and how they are put forward and appointed. The details could not be read reliably.",
+    "One clause refers to Article 5 of the Act, which suggests the new Article 4 is linked to the rules in that article.",
+    "Pages 4 to 6 set out the old and new wording of Article 4 side by side in a table. This table was too hard to read to compare the two versions.",
+    "Clause 2 says the amendment takes effect on the date it is ratified and published in the Gazette."
+  ],
+  "whoIsAffected": "The members of the Elections Commission and the institutions involved in appointing them, and so indirectly voters.",
+  "statedReasons": "The short explanatory note says the bill is submitted to amend the Act, but the rest of the wording was too hard to read to quote the reason.",
+  "sourceDoc": "Bill",
+  "pagesRead": 6,
+  "pagesTotal": 6,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

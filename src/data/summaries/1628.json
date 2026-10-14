@@ -1,0 +1,21 @@
+{
+  "workId": "1628",
+  "titleDv": "ޖަނަވާރު ގެންގުޅުމާއި ޖަނަވާރުގެ ރައްކާތެރިކަމުގެ ބިލު",
+  "summary": "This is a new, stand-alone bill on keeping animals and protecting their welfare. It runs to 89 articles in 10 chapters. The chapters cover general provisions, who enforces the law, the duties of people who keep animals, rules for premises and operators that look after animals, permits and approvals, enforcement and complaints, and closing provisions. It does not amend an earlier law. The scans are hard to read and only the first 12 of 107 pages were rendered, so the detail is limited. This summary covers the first 12 of 107 pages.",
+  "whyItMatters": "Pet owners, animal keepers and anyone who runs an animal facility could face written rules and official oversight on how animals are treated.",
+  "keyProvisions": [
+    "Article 1 gives the bill's name and its purpose, and Article 2 sets out its objectives in lettered sub-clauses.",
+    "Article 3 explains how the bill applies and Article 4 sorts animals into groups. Which groups they are is hard to read.",
+    "Articles 5 to 7 name the bodies responsible for carrying out the law, with a list of duties for the Ministry in Article 6 and for councils in Article 7.",
+    "The contents page lists Chapter 3 on keeping animals and Chapter 4 on shelter-type premises. Their detail falls outside the rendered pages.",
+    "The contents page also lists chapters on permits, enforcement and complaints, and final provisions, ending at Article 89."
+  ],
+  "whoIsAffected": "People who keep or breed animals, animal businesses and shelters, the Ministry and local councils.",
+  "statedReasons": "The explanatory note describes the bill as setting rules for keeping animals and for their welfare, and for the bodies that enforce them. The scan is hard to read, so this is a rough reading.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 107,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

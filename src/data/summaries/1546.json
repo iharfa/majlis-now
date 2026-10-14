@@ -1,0 +1,22 @@
+{
+  "workId": "1546",
+  "titleDv": "ޤާނޫނު ނަންބަރު 31/79 (ދިވެހިރާއްޖޭގެ އެކްސްޕޯޓް އިމްޕޯޓް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Export Import Act (Act No. 31/79). It changes the import duty rates in tariff item 24, which covers tobacco products. It adds a duty of 200 percent for a new group of goods under tariff item 85 (electrical goods), which appears to cover electronic cigarettes and similar devices. It also rewrites Article 8 and sets a 30-day deadline in clause 6. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 18 pages.",
+  "whyItMatters": "Cigarettes, cigars and similar tobacco goods would cost more to import, and the higher duty would probably show up in shop prices.",
+  "keyProvisions": [
+    "Clause 1 replaces Article 5(a)(1)(i) with a new text.",
+    "Clause 2 replaces the table for tariff item 24 in Article 7(a). The table lists a 200 percent duty for one group of goods and a duty of 50 percent or Rf 8 for four other categories, with the higher amount applying.",
+    "The bill's comparison table shows the current duty on those four categories as 25 percent or Rf 3, so the printed change is from 25 percent or Rf 3 to 50 percent or Rf 8.",
+    "Clause 3 deletes one row of tariff item 38. Clause 4 changes tariff item 85 so that a group of goods that appears to be electronic cigarettes and related products carries a 200 percent duty.",
+    "Clause 5 replaces Article 8 with sub-articles (a) to (h). These pages could not be read reliably.",
+    "Clause 6 sets a 30-day deadline after the law takes effect, and clause 7 sets a start date in 2024. A finance note on the next pages gives revenue estimates in millions of rufiyaa, including 1,058.7 for 2025."
+  ],
+  "whoIsAffected": "Importers and sellers of tobacco products and electronic cigarettes, smokers, and the Customs authorities.",
+  "statedReasons": "The explanatory note says the duty changes are submitted together with the amendment to the Tobacco Control Act (No. 15/2010), so that the two laws match.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 18,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

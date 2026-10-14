@@ -1,0 +1,22 @@
+{
+  "workId": "1728",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ބައިބަޔަށް ބެހިގެން ރަށްތަކާއި ސިޓީތަކުގެ ކައުންސިލްތަކުގެ ހިންގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Decentralization Act (Act No. 7/2010), the law that sets up and governs local councils. It rewrites parts of Articles 70, 75, 79 and 100 and adds a new Article 144-1. One of the rewritten clauses includes a figure of MVR 10,000,000, and another refers to a period of six months and to Article 69-1. A separate clause gives 30 days after the law takes effect for related steps to be done. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "If it becomes law, the rules for how local councils work and are run could change, which affects the people who serve on and deal with island and city councils.",
+  "keyProvisions": [
+    "Clause 1 replaces a sub-article of Article 70. The new text opens with a 'despite' clause and has a list of three points, one of which includes MVR 10,000,000.",
+    "Clause 2 amends Article 75, changing a sub-article that refers to items (9) and (12) of an earlier sub-article.",
+    "Clause 3 replaces Article 79(c). It refers to Article 79(b)(1) and Article 69-1 and mentions a period of six months.",
+    "Clause 4 replaces two sub-articles of Article 100. The details could not be read reliably.",
+    "Clause 5 adds a new Article 144-1 with an opening paragraph that mentions a 365-day period and a list of lettered points. The scan is too unclear to say what the points require.",
+    "Clause 6 sets a 30-day deadline after the law takes effect, and clause 7 says the amendment takes effect on ratification and publication in the gazette."
+  ],
+  "whoIsAffected": "Local councils and councillors under the Decentralization Act, and the residents who rely on them, though the scans do not make this fully clear.",
+  "statedReasons": "The explanatory note says the bill amends the Decentralization Act and refers to councils several times. The rest of the note could not be read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 7,
+  "pagesTotal": 7,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

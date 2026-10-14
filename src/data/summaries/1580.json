@@ -1,0 +1,22 @@
+{
+  "workId": "1580",
+  "titleDv": "އެޓަރނީ ޖެނެރަލްގެ އޮފީސް ބިލު",
+  "summary": "This is a new bill to set up the Attorney General's Office by law. It builds on Article 133(a) of the Constitution, which makes the Attorney General's Office a state institution, and on Article 116. The bill says what the Office is, lists what it does for the state, and sets out the powers and duties of the Attorney General. Later chapters cover the Deputy Attorney General, the Office's staff and miscellaneous rules. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 32 pages.",
+  "whyItMatters": "It would put the powers and duties of the state's chief legal office, which advises and represents the government, into one law.",
+  "keyProvisions": [
+    "Articles 1 and 2 give the short title and purpose, and Article 2 sets out the aims of the law.",
+    "Article 3 establishes the Attorney General's Office under Article 133(a) of the Constitution and gives its English name as \"Attorney General's Office\".",
+    "Article 4 sets out the functions of the Office as a long list of items, including legal advice to the state and acting for the state in legal matters.",
+    "Article 5 deals with the head of the Office, the Attorney General, and says how the Attorney General relates to the Office's work.",
+    "Article 8 lists the responsibilities of the Attorney General, partly mirroring the Office's functions in Article 4.",
+    "Chapters on the Deputy Attorney General (Articles 14 to 18), the Office's staff (Articles 19 to 26) and general rules (Articles 27 to 33) are listed in the contents but were not rendered, so they are not summarised."
+  ],
+  "whoIsAffected": "Government ministries and state bodies that rely on the Attorney General's Office, and the lawyers who work in it.",
+  "statedReasons": "The explanatory note refers to Article 133(a) of the Constitution and says the bill is to set out the Office's work and the powers of the Attorney General in law.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 32,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

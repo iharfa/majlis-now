@@ -1,0 +1,20 @@
+{
+  "workId": "1516",
+  "titleDv": "",
+  "summary": "This is a new Foreign Investment Bill with 45 articles, not an amendment to an existing law. According to the contents page, it opens with the short title and purpose, then sets out rules about foreign investment and how it is registered or approved, and ends with enforcement and general provisions. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 44 pages, which is mostly the contents list and the opening articles.",
+  "whyItMatters": "If passed, it would set the legal framework for how people and companies from outside the Maldives invest here. The exact conditions are unreadable in the pages rendered.",
+  "keyProvisions": [
+    "Article 1 gives the short title of the law, and Article 2 states its purpose; the exact wording of the purpose could not be read.",
+    "The contents page lists 45 articles grouped into several chapters, running to page 38 of the bill.",
+    "Articles 4 to 11 are written as rules about foreign investment and the bodies or procedures that deal with it. Articles 8 to 11 contain numbered sub-lists of conditions. Their content could not be read reliably.",
+    "Pages 13 to 44 of the bill were not rendered, so the later chapters are not summarised."
+  ],
+  "whoIsAffected": "Foreign investors and the Maldivian businesses and institutions that deal with them, though the exact obligations are unreadable.",
+  "statedReasons": "An explanatory note is printed on page 2 but could not be read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 44,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

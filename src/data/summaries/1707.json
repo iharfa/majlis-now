@@ -1,0 +1,22 @@
+{
+  "workId": "1707",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޕަބްލިކް ރެފަރެންޑަމް ބިލު",
+  "summary": "This bill is a new law on how public referendums are held in the Maldives. It lists the parts of the Constitution that it works with (Articles 2 and 5), and has rules on who can call a referendum (Articles 3 and 4). It then covers how the vote is organised, with time limits for some steps and rules for groups that register to take part (Articles 19 to 23). The bill has 39 articles in total. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 20 pages.",
+  "whyItMatters": "If a question is put to a national vote, this law would set the steps, deadlines and rules that apply to the vote and to campaigners.",
+  "keyProvisions": [
+    "Articles 2 and 5 list the Constitution articles (including 79, 107, 108 and 262) that this law works with, and say this law applies to referendums held under them.",
+    "Articles 3 and 4 deal with who can call a referendum and how.",
+    "Articles 6 to 14 cover how the vote is run; they refer back to Articles 3 to 5 and the contents page shows separate articles on notices and the voting process.",
+    "Article 16 mentions an age of 18, which appears to be the voting age for a referendum.",
+    "Article 19 sets time limits of 45 and 90 days, and Article 20 mentions periods of 15 and 7 days for registering groups, with a list of what must be provided.",
+    "Articles 21 to 23 deal with campaigning and the groups involved."
+  ],
+  "whoIsAffected": "Voters, political groups and campaigners, and the institutions that organise national votes.",
+  "statedReasons": "The explanatory note says the bill is meant to set clear rules for holding a public referendum under the Constitution. The scan of the note is hard to read, so the wording is approximate.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 20,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

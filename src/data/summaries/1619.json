@@ -1,0 +1,21 @@
+{
+  "workId": "1619",
+  "titleDv": "ޤާނޫނު ނަންބަރު 22/2010 (ޖުޑިޝަރީގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Judicature Act (Act No. 22/2010). Clause 1 replaces Article 5 of that Act with new text split into several lettered sub-clauses, including time limits of 5 and 7 (the unit is hard to read and is probably days). It also changes a provision of the Judicial Service Commission Act (Act No. 13/2010, Article 26) to match. Clause 2 says the amendment takes effect once it is ratified and published in the Government Gazette. A table at the end sets the current text side by side with the proposed text. The scans are hard to read, so most details are uncertain.",
+  "whyItMatters": "It changes rules in the law that organises the courts and in the law for the commission that oversees judges, but the scans do not make the practical effect clear.",
+  "keyProvisions": [
+    "Clause 1 replaces Article 5 of the Judicature Act with new sub-clauses (a) onward. The wording of most of them could not be read reliably.",
+    "Several of the new sub-clauses refer to periods of 5 and 7, the unit of which is hard to read.",
+    "A further sub-clause changes how Article 26 of the Judicial Service Commission Act (Act No. 13/2010) applies, so the two laws line up.",
+    "Clause 2 says the amendment takes effect when it is ratified and published.",
+    "A comparison table at the end lists the existing wording against the proposed wording for each change."
+  ],
+  "whoIsAffected": "Judges, the Judicial Service Commission and people who deal with the courts.",
+  "statedReasons": "The explanatory note says the Judicature Act is being amended to change how the rules in Article 5 work together with the Judicial Service Commission Act. The scan is hard to read, so this is a rough reading.",
+  "sourceDoc": "Bill",
+  "pagesRead": 8,
+  "pagesTotal": 8,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

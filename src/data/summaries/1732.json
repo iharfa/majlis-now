@@ -1,0 +1,22 @@
+{
+  "workId": "1732",
+  "titleDv": "ޤާނޫނު ނަންބަރު 3/2010 (ޓެކްސް އެޑްމިނިސްޓްރޭޝަން ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Tax Administration Act (Law No. 3/2010). It changes many articles one by one, starting with Article 4 and then Articles 15, 16, 17, 18, 21, 23 and 25, and adds new Articles 21-1 and 21-2. The changes appear to involve the powers of the Commissioner and the tax authority, time limits and set fines, such as amounts of MVR 100,000 and MVR 250,000. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 116 pages.",
+  "whyItMatters": "People and businesses dealing with the tax authority could face different deadlines and fines, so it matters to know which new rules apply to them.",
+  "keyProvisions": [
+    "Clause 1 amends Article 4(a)(2) of the Tax Administration Act.",
+    "Clauses 2 to 7 amend Article 15 of the Act, and clause 6 and clause 7 bring in fixed fines of MVR 100,000 and MVR 250,000 in new paragraphs.",
+    "Clauses 8 to 10 amend Articles 16 and 17 of the Act. The exact subject of these articles could not be read reliably.",
+    "Clause 11 amends Article 18 and sets out a list of numbered cases. The exact subject could not be read reliably, though it appears to concern requests made by the Commissioner or the tax authority.",
+    "Clause 12 adds new Articles 21-1 and 21-2 on tax-related decisions, with a 15-day time period mentioned.",
+    "Clauses 13 to 17 amend Articles 23 and 25 and remove one paragraph of Article 25. The remaining 104 pages were not rendered."
+  ],
+  "whoIsAffected": "Taxpayers, businesses, and the tax authority staff who administer the Act.",
+  "statedReasons": "The explanatory note could not be read reliably; it appears to say the Act is being amended to change how some tax administration rules and penalties work.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 116,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

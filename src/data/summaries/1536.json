@@ -1,0 +1,22 @@
+{
+  "workId": "1536",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Tourism Act (Law No. 2/99). Its main change is in Article 35, which sets the daily tax charged per tourist by type of facility. For one group of facilities (resorts and similar) the rate would double from 6 to 12 US dollars from 1 January 2025. For another group (including guesthouses and vessels) it would double from 3 to 6 dollars. It also removes item (2) of Article 5(c), rewrites Article 5(d) and changes or repeals some other paragraphs of Article 35. The tables and comparison pages are hard to read, so some details are uncertain.",
+  "whyItMatters": "Tourists staying at resorts, guesthouses and similar places would be charged more per day from 2025, which could raise prices and government income.",
+  "keyProvisions": [
+    "Clause 1 deletes item (2) of Article 5(c).",
+    "Clause 2 replaces Article 5(d), a paragraph that appears to deal with leases of tourism land. The detail could not be read reliably.",
+    "Clause 3 replaces Article 35(a): from 1 January 2023 to 31 December 2024 the rate is 6 US dollars per day, and from 1 January 2025 it is 12 US dollars.",
+    "Clause 3 also adds Article 35(b) for a second group of facilities (a figure of 50 appears in the text): 3 US dollars per day until 31 December 2024 and 6 US dollars from 1 January 2025.",
+    "Clause 4 replaces another paragraph of Article 35 with a new rule that includes a 2 US dollar figure from 1 January 2025. Clause 5 repeals some other paragraphs of Article 35. The exact scope of both is uncertain.",
+    "The financial note says the bill takes effect on 1 January 2025 and estimates extra income of MVR 963.6 million in 2025, MVR 1,198.5 million in 2026 and MVR 1,272.3 million in 2027."
+  ],
+  "whoIsAffected": "Tourists, resort and guesthouse operators, and the Tourism Ministry.",
+  "statedReasons": "The explanatory note is too hard to read in full. The financial note estimates extra income of MVR 963.6 million in 2025.",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14",
+  "pagesRead": 12,
+  "pagesTotal": 13,
+  "confidence": "Medium"
+}

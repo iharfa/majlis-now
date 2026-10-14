@@ -1,0 +1,18 @@
+{
+  "workId": "1803",
+  "titleDv": "ޤާނޫނު ނަންބަރު 1/2013 (ސުލްހަވެރިކޮށް އެއްވެ ޖަމާވުމުގެ ޙުރިއްޔާގެ ޤާނޫނު) އުވާލުމުގެ ބިލު",
+  "summary": "This bill would repeal the Freedom of Peaceful Assembly Act (Act No. 1/2013) in full. It has two clauses: the first repeals the Act, and the second covers when the repeal takes effect, apparently once the President ratifies it. It contains no replacement law. The explanatory note is hard to read in places. The bill was rejected by a vote, so the 2013 Act stays in force.",
+  "whyItMatters": "The bill would have removed the law on the freedom of peaceful assembly without putting another in its place, but since it was rejected nothing changes.",
+  "keyProvisions": [
+    "Clause 1 repeals Act No. 1/2013 (the Freedom of Peaceful Assembly Act).",
+    "Clause 2 is the start-date clause, which appears to make the repeal take effect on ratification by the President."
+  ],
+  "whoIsAffected": "Anyone who organises or takes part in public gatherings and protests, and the authorities who oversee them.",
+  "statedReasons": "The note cites Article 32 of the Constitution and Act No. 1/2013 and presents this bill as the way to repeal that Act. The rest of the note is too hard to read to summarise reliably.",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "Medium",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "workId": "1698",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2025 (ބަނޑާރަނައިބުގެ އޮފީހުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Attorney General's Office Act (Law No. 8/2025). It rewrites the list of the office's duties: representing the state in courts, giving the government legal advice, drafting government bills and coordinating human rights treaty work. It sets ethics rules for the office's lawyers and creates a 'legal support service' for its other staff. It also says the National Pay Commission sets the office's salaries and allowances under the State Wage Policy Act. This summary covers the first 12 of 28 pages, and some clauses were hard to read.",
+  "whyItMatters": "It changes how the government's own legal office is organised, how its lawyers must behave and how its staff are hired and paid. This shapes the legal advice behind government decisions and the bills that reach Parliament.",
+  "keyProvisions": [
+    "A new Article 3 clause ties the office to the President's power under Article 116 of the Constitution, which covers setting up ministries and their duties. The President can also give the office other duties.",
+    "Article 4 is rewritten so the office's job is to assist the Attorney General. Its duties include representing the state in courts and tribunals in and outside the Maldives, and giving the government legal advice on regulations, treaties, contracts and bills before the President ratifies them. It also drafts government bills, coordinates reporting under human rights treaties, and publishes and translates Maldivian laws.",
+    "Article 5 is rewritten so the Attorney General draws up the structure of the office's posts. It takes effect with the President's approval. Article 14 says a Deputy Attorney General may be appointed to assist the Attorney General.",
+    "A new Article 15-1 sets ethics rules for the office's lawyers. They must avoid conflicts of interest, act without bias and independently, keep confidential information secret both during and after their service, and must not discriminate against anyone. The Attorney General decides how breaches are handled.",
+    "Articles 18 and 20 create a 'legal support service' for the office's administrative staff. Their posts and grades follow the office's post structure, and they are hired under an employment regulation made under Article 22, which the bill also rewrites.",
+    "Article 23 says the National Pay Commission sets salaries and allowances under Law No. 11/2016 (the State Wage Policy Act). Pay for the office's lawyers should match their legal duties. Article 24 requires the Attorney General to set a code of conduct for the office's other staff."
+  ],
+  "whoIsAffected": "Staff and lawyers at the Attorney General's Office, and the government ministries and agencies that rely on its legal advice.",
+  "statedReasons": "The government says it wants to review the office's duties, set in law the rules for how its lawyers do their work, and change some articles on staff pay and benefits.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 28,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

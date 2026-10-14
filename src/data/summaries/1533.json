@@ -1,0 +1,22 @@
+{
+  "workId": "1533",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2023 (ކުންފުނީގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Company Act (No. 7/2023). It changes a handful of numbers in Articles 100, 113 and 126, mostly shortening time periods. Article 100 appears to set how many days' notice must be given before a meeting, and the bill changes those day counts. Articles 113 and 126 are also amended, and Article 126 gets a shorter deadline. The scans are hard to read, so some details are uncertain, including what each deadline applies to.",
+  "whyItMatters": "Companies and the people who run or own them would work to different deadlines under the Act, with several periods getting shorter. The exact obligations could not be read reliably.",
+  "keyProvisions": [
+    "Article 100(a)(1): a period is cut from 21 days to 3 days. It appears to be the notice that must be given before a meeting; the type of meeting could not be read.",
+    "Article 100(a)(2): a period is changed from 3 days to 10 days, so this one gets longer.",
+    "Article 100(c)(1) and (2): a period in each is cut from 14 days to 7 days.",
+    "Article 113: one lettered paragraph is replaced. The printed old and new texts look near-identical, so the change could not be identified.",
+    "Article 126(a) and (b): a period in each is cut from 30 days to 10 days. The text refers to Articles 113, 114 and 125; what the deadline applies to could not be read.",
+    "The last clause (5) appears to say the amendment takes effect on the date it is ratified."
+  ],
+  "whoIsAffected": "Companies registered under the Company Act and the people who run, own or deal with them.",
+  "statedReasons": "A short explanatory note is printed on page 2. It says the bill amends the Company Act, but the reasons could not be read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 10,
+  "pagesTotal": 10,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "workId": "1763",
+  "titleDv": "ޤާނޫނު ނަންބަރު 3/2013 (ދައުލަތުގެ ވިޔަފާރިތައް ޚާއްސަ ކުރުމާއި ކޯޕަރޭޓް ކުރުމާއި ބެލެހެއްޓުމާއި ތަޙްލީލު ކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Privatization and Corporatization, Monitoring and Evaluation of Government Businesses Act (Law No. 3/2013). It adds a new sub-article after an existing paragraph of Article 12. The new provision deals with performance reports of state-owned businesses, including a time limit of 90 days and another of 30 days, and a fine of MVR 5,000 for breaking the rules. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "If passed, state-owned companies would face a clear duty and deadlines to report on their performance, and a fine if they do not, so the public could see how government businesses are doing.",
+  "keyProvisions": [
+    "Clause 1 adds a new sub-article to Article 12 of the Act, numbered as a '-1' paragraph after an existing paragraph.",
+    "Sub-article (1) sets out a duty for government businesses connected to a performance report, with a period of 1 year mentioned.",
+    "Sub-article (2) sets a time limit of 90 days.",
+    "Sub-article (3) sets a shorter time limit of 30 days.",
+    "Sub-article (4) says that failing to comply with (1) to (3) can be punished with a fine of MVR 5,000.",
+    "Clause 2 is a short commencement clause, saying when the amendment takes effect once it is ratified and published."
+  ],
+  "whoIsAffected": "State-owned companies and the people who run them, the bodies that oversee them, and citizens who want to track how public money is used.",
+  "statedReasons": "The explanatory note refers to performance reports of government businesses and to transparency and accountability.",
+  "sourceDoc": "Bill",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "Medium",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "workId": "1718",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2009 (ދިވެހިރާއްޖޭގެ ޕެންޝަން ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Maldives Pension Act (Law No. 8/2009). It changes Articles 3, 6, 11 and 33 and adds a new set of articles numbered 32-1 to 32-4 under a new heading about a pension for a particular group of people. The new articles refer to the Armed Forces Act (Law No. 1/2008) and the Police Act (Law No. 5/2008). The scans are hard to read, so some details are uncertain. A financial note says the changes would cost the State a large extra sum over 10 years.",
+  "whyItMatters": "It would add a new pension entitlement or rule to the national pension system, paid for with public money.",
+  "keyProvisions": [
+    "Clauses 1 to 3 amend Articles 3, 6 and 11 of the Pension Act. The exact changes were hard to read.",
+    "Clause 4 adds new Articles 32-1 to 32-4 on a new kind of pension. Article 32-1 sets out how it is provided and Article 32-2 links it to people covered by the Armed Forces Act (Law No. 1/2008) or the Police Act (Law No. 5/2008).",
+    "Article 32-3 covers how the person in question would be dealt with under the new rule, and Article 32-4 refers to a time limit. The wording was too faint to read reliably.",
+    "Clause 5 replaces the definition in Article 33 of the Act, which is printed in quotation marks as a defined term.",
+    "Clause 6 says the amendment takes effect on the date it is ratified and published in the Gazette.",
+    "The financial impact note shows a figure of about MVR 322,654,290 and an extra cost of about MVR 1.5 billion over 10 years, though how these figures link to each other was hard to read."
+  ],
+  "whoIsAffected": "People who would get the new pension, which appears to relate to members of the armed forces and police, and the State, which would pay for it.",
+  "statedReasons": "The explanatory note says the bill is submitted to amend the Pension Act so that a pension is provided, with the new articles added to the Act. The remaining wording was too hard to read to quote more precisely.",
+  "sourceDoc": "Bill",
+  "pagesRead": 9,
+  "pagesTotal": 9,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

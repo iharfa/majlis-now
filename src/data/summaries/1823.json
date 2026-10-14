@@ -1,0 +1,22 @@
+{
+  "workId": "1823",
+  "titleDv": "ޤާނޫނު ނަންބަރު 9/2009 (ރައީސުލްޖުމްހޫރިއްޔާގެ މަޤާމުން ކުރީ ރައީސުންގެ ރައްކާތެރިކަމާއި އިސްތިރާހަތު ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Former Presidents Protection and Benefit Act (Act No. 9/2009), which sets out the protection and benefits given to former presidents. It rewrites Articles 1(b), 3, 9 and 10, adds provisions to Article 5, and changes the definition in Article 13. It also repeals Article 8 and replaces it with a new Article 8-1 that includes an amount of MVR 25,000. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 13 pages.",
+  "whyItMatters": "It changes what benefits a former president can receive and the rules for when they apply or stop, with the sums involved set in the new Article 8-1.",
+  "keyProvisions": [
+    "Clauses 1 and 2 replace Article 1(b) and Article 3(s); the new Article 3(s) refers to the case covered by Article 3(b) and sets out numbered sub-points (1) and (2).",
+    "Clause 3 amends Article 5 by adding new paragraphs. The conditions they set could not be read reliably.",
+    "Clause 4 repeals Article 8. The comparison table shows the current Article 8 containing a figure of MVR 175,000.",
+    "Clause 5 inserts a new Article 8-1. Its paragraph (a)(1) contains an amount of MVR 25,000 (twenty-five thousand rufiyaa). The scans do not make clear whether this replaces the 175,000 figure in old Article 8.",
+    "Clauses 6 and 7 replace Article 9(s) and Article 10, and clause 8 amends the definition in Article 13; the text of each could not be read reliably.",
+    "The bill is followed by a financial-impact statement listing 2026 figures of MVR 10,500,000, MVR 300,000 and MVR 700,000, but the scan does not make clear what each line covers."
+  ],
+  "whoIsAffected": "Former presidents of the Maldives, and the government bodies that provide and fund their protection and benefits.",
+  "statedReasons": "A short explanatory note is printed, but the scan is too unclear to summarise it reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 13,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

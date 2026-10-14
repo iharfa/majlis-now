@@ -1,0 +1,22 @@
+{
+  "workId": "1555",
+  "titleDv": "ޤާނޫނު ނަންބަރު 13/2008 (އެންޓި-ކޮރަޕްޝަން ކޮމިޝަނުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Anti-Corruption Commission Act (Act No. 13/2008). It replaces Article 7, which is about how the Commission's president and vice-president are appointed, with a new three-part version. It also deletes sub-articles (c) and (d) of Article 10 and sub-article (c) of Article 11, and replaces sub-article (c) of Article 15. A short transitional clause covers how the changes apply to people already in office. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "If passed, the rules for who leads the Anti-Corruption Commission, and how those posts are filled, would change for future appointments.",
+  "keyProvisions": [
+    "Clause 1 replaces Article 7 (the article on appointing the Commission's president and vice-president) with new sub-articles (a), (b) and (c). The exact wording could not be read reliably.",
+    "Clause 2 deletes sub-articles (c) and (d) of Article 10.",
+    "Clause 3 deletes sub-article (c) of Article 11.",
+    "Clause 4 replaces sub-article (c) of Article 15 with a new text.",
+    "Clause 5 is a transitional provision on how the new Article 7 applies to people already holding the posts.",
+    "Clause 6 says when the law takes effect, which appears to be on ratification. A table at the end of the bill sets the old and new wording of each article side by side."
+  ],
+  "whoIsAffected": "The Anti-Corruption Commission's president, vice-president and members, and the people who appoint or approve them.",
+  "statedReasons": "The explanatory note says the bill is submitted to amend the Anti-Corruption Commission Act (No. 13/2008). The scan is too hard to read for the full reasons.",
+  "sourceDoc": "Bill",
+  "pagesRead": 8,
+  "pagesTotal": 8,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

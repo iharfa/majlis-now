@@ -28,7 +28,7 @@ MYSLUGS = {slug(c) for c in roster_constituencies()}
 SPEAKER_SLUG = slug(speaker_constituency() or "")
 ALIAS = {"vilufushi": "vilifushi", "gamu": "gan", "addumeedhoo": "addu-meedhoo",
          "fares-maathoda": "faresmaathodaa", "faresmaathoda": "faresmaathodaa",
-         "villimale": "vilimale", "lhavandhoo": "ihavandhoo"}
+         "villimale": "vilimale", "lhavandhoo": "ihavandhoo", "havandhoo": "ihavandhoo", "han-imaadhoo": "hanimaadhoo"}
 DIRS = {"uthuru": "North", "dhekunu": "South", "medhu": "Central", "hulhangu": "West"}
 CHOICE = {"Yes": "Yes", "No": "No", "Abstain": "Abstain",
           "Not Present": "Absent", "Not Voted": "Absent", "No voting right": "Absent"}
@@ -53,6 +53,7 @@ def theme_of(title):
 
 
 def norm_con(con):
+    con = con.replace("é", "e")  # OCR keeps the accent in "Hulhumalé"
     con = re.sub(r"(Uthuru|Dhekunu|Medhu|Hulhangu)", r" \1 ", con)
     con = re.sub(r"^l(havandhoo|sdhoo|nguraidhoo)", r"I\1", con, flags=re.I)
     toks = con.replace("'", "").split()

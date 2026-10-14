@@ -1,0 +1,21 @@
+{
+  "workId": "1670",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ސިވިލް އެވިއޭޝަން ޤާނޫނުގެ ބިލު",
+  "summary": "This is a full new Civil Aviation law for the Maldives, not an amendment. The scans read are the cover, the explanatory note, the table of contents and the first four articles of a 129-page bill. The table of contents lists 106 articles grouped into 13 parts. The explanatory note mentions Act No. 2/2001 on civil aviation, which this bill appears to replace. Articles 1 to 4 cover the short title and start date, the purpose, where the law applies and a fourth opening article. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 129 pages.",
+  "whyItMatters": "If passed it would become the main law for civil aviation in the Maldives, which matters to airlines, airports, aviation workers and travellers, but most of its rules are in pages not read here.",
+  "keyProvisions": [
+    "The bill has 106 articles in 13 parts. Part 1 is the introduction (Articles 1 to 4), and Part 13 (Articles 102 to 106) is the closing part.",
+    "Article 1 gives the short title and start date. Article 2 sets out the purpose in a list of lettered points, and Article 3 covers where the law applies.",
+    "Article 4 sets responsibilities, though the scan is too unclear to say whose.",
+    "Article 9 is headed with '83 bis', which is the name of a provision in the international Chicago aviation convention.",
+    "The later parts, which were not read, run from Article 11 to Article 106 and take up most of the bill."
+  ],
+  "whoIsAffected": "Probably airlines, airports, aviation staff and regulators, though only the opening pages were read.",
+  "statedReasons": "The explanatory note mentions Act No. 2/2001, but the scan is too unclear to state the reasons reliably.",
+  "pagesRead": 12,
+  "pagesTotal": 129,
+  "confidence": "Low",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

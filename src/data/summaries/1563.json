@@ -1,0 +1,21 @@
+{
+  "workId": "1563",
+  "titleDv": "ޤާނޫނު ނަންބަރު 9/2014 (ދިވެހިރާއްޖޭގެ ޤާނޫނުލްޢުޤޫބާތު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Penal Code (Law No. 9/2014). It changes one article only, Article 515, by replacing its text with a new version that has several numbered and lettered paragraphs. It also says how the new paragraphs sort certain acts into a Class 2 or Class 3 offence. The bill is short: two clauses, followed by a side-by-side table of the old and new wording. The scans are hard to read, so what exactly Article 515 covers is uncertain.",
+  "whyItMatters": "It would change the wording and the grading of one offence in the Penal Code, which could change how seriously that offence is charged and punished. Because the scans are hard to read, the exact effect on ordinary people cannot be stated with confidence.",
+  "keyProvisions": [
+    "Clause 1 replaces Article 515 of the Penal Code with new text, set out as paragraph (a) with points (1) to (3) and further paragraphs (b), (c) and (d).",
+    "The new text describes acts that count as an offence, with sub-points under paragraph (a). The wording is too hard to read reliably to say what they are.",
+    "Some paragraphs say that an act falls under a Class 2 offence, and others a Class 3 offence, so the new Article 515 would grade offences by seriousness.",
+    "The table at the end of the bill sets the current Article 515 beside the proposed Article 515, so readers can compare the two versions.",
+    "Clause 2 says the law takes effect once it is ratified by the President and published in the Gazette."
+  ],
+  "whoIsAffected": "People who could be accused under Article 515 of the Penal Code, and the police, prosecutors and courts that apply it.",
+  "statedReasons": "The explanatory note says the bill is meant to amend Article 515 of the Penal Code. The reasons for the change are not clear in the scan.",
+  "sourceDoc": "Bill",
+  "pagesRead": 9,
+  "pagesTotal": 9,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

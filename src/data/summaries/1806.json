@@ -1,0 +1,21 @@
+{
+  "workId": "1806",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ... ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Decentralization Act (Act No. 7/2010), the law that sets up how island, atoll and city councils work. It is a long list of changes, rewriting some articles, adding new ones and removing some paragraphs. The parts read cover council size, council elections, and how council posts are filled. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 57 pages.",
+  "whyItMatters": "If passed as written, the rules for who sits on local councils and how they are chosen and run could change for every island, atoll and city council.",
+  "keyProvisions": [
+    "Clauses 1 to 3 replace paragraphs in Articles 1 and 3 of the Act.",
+    "Clauses 5 to 7 rewrite three paragraphs of Article 22.",
+    "Clause 8 replaces Article 24 on the number of council members: a figure of 2,000 splits councils into 3-member and 5-member ones, and the article also sets seat counts of 1 and 2 tied to Article 56-5. The scan does not let me confirm what those seats are for.",
+    "Clauses 10 and 11 remove paragraphs from Article 51, and clauses 12 to 14 rewrite and add to Article 56-6.",
+    "Clauses 15 to 27 change Articles 58, 59, 62, 65, 66, 68, 69 and 79, and add new Articles 58-1 and 61-2, which include a 72-hour time limit."
+  ],
+  "whoIsAffected": "Local councillors, people who stand for council seats, and residents of islands, atolls and cities served by councils.",
+  "statedReasons": "The bill has an explanatory note referring to Act No. 7/2010, but it is too hard to read to summarise reliably.",
+  "pagesRead": 12,
+  "pagesTotal": 57,
+  "confidence": "Low",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

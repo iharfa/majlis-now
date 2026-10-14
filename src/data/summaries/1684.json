@@ -1,0 +1,21 @@
+{
+  "workId": "1684",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/2012 (ދިވެހިރާއްޖޭގެ ސިވިލް އެވިއޭޝަން އޮތޯރިޓީގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Maldives Civil Aviation Authority Act (Act No. 2/2012). It has seven amending clauses plus a commencement clause, and it touches Articles 5, 8, 12, 23, 25, 30 and 49 of the Act. Two of the changes take text out (part of Article 5 and all of Article 8), and the others rewrite or add to the remaining articles. A comparison table at the back sets the old and new wording side by side. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "It changes the rules that govern the Civil Aviation Authority, the body that regulates air travel in the Maldives, but the scans are too unclear to say exactly who gains or loses powers.",
+  "keyProvisions": [
+    "Clause 1 removes a paragraph of Article 5, and clause 2 removes Article 8 altogether.",
+    "Clause 3 replaces paragraph (a) of Article 12. The new text includes a figure of 5%, but the surrounding words could not be read reliably.",
+    "Clause 4 amends paragraph (d) of Article 23. The comparison table suggests a number in the paragraph changes from 3 to 5.",
+    "Clause 5 changes Article 25, and clause 6 replaces Article 30 with new text that mentions a period of 2 years and refers to Law No. 29/2016 and Law No. 71/78.",
+    "Clause 7 replaces Article 49 with new text. Clause 8 says the amendment takes effect once the President ratifies it and it is published in the Government Gazette."
+  ],
+  "whoIsAffected": "The Civil Aviation Authority, and probably airlines, airports and others it regulates, though the scans do not make this certain.",
+  "statedReasons": "The explanatory note refers to Act No. 2/2001 on civil aviation and links the amendment to it, but the scan is too unclear to state the reasons reliably.",
+  "pagesRead": 9,
+  "pagesTotal": 9,
+  "confidence": "Low",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

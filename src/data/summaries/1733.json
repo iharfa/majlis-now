@@ -1,0 +1,22 @@
+{
+  "workId": "1733",
+  "titleDv": "ޒަކާތުގެ ބިލު",
+  "summary": "This bill would create a law on zakat, the Islamic obligation to give a share of wealth to those in need. It sets out the purposes of the law and creates a nine-member board to run it, with articles on how members are chosen, how long they serve, how they can be removed, how the board meets and what it is responsible for. The rest of the bill (54 articles in seven chapters) covers the later chapters, which were not rendered. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 42 pages.",
+  "whyItMatters": "If passed, zakat in the Maldives would be handled under a specific law and an official board rather than informally, which affects people who pay zakat and those who receive it.",
+  "keyProvisions": [
+    "Articles 1 to 4 give the short title, the purposes of the law (linked to collecting and distributing zakat in line with Islamic Shari'ah), how it relates to other law, and a list of its chapters.",
+    "Article 5 sets up the board that will carry out the law, and Article 6 sets out its responsibilities.",
+    "Article 7 sets a board of nine members, including a chair and deputy chair, with seats allotted to named institutions and one member each in several categories, and mentions a 60-day period for appointments.",
+    "Article 8 covers the length of members' terms (a five-year term is mentioned) and Article 9 covers resignation and removal of members.",
+    "Article 10 covers how the board holds meetings and takes decisions, and Article 11 lists the board's responsibilities.",
+    "The table of contents shows later chapters spanning articles 12 to 54, which were not read."
+  ],
+  "whoIsAffected": "People and businesses who owe zakat, people who qualify to receive it, and the institutions named on the new board.",
+  "statedReasons": "The explanatory note could not be read reliably; it appears to say zakat needs a legal framework so it can be collected and distributed in line with Islamic Shari'ah.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 42,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

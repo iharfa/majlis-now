@@ -1,0 +1,21 @@
+{
+  "workId": "1727",
+  "titleDv": "ޤާނޫނު ނަންބަރު 9/2014 (ދިވެހިރާއްޖޭގެ ޤާނޫނުލްޢުޤޫބާތު) އަށް .. ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Penal Code (Act No. 9/2014) in one area: Article 121. It changes a list in Article 121 by adding a seventh item to the six that exist now. It also adds a new Article 121-1 made up of two lettered sub-articles, a numbered list of four points, and a grading clause that makes one case a grade 4 offence and another a grade 1 offence. The new article also refers to another law, Act No. 5/2009. The scans are hard to read, so the exact subject of the offence is uncertain.",
+  "whyItMatters": "If it becomes law, a new rule with its own offence grading could apply under Article 121 of the Penal Code, which could expose people to criminal liability.",
+  "keyProvisions": [
+    "Clause 1 amends Article 121 so that its list of six items becomes a list of seven, with a new item (7) added.",
+    "Clause 2 adds a new Article 121-1 with a side heading and two lettered sub-articles, (a) and (b).",
+    "Sub-article 121-1(b) contains a numbered list of four points, and the first point refers to Act No. 5/2009.",
+    "A further sub-article of 121-1 grades the offence, with item (1) a grade 4 offence and item (2) a grade 1 offence.",
+    "Clause 3 sets when the amendment takes effect, apparently on ratification and publication in the gazette."
+  ],
+  "whoIsAffected": "People who could be charged under Article 121 of the Penal Code, though the scans do not make clear who exactly this covers.",
+  "statedReasons": "The explanatory note names Article 121 of the Penal Code and Act No. 5/2009. The rest of the note is too hard to read to give a reliable summary.",
+  "sourceDoc": "Bill",
+  "pagesRead": 5,
+  "pagesTotal": 5,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

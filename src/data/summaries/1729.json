@@ -1,0 +1,22 @@
+{
+  "workId": "1729",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2021 (ޤައުމީ ޕޭމަންޓް ސިސްޓަމްގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the National Payment System Act (Act No. 8/2021). It makes three changes to the law: it rewrites Article 15, it rewrites Article 50(a), and it adds a new Article 50-1. The new Article 50-1 sets out several sub-articles that refer back to Article 18 and include a money amount, with figures of MVR 100,000 and MVR 10,000,000 printed. The scans are hard to read, so some details are uncertain, including exactly who the new rules apply to.",
+  "whyItMatters": "If it becomes law, businesses that run or take part in payment systems could face new or changed rules and money penalties under the Act.",
+  "keyProvisions": [
+    "Replaces Article 15 with a new text made up of two sub-articles, one of them a list of four numbered points. The details could not be read reliably.",
+    "Replaces Article 50(a), which refers to Article 18(a) and Article 18(c)-(d). The wording could not be read reliably.",
+    "Adds a new Article 50-1 after Article 50. It has several lettered sub-articles that refer back to Article 18 and to Article 50.",
+    "One sub-article of the new Article 50-1 sets an amount between MVR 100,000 and MVR 10,000,000. The scan suggests this is a fine range, but this is not certain.",
+    "Another sub-article of Article 50-1 introduces a defined term in quotation marks, whose meaning could not be read.",
+    "Clause 4 sets when the amendment takes effect, apparently after ratification and publication in the gazette."
+  ],
+  "whoIsAffected": "Probably companies and people who operate or take part in payment systems in the Maldives, though the scans do not make this fully clear.",
+  "statedReasons": "The explanatory note names the National Payment System Act and says the bill is submitted to amend it. The rest of the note could not be read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 9,
+  "pagesTotal": 9,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

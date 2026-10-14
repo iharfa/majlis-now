@@ -1,0 +1,20 @@
+{
+  "workId": "1525",
+  "titleDv": "ޤާނޫނު ނަންބަރު 12/2016 (ޖިނާއީ އިޖުރާއަތުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This is a short bill amending the Criminal Procedure Act (No. 12/2016). It changes only Article 73(a). The new text refers to Article 72, and it is followed by two numbered sub-points. A table on page 4 sets the old and new wording side by side. The scans are hard to read, so what the article actually requires is uncertain.",
+  "whyItMatters": "It changes one rule in the criminal procedure law, but I could not read the new wording well enough to say what changes in practice for people or institutions.",
+  "keyProvisions": [
+    "Clause 1 replaces Article 73(a) of the Criminal Procedure Act with new text that refers to Article 72.",
+    "The new Article 73(a) is followed by two numbered sub-points, 1 and 2. The second refers back to 73(a)(1). Their content could not be read reliably.",
+    "Page 4 is a comparison table of the current and amended Article 73(a); only Article 73 is shown.",
+    "Clause 2 appears to say the amendment takes effect on the date it is ratified."
+  ],
+  "whoIsAffected": "Probably people involved in criminal cases and the bodies that apply the Criminal Procedure Act, but the pages could not be read well enough to be sure.",
+  "statedReasons": "A short explanatory note is printed on page 2. It could not be read reliably, so its stated reasons are not given here.",
+  "sourceDoc": "Bill",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

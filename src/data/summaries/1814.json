@@ -1,0 +1,21 @@
+{
+  "workId": "1814",
+  "titleDv": "ބިންމަތީ ދަތުރުފަތުރުގެ ބިލު",
+  "summary": "This is a new, long bill that would set up a full law for land transport in the Maldives, to be called the Land Transport Act. It is organised in nine chapters and 127 articles over about 135 pages. From the contents list and the explanatory note, it covers rules for land transport vehicles and the people who use them, vehicle registration, driving licences, and the enforcement side of the law. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 151 pages, which are the cover, the explanatory note, the contents list and Articles 1 to 5.",
+  "whyItMatters": "If it passes, one law would govern how vehicles are registered and who may drive them, which would touch everyday drivers and vehicle owners.",
+  "keyProvisions": [
+    "Article 1 gives the short title, the Land Transport Act, and says the law starts once it is ratified and published.",
+    "Article 2 lists the purposes of the law. They follow the main topics of the bill: regulating land transport vehicles and the people who use them, and the registration and licensing systems.",
+    "Article 3 says which body or bodies carry out the law and sets out related roles and definitions. The details could not be read reliably.",
+    "Chapter 2 (Articles 4 to 9) deals with how the law is administered. Article 4 and Article 5 name the responsible authority and set out its work.",
+    "The contents list shows later chapters on driving licences (Articles 28 to 34), vehicle use and registration (Articles 35 to 76), and further chapters up to Article 127. These were not read."
+  ],
+  "whoIsAffected": "Vehicle owners, drivers, people applying for driving licences, and the government bodies that register vehicles and issue licences.",
+  "statedReasons": "The explanatory note says the bill sets out rules for land transport vehicles and the people who use them, and lists the main areas the law covers.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 151,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

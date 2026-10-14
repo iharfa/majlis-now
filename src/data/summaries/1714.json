@@ -1,0 +1,22 @@
+{
+  "workId": "1714",
+  "titleDv": "ދިވެހިރާއްޖޭގެ އިންޓެލެކްޗުއަލް ޕްރޮޕަރޓީ އޮފީހުގެ ބިލު",
+  "summary": "This bill would set up the Maldives Intellectual Property Office as a government body (Article 4) and say what it does (Article 5). The office would be headed by a Registrar General (Article 6), and the bill sets rules for how that person is appointed, what qualifications are needed, how long they serve, and how they can resign or be removed (Articles 7 to 12). The bill has 34 articles in five parts: introduction, the office, the intellectual property registers, fees, and general provisions. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 24 pages.",
+  "whyItMatters": "People and businesses that register patents, trademarks or other intellectual property would deal with one named office run by a Registrar General, with set rules for who can hold that job.",
+  "keyProvisions": [
+    "Article 4 sets up the Maldives Intellectual Property Office and Article 5 lists its functions in a series of points.",
+    "Article 6 makes a Registrar General the head of the office, and Article 7 sets how the Registrar General is appointed, with a 30-day time limit mentioned in Article 7.",
+    "Article 8 lists the qualifications a Registrar General must meet, and Article 9 covers the length of the term, with a period of 5 years mentioned.",
+    "Articles 10 to 12 cover how a Registrar General can leave the job, including a list of grounds for termination in Article 10, then resignation and dismissal.",
+    "Articles 13 to 16 cover the Registrar General's powers and duties; this part was only partly readable.",
+    "Later parts, which were not rendered, deal with the registers of intellectual property (Articles 21 to 24), fees (Articles 25 to 30) and general provisions (Articles 31 to 34)."
+  ],
+  "whoIsAffected": "Anyone who applies for or holds intellectual property registrations in the Maldives, and the staff of the new office.",
+  "statedReasons": "The explanatory note says the bill is meant to set up an office to register and manage intellectual property rights. The scan of the note is hard to read, so the wording is approximate.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 24,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

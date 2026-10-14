@@ -1,0 +1,22 @@
+{
+  "workId": "1697",
+  "titleDv": "ޤާނޫނު ނަންބަރު 4/2012 (ތެލެސީމިއާ ކޮންޓްރޯލްކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Thalassemia Control Act (Law No. 4/2012). It makes the head of the national thalassemia centre a Director General: a civil service post filled by the Civil Service Commission on the health minister's advice, for a 5-year term, with set qualifications and a list of duties. It widens the counselling the centre provides to the whole community, not only people found to be thalassemia carriers. It adds a new article on marriage: if pre-marriage tests show both partners are thalassemia carriers, the marriage can only go ahead after meeting conditions set in regulations. Some words in the scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "Couples where both partners are thalassemia carriers would face extra conditions, to be set in regulations, before they can marry. The thalassemia centre would get a Director General with fixed qualifications and a fixed term.",
+  "keyProvisions": [
+    "Article 6 is amended so the head of the thalassemia centre is a Director General, who works under the minister's advice and is accountable to the minister. The post is a Maldives civil service post, and the Civil Service Commission appoints to it on the minister's advice.",
+    "A Director General must hold a medicine qualification at level 8 or 9 of the national qualifications framework. They also need at least 10 years' experience in the health sector, including at least 4 years in management. The term is 5 years, and they may not hold another job that conflicts with the post. The minister must provide the staff and resources the post needs.",
+    "A new Article 6-1 lists the Director General's duties. These include running the centre's services, preparing strategic and operational plans, working with international partners on thalassemia control, keeping data and reports, and running programmes on the thalassemia situation in the Maldives.",
+    "Article 10(b)(3) is rewritten so the centre provides counselling to the general public, and especially to people identified as thalassemia carriers, including counselling programmes and family-planning advice.",
+    "A new Article 11-1 covers marriage. Couples who want to marry in the Maldives are tested for thalassemia first. If both partners are found to be carriers, the marriage can only proceed after meeting conditions set in regulations made under the Act.",
+    "Regulations needed for these changes must be made and published in the Government Gazette within 30 days of the amendment taking effect. The amendment takes effect once it is ratified and published in the Gazette."
+  ],
+  "whoIsAffected": "Couples planning to marry, especially where both partners are thalassemia carriers, and the national thalassemia centre and its staff.",
+  "statedReasons": "The government says it wants to set the qualifications and duties of the thalassemia centre's Director General in law and set rules for marriages between people found to be thalassemia carriers.",
+  "sourceDoc": "Bill",
+  "pagesRead": 10,
+  "pagesTotal": 10,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

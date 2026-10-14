@@ -1,0 +1,21 @@
+{
+  "workId": "1535",
+  "titleDv": "ޤާނޫނު ނަންބަރު 10/2011 (މުދަލާއި ޚިދުމަތުގެ އަގުން ޓެކްސް ނެގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Goods and Services Tax Act (Law No. 10/2011). It changes one GST rate set in Article 15(a). The current 16% rate in paragraph (5), which runs from 1 January 2023, would be given an end date in 2025. A new paragraph (6) would set the rate at 17% from a date in 2025 (the month is hard to read on the scan). The Majlis debate record describes this as the tourism GST.",
+  "whyItMatters": "The affected GST rate would go up by one percentage point, from 16% to 17%, so goods and services taxed at that rate would cost slightly more from 2025.",
+  "keyProvisions": [
+    "Clause 1 replaces Article 15(a)(5) so that the 16% rate applies from 1 January 2023 only up to a fixed date in 2025 (the printed day is 31, month hard to read).",
+    "Clause 2 adds a new Article 15(a)(6): 17% from a date in 2025 onward (month hard to read).",
+    "Clause 3 deals with when the Act takes effect, after ratification and publication in the Government Gazette. A 30-day period is mentioned, but its exact effect could not be read reliably.",
+    "Clause 4 is a short interpretation clause saying what 'the Act' means in this bill.",
+    "The financial note says the bill lists estimated extra income of MVR 201.9 million in 2025, MVR 330.8 million in 2026 and MVR 538.4 million in 2027."
+  ],
+  "whoIsAffected": "Businesses charging this GST rate and the people who buy from them.",
+  "statedReasons": "The explanatory note is too hard to read in full. The financial note estimates extra income of MVR 201.9 million in 2025.",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14",
+  "pagesRead": 7,
+  "pagesTotal": 7,
+  "confidence": "Medium"
+}

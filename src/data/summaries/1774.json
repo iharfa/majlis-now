@@ -1,0 +1,21 @@
+{
+  "titleDv": "އިންސާނީ ޖިސްމުގެ ޢުޟުވުތައް ބަދަލުކުރުމުގެ ބިލު",
+  "summary": "This is a new bill to regulate human organ transplants in the Maldives. It has 78 articles split into about eleven chapters. The first chapter covers the name, purpose and how it relates to other laws, and the second sets up the rules and body for approving transplants. Article 7 lists conditions a donor must meet, including being an adult aged at least 18. The scans are hard to read, so many details are uncertain. This summary covers the first 12 of 61 pages.",
+  "whyItMatters": "It would put organ donation and transplant under one law with set conditions for donors. The details could not be read reliably.",
+  "keyProvisions": [
+    "Articles 1 to 3 set the short title, purpose and how the law relates to other laws.",
+    "Articles 4 to 6 deal with the body and procedures for approving transplants; the table of contents shows articles 4 to 11 cover this chapter.",
+    "Article 7(b) sets conditions for a donor, including that the person is at least 18 years old.",
+    "Articles 8 and 9 deal with donation and who can take part; the exact rules could not be read.",
+    "The table of contents lists further chapters on articles 12 to 78, which were not rendered, so their content is not summarised here."
+  ],
+  "whoIsAffected": "Patients who need organs, people who may donate, hospitals and doctors, and regulators.",
+  "statedReasons": "The explanatory note says the bill sets out a legal framework for organ transplant and its conditions. The scan was hard to read, so this is approximate.",
+  "pagesRead": 12,
+  "pagesTotal": 61,
+  "confidence": "Low",
+  "workId": "1774",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "workId": "1583",
+  "titleDv": "ފޮރިން ކަރަންސީ ބިލު",
+  "summary": "This is a new Foreign Currency Bill. It sets rules for when foreign currency can be used and dealt in inside the Maldives, and who may buy and sell it. The bill is split into chapters: general provisions, use of foreign currency in the country, foreign currency itself, dealing in foreign currency, licensing, enforcement and miscellaneous rules. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 25 pages.",
+  "whyItMatters": "Shops, tourism businesses, money changers and banks would have to follow set rules on how foreign currency is used and traded, and would need a licence to deal in it.",
+  "keyProvisions": [
+    "Article 1 gives the short title and Article 2 states the purposes of the bill in a list of aims (a) to (e).",
+    "Article 3 says which provisions apply to foreign currency used inside the Maldives, and Article 4 lists the activities in which foreign currency is allowed to be used,. Article 5 sets conditions on this use.",
+    "Article 6 deals with foreign currency generally, and Article 7 says that dealing in foreign currency is allowed only for a licensed dealer. Article 7 also sets time limits on applications, including a 28 day period, and a MVR 15,000,000 figure.",
+    "Article 9 sets licence categories, called Category A and Category B forex establishments, by reference to an existing law (No. 2/99), and repeats a MVR 15,000,000 figure.",
+    "Article 10 sets numeric thresholds and a 20% figure for the two licence categories; the exact amounts are hard to read in the scan.",
+    "The remaining chapters (pages 13 to 25) were not rendered."
+  ],
+  "whoIsAffected": "Businesses that take or hold foreign currency, banks and money changers, and anyone who buys or sells foreign currency in the Maldives.",
+  "statedReasons": "The explanatory note says the bill is to set rules for foreign currency in the Maldives and for the licensing of those who deal in it. The scan is too hard to read to quote more.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 25,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

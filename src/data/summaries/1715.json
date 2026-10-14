@@ -1,0 +1,19 @@
+{
+  "workId": "1715",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޤާނޫނުއަސާސީއަށް ... ވަނަ އިސްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Constitution of the Maldives. Its first article adds a new clause to Article 73 of the Constitution. The new clause is made up of five numbered points that appear to deal with members of the People's Majlis in connection with political parties. A second article says when the amendment takes effect. The handwriting-style scans are hard to read, so what each point requires is uncertain.",
+  "whyItMatters": "Article 73 is part of the Constitution's rules on People's Majlis members, so a change to it would be a change to the constitution itself, though the exact effect could not be confirmed.",
+  "keyProvisions": [
+    "Article 1 of the bill adds a new clause to Article 73 of the Constitution, placed after an existing clause of that Article.",
+    "The new clause is a list of five numbered points. They appear to refer to political parties and to members of the People's Majlis, but the wording could not be read reliably.",
+    "Article 2 of the bill appears to say the amendment takes effect once it is ratified and published in the Government Gazette."
+  ],
+  "whoIsAffected": "Members of the People's Majlis and the political parties they belong to, though this is uncertain.",
+  "statedReasons": "A short explanatory note of two lines is printed on page 2, but it could not be read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

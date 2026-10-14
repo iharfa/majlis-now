@@ -1,0 +1,21 @@
+{
+  "workId": "1822",
+  "titleDv": "ޤާނޫނު ނަންބަރު 30/2024 (ދައުލަތުގެ ފިސްކަލް ޒިންމާދާރުކަމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Fiscal Responsibility Act (Act No. 30/2024). It changes two deadlines in the Act from 6 months to 24 months after the Act took effect: the one in Article 39(a), which refers to Articles 7 and 11, and the one in Article 41. It also deletes Article 39(s), which contained an 18-month period, and adds new paragraphs to Article 39 that refer back to the time set in paragraph (a) and to Article 12. The bill comes with a table setting the current text beside the amended text. Some scans are hard to read, so what Articles 7, 11 and 12 cover could not be confirmed.",
+  "whyItMatters": "The time allowed for the work the Fiscal Responsibility Act requires would become four times longer, so those requirements would be met later than the Act now says.",
+  "keyProvisions": [
+    "Clause 1 replaces Article 39(a). The comparison table shows the period changing from 6 (six) months to 24 (twenty-four) months from when the Act took effect.",
+    "Clause 2 deletes Article 39(s). The current text of that paragraph contains an 18 (eighteen) month period.",
+    "Clause 3 adds new paragraphs to Article 39. They refer to the period in paragraph (a) and to Article 12; their exact effect could not be read reliably.",
+    "Clause 4 replaces Article 41, again changing the period from 6 (six) months to 24 (twenty-four) months after the Act took effect.",
+    "Clause 5 says the amendment takes effect when the President ratifies it."
+  ],
+  "whoIsAffected": "The Ministry of Finance and other government bodies that must meet the Act's deadlines, and anyone relying on the fiscal rules the Act sets.",
+  "statedReasons": "The short explanatory note appears to say the bill changes time limits set in the Fiscal Responsibility Act, but the scan is hard to read.",
+  "sourceDoc": "Bill",
+  "pagesRead": 6,
+  "pagesTotal": 6,
+  "confidence": "Medium",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

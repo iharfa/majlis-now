@@ -1,0 +1,21 @@
+{
+  "workId": "1508",
+  "titleDv": "އިންޝުއަރެންސްގެ ބިލު",
+  "summary": "This is a full new bill, not an amendment. It would create an Insurance Act to set rules for insurance business in the Maldives. The contents pages list 87 articles in 13 chapters, running from general provisions (Articles 1 to 3) through chapters on the insurance regulator and on running insurance businesses, to closing articles. The scans are hard to read, so most details are uncertain. This summary covers the first 12 of 96 pages: the contents and Articles 1 to 5.",
+  "whyItMatters": "If the bill takes effect, it would set the legal rules for how insurance is sold and supervised in the Maldives, which matters to anyone who buys or claims on insurance. The specific rights and duties are in later pages that were not read.",
+  "keyProvisions": [
+    "Article 1 says the law may be cited as the Insurance Act (printed in 1(b)) and describes it as a law on insurance business. The rest of the wording is unclear in the scan.",
+    "Article 2 lists the purposes of the Act in several lettered paragraphs. They could not be read reliably.",
+    "Article 3 deals with carrying out the Act. The scan does not make clear which body is named.",
+    "Chapter 2 (Articles 4 and 5) appears to deal with the insurance regulator and its role and powers. Article 5 has paragraphs that cover what the regulator may do, but the details are unclear.",
+    "The contents list the remaining chapters (Articles 6 to 87), including a long final run of closing provisions at Articles 85 to 87. Their text was not read."
+  ],
+  "whoIsAffected": "Insurance companies and others who run insurance businesses, the regulator, and people who buy insurance.",
+  "statedReasons": "The explanatory note is one short paragraph saying why the government is bringing the bill, in connection with insurance business in the Maldives. The scan is too hard to read to quote its reasons reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 96,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

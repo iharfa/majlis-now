@@ -1,0 +1,20 @@
+{
+  "workId": "1722",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޤާނޫނުއަސާސީ އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Constitution. It changes Article 71 and Article 72, which deal with how the People's Majlis is made up. The new Article 71 text appears to set how many members a constituency elects, in five size bands, from 1 member up to 5 members. The new Article 72 text adds two clauses that mention a figure of 10 and a figure of 1. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "If it passed, how many MPs a constituency elects could depend on the size of that constituency, which would change how much weight different places have in the Majlis.",
+  "keyProvisions": [
+    "Adds a new clause to Article 71 that lists five size bands, from 6,000-12,000 up to 36,000 and above. The bands appear to run from 1 member up to 5 members. The scan does not clearly show whether the bands count residents or voters.",
+    "The bands as printed are: 6,000 to 12,000 gives 1 member, 12,000 to 18,000 gives 2, 18,000 to 24,000 gives 3, 24,000 to 36,000 gives 4, and above 36,000 gives 5.",
+    "Amends Article 72 by adding two clauses. The printed text mentions 10 and 1, but the wording is too faint to say what they set.",
+    "Clause 3 says the amendment takes effect once it is ratified and published in the Gazette."
+  ],
+  "whoIsAffected": "Voters and candidates in Majlis constituencies, and the Elections Commission, which would have to apply the new numbers.",
+  "statedReasons": "The short explanatory note says the bill amends the Constitution's articles on the People's Majlis; the full wording of the reasons could not be read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

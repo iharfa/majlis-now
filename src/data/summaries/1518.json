@@ -1,0 +1,20 @@
+{
+  "workId": "1518",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/2006 (ދިވެހިރާއްޖޭގެ ސެކިއުރިޓީޒް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Securities Act (Law no. 2/2006) so that it links to the Business Registration Act (Law no. 18/2014). It rewrites parts of Article 10 and Article 41, adds a new Article 41-1 and adds a new item to a list in Article 63. The new text of Article 10 and the new Article 41-1 both name the Business Registration Act. It would take effect three months after it is ratified and published. The scans are hard to read, so the exact rules are uncertain.",
+  "whyItMatters": "It changes how the securities law and the business-registration law fit together, which could affect businesses that deal in securities. The scans are too hard to read to say exactly how.",
+  "keyProvisions": [
+    "Article 1 replaces several sub-paragraphs of Article 10 and sets out a new text. A new paragraph cites the Business Registration Act (18/2014) by name, and its exact rule is hard to read.",
+    "Article 2 adds a new Article 41-1 after Article 41. It has a numbered list of three points (1) to (3) and further paragraphs that refer back to the Business Registration Act. The detail is hard to read.",
+    "Article 3 adds a new item (14) after item (13) in Article 63. The wording of the new item could not be read reliably.",
+    "Article 4 says the amendment takes effect three months after it is ratified and published."
+  ],
+  "whoIsAffected": "Businesses that are registered under the Business Registration Act and deal in securities, though the scans do not name them clearly.",
+  "statedReasons": "An explanatory note is printed and refers to the Business Registration Act (18/2014) and the Securities Act (2/2006). It is too hard to read to state its reasons reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 5,
+  "pagesTotal": 5,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

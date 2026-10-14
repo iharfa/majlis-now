@@ -1,0 +1,20 @@
+{
+  "workId": "1807",
+  "titleDv": "ޤާނޫނު ނަންބަރު 10/2010 (ލޯކަލް ކައުންސިލްތަކުގެ އިންތިޚާބުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Local Councils Elections Act (Law No. 10/2010). It changes the Act so that the number of members on local councils is handled in line with the Decentralisation Act (Law No. 7/2010), instead of being fixed in the Elections Act itself. It deletes Article 5, which in the current text sets council sizes by island population (the figure 3,000 appears, with councils of 3 or 5 members), and replaces Articles 6 and 7 with shorter wording that points to the Decentralisation Act. The bill is short and comes with a before-and-after table. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "If it passes, the size of an island or city council would be decided under the Decentralisation Act rather than the Elections Act, so a change in one law would flow through to local elections.",
+  "keyProvisions": [
+    "Clauses 1 and 2 amend the wording of Articles 1 and 2 of the Elections Act. The details of the new wording could not be read reliably.",
+    "Clause 3 deletes Article 5. The current Article 5 refers to Article 4 of the Decentralisation Act and sets the number of island council members by population, with 3,000 as the dividing figure and councils of 3 or 5 members.",
+    "Clause 4 replaces Article 6 and clause 5 replaces Article 7. The new text refers to the Decentralisation Act (Law No. 7/2010) for the number of members.",
+    "Clause 6 says the amendment takes effect when it is ratified by the President and published in the Government Gazette."
+  ],
+  "whoIsAffected": "Island and city councils, candidates for local councils, and the Elections Commission, which runs local council elections.",
+  "statedReasons": "The explanatory note says the bill amends the Local Councils Elections Act to bring it into line with the Decentralisation Act (Law No. 7/2010) on council membership.",
+  "sourceDoc": "Bill",
+  "pagesRead": 8,
+  "pagesTotal": 8,
+  "confidence": "Medium",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

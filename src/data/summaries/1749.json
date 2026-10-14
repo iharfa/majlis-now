@@ -1,0 +1,21 @@
+{
+  "workId": "1749",
+  "titleDv": "ގާނޫނު ނަންބަރު 5/2009 (ބިންގަޑު ދަތުރުފަތުރުގެ ގާނޫނު) އަށް .. ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Land Transport Act (Law No. 5/2009). It changes four articles (22, 63, 67 and 70) that deal with driving offences, penalties and driving licences. The clearest changes are to fines: a new MVR 25,000 fine is added to Article 22, and the fines in Article 67 rise from roughly MVR 1,000 to 2,000 to between MVR 10,000 and 50,000, with a separate MVR 5,000 fine. Article 63 gets new penalty wording that also refers to the Penal Code (Law 9/2014). The scans are hard to read, so the exact offences each change covers are uncertain.",
+  "whyItMatters": "If passed, some road and licence offences would carry much higher fines, and people could face licence consequences for them.",
+  "keyProvisions": [
+    "Article 22: a new clause (e) adds a fine of MVR 25,000 (twenty-five thousand rufiyaa) for the cases covered by the earlier clauses of that article.",
+    "Article 63: clause (a) is rewritten into a numbered list of five items, and a new clause refers to the Penal Code (Law 9/2014) and to suspension periods (3 to 6 months and 10 to 25 days appear in the text).",
+    "Article 67(h): the penalty table is replaced. The current text has fines of about MVR 1,000, 1,500 and 2,000; the proposed text sets a fine of MVR 10,000 to 50,000 and a separate fine of MVR 5,000. The first amount appears to apply to an under-18 driver, but this is uncertain.",
+    "Article 70(a) is reworded and an extra parenthetical phrase is added; the change could not be read reliably.",
+    "Pages 4 to 7 contain a side-by-side table of the current text and the proposed text for each change."
+  ],
+  "whoIsAffected": "Drivers and vehicle owners, and especially people accused of the offences covered by Articles 22, 63, 67 and 70.",
+  "statedReasons": "An explanatory note is printed on page 2, but the scan is too hard to read, so no reason is reported here.",
+  "sourceDoc": "Bill",
+  "pagesRead": 7,
+  "pagesTotal": 7,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

@@ -1,0 +1,21 @@
+{
+  "workId": "1664",
+  "titleDv": "ޤާނޫނު ނަންބަރު 15/2010 (ދުންފަތް ކޮންޓްރޯލްކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Tobacco Control Act (Law No. 15/2010). It rewrites Article 6 so that the rules on who tobacco can be sold to are tied to people born on or after 1 January 2007, with an age of 21 also appearing in the text. It adds a new Article 6-1 and changes Articles 7, 10, 10-2, 10-3 and 14. It also raises or restates the fines in Article 29 and adds new Articles 29-1 to 29-3 on breaches and what follows from them. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 22 pages.",
+  "whyItMatters": "If passed as drafted, shops and sellers could face fines for supplying tobacco to young people covered by the new age rule, and the rules would be backed by a longer list of offences.",
+  "keyProvisions": [
+    "Article 1 replaces Article 6(a) and adds new paragraphs (b) and (c). The text refers to people born on or after 1 January 2007 and to an age of 21 years.",
+    "Article 2 adds a new Article 6-1 headed with a title about the people covered by the restriction. Its exact wording could not be read reliably.",
+    "Article 3 replaces Article 7, which deals with how the restriction is applied by sellers. Articles 4 to 6 change Article 10 and add Articles 10-2 and 10-3, which set out duties and what is allowed or not allowed.",
+    "Article 9 changes Article 14(a). Article 10 changes Article 29(a)(1), where fine amounts of 1,000 and 1,000,000 rufiyaa are printed. Article 11 changes Article 29(a)(3).",
+    "Article 12 adds new Articles 29-1, 29-2 and 29-3 listing breaches and the consequences for each, including what happens to the tobacco products involved. The detail of each paragraph is uncertain."
+  ],
+  "whoIsAffected": "Tobacco sellers and shop owners, young people born in or after 2007, and the authorities who enforce the Tobacco Control Act.",
+  "statedReasons": "The explanatory note says the bill amends Article 6 and the related articles of the Tobacco Control Act, but the scan is too faint to give the reasons in more detail.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 22,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

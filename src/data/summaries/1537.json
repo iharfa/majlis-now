@@ -1,0 +1,22 @@
+{
+  "workId": "1537",
+  "titleDv": "ޤާނޫނު ނަންބަރު 29/2016 (ދިވެހިރާއްޖޭގެ އެއަރޕޯޓްތަކުން ދިވެހިރާއްޖެއިން ބޭރަށް ފުރާ ފަސިންޖަރުންގެ މައްޗަށް ޖެހޭ ޓެކްސް ފީ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Act on Taxes and Fees Collected from Passengers Departing the Maldives from an Airport (Law No. 29/2016). It raises the fixed per-passenger charges, in US dollars, by ticket class from 1 December 2024. The amounts are printed in the same table in Article 2-1(a) and again in Article 3. It also adds a new Article 8-1 and changes Article 13. The scans of these last parts are hard to read, so some details are uncertain.",
+  "whyItMatters": "Passengers flying out of the Maldives would pay more, especially in business class, first class and private flights, where the printed charges more than double.",
+  "keyProvisions": [
+    "Clause 1 replaces Article 2-1(a) with two tables: one for 1 January 2022 to 30 November 2024 and one for 1 December 2024 onward. Clause 2 repeals Article 2-1(b).",
+    "For economy class, one charge stays at 12 dollars and the other rises from 30 to 50 dollars from 1 December 2024.",
+    "Business class goes from 60 to 120 dollars on both charges, first class from 90 to 240, and private jets from 120 to 480 (row labels as best they can be read).",
+    "Clauses 3 and 4 amend Article 3(a)(2) and add Article 3(a)(3) with the same two tables.",
+    "Clause 5 adds Article 8-1, which appears to place duties on airlines or air operators about these charges. Clauses 6 and 7 change Article 13: one paragraph is replaced and another is repealed.",
+    "The financial note says the bill takes effect on 1 December 2024 and estimates extra income of MVR 1,572.3 million in 2025."
+  ],
+  "whoIsAffected": "Passengers leaving the Maldives by air, airlines and private-jet operators, and the government agencies that collect these charges.",
+  "statedReasons": "The explanatory note is too hard to read in full. The financial note estimates extra income of MVR 1,572.3 million in 2025.",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14",
+  "pagesRead": 12,
+  "pagesTotal": 14,
+  "confidence": "Medium"
+}

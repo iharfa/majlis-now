@@ -1,0 +1,22 @@
+{
+  "workId": "1571",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޤާނޫނުއަސާސީއަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Constitution of the Maldives. It changes five articles: Article 3, Article 73(c), Article 115(c), Article 251(c) and Article 262. Article 73(c) is rewritten as three numbered situations about members of the People's Majlis and their political party status, and the bill ends with a clause on when the amendment takes effect. The last three pages set the current wording beside the proposed wording for each article. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "Constitutional changes sit above ordinary laws, so any change to the Majlis membership rules in Article 73(c) would apply to every MP and voter.",
+  "keyProvisions": [
+    "Clause 1 amends Article 3, adding or replacing provisions in its paragraphs (printed as (a) and (b)).",
+    "Clause 2 replaces Article 73(c) with three numbered paragraphs about MPs. The wording appears to cover members elected for a political party and members elected without one, but this could not be read reliably.",
+    "Clause 3 replaces Article 115(c) with new wording.",
+    "Clause 4 replaces Article 251(c), the longest of the new passages.",
+    "Clause 5 amends Article 262, changing paragraph (a)(3) and adding to the text after paragraph (c).",
+    "Clause 6 is the closing clause on when the amendment comes into force. Pages 7 to 9 are a side-by-side table of current and proposed text for Articles 3, 115, 251 and the other changed provisions."
+  ],
+  "whoIsAffected": "Members of the People's Majlis, political parties, and voters, plus anyone affected by the other constitutional articles amended.",
+  "statedReasons": "",
+  "sourceDoc": "Bill",
+  "pagesRead": 9,
+  "pagesTotal": 9,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

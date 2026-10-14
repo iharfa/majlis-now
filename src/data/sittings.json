@@ -41,12 +41,13 @@
     "term": "2026 Third Term",
     "agendaNo": "އޖ/3/2/2026",
     "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/sJy5QHETWO5zEIt8agJ561uBGMGK7UXYPLztUFhn.pdf",
-    "minutesPdf": null,
+    "minutesPdf": "https://majlis.gov.mv/storage/sessions/minutes/ewQ5NYlUoepbj9C6z4ZfwRZxQEGr1M8AIuQh6gf5.pdf",
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1070",
     "fetchedAt": "2026-10-14",
-    "agendaFile": "tmp/docs/sitting-1070-agenda.pdf"
+    "agendaFile": "tmp/docs/sitting-1070-agenda.pdf",
+    "minutesFile": "tmp/docs/sitting-1070-minutes.pdf"
   },
   {
     "id": "1069",
@@ -55,12 +56,13 @@
     "term": "2026 Third Term",
     "agendaNo": "އޖ/2/3/2026",
     "agendaPdf": "https://majlis.gov.mv/storage/sessions/agenda/52rvGjCf6UXM60UPEqOAsmu3tMihdVZSqzZeZNZK.pdf",
-    "minutesPdf": null,
+    "minutesPdf": "https://majlis.gov.mv/storage/sessions/minutes/uDewKt0T5XKpPfmbIq1lJpVUJHS0TRAfSAPRHVg8.pdf",
     "pointOfOrderPdf": null,
     "workIds": [],
     "url": "https://majlis.gov.mv/en/20-parliament/sitting/session/1069",
     "fetchedAt": "2026-10-14",
-    "agendaFile": "tmp/docs/sitting-1069-agenda.pdf"
+    "agendaFile": "tmp/docs/sitting-1069-agenda.pdf",
+    "minutesFile": "tmp/docs/sitting-1069-minutes.pdf"
   },
   {
     "id": "1068",

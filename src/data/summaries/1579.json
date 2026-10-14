@@ -1,0 +1,22 @@
+{
+  "workId": "1579",
+  "titleDv": "ޤާނޫނު ނަންބަރު 17/2011 (މަސްތުވާތަކެތީގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Drug Act (Law No. 17/2011). It amends Article 2 and adds new Articles 3-1 to 3-4, which set up a way of sorting drugs into numbered schedules (Schedules 1 to 4) and listing or de-listing substances, including a temporary listing process with time limits. It then changes or adds definitions in Articles 5, 6, 7, 9 and 10, and adds new Articles 5-1, 10-1 and 10-2. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 145 pages.",
+  "whyItMatters": "What counts as a controlled drug, and so what is an offence, depends on these schedules, so changes here decide which substances people can be charged over.",
+  "keyProvisions": [
+    "Clause 1 amends Article 2 of the Act. The explanatory note in the bill lists seven bullet points on the reasons for the changes.",
+    "New Article 3-1 sets out when a substance can be treated as a drug, with several alternative conditions.",
+    "New Articles 3-2 and 3-3 define Schedules 1, 2, 3 and 4 and how substances are added to or moved between them.",
+    "New Article 3-4 covers temporary listing of a substance. Time limits of 14 days and 30 days appear in the process.",
+    "Clauses 3 to 9 insert or rewrite definitions in Articles 5 to 10, including new Articles 5-1, 10-1 and 10-2.",
+    "The offences and penalties that follow from these schedules are in later pages and were not rendered."
+  ],
+  "whoIsAffected": "People who use, carry, sell or prescribe drugs, health workers, and the police and courts who apply the Act.",
+  "statedReasons": "The explanatory note lists seven points on why the Drug Act is being amended, including how drugs are defined and sorted. The exact wording could not be read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 145,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

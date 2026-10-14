@@ -1,0 +1,21 @@
+{
+  "workId": "1505",
+  "titleDv": "ޤާނޫނު ނަންބަރު 10/2010 (ލޯކަލް ކައުންސިލްތަކުގެ އިންތިޚާބުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This short bill amends the Local Council Elections Act (Law 10/2010). It has three clauses: clause 1 replaces paragraph (c) of Article 9, clause 2 changes Article 26-1, and clause 3 says when the amendment takes effect. Both changes deal with how a vacant local council seat is handled, and they refer to Articles 15, 29 and 45 of the Decentralization Act (Law 7/2010), which a companion bill also amends. Time periods of 183 days and 120 days are printed in clause 2. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "It appears to change the timing rules for filling empty local council seats, which affects residents of islands and cities who are waiting on a by-election and the Elections Commission's schedule.",
+  "keyProvisions": [
+    "Clause 1 replaces paragraph (c) of Article 9. The new text refers to Article 26-1, but the full wording is not clear enough in the scan to state the rule.",
+    "Clause 2 amends Article 26-1 and adds references to Articles 15, 29 and 45 of the Decentralization Act (Law 7/2010), the same articles amended by the companion bill.",
+    "Clause 2 also adds a new paragraph that mentions 183 days and 120 days. The scan does not make clear how the two periods work together.",
+    "Clause 3 sets when the amendment takes effect. It appears to be on publication in the government gazette after ratification, but the wording is partly unclear.",
+    "A comparison table at the back sets the old and new text of Articles 9(c) and 26-1 side by side. It is printed sideways and could not be read reliably."
+  ],
+  "whoIsAffected": "Local council members, voters in councils with a vacant seat, and the Elections Commission.",
+  "statedReasons": "The note says the bill is brought so the Local Council Elections Act matches a separate bill amending the Decentralization Act (Law 7/2010), and it mentions periods of 183 and 120 days for council seats. The exact wording was hard to read.",
+  "sourceDoc": "Bill",
+  "pagesRead": 5,
+  "pagesTotal": 5,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

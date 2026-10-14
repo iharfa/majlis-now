@@ -1,0 +1,21 @@
+{
+  "workId": "1771",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2009 (ދިވެހިރާއްޖޭގެ ޕެންޝަން ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Maldives Pension Act (Law No. 8/2009). It adds two new articles, numbered 32-1 and 32-2, straight after Article 32. The new articles refer back to Article 19 of the Act and set out rules that include a fixed amount of MVR 2,000 and a time limit of 3 months, which appear to be about penalties or obligations around pension payments. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "If it had passed, it would have added new enforceable rules to the pension system, which covers the retirement savings of ordinary workers and their employers. The bill was rejected by a vote, so none of this took effect.",
+  "keyProvisions": [
+    "Clause 1 inserts new Articles 32-1 and 32-2 after Article 32 of the Pension Act.",
+    "Article 32-1 refers to Article 19 of the Act and sets out a rule tied to that article.",
+    "Article 32-2 is split into numbered sub-paragraphs (1) to (3) under paragraph (a), and further paragraphs after that. One of the sub-paragraphs sets a fixed amount of MVR 2,000.",
+    "Two later paragraphs of Article 32-2 refer to a period of 3 months.",
+    "Clause 2 is a short commencement clause, saying when the amendment takes effect once it is ratified and published."
+  ],
+  "whoIsAffected": "Employers and workers covered by the Maldives Pension Act, and the body that runs the pension scheme.",
+  "statedReasons": "An explanatory note is printed on page 2, but the scan was too hard to read for the reasons to be stated reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

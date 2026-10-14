@@ -1,0 +1,22 @@
+{
+  "workId": "1559",
+  "titleDv": "ޤާނޫނު ނަންބަރު 4/2013 (ސިޔާސީ ޕާޓީ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Political Parties Act (Law No. 4/2013). It removes some articles and a schedule (a printed form), rewrites others, and changes the fine amounts for parties that break certain rules. In total it repeals Article 10, Article 53 and the schedule, and amends Articles 20, 35 and 49. It also sets a 30-day window after the law takes effect for something to be done under the new rules. The scans are fairly clear, but the exact subject of each article is hard to read, so some details are uncertain.",
+  "whyItMatters": "It changes the rules political parties must follow to stay registered and the money penalties they can face, so parties and their members could be affected. Fines in Article 49 would be set at MVR 30,000, MVR 75,000 and MVR 100,000.",
+  "keyProvisions": [
+    "Clause 1 repeals Article 10 of the Political Parties Act in full.",
+    "Clauses 2 and 3 amend Article 20: paragraph (a) is reworded, and new paragraphs are added with points (1) to (4). One of the new paragraphs mentions Article 12 and a 12-month period.",
+    "Clause 4 amends Article 35, which refers to figures of 0.1% and 0.2%. The two versions in the comparison table differ only slightly, so the exact change is unclear.",
+    "Clause 5 amends Article 49(a)(2) so the fines are MVR 30,000, then MVR 75,000 for repeating the offence, and MVR 100,000 in the amended text. The 100,000 figure appears only in the new version.",
+    "Clauses 6 and 7 repeal Article 53 and the schedule to the Act, which is a printed form with blanks to fill in.",
+    "Clause 8 gives 30 days from the date the law takes effect for a step to be completed. Clause 9 says the law takes effect on ratification and publication in the Gazette."
+  ],
+  "whoIsAffected": "Registered political parties, their officials and members, and the authority that registers and oversees parties.",
+  "statedReasons": "The explanatory note says the bill amends the Political Parties Act (No. 4/2013) to change some of its provisions. The note is hard to read, so the specific reasons are not clear.",
+  "sourceDoc": "Bill",
+  "pagesRead": 11,
+  "pagesTotal": 11,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

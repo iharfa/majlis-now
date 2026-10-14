@@ -1,0 +1,22 @@
+{
+  "workId": "1703",
+  "titleDv": "ޤާނޫނު ނަންބަރު 13/2010 (ދިވެހިރާއްޖޭގެ ފަނޑިޔާރުންގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Judges Act (Law No. 13/2010). It rewrites the articles on judges' independence and conduct and says no person or institution may interfere with a judge's work. It sets out who protects judges' safety, changes some appointment and retirement rules, and limits what former judges can do as lawyers. It also adds a new chapter on a code of conduct for judges. This summary covers the first 12 of 89 pages, and some clauses were hard to read, so details are uncertain.",
+  "whyItMatters": "The changes affect how independent judges are, how they must behave in and out of court, and what they can do after leaving the bench. These rules shape public trust in the courts.",
+  "keyProvisions": [
+    "Article 4 is rewritten so that judges must keep their integrity and independence. No person or institution may use power or influence over a judge's work, and state institutions must respect and protect courts' independence.",
+    "Article 7 requires judges to behave, both in court and outside it, in a way that builds trust in the judiciary among the public, lawyers and court staff.",
+    "Article 13 makes judges' safety a duty of the state. Security for Supreme Court judges comes from the armed forces under Law No. 1/2008 (the Armed Forces Act), and security for other judges comes from the police.",
+    "Articles 26, 28 and 29 change the retirement rules. Judges retire at 70 with benefits, and judges who leave voluntarily may get benefits set by the Judicial Service Commission. A new Article 31-1 sets deadlines for filling a Supreme Court seat when a justice retires voluntarily, including sending the nomination to the President within 48 hours.",
+    "A new Article 30-1 says that for 2 years after leaving office, a former judge may not appear as a lawyer in a court where they served as a judge in their last 3 years. They may never act as a lawyer in a case they handled as a judge.",
+    "Article 32 and Article 35(e) are repealed. A new chapter (Articles 40-1 onward) sets a code of conduct for judges. It covers independence, following the Constitution and laws, avoiding bias and resisting outside influence."
+  ],
+  "whoIsAffected": "Judges at all levels of court, former judges who practise law, the Judicial Service Commission, and the police and armed forces who provide judges' security.",
+  "statedReasons": "The government says it wants to protect the independence and trustworthiness of the judiciary by setting judges' code of conduct in law and tightening the rules on judges' appointment, transfer, performance evaluation and financial dealings.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 89,
+  "confidence": "Low",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

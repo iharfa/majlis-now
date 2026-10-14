@@ -1,0 +1,22 @@
+{
+  "workId": "1720",
+  "titleDv": "ދަތުރު ރާވާ ރޭވުމުގެ ޚިދުމަތުގެ ބިލު",
+  "summary": "This is a new bill to regulate travel planning services in the Maldives. It sets up a council to oversee the sector and sets out how that council is formed, how its chair and members are appointed and removed, and how it meets and makes decisions. The table of contents shows later chapters on registering service providers, finances, complaints and general rules. This summary covers the first 12 of 29 pages, and the scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "If it became law, businesses that plan trips for customers would need to answer to a government-backed council, and customers would have a body to take complaints to.",
+  "keyProvisions": [
+    "Article 1 says the law comes into force once it is ratified and published, and can be cited as the Travel Planning Services Act.",
+    "Article 2 lists the aims of the law, including regulating people and businesses that provide travel planning services.",
+    "Article 3 sets up a Travel Planning Services Council, and Article 4 covers its membership and how many members it has. Article 4 also refers to Law No. 18/2014.",
+    "Articles 5 to 10 cover who qualifies to be on the council, how the chair and members are appointed, and how they can be removed. Several time limits are given, including 15 and 30 day periods, but the details were hard to read.",
+    "Article 11 sets the quorum for council meetings at 5 members, and Articles 12 to 14 deal with meetings and decision-making.",
+    "The table of contents lists Articles 15 to 23 on registering and licensing providers and Articles 26 to 29 on complaints and related matters. Those pages were not rendered, so they are not summarised here."
+  ],
+  "whoIsAffected": "Travel agents and other businesses that plan or sell trips, the people who would sit on the new council, and customers of these services.",
+  "statedReasons": "The explanatory note says the bill is meant to set rules for travel planning services and the body that would oversee them, but the wording was too hard to read to quote more precisely.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 29,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

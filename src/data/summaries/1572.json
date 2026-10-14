@@ -1,0 +1,22 @@
+{
+  "workId": "1572",
+  "titleDv": "ޤާނޫނު ނަންބަރު 30/2015 (ދިވެހިރާއްޖޭގެ ކުޅިވަރު ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Maldives Sports Act (Law No. 30/2015). It changes Articles 1 to 6 and adds new Articles 4-1 and 5-1. It adds numbered lists of kinds of sports bodies and participants, and new provisions about registering clubs, associations or federations that refer to the Associations Act (Law No. 3/2022). This summary covers the first 12 of 80 pages, and the scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "Sports clubs, associations and the people who run or play in them could face new registration and recognition rules under the Act.",
+  "keyProvisions": [
+    "Clause 1 amends Article 1(b), and Clauses 2 to 6 amend paragraphs of Article 2.",
+    "Clause 7 amends Article 3 with a longer list of persons or things the Act covers.",
+    "Clause 8 amends Article 4(a) to list two categories, and Clause 9 adds Article 4-1 with a numbered list of up to 13 kinds of sports body or participant.",
+    "Clauses 9 and 10 refer to registration of sports bodies under the Associations Act (Law No. 3/2022), with separate paragraphs for different kinds of body.",
+    "Clause 10 amends Article 5, and Clause 11 adds Article 5-1 with several paragraphs on recognition or registration.",
+    "Clauses 12 to 14 amend Article 6(a), (b) and (c). The rest of the bill, pages 13 to 80, was not rendered."
+  ],
+  "whoIsAffected": "Sports clubs, associations and federations, and their officials, members and players.",
+  "statedReasons": "",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 80,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

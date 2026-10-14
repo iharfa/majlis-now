@@ -1,0 +1,21 @@
+{
+  "workId": "1717",
+  "titleDv": "އޮޑިޓް ޤާނޫނު (ޤާނޫނު ނަންބަރު: 4/2007) އަށް އިޞްލާޙް ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Audit Act (Law No. 4/2007). It adds a new clause to each of Articles 13, 16, 20 and 22. Each new clause says that during a state of emergency declared under Chapter 11 of the Constitution, or a public health emergency declared under Article 33 of the Public Health Protection Act (Law No. 7/2012), the time limit in the existing clause (a) can be extended by up to 6 months. In Article 13 the power to extend sits with the Auditor General. In Articles 16, 20 and 22 it sits with the People's Majlis.",
+  "whyItMatters": "If an emergency such as a pandemic makes audit deadlines impossible to meet, the deadlines could be stretched by up to 6 months instead of being missed.",
+  "keyProvisions": [
+    "Article 13 gets a new clause: despite clause (a), the Auditor General may extend the clause (a) period by up to 6 months if satisfied that an emergency has changed conditions for good reasons.",
+    "Article 16 gets a new clause: the same up-to-6-month extension of the clause (a) period, but decided by the People's Majlis.",
+    "Article 20 gets a new clause (after clause (b)): the same up-to-6-month extension, decided by the People's Majlis.",
+    "Article 22 gets a new clause (after clause (n)): the same up-to-6-month extension, decided by the People's Majlis.",
+    "Article 5 of the bill updates any references in the Audit Act to the changed articles. Article 6 says the amendment takes effect once it is passed, ratified and published in the Government Gazette."
+  ],
+  "whoIsAffected": "Public bodies that must meet Audit Act deadlines, the Auditor General's office, and the People's Majlis.",
+  "statedReasons": "Because of Covid-19 lockdowns in Male' and the islands, it is impossible to finish some tasks within the time limits set by law, so the bill gives institutions an option in the Audit Act to extend some deadlines.",
+  "sourceDoc": "Bill",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

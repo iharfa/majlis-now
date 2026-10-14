@@ -1,0 +1,19 @@
+{
+  "workId": "1828",
+  "titleDv": "ޤާނޫނު ނަންބަރު 32/2015 (ޓެރަރިޒަމް ދެކޮޅުހެދުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Anti-Terrorism Act (Act No. 32/2015). It is very short: one clause changes Article 4 by adding a new item (8) after item (7) of one of its lettered paragraphs, and a second clause deals with when the amendment takes effect. The scans are hard to read, so what the new item (8) says could not be made out and some details are uncertain.",
+  "whyItMatters": "The effect on people could not be worked out from the scans, because the wording of the added item is not legible.",
+  "keyProvisions": [
+    "Clause 1 amends Article 4 of the Anti-Terrorism Act by adding a new item numbered (8) after item (7) of one of its lettered paragraphs.",
+    "The wording of the new item (8) is a single short line that could not be read reliably.",
+    "Clause 2 appears to be the usual commencement clause, saying when the amendment takes effect."
+  ],
+  "whoIsAffected": "Unclear from the scans; the bill amends the Act that sets out Maldivian anti-terrorism law.",
+  "statedReasons": "A one-paragraph explanatory note is printed, but the scan is too unclear to summarise it reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

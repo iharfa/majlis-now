@@ -1,0 +1,21 @@
+{
+  "workId": "1556",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2008 (އިންތިޚާބު ކޮމިޝަނުގެ ޤާނޫނު) އަށް .. ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Elections Commission Act (Law No. 8/2008). It rewrites Article 7, which deals with the Commission's chair and vice chair, and Article 15(a). Article 7 gets new paragraphs (a), (b) and (c). Article 15(a) is reworded as well. The bill also has a clause on how the changes apply to people already in office when it takes effect. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "It changes how the Elections Commission's chair and vice chair are chosen or replaced, and so affects who leads the body that runs elections.",
+  "keyProvisions": [
+    "Clause 1 replaces Article 7, whose heading mentions the Commission's chair and vice chair, with new paragraphs (a), (b) and (c).",
+    "Under the new Article 7(b), the text covers the position of chair or vice chair when someone's term ends or the post is left open. The exact rule is hard to read.",
+    "Clause 2 rewrites Article 15(a), which deals with the chair or vice chair and what happens when that post is vacant or a person is elected to it.",
+    "Clause 3 is a transitional rule on how the amended Article 7 applies to people already serving on the Commission when the law starts.",
+    "Clause 4 says the law takes effect once it is ratified by the President and published in the Gazette."
+  ],
+  "whoIsAffected": "The members of the Elections Commission, especially its chair and vice chair, and the Majlis and President who take part in appointments.",
+  "statedReasons": "The explanatory note says the bill amends the Elections Commission Act (No. 8/2008) to change how the posts of the Commission's chair and vice chair are handled. The note is hard to read, so the detailed reasons are not clear.",
+  "sourceDoc": "Bill",
+  "pagesRead": 6,
+  "pagesTotal": 6,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

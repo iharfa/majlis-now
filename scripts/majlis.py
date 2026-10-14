@@ -65,6 +65,9 @@ MONTHS = {m: f"{i:02d}" for i, m in enumerate(
 
 def iso_date(text):
     """'17 Aug 2026', '17.August.2026', 'Tuesday 6 October 2026' -> '2026-08-17' (or None)."""
+    m = re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", text or "")  # older vote PDFs: '4/15/2025' (US order)
+    if m:
+        return f"{m.group(3)}-{int(m.group(1)):02d}-{int(m.group(2)):02d}"
     m = re.search(r"(\d{1,2})[\s.]+([A-Za-z]{3})[A-Za-z]*[\s.]+(\d{4})", text or "")
     if not m:
         return None

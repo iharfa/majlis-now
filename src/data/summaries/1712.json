@@ -1,0 +1,21 @@
+{
+  "workId": "1712",
+  "titleDv": "ޓްރޭޑްމާކްގެ ބިލު",
+  "summary": "This bill is a new law on trademarks, which are the signs a business uses to tell its goods or services apart from others. It defines what counts as a trademark (Article 3) and sets out who can apply and which signs cannot be registered (Articles 4 to 6). It then sets out how an application is made (Article 7 onward). The bill has 52 articles in seven parts, which also cover registration, collective and certification marks, enforcement and general provisions. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 63 pages.",
+  "whyItMatters": "Anyone who runs a business under a brand name or logo would have a legal process for registering it, and a clear route to challenge copies.",
+  "keyProvisions": [
+    "Article 3 defines a trademark as a sign that can tell one business's goods or services apart from another's.",
+    "Articles 4 to 6 deal with who may apply and which marks cannot be registered; Article 6 gives a list of grounds, with a rule that some marks can still be registered if they have become distinctive through use.",
+    "Article 7 begins the registration process with the application, and Article 8 lists what an application must contain.",
+    "The contents page shows separate parts on registering trademarks (Articles 7 to 25), transferring and licensing trademarks (Articles 26 and 27), and collective and certification marks (Articles 28 to 31).",
+    "Later parts, which were not rendered, appear to cover protection and enforcement of trademark rights (Articles 32 to 48) and general provisions (Articles 49 to 52)."
+  ],
+  "whoIsAffected": "Businesses, designers and brand owners in the Maldives, and anyone who sells goods or services under a brand name.",
+  "statedReasons": "The explanatory note says the bill is meant to set up a legal framework for registering and protecting trademarks. The scan of the note is hard to read, so the wording is approximate.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 63,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

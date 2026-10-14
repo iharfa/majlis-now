@@ -1,0 +1,22 @@
+{
+  "workId": "1522",
+  "titleDv": "އަރބަން ޑިވެލޮޕްމެންޓް ބިލު",
+  "summary": "This is a new, full-length Urban Development Bill, not an amendment. Its contents page lists 51 articles in seven chapters. The opening articles give the law's name and purposes, and then appear to set up an urban development plan and say where it applies, such as a town, an island or part of an island. A later chapter starting at Article 8 appears to set up a body to carry out the law. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 52 pages.",
+  "whyItMatters": "If passed as written it would be the main law on planning urban development, but the rules on land and buildings are in the later pages, which were not read.",
+  "keyProvisions": [
+    "Article 1 sets out the law's name, which Article 1(b) gives as the Urban Development Act.",
+    "Article 2 lists the law's purposes in several lettered paragraphs. They could not be read reliably.",
+    "Article 5 appears to define an urban development plan, and Article 6 appears to cover what the plan contains.",
+    "Article 7 appears to cover towns, islands or parts of islands, with four numbered sub-points.",
+    "Chapter 3 starts at Article 8 and appears to set up a body to run the law. The contents page shows Articles 9 to 14 on its members, meetings and related matters.",
+    "The contents page lists 51 articles, ending on page 44 of the bill. Pages beyond the first 12 were not read."
+  ],
+  "whoIsAffected": "Likely government planning bodies and people who own, build or live in towns and islands, but this is not clear from the pages read.",
+  "statedReasons": "A short explanatory note is printed on page 2. It could not be read reliably, so its stated reasons are not given here.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 52,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

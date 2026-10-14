@@ -1,0 +1,22 @@
+{
+  "workId": "1519",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Maldives Tourism Act (Law no. 2/99). It rewrites several paragraphs of Article 9, which sets out dated fine tiers. The main change is the clock: the current text counts from the 10th amendment to the Act and uses a two-year window, while the new text counts from a 13th amendment and uses a six-month window. The fine amounts shown in the bill are MVR 100,000, 200,000, 5,000,000 and 10,000,000. The scans are hard to read, so exactly which conduct is fined is uncertain.",
+  "whyItMatters": "The fines run from MVR 100,000 up to MVR 10,000,000, and the bill resets the time windows attached to them, so the date the amendment starts decides when each tier bites for anyone covered.",
+  "keyProvisions": [
+    "Article 1 replaces one paragraph of Article 9. The current paragraph is tied to the 2nd amendment of the Act and includes a figure of 50 (fifty) whose unit is hard to read in the scan.",
+    "Article 2 replaces another paragraph of Article 9. Its opening words move from the 10th amendment and a two-year window to a 13th amendment and a six-month window. Tier (1) carries a fine of MVR 100,000 and tier (2) a fine of MVR 200,000.",
+    "Article 3 replaces item (1) of a further paragraph of Article 9. The wording is hard to read and no amount is printed in it.",
+    "Articles 4 and 5 replace items (2) and (3) of that paragraph. Both use the six-month window counted from the 13th amendment. Item (2) sets a fine of MVR 5,000,000 and item (3) a fine of MVR 10,000,000.",
+    "Article 6 says the amendment takes effect once it is ratified and published, with no waiting period visible in the text.",
+    "A financial note attached to the bill lists four estimated figures, 23.1, 46.3, 77.1 and 154.2 million rufiyaa, one against each of the four fine tiers. It assumes 15 cases, with a 50 and a 35 in a footnote that is hard to read."
+  ],
+  "whoIsAffected": "People or businesses covered by Article 9 of the Tourism Act, which the scans do not make clear.",
+  "statedReasons": "The explanatory note and the attached note say the purpose is to amend the Tourism Act. The rest of the note is too hard to read to state its reasons reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 11,
+  "pagesTotal": 11,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

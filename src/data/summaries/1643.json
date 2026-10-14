@@ -1,0 +1,21 @@
+{
+  "workId": "1643",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Tourism Act (Law No. 2/99). It changes Articles 4, 5 and 9 and adds new Articles 45-1 to 45-7. The changes to Article 9 set out amounts of money tied to lease periods of 20, 25 and 49 years, with figures from 100,000 up to 10,000,000 rufiyaa printed. The new Articles 45-1 to 45-7 set up a process run by the Tourism Ministry, including a register and a procedure ending in a decision. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 27 pages.",
+  "whyItMatters": "If passed as drafted, people and companies holding tourism leases could face new fixed payments linked to lease length, and a new Ministry procedure would apply to them.",
+  "keyProvisions": [
+    "Articles 1 and 2 change Article 4(a) and (c) of the Tourism Act.",
+    "Articles 3 to 6 change Article 5(a), paragraphs (1), (2), (3) and (8), including who can get a permit or approval from the Ministry.",
+    "Article 7 changes Article 9(a) to (c), and Article 8 changes Article 9(d). They use lease periods of up to 50 years and 49 years, and amounts of 100,000, 200,000, 2,500,000, 3,000,000, 5,000,000 and 10,000,000 rufiyaa depending on the lease length. Exactly what the payments are for could not be read reliably.",
+    "Article 9 adds new Articles 45-1 to 45-7 after Article 45. Article 45-1 and 45-2 deal with a Ministry procedure, 45-3 with how it is carried out, and 45-4 to 45-7 with a register (45-4 refers to Law No. 3/2006), what it must contain, and how entries are made, changed or removed.",
+    "Many cross-references to the 15th amendment of the Tourism Act appear in the amended articles, so the bill's effect depends on that earlier amendment."
+  ],
+  "whoIsAffected": "Holders of tourism leases and permits, tourism businesses, and the Tourism Ministry that runs the register and approvals.",
+  "statedReasons": "The explanatory note says the bill amends the Tourism Act to change rules about the periods and payments for tourism leases and to add a procedure. The scan is too faint for more detail.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 27,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

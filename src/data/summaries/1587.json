@@ -1,0 +1,22 @@
+{
+  "workId": "1587",
+  "titleDv": "ގޭންގް ކުށްތަކާއި އެހެނިހެން ޚަތަރުނާކު ކުށްތައް ހުއްޓުވުމުގެ ބިލު",
+  "summary": "This is a new law, not an amendment, on preventing gang crimes and other dangerous crimes. The first pages set out a short title and a purpose clause, then a definitions article that lists the kinds of crime, group and person the law covers (Article 4 onwards, with a definitions block and a further set of terms in Articles 5 to 16). Later articles (17 to 19) set prison terms and fines for different offences. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 81 pages.",
+  "whyItMatters": "If passed in this form, taking part in a gang or dangerous-crime group could carry long prison terms (up to 25 years in the penalty articles) and fines up to MVR 10 million.",
+  "keyProvisions": [
+    "Articles 1 and 2 give the short title and the purpose of the law; the purpose clause is a list of aims (a) to (e).",
+    "Article 3 sets out who the law applies to and what falls under it, in a list of cases (a) to (e).",
+    "Articles 4 to 16 contain a long run of definitions and related offences and conditions, one article per defined term or situation. The wording of most of these is unclear in the scans.",
+    "Article 17 and Article 18 set penalties that include imprisonment of 25, 18, 20, 15, 12, 10 and 8 years and fines from MVR 50,000 up to MVR 10,000,000, depending on the offence.",
+    "Article 19 sets out further offences and conditions in sub-articles (a) to (h), several with prison terms of 15, 12, 10 or 8 years and fines of MVR 50,000 to MVR 3,000,000.",
+    "Which offence carries which exact penalty could not be matched reliably, and the remaining pages (13 to 81) were not rendered."
+  ],
+  "whoIsAffected": "People accused of or convicted of gang-related and other serious offences, and the police, prosecutors and courts that would apply the law.",
+  "statedReasons": "The explanatory note says the bill is meant to deal with gang crimes and other dangerous crimes, and lists four points about offences and their penalties. The scan is too hard to read to quote more.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 81,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

@@ -1,0 +1,21 @@
+{
+  "workId": "1816",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Tourism Act (Law No. 2/99). It changes the definitions in Article 2 and amends Articles 4, 5, 6 and 9, and it adds new Articles 6-1 and 6-2. Several of the changes deal with who may hold or take part in a tourism business, with rules set by percentage of shareholding (45, 49 and 50 percent appear) and by minimum dollar amounts, which range from US$100,000 up to US$5,000,000 in the clauses read. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 39 pages.",
+  "whyItMatters": "The changes appear to set new ownership and financial conditions for people and companies in the tourism business, so they could affect who is able to hold or invest in a tourism property.",
+  "keyProvisions": [
+    "Clause 1 amends the definitions in Article 2. The new terms could not be read reliably.",
+    "Clauses 2 to 6 amend Articles 4 and 5. Clause 6 adds new sub-articles (1) to (10) to Article 5, and one of them sets a 45 percent (forty-five percent) figure.",
+    "Clause 7 amends Article 6 so that it refers to new Articles 6-1, 6-2 and 45-1.",
+    "Clause 8 adds new Articles 6-1 and 6-2, which set conditions and procedures involving the Minister. The scans of these articles are too hard to read to describe them with confidence.",
+    "Clauses 9 and 10 amend Article 9. They add tiered conditions tied to dollar amounts (US$100,000, US$200,000, US$1,500,000, US$2,500,000, US$3,000,000, US$4,000,000 and US$5,000,000) and to shareholding thresholds of 49 and 50 percent. What each tier applies to could not be confirmed."
+  ],
+  "whoIsAffected": "Owners, shareholders and investors in tourism businesses, and the ministry that administers the Tourism Act.",
+  "statedReasons": "The explanatory note could not be read well enough to give the stated reasons reliably; it says the bill amends the Tourism Act (Law No. 2/99).",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 39,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

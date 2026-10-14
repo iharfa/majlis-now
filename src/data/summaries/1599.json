@@ -1,0 +1,22 @@
+{
+  "workId": "1599",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 ... އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Decentralization Act (Act No. 7/2010), which sets up the island, atoll and city councils. It changes and adds a run of articles numbered 56-2 to 56-11, which deal with a type of committee attached to the councils: how it is made up, how its members are chosen, its duties and its funding. It also changes Article 148 and swaps some terms used in the Act. The bill says the related regulations must be amended within 30 days, and that it takes effect once ratified and published. The scans are hard to read, so some details are uncertain, including the exact name of the committees. This summary covers the first 12 of 26 pages.",
+  "whyItMatters": "If passed, councils would have new rules about how these committees are formed, run and paid for, and the committees would have clearer duties and money set out in law.",
+  "keyProvisions": [
+    "Clause 1 rewrites a sub-clause of Article 56-2 and clause 2 removes a sub-clause of Article 56-6.",
+    "Clause 4 adds a sub-clause to Article 56-6 that sets an amount of MVR 3,000. What it is paid for is hard to read.",
+    "Clauses 5 to 7 rewrite Articles 56-7 and 56-8 and add new Articles 56-9, 56-10 and 56-11. These list the committee's members and duties, how members are chosen and when they leave, with several numbered lists.",
+    "Article 56-9 refers to a 5% share, apparently of the council's yearly budget, for the committee's work, and to a 30-day period. The exact meaning is uncertain.",
+    "Clause 8 changes Article 148 of the Act.",
+    "Clause 10 says the related regulations must be amended within 30 days, and clause 11 says the bill takes effect when ratified and published."
+  ],
+  "whoIsAffected": "Island, atoll and city councils, the members of these committees, and residents who take part in or rely on them.",
+  "statedReasons": "The explanatory note says the Decentralization Act is being amended to change the rules on these committees, including their structure, how they are run and their duties. The scan is hard to read, so this is a rough reading.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 26,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

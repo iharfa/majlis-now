@@ -1,0 +1,20 @@
+{
+  "workId": "1716",
+  "titleDv": "ސިކުނޑީ ޞިއްޙަތުގެ ބިލު",
+  "summary": "This is a Mental Health Bill, a full new law rather than an amendment. Section 1 appears to give the law its short title, and Section 2 lists the purposes of the law in about nine points. Chapter 2 starts at Section 3 with a list of points that seems to set out rights of people with mental health conditions, followed by short sections 4 to 8. The contents page shows 11 chapters over about 64 numbered pages. The handwriting-style print is very hard to read, so the details are uncertain. This summary covers the first 12 of 72 pages.",
+  "whyItMatters": "If passed, it would be the main law covering how people with mental health conditions are treated and protected, but the clause detail could not be read reliably.",
+  "keyProvisions": [
+    "The contents page lists 11 chapters. Chapter 1 starts on page 1, Chapter 2 on page 3, Chapter 3 on page 9, Chapter 4 on page 19, Chapter 5 on page 40, and the remaining chapters follow up to page 62.",
+    "Section 1 appears to cover the title and scope of the law, and Section 2 lists the law's purposes in lettered points.",
+    "Chapter 2 opens with Section 3, which has lettered sub-points that appear to be about the rights of people with mental health conditions. Sections 4 to 8 follow as short sections with their own headings.",
+    "Section 7 refers to Section 47 of the same bill, which sits in the later part of the law. The topic of Section 47 was not among the pages read."
+  ],
+  "whoIsAffected": "People with mental health conditions and their families, mental health workers and services, and the institutions the bill would regulate.",
+  "statedReasons": "An explanatory note of about five lines is printed on page 2, but it could not be read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 72,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

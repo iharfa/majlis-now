@@ -1,0 +1,21 @@
+{
+  "workId": "1656",
+  "titleDv": "ހައުސިންގގެ ބިލު",
+  "summary": "This is a new Housing Bill, not an amendment, submitted by Asma Rasheed on 22 April 2025. Its table of contents lists 82 articles in about nine chapters. They run from general provisions and principles, through housing policy and the roles of the Ministry and other bodies, to a long chapter with several parts (articles 32 to 63) and closing chapters up to article 82. The scans are hard to read, so most details are uncertain. This summary covers the first 12 of 73 pages, which are mostly the contents list and the opening articles.",
+  "whyItMatters": "A full housing law would set out who is responsible for housing policy and how housing arrangements are governed, which could affect people looking for homes, tenants, landlords and housing agencies.",
+  "keyProvisions": [
+    "Article 1 sets the short title, \"Housing Act\", and its opening paragraph describes what the law covers.",
+    "Article 2 lists the purposes of the law in several numbered points.",
+    "Chapter 2, articles 3 and 4, sets out principles, and article 4 deals with how those principles are to be applied.",
+    "Chapter 3, articles 5 to 10, covers housing policy and the responsibilities of the Ministry; article 6 deals with how the Ministry carries out functions, and article 7 mentions a period of 5 years.",
+    "The contents list shows later chapters covering articles 11 to 18, 19 to 31, a long chapter on articles 32 to 63 with several parts, articles 64 to 70, articles 71 to 79, and final provisions in articles 80 to 82. The text of those articles was not rendered."
+  ],
+  "whoIsAffected": "People seeking housing, tenants and landlords, and the Ministry and agencies responsible for housing.",
+  "statedReasons": "The explanatory note was read only in part; it describes the purpose of setting up a law on housing, but the scan is too faint to quote its reasons reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 73,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

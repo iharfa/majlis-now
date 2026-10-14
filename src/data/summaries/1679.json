@@ -1,0 +1,21 @@
+{
+  "workId": "1679",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ދާއިރާތައް ލާމަރުކަޒީ އުސޫލުން ހިންގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Decentralization Act (Act No. 7/2010), the law that sets up and runs the island, atoll and city councils. It is very short. It makes the same kind of change in four places, Articles 15, 29, 45 and 56-6. In each one, a time limit of 365 days is replaced by 548 days. That is roughly 12 months becoming roughly 18 months. The scans make clear what the numbers are, but not fully which council step the time limit applies to.",
+  "whyItMatters": "A time limit in the Act that runs for one year would run for about 18 months instead, which changes how long council members and residents live with that rule.",
+  "keyProvisions": [
+    "Clause 1 amends Article 15(a), replacing 365 days with 548 days.",
+    "Clause 2 amends Article 29(a) in the same way, and clause 3 does the same to Article 45(a).",
+    "Clause 4 amends Article 56-6(1-a), again replacing 365 days with 548 days.",
+    "The comparison table at the back shows the old and new wording side by side. The only difference in each row is the number of days.",
+    "Clause 5 says the amendment takes effect once the President ratifies it and it is published in the Government Gazette."
+  ],
+  "whoIsAffected": "Members and leaders of local councils under the Decentralization Act, and residents of the islands, atolls and cities they serve.",
+  "statedReasons": "The explanatory note describes the reason for extending the time limit in the councils' work under Act No. 7/2010, but the scan is too unclear to quote the reasoning reliably.",
+  "pagesRead": 7,
+  "pagesTotal": 7,
+  "confidence": "Medium",
+  "sourceDoc": "Bill",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

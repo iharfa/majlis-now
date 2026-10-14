@@ -1,0 +1,21 @@
+{
+  "workId": "1513",
+  "titleDv": "",
+  "summary": "This is a new Infrastructure Planning and Management Bill with 49 articles. Its purpose article (Article 2) lists several aims, including coordinated planning of infrastructure projects. The contents list shows chapters on how infrastructure planning is run, how projects are handled, and rules on the way projects are carried out, with enforcement at the end. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 50 pages.",
+  "whyItMatters": "If passed, it would set a common legal process for planning and managing infrastructure projects. The exact rules are unreadable in the pages rendered.",
+  "keyProvisions": [
+    "Article 1 gives the short title, the Infrastructure Planning and Management Act, and Article 2 lists the purposes of the law in numbered clauses.",
+    "Article 3 sets up a body or process for infrastructure planning, and Article 4 lists its functions in numbered clauses.",
+    "Article 5 deals with how some positions are filled or how some rules apply, and Article 6 lists numbered categories of members. The details could not be read reliably.",
+    "Article 7 lists the duties of the members of that body in numbered clauses.",
+    "Pages 13 to 50 were not rendered, so Articles 8 to 49 are not summarised."
+  ],
+  "whoIsAffected": "Government bodies and others involved in planning and building infrastructure projects, though the exact groups could not be confirmed.",
+  "statedReasons": "An explanatory note is printed on page 2 but could not be read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 50,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

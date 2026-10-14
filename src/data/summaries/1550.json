@@ -1,0 +1,22 @@
+{
+  "workId": "1550",
+  "titleDv": "ޤާނޫނު ނަންބަރު 15/2010 (ދުންފަތުގެ ކޮންޓްރޯލް ކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Tobacco Control Act (Act No. 15/2010). It changes the Act's purpose clause and adds a new Article 3-1 that links to the penalty rules in Article 29. It brings in an age of 21 for dealing with tobacco products and rewrites the articles on selling them. It adds new Articles 10-1 and 10-2 with fixed fines, and changes later articles on the Act's enforcement. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 44 pages.",
+  "whyItMatters": "Anyone under 21 could be barred from tobacco sales, and shops or sellers who break the rules could face fixed money fines.",
+  "keyProvisions": [
+    "Clause 1 replaces Article 3(a), and clause 2 adds a new Article 3-1 with sub-articles (a), (b) and (c) that point to the penalties in Article 29.",
+    "Clauses 3 to 5 replace sub-articles of Article 6, and clause 6 replaces Article 7. These articles set the age of 21 for tobacco sales and purchases.",
+    "Clause 7 replaces Article 8, and clauses 8 and 9 replace Article 10 and add Articles 10-1 and 10-2. The new articles set out the offences and the fines for them.",
+    "The fixed fines printed in Articles 10-1 and 10-2 run from Rf 5,000 up to Rf 50,000, with higher amounts for some breaches.",
+    "Clauses 10 to 17 change Articles 11, 12, 13, 14 and 17 and add Article 17-1. Clause 18 changes Article 18 and refers to the Export Import Act (No. 31/79).",
+    "Clauses 19 to 25 go on to change Articles 19, 21, 22, 25 and 28. These pages are hard to read and are not described in detail."
+  ],
+  "whoIsAffected": "Shop owners and anyone who sells tobacco, young adults under 21, and the authorities who enforce the Act.",
+  "statedReasons": "The explanatory note says the bill amends the Tobacco Control Act (No. 15/2010) to change its rules on tobacco products. The note is hard to read, so the full reasons are uncertain.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 44,
+  "confidence": "Low",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}
