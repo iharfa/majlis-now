@@ -1,0 +1,22 @@
+{
+  "workId": "1486",
+  "titleDv": "ޤާނޫނު ނަންބަރު 9/2014 (ދިވެހިރާއްޖޭގެ ޤާނޫނުލްޢުޤޫބާތު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Penal Code (Law No. 9/2014) by adding a new Chapter 240 on computer and computer-related crimes after Chapter 230. The chapter lists offences such as getting into a computer system without permission, intercepting computer data, tampering with data or systems, misuse of devices, cyber violence, computer-related forgery and fraud, and infringing copyright and related rights. Each offence is graded by seriousness, from Class 4 felony down to Class 1 misdemeanour in the parts read. This summary covers the first 12 of 38 pages, which reach Article 243, so the later articles are known only by their titles.",
+  "whyItMatters": "Hacking into someone's account or device, secretly intercepting their data, or deleting or changing their files without permission would become specific crimes with set penalty classes.",
+  "keyProvisions": [
+    "Article 1 of the bill adds a new chapter after Chapter 230 of the Penal Code, titled computer and computer-related crimes, made up of Articles 240 to 250.",
+    "Article 240 makes it an offence to access all or part of a computer system without authority, knowing there is no authority. It is graded as a Class 4 or Class 5 felony, or in some cases a Class 1 misdemeanour, depending on the circumstances set out.",
+    "Article 241 makes unauthorised access to a computer system in order to commit a further offence a Class 4 felony.",
+    "Article 242 makes it an offence to use technical means to intercept non-public transmissions of computer data, including electromagnetic emissions from a system, without authority. It is a Class 5 felony, with a lesser part graded as a Class 1 misdemeanour.",
+    "Article 243 covers interfering with computer data without authority, defined to include damaging, deleting, altering, suppressing, adding to or blocking access to data, or moving or copying it to another medium.",
+    "The table of contents lists further articles not covered by the pages read: 244 interference with a computer system, 245 misuse of devices, 246 cyber violence, 247 computer-related forgery, 248 computer-related fraud, 249 infringement of copyright and related rights, and 250 definitions."
+  ],
+  "whoIsAffected": "Anyone who uses computers, phones or online accounts, people accused of cyber offences, and police and prosecutors who handle cybercrime cases.",
+  "statedReasons": "The government says the bill makes the amendments to Law 9/2014 that are needed to make cybercrime-related acts criminal offences.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 38,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

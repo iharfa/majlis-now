@@ -1,0 +1,21 @@
+{
+  "workId": "1473",
+  "titleDv": "ޤާނޫނު ނަންބަރު 29/2015 (ސިއްޙީ ޚިދުމަތް ދިނުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Health Services Act (Law No. 29/2015). It rewrites the Act's aims and Article 6 to set up a national health service system that gives people living in the Maldives good-quality, affordable care. It creates a new post in the Health Ministry, the Director General of Health Services, with set qualifications, duties and a five-year term. It also adds new articles on primary care: what services count as primary care, who sets the standards, and how the services are delivered. This summary covers the first 12 of 20 pages, and some passages are hard to read, so some details are uncertain.",
+  "whyItMatters": "The government would have a legal duty to organise everyday health care, such as primary care and vaccination, through a national system with set standards.",
+  "keyProvisions": [
+    "Amends Article 2(a) so one aim of the Act is to give people in the Maldives physical and mental health care at good quality and reasonable cost, through a national health service system.",
+    "New Article 5-1 creates the post of Director General of Health Services in the Ministry as a civil service post. New Article 5-2 lists the main duties, including advising the Minister on health policies, plans and projects, and overseeing health services.",
+    "To be appointed Director General, a person needs at least a Level 9 qualification and at least 10 years of work experience in health, including at least 4 years in management. The term is 5 years. A person already in the post who meets these conditions is treated as appointed.",
+    "Replaces Article 6 to describe the national health service system, meant to keep everyone living in the Maldives physically and mentally healthy and to give access to health services and facilities.",
+    "New Article 10-1 lists the services that make up primary care, including vaccination-related services. New Articles 10-2 to 10-4 cover who sets primary care standards, the basis on which primary care is delivered, and the Ministry setting up primary care services. Article 10-4 also refers to health facilities licensed under Article 28."
+  ],
+  "whoIsAffected": "Patients and residents using public health services, the Health Ministry, and public and private health facilities.",
+  "statedReasons": "The government says it wants a national health service system that gives everyone in the Maldives the care they need, sets standards for primary care, and makes other amendments needed to run the Health Services Act better.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 20,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

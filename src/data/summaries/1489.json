@@ -1,0 +1,22 @@
+{
+  "workId": "1489",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/2015 (ޖިނާއީ މައްސަލަތަކުގައި ޤާނޫނީ އެހީތެރިކަން ބަދަލުކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Mutual Legal Assistance in Criminal Matters Act (Law 2/2015) so the Maldives can share electronic evidence with other countries in criminal cases. It adds a new part on electronic evidence, made up of new Articles 14-1 to 14-8. Under this part, other countries can ask the Maldives to quickly preserve computer data, disclose traffic data, collect traffic data in real time and intercept content data. It also sets up a contact point within the Maldives Police Service that is available around the clock. This summary covers the first 12 of 13 pages.",
+  "whyItMatters": "Data held on computers and phone or internet networks in the Maldives could be preserved, handed over or monitored at the request of foreign authorities investigating crimes. Requests would be handled under the Criminal Procedure Code.",
+  "keyProvisions": [
+    "Adds a new item (10) to Article 3(a) so that the assistance set out in Chapter 4 counts as mutual legal assistance under the law. It also adds part headings to the chapter, including a new part on electronic evidence.",
+    "Article 14-1 sets general rules: the Maldives can give and request legal assistance on crimes involving computer systems and on electronic evidence, including through a 24/7 network.",
+    "Article 14-2 allows quick preservation of stored computer data at another country's request. Data must be kept for at least 60 days and while a decision on the request is pending, under the Criminal Procedure Code (Law 12/2016).",
+    "Articles 14-3 and 14-4 cover quick disclosure of preserved traffic data and access to stored computer data. Articles 14-5 and 14-6 cover real-time collection of traffic data and interception of content data. Requests are carried out under the procedures of the Criminal Procedure Code (Law 12/2016).",
+    "Article 14-7 requires a contact point within the Maldives Police Service, available 24 hours a day and 7 days a week. Its listed tasks include quick preservation under Articles 14-2 and 14-3, technical help and legal information. Two further tasks are hard to read.",
+    "Article 14-8 says terms such as 'computer data', 'traffic data' and 'computer system' have the same meaning as in the Penal Code (Law 9/2014)."
+  ],
+  "whoIsAffected": "Police and prosecutors, foreign law-enforcement agencies, telecom and internet providers holding data, and people under criminal investigation whose data is sought.",
+  "statedReasons": "The government says cybercrime is increasing in the Maldives and often crosses borders, so the law needs changes to allow cooperation with other countries on electronic evidence.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 13,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

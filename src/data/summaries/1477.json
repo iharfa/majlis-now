@@ -1,0 +1,21 @@
+{
+  "workId": "1477",
+  "titleDv": "ދައުލަތުގެ ދަރަނިބެހޭ ބިލު",
+  "summary": "This bill is a new State Debt law. It sets who may borrow on behalf of the state, what the borrowing can be used for, and how the yearly borrowing limit is set. It also requires a debt management strategy. According to the contents list, it also covers state guarantees, borrowing by local councils and state-owned companies, debt reporting and audit, and penalties. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 53 pages.",
+  "whyItMatters": "It sets the rules for how the government and state companies take on loans, which affects the national debt that future taxpayers must repay.",
+  "keyProvisions": [
+    "Article 3 says that only the Finance Minister may borrow on behalf of the state. Borrowing must follow the limits in Article 6 and the debt management strategy in Article 9.",
+    "Article 4 sets out the Minister's borrowing powers, including domestic and foreign loans and issuing government securities. State guarantees may only be given under the chapter on guarantees.",
+    "Article 5 lists the allowed purposes of state borrowing. These include financing the budget deficit, refinancing existing debt, managing cash flow and responding to emergencies. Other purposes that could not be read clearly are also listed.",
+    "Article 6 requires a yearly borrowing limit. This includes the total amount the state may borrow in the year, and is linked to the debt management strategy.",
+    "Later chapters, listed in the contents but not rendered, cover the medium-term debt strategy, a debt management office, state guarantees and fees, borrowing by councils and state-owned companies, debt reports and audits, and offences."
+  ],
+  "whoIsAffected": "The Finance Ministry, local councils, state-owned companies, lenders to the government, and taxpayers who carry the public debt.",
+  "statedReasons": "The note says the bill sets rules for state borrowing, debt management and state guarantees, including for councils and state companies, so that public debt is managed responsibly and transparently.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 53,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "workId": "1501",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/2008 (ވަޒީފާއާބެހޭ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Employment Act (Law 2/2008) to set new rules for foreigners working in the Maldives. It rewrites Article 65 and adds new Articles 65-1 to 65-6 covering who counts as a foreign worker, registration of employers who want to bring in foreign workers, quotas, work visas, fees and inspections. Employers would have to register, get a quota for each foreign worker, and make sure each worker holds a work visa. It sets fixed fees and late-payment charges, and lets the authorities inspect and act against employers who break the rules. This summary covers the first 12 of 23 pages. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "Businesses that hire foreign workers would face registration, quota and work-visa requirements with set fees, and penalties if they break the rules. This affects the many migrant workers employed in the Maldives.",
+  "keyProvisions": [
+    "Article 65 is replaced: foreigners may work in the Maldives only under this law and its regulations. Some groups are exempt, including people with diplomatic immunity, people working under international agreements or organisations, certain visa holders under the Immigration Act (Law 1/2007), and others exempted by law.",
+    "New Article 65-1: anyone who wants to bring foreigners to the Maldives for work must register. Registration can be refused or cancelled on listed grounds, and the scan shows a limit of 36 months linked to that sanction.",
+    "New Articles 65-2 and 65-4: employers must meet set conditions before bringing in a foreign worker, including getting a quota for each one. A quota fee of MVR 2,000 is printed, and the rate appears to be per year.",
+    "New Article 65-5: every foreign worker must hold a work visa. A work visa fee of MVR 350 is printed, and the rate appears to be monthly.",
+    "Late payment of quota or work visa fees carries an extra charge. The scan shows a 30% charge and a figure of 18 (eighteen), but what triggers the charge is hard to read.",
+    "New Article 65-6: the authorities can inspect whether foreigners are working lawfully and take listed actions against breaches, with links to the Immigration Act (Law 1/2007)."
+  ],
+  "whoIsAffected": "Employers and recruitment businesses that bring in foreign workers, the foreign workers themselves, and the government bodies that issue quotas and work visas.",
+  "statedReasons": "The government says it wants to update the rules in the Employment Act on foreigners working in the Maldives and to make the changes needed to enforce the law.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 23,
+  "confidence": "Low",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

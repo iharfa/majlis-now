@@ -1,0 +1,21 @@
+{
+  "workId": "1483",
+  "titleDv": "ޤާނޫނު ނަންބަރު 23/2010 (ކޮޕީރައިޓާއި އެއާގުޅޭ އެހެނިހެން ޙައްޤުތަކުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Copyright and Related Rights Act (Law 23/2010). Its main change is longer protection: most copyright terms that now run for 50 years would run for 70 years, including protection after the author's death. It also rewrites the rules on which works are protected and on the creator's economic rights, such as copying, sharing and publicly showing a work. A later part sets 70-year terms for related rights, such as those of performers and broadcasters. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 45 pages.",
+  "whyItMatters": "Books, music, films and other works would stay under copyright for 20 more years, so permission or payment would be needed for longer before they can be freely copied or reused.",
+  "keyProvisions": [
+    "Renames the chapter heading in Chapter 2 and amends Article 3 on which works are protected and which are excluded, adding a new Article 3-1.",
+    "Amends Articles 4, 7 and 10 to 18, which set out the creator's exclusive rights, such as reproducing, distributing, renting and communicating a work to the public. Several of these articles are rewritten to refer back to Article 10.",
+    "Rewrites Article 20 on how long copyright lasts: protection runs for the author's life plus 70 years. Joint works, and works published anonymously or under a pen name, also get 70-year terms. One clause gives a 35-year term, but it could not be read clearly what kind of work that covers.",
+    "Amends Articles 23 and 24, including a new marginal heading on Article 24. The exact content could not be read reliably.",
+    "Retitles Chapter 3 on related rights and amends Articles 25, 26 and 27 so that these rights, which appear to cover performers, producers and broadcasters, also last 70 years."
+  ],
+  "whoIsAffected": "Writers, musicians, artists, performers, broadcasters, publishers, and anyone who copies or reuses creative works.",
+  "statedReasons": "The note says the bill amends Law 23/2010 to update its provisions, including extending a protection period from 50 years to 70 years.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 45,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

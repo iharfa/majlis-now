@@ -1,0 +1,22 @@
+{
+  "workId": "1478",
+  "titleDv": "ދައުލަތުގެ ފިސްކަލް ޒިންމާގެ ބިލު",
+  "summary": "This bill is a new State Fiscal Responsibility law. Its explanatory note says it replaces the Fiscal Responsibility Act (Law 7/2013). It sets principles for how the government taxes, spends and borrows. It also sets a limit on state debt, and it requires the Finance Ministry to publish a multi-year fiscal responsibility framework and a fiscal strategy statement and to manage fiscal risks. The contents list also covers budget outturn reports, special circumstances, and Parliament's role in oversight. The scans are hard to read, so some details are uncertain, especially the numbers in the debt limit. This summary covers the first 12 of 41 pages.",
+  "whyItMatters": "It sets the rules for how much the government can run deficits and borrow, which affects public services, taxes and the country's debt.",
+  "keyProvisions": [
+    "Article 4 says the law applies to state institutions and, as far as can be read, to companies and other bodies set up under law, including councils and independent institutions.",
+    "Article 5 lists fiscal policy principles that the government must follow, including managing public debt and fiscal risks and being transparent.",
+    "Article 6 sets a ceiling on state debt. The text mentions 91 percent, a 3-year period and a 2.5 percent figure, but it could not be read reliably how these combine.",
+    "Articles 7 to 10 require the Finance Ministry to prepare a fiscal responsibility framework covering 5 years, at least 6 months before each financial year. It must include fiscal targets and a statement of fiscal risks.",
+    "Article 11 requires the framework to go to Parliament and be published in the Government Gazette. One clause mentions a 14-day period.",
+    "The rest of the bill, listed in the contents but not rendered, covers the fiscal strategy statement, budget outturn reports, managing fiscal risks, exceptional circumstances, Parliament's role, regulations, and repealing the old law."
+  ],
+  "whoIsAffected": "The Finance Ministry, state institutions and companies, councils, and Parliament as it scrutinises the budget.",
+  "statedReasons": "The note says the bill replaces Law 7/2013 with a new framework for fiscal policy, fiscal rules and responsible management of the state's finances.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 41,
+  "confidence": "Low",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "workId": "1474",
+  "titleDv": "ސޮވްރިން ޑިވެލޮޕްމަންޓް ފަންޑުގެ ބިލު",
+  "summary": "This is a new law for the Sovereign Development Fund, a state savings fund. The fund already set up under Article 30-1 of the Public Finance Act (Law No. 3/2006) would continue under this law. The bill names the money that goes into the fund, including airport development fees, 10% of dividend income from state-owned companies, and sovereign guarantee fees. It says what the money can be used for, such as repaying the state's foreign debt. It also creates a seven-member governing council to run the fund. This summary covers the first 12 of 25 pages, and some passages are hard to read, so some details are uncertain.",
+  "whyItMatters": "The law would decide how some state income is saved and later used to pay off foreign debt, and who controls that money.",
+  "keyProvisions": [
+    "Article 3: the Sovereign Development Fund set up under Article 30-1 of the Public Finance Act (Law No. 3/2006), and the money in it, is treated as the fund under this law.",
+    "Article 5: money paid into the fund includes airport development fees, 10% of dividend income the state gets from state-owned companies, sovereign guarantee fees, and other money set on the governing council's advice.",
+    "Article 6: fund money can be used to repay the state's foreign-currency debt in the budget. Other uses need the governing council's advice and approval, which appears to be the President's. Article 7: fund income and any spending from the fund must be shown in the state budget.",
+    "Article 9: a Sovereign Development Fund Governing Council is to be formed within 30 days of the law taking effect. Article 10 makes it responsible for policies on how the fund is used, investment principles, the investment policy, and oversight of performance and risk.",
+    "Article 11: the council has 7 members: the Minister, 2 senior Ministry officials, the Maldives Monetary Authority Governor, a senior Monetary Authority official, and 2 people with experience in investment and related fields. Members other than the Minister and the Governor serve 5-year terms.",
+    "Articles 13 to 16 cover resignation, dismissal and filling vacancies. The council must meet at least 4 times each calendar year."
+  ],
+  "whoIsAffected": "The Finance Ministry, the Maldives Monetary Authority, state-owned companies paying dividends, and taxpayers who carry the state's debt.",
+  "statedReasons": "The government says the bill sets up the Sovereign Development Fund, lays down rules for running it, and sets the duties of state bodies connected to it. The note also mentions the state's debt.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 25,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}
