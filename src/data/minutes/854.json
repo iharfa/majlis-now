@@ -1,0 +1,321 @@
+{
+ "sittingId": "854",
+ "date": "2024-07-03",
+ "title": "11th sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 62,
+  "onLeave": 2,
+  "officialTravel": 0
+ },
+ "summary": "The sitting opened with the first reading of four bills, a committee deadline notice, and an urgent motion from the opposition asking the government to disclose how many political appointees it has hired and what state companies spend on their pay; the Majlis voted 11 to 56 not to debate it. Members then continued debating the government's State Debt Bill, with PNC and other members backing it and MDP members criticising spending and hiring while also welcoming the bill; the sponsor closed debate and the vote was set for voting time. Debate on the Fiscal Responsibility Bill began and the text of this part ends partway through a member's speech. The text is partly garbled, and the leave count in the attendance item is hard to read. This part finishes the debate on the government's Fiscal Responsibility Bill, with members from both the governing PNC and the opposition MDP arguing over past borrowing, recurrent spending and how to attract investment. After a break the Majlis then debated a resolution from the member for Baarashu to gauge members' views on the number of MPs growing every year, with speakers mostly backing a cap or slower growth. Votes were then held: the State Debt Bill and the Fiscal Responsibility Bill were each accepted 78-0 and sent to the Finance Committee, and the MP-numbers resolution was accepted 78-0 and sent to the independent institutions committee. The text layer is garbled in places, so speaker gists are approximate.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "62 present, 2 on leave, no member on official travel reported"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "First reading: bill to amend the Higher Education and Training Act (Law 2021/7), by Abdulla Rifau (South Maafannu)",
+   "outcome": "introduced"
+  },
+  {
+   "n": "4.2",
+   "title": "First reading: bill to amend the Penal Code (Law 2014/9), on behalf of the government by Hussain Riza Adam (Maafushi)",
+   "outcome": "introduced"
+  },
+  {
+   "n": "4.3",
+   "title": "First reading: bill to amend the Criminal Procedure Act (Law 2016/12), on behalf of the government by Husnee Mubarik (Manadhoo)",
+   "outcome": "introduced"
+  },
+  {
+   "n": "4.4",
+   "title": "First reading: bill to amend the law on legal aid in criminal cases (Law 2015/2), on behalf of the government by Abdul Sattar Mohamed (Holhudhoo)",
+   "outcome": "introduced"
+  },
+  {
+   "n": "5.1",
+   "title": "Committee deadline notice: Sovereign Development Fund Bill",
+   "outcome": "deadline announced as 23 July 2024"
+  },
+  {
+   "n": "Urgent matter",
+   "title": "Urgent motion by Meekail Ahmed Nasym to compel the government to disclose political appointees and state-company payroll spending",
+   "outcome": "not taken up for debate, 11 for and 56 against"
+  },
+  {
+   "n": "6.1",
+   "title": "Continued debate on the State Debt Bill, sponsored for the government by Mohamed Mamdooh (Funadhoo)",
+   "outcome": "debate concluded after the sponsor's closing remarks; vote to be put at voting time"
+  },
+  {
+   "n": "6.2",
+   "title": "Continued debate on the Fiscal Responsibility Bill, sponsored for the government by Ibrahim Naseem (Thulusdhoo)",
+   "outcome": "debate under way; part ends mid-speech"
+  },
+  {
+   "n": "6.2",
+   "title": "Debate on the State Fiscal Responsibility Bill (sponsored by the member for Thulusdhoo on behalf of the government), continued",
+   "outcome": "debate concluded; accepted for consideration 78-0, sent to Finance Committee"
+  },
+  {
+   "n": "6.3",
+   "title": "Resolution by the member for Baarashu to gauge MPs' views on the number of members of the People's Majlis rising every year",
+   "outcome": "debated; accepted for consideration 78-0, sent to the independent institutions committee"
+  },
+  {
+   "n": "7.1",
+   "title": "Votes on matters taken to a vote today: State Debt Bill (sponsored by the member for Funadhoo), Fiscal Responsibility Bill, MP-numbers resolution",
+   "outcome": "all three accepted 78-0-0; two bills to Finance Committee, resolution to independent institutions committee"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 4,
+   "positions": [
+    "Defended the government and criticised the past MDP government's spending and borrowing, citing swearing-in costs, loans and asset sales.",
+    "Urged the bill be passed quickly; exchanged remarks with members raising points of order."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 3,
+   "positions": [
+    "Moved an urgent motion asking the government to disclose political appointee numbers and company payroll spending, citing the Constitution and RTI refusals.",
+    "Called the blocking of the motion by the PNC supermajority a concern and tied it to the debt bill."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Supported the debt bill as a sign of the government's good intent, blamed past MDP borrowing, and asked for quick committee work.",
+    "Supports a bill tying the state's spending to responsible limits and says the government is working to rescue state finances, pointing to debts built up under the previous administration."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order about members pointing at the chair and the rules on addressing the chair.",
+    "Backed the Fiscal Responsibility Bill but raised concerns about hiring numbers and pay, and asked for a bill on promises."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 2,
+   "positions": [
+    "Said the bill could be good if applied, noting spending laws already exist, and questioned compliance, political appointments and flat rent cuts.",
+    "Supports the idea of reducing MP numbers; says other costs such as post-office benefits and allowances also need to be reviewed."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 2,
+   "positions": [
+    "Supported the bill and suggested amendments, including foreign-exchange rules and adding education and health to the priority list in article 5.",
+    "Supports capping MP numbers, noting some small atolls and islands have proportionally more seats; says costs of other office-holders and retirees' benefits also need review."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the bill and said all state bodies should cut spending; pledged his party's support for the President's reforms."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 2,
+   "positions": [
+    "As sponsor, said the debt bill makes borrowing and its use transparent and urged quick passage.",
+    "Opened debate on fiscal responsibility, citing debt-to-GDP of 112.3% in 2022 and 116.5% in 2023."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "On the fiscal bill: welcomes a clear fiscal policy and reviews decades of Maldivian debt, urging that new revenue sources be built.",
+    "On the MP-numbers resolution: backs a fixed limit on MPs as a way to cut state spending."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the State Debt Bill, citing its borrowing rules, debt office and rules for local councils and their companies, and urged quick passage."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that a member was straying from the bill under debate; the chair ruled it was not a point of order."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Said the bill is thorough but binds only the current government, and argued the rules should be entrenched, including through a constitutional change."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Welcomed the bill and said committee can improve it, but questioned government spending on events and said student stipends were delayed."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order objecting to a claim about MDP and saying it was factually wrong."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying local councils need borrowing rules to fund utilities, and urged quick committee work."
+   ]
+  },
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 1,
+   "positions": [
+    "Backed the government's steps and urged quick fiscal measures, saying MPs' pay should be held rather than cut, to avoid an IMF programme."
+   ]
+  },
+  {
+   "name": "Mohamed Afoo Hamid",
+   "constituency": "Kendhikulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Argued for the fiscal bill, citing cuts in spending and company debt, and asked MDP members to support it; speech continues into the next part."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Fully supports the Fiscal Responsibility Bill but says what members say here and what they do differ; argues past borrowing paid for basic services and pledged promises must be kept."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Says recurrent costs take most of the budget and the bill gives legal force to keeping them below revenue; raises reforming state companies and subsidies."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Says debate on fiscal policy shows a lack of sincerity from some members; backs the government's approach and urges attention to national finances and utilities such as Fenaka and RDC."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Says taxes and large upfront payments are slowing resort investment; asks the government to find ways to spread upfront payments and widen the tax base."
+   ]
+  },
+  {
+   "name": "Mohamed Ali",
+   "constituency": "Dhuvaafaru",
+   "turns": 1,
+   "positions": [
+    "Says MP numbers rise with population and law; proposes setting seats by atoll or island share rather than population alone."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Argues members should increase slowly over time rather than be capped, citing modern ways to reach constituents."
+   ]
+  }
+ ],
+ "decisions": [
+  "Four bills received their first reading (4.1 to 4.4).",
+  "Committee deadline for the Sovereign Development Fund Bill announced as 23 July 2024.",
+  "Urgent motion by Meekail Ahmed Nasym was not taken up for debate.",
+  "Debate on the State Debt Bill concluded; the vote is to be taken at voting time.",
+  "Sitting paused for a short break from 10:30 to 11:01.",
+  "State Debt Bill accepted for consideration 78-0-0 and sent to the Finance Committee.",
+  "State Fiscal Responsibility Bill accepted for consideration 78-0-0 and sent to the Finance Committee.",
+  "Resolution on the growing number of MPs accepted for consideration 78-0-0 and sent to the independent institutions committee.",
+  "Next sitting set for Monday 8 July 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate the urgent motion on political appointees and state-company payroll (needed 34)",
+   "yes": 11,
+   "no": 56,
+   "abstain": 0
+  },
+  {
+   "what": "State Debt Bill, acceptance for consideration",
+   "yes": 78,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "State Fiscal Responsibility Bill, acceptance for consideration",
+   "yes": 78,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Resolution to gauge MPs' views on MP numbers rising every year, acceptance for consideration",
+   "yes": 78,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Motion in MP Meekail's name on debating every issue (appears only in the attached morning voting sheet)",
+   "yes": 11,
+   "no": 56,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 81,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

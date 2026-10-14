@@ -1,0 +1,505 @@
+{
+ "sittingId": "850",
+ "date": "2024-06-26",
+ "title": "7th sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 55,
+  "onLeave": 4,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened with the usual prayers, an attendance count, approval of the minutes of the first four sittings, and first readings of two government bills and one resolution. The Speaker offered condolences on the death of former national footballer Mohamed Arif (Baka). Parliament then voted to take up an urgent matter from South Feydhoo MP Ibrahim Didi about the Fenaka Corporation's debt of about MVR 4.3 billion and its power and water service problems, and MPs from both the government side and the MDP debated it; the debate was still running at the end of this part. This part continues the urgent-matter debate, brought by the member for South Feydhoo, on alleged large-scale corruption and debt at the state utility Fenaka Corporation (about MVR 4.3 billion owed). Sixteen more members spoke, mostly describing power, water and sewerage problems on their islands, calling for the Anti-Corruption Commission and audit bodies to act, for money to be recovered, and for better oversight of state companies; some also traced the problems to earlier governments. After a 30-minute break no member wished to continue, so the debate ended with no further motion. The Speaker's table then sent the President's letter on the Samoa Agreement (EU and OACPS partnership) to the Foreign Relations Committee, no items were ready for a vote, and the sitting closed until Monday 1 July 2024 at 9:00. The text layer is garbled in places and the voting records at the end are English tables.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers and blessings",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "55 present, 4 on leave, 1 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda (no. 2024/7)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Approval of the minutes of the 1st to 4th sittings (2024/1 to 2024/4)",
+   "outcome": "accepted by the Chair as no amendments were proposed"
+  },
+  {
+   "n": "5.1",
+   "title": "Public Debt Bill, first reading (submitted by Funadhoo MP Mohamed Mamdooh on behalf of the government)",
+   "outcome": "first reading read"
+  },
+  {
+   "n": "5.2",
+   "title": "State Fiscal Responsibility Bill, first reading (submitted by Thulusdhoo MP Ibrahim Naseem on behalf of the government)",
+   "outcome": "first reading read"
+  },
+  {
+   "n": "5.3",
+   "title": "Resolution by Baarashu MP Ibrahim Shujau seeking members' views on the Majlis growing in size every five years, first reading",
+   "outcome": "first reading read"
+  },
+  {
+   "n": "6",
+   "title": "Announcements from the Chair",
+   "outcome": "condolences for the death of Mohamed Arif (Baka)"
+  },
+  {
+   "n": "7",
+   "title": "Urgent matter under Rule 170 by South Feydhoo MP Ibrahim Didi on Fenaka Corporation's debt and the government's actions",
+   "outcome": "debate approved 67-0; debate time extended 49-0; debated, continuing into the next part"
+  },
+  {
+   "n": "6",
+   "title": "Urgent matter (rule 170) on alleged corruption at Fenaka Corporation, proposed by the member for South Feydhoo (continued)",
+   "outcome": "debated by 16 more members; debate ended with no one left to speak; opening vote to take it up passed 67-0, vote to extend debate time passed 49-0"
+  },
+  {
+   "n": "7.1",
+   "title": "President's letter seeking Majlis approval to sign the Samoa Agreement (EU and OACPS partnership agreement)",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "8",
+   "title": "Matters ready for a vote",
+   "outcome": "none; no further business that day"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Azim Abdul Azeez",
+   "constituency": "Vilingili",
+   "turns": 3,
+   "positions": [
+    "Alleged procurement irregularities at Fenaka under the earlier government, including shell companies, and called for those found responsible to be jailed.",
+    "Referred to an Islamic punishment for theft, which the Chair asked him not to repeat in the chamber."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Moved the urgent matter asking what the government has done about Fenaka, citing large spending on travel, generator servicing and unfinished projects.",
+    "Said Fenaka's debts, including sums owed to STO, and the unfinished works need accountability and investigation."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Moved to extend debate time so every member who wished could speak, proposing five minutes each.",
+    "Said Fenaka's debt and island engine house problems should be investigated and those responsible brought to account."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Said the MVR 4.3 billion debt and the amounts owed to STO show past mismanagement that parliament should examine."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Seconded extending the debate and said Fenaka's debt affects many citizens' power and water supply and blamed earlier mismanagement and corruption."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Said falling service standards and outages show the facts behind Fenaka's problems need to be found and those responsible held to account."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Said power supply in his island constituency is unreliable and urged examining Fenaka's contracts, hiring and spending, with action against those at fault."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Said cases should go to committees and the ACC rather than only be debated, and described stalled engine house works in Kendhoo and nearby islands."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Said supplies and funds recorded in the names of Dhidhdhoo and other islands did not reach them, and outages are frequent."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Said debate alone is not enough and called for arrests and legal action against those responsible, while defending the current management."
+   ]
+  },
+  {
+   "name": "Adam Zahir",
+   "constituency": "Felidhoo",
+   "turns": 1,
+   "positions": [
+    "Said many young and small businesses went bankrupt over unpaid Fenaka dues and asked where money printed under the earlier government went."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Said Fenaka's condition stems from earlier decisions and that the current government is working to improve services."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Said any wrongdoing should be investigated, questioned whether the matter is truly urgent, and noted Fenaka's large staff hiring."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Said weak procurement rules and managing director appointments in state companies leave room for theft and urged reforming company law and procurement."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Said earlier hiring and spending left Fenaka heavily indebted and that those responsible should be investigated."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Argued the motion is more a pretext than an urgent matter, said the majority can investigate if corruption exists, and criticised hiring and unmet promises."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Said all alleged wrongdoing should be examined regardless of party, including under the MDP government, and that staff and equipment allocations should be checked."
+   ]
+  },
+  {
+   "name": "Mohamed Afoo Hamid",
+   "constituency": "Kendhikulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Cited ACC complaints filed in April, engine house problems in Kudafari and generator spending, and said service continues with limited generators."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Said the MVR 4.3 billion debt is a serious concern and called for action against those who neglected their duties."
+   ]
+  },
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 1,
+   "positions": [
+    "Called the debt the result of planned corruption, gave purchase price examples, and said a large engine house in Madaveli remains unfinished."
+   ]
+  },
+  {
+   "name": "Ismail Shafeeu",
+   "constituency": "Isdhoo",
+   "turns": 1,
+   "positions": [
+    "Said the current government is paying outstanding dues and working to fix Fenaka, and that those who neglected their duty should face action."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Said generator overhauls were neglected and many islands lack generators, and described a stalled Fenaka office project in his constituency."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Called for the SOE committee and the ACC to examine Fenaka and summon the relevant officials if cases stall."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why watchdog bodies such as the ACC and PCB have not acted, and said power in Makunudhoo is poor and generators are not overhauled."
+   ]
+  },
+  {
+   "name": "Abdulla Rasheed",
+   "constituency": "Dhangethi",
+   "turns": 1,
+   "positions": [
+    "Called for an SOE committee review with a timeline, a stronger company policy and audits, and criticised transport and maintenance spending."
+   ]
+  },
+  {
+   "name": "Hussain Imran Latheef",
+   "constituency": "South Henveyru",
+   "turns": 1,
+   "positions": [
+    "Said unpaid small businesses and weakened lender trust in state companies follow from Fenaka's conduct, and called for the matter to be reviewed."
+   ]
+  },
+  {
+   "name": "Yoosuf Nasheed",
+   "constituency": "Gan",
+   "turns": 1,
+   "positions": [
+    "Cited local examples of repair costs and allowances charged to Fenaka and asked for a way to investigate them."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 1,
+   "positions": [
+    "Questioned how the MVR 4.3 billion arose, described the difficulty of shipping Fenaka supplies to islands, and said unfinished projects must be completed."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Said company managing directors should be vetted on track record and cited a Fuvahmulah engine house only 45 percent complete after large spending."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Said corruption allegations need fast, thorough investigation and recalled that Fenaka corruption was also raised in the previous Majlis."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Said water, power and sewerage are basic services needing practical work, not just speeches, and described Maavashu's water supply problems.",
+    "Said the government should take the financial measures it needs to keep basic services running."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said state-company managers hold public money in trust and that staff costs at Fenaka rose sharply after 2018 while many islands still lack 24-hour power.",
+    "Said the matter must be looked into together with the Anti-Corruption Commission."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Said Fenaka's debt of about MVR 4.3 billion and its past spending, including costly boat charters, need investigation.",
+    "Said audit and anti-corruption systems must be improved because past audits and commission cases did not lead to proof in court."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said electricity, water and sewerage are essential services, and that service in his constituency's four islands is weak.",
+    "Said Fenaka's current managing director has been supportive and promised to fix Thulhaadhoo's low-voltage problem within two months."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Said Fenaka paid out money through paper companies for work not done, and Dhaandhoo has only one working engine.",
+    "Listed projects reported to the Anti-Corruption Commission and asked it to act against those responsible."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Said the alleged MVR 4.3 billion loss is a serious breach of trust and those responsible should repay it.",
+    "Asked the Anti-Corruption Commission to be brought in within the week and for ways to return the money to the state."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Said power is essential to people's lives and food safety, and that Fenaka was loaded with debt after the generators were handed to it.",
+    "Called for utility companies to be run by trustworthy people on terms that protect basic rights."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Asked how audit and anti-corruption bodies missed alleged problems for five years, and said members of the 19th Majlis did not raise the issue.",
+    "Said the debate alone is not enough and the responsible parties must be dealt with."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Said the alleged theft ran for five years with help from many people and that a monitoring system for state companies is needed.",
+    "Said water cuts in Maamendhoo show the effect on residents and urged action instead of talk."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Said oversight institutions exist but are not working well, and that essential services have stopped on some islands.",
+    "Called for legal action against those responsible and for state-company mandates to be revised."
+   ]
+  },
+  {
+   "name": "Mohamed Shamin Habeeb",
+   "constituency": "Kurendhoo",
+   "turns": 1,
+   "positions": [
+    "Described Kurendhoo's broken radiator and long wait for a panel board, and thanked Fenaka's current managing director for meeting him.",
+    "Asked for the lost money to be found and for action against those behind the corruption."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 1,
+   "positions": [
+    "Said power in Vandhoo and Thimarafushi is unreliable and the islands have gone days without water because the RO plant was not repaired.",
+    "Said unpaid staff and missing spare parts followed the company's debt, and backed calls to recover the lost money."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Said the matter should have been brought sooner and argued the debt is not purely a company debt.",
+    "Said the law on unexplained wealth should apply to all citizens, not only members and ministers."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Abdul Rahman",
+   "constituency": "Alifushi",
+   "turns": 1,
+   "positions": [
+    "Said islands in his constituency have unreliable power and that engines went unmaintained in recent years.",
+    "Called for independent institutions to be brought to the Majlis and for responsible parties to face accountability."
+   ]
+  },
+  {
+   "name": "Hanan Mohamed Rasheed",
+   "constituency": "Guraidhoo",
+   "turns": 1,
+   "positions": [
+    "Criticised the company's past leadership and its hiring of staff and managers.",
+    "Called on the government to examine last five years' conduct and to pursue firm action."
+   ]
+  },
+  {
+   "name": "Asadhulla Shihab",
+   "constituency": "Gemanafushi",
+   "turns": 1,
+   "positions": [
+    "Said the alleged losses were large and action came late, and that engine and cable works in his constituency were started and left unfinished.",
+    "Called for those responsible to face action and for the process to be sped up."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of the 1st to 4th sittings (2024/1 to 2024/4) accepted by the Chair as no amendments were proposed.",
+  "First readings read for the Public Debt Bill, the State Fiscal Responsibility Bill and a resolution on the growing number of Majlis members.",
+  "The Majlis agreed to debate the urgent matter on Fenaka submitted by Ibrahim Didi.",
+  "The Majlis agreed to extend the debate until all members wishing to speak could do so.",
+  "The Chair reminded members to use full names of other members and not to interrupt a speaker.",
+  "After a 30-minute break (12:34 to 13:02) no member wished to speak further, so the urgent-matter debate ended.",
+  "The President's letter on signing the Samoa Agreement was sent to the Foreign Relations Committee under rule 116.",
+  "No items were ready for a vote and no other business was taken that day.",
+  "The next sitting was set for Monday 1 July 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate the urgent matter on Fenaka submitted by South Feydhoo MP Ibrahim Didi (93 members, 69 present, 34 needed)",
+   "yes": 67,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Motion by Ibrahim Shujau (seconded by Saudulla Hilmy) to extend the debate until all members wishing to speak had spoken (51 present, 25 needed)",
+   "yes": 49,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Taking up the urgent matter for debate (roll call, 9:37)",
+   "yes": 67,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Extending the debate time on the urgent matter (roll call, 10:25)",
+   "yes": 49,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 73,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

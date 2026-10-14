@@ -1,0 +1,255 @@
+{
+ "sittingId": "859",
+ "date": "2024-07-16",
+ "title": "15th sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 51,
+  "onLeave": 4,
+  "officialTravel": 4
+ },
+ "summary": "The sitting opened at 9:01 and the main business was the preliminary debate on a government bill to amend the 2015 law on legal assistance between countries in criminal cases, aimed at getting digital evidence and help from other countries against cybercrime. Nearly every speaker backed the bill and urged quick passage, while a few asked that the committee stage involve technical experts, clearly define foreign access to data, and review a provision on arrests on suspicion. After a recess (10:29 to 11:01) the house resumed debate on a bill amending the Criminal Procedure Act (bail), which was still being debated when this part ends. This part continues the debate on the government's bill to amend the Criminal Procedure Act (Law 12/2016), which adds a bail (kafaalath) system and rules on electronic evidence and cybercrime. A speech from the previous part ends, then members for Milandhoo, Thulhaadhoo, South Henveyru, North Feydhoo, Holhudhoo and North Kulhudhuffushi speak. All of those who state a view support the bill, citing people held for long periods before trial, rising cybercrime and the need for the police to be able to gather digital evidence; some ask that the committee stage involve experts and keep checks on investigators' powers. The Speaker closed the sitting so committees could meet, with the next sitting set for Wednesday 17 July 2024 at 9:00. The text layer is garbled in places, but the main points are readable.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "51 present, 4 on leave, 4 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "none made"
+  },
+  {
+   "n": "5.1",
+   "title": "Preliminary debate on the bill to amend the Mutual Legal Assistance in Criminal Matters Act (Act 2/2015), sponsored for the government by the Holhudhoo member",
+   "outcome": "preliminary debate held (19 speaking turns); sitting then paused for recess"
+  },
+  {
+   "n": "6.1",
+   "title": "Continued debate on the bill to amend the Criminal Procedure Act (Act 2016/12), sponsored for the government by the Manadhoo member",
+   "outcome": "debate continued; still under debate at the end of this part"
+  },
+  {
+   "n": "",
+   "title": "Debate on the bill to amend the Criminal Procedure Act (Law 12/2016) (continued)",
+   "outcome": "debated; no vote in this part"
+  },
+  {
+   "n": "",
+   "title": "Speaker closes the sitting and announces the next one",
+   "outcome": "sitting closed; next sitting Wednesday 17 July 2024 at 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 3,
+   "positions": [
+    "Introduced the bill: sets procedures for getting evidence and help from other countries in criminal cases, citing rising cybercrime and scams.",
+    "Said it enables quick preservation of computer and traffic data and a 24-hour contact network with foreign investigators.",
+    "In reply, said information that threatens national sovereignty can be withheld and the bill helps police reach offenders faster.",
+    "Said the bail system is a useful change and the constitution already provides for it, but no law had set out how it works."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 3,
+   "positions": [
+    "Supported the legal-assistance bill, saying it helps fight cybercrime and that the government's three-bill package should pass quickly.",
+    "Argued cybercriminals are often unknown people and said police must bring them to account; criticised the previous MDP government's record on crime.",
+    "On the bail bill, thanked the sponsor and said it fulfils President Muizzu's election promise on bail; his turn continues into the next part."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the bill, saying it makes fair trials possible for those charged; wants the committee to consult technical experts and pass it quickly.",
+    "Said the bill is needed so that people no longer sit in prison awaiting trial, and that the old system left many young people held for long periods.",
+    "Called for the bill to be worked on quickly in committee so it can become law."
+   ]
+  },
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 1,
+   "positions": [
+    "Said the amendment is important for today's world and brings fairer treatment in financial and criminal matters; asked that it be passed as it stands."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as a tool against cross-border crime such as cybercrime, human trafficking and terrorism, and said it aligns Maldives law with international standards."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Said scams are surging, most involving Bank of Maldives accounts, and asked that the relevant ministries be called to the committee stage."
+   ]
+  },
+  {
+   "name": "Ahmed Thariq",
+   "constituency": "Mahibadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the three-bill package targets internet-enabled crime and urged more training, protection and better pay for police investigators."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Said the bill gives people more rights, is technical, and needs technical experts at committee; noted banks and telecom firms often cannot supply data to police."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Said offenders now use technology worldwide and the amendment gives Maldives access to overseas help; urged quick passage."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Suggested a register of people with the relevant computer skills and more spending on investigation facilities, and asked that laws also cover digital assets."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said cybercrime was never defined in Maldives law, that technology is now used for serious crime, and backed the package."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Said the bill helps investigators get information from abroad, will deter offenders, and should pass quickly."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill but asked the committee to revisit the provision on arresting people on suspicion, citing risks of people being framed."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Cited an ATM scam of about 2 million rufiyaa and said telecom firms, banks and police need closer cooperation and public awareness."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the aims but asked that foreign investigators' access to Maldives data be defined strictly to prevent misuse, including against political figures."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, said scam calls reach people from inside jails, and called for more public awareness and institutional involvement."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said investigators lack legal powers to get information held by banks and telecom firms; supported committee work with technical experts."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "On the Criminal Procedure bill, said court cases have failed over evidence procedure and asked that provisions be written precisely and officials be held accountable."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said cybercrime is growing and that law enforcement needs the powers the bill gives, including over electronic evidence.",
+    "Said the bail changes would let many people held before trial be released under set conditions, and asked for the bill to pass quickly."
+   ]
+  },
+  {
+   "name": "Hussain Imran Latheef",
+   "constituency": "South Henveyru",
+   "turns": 1,
+   "positions": [
+    "Thanked the government and bill sponsor, and noted the police have set up a cybercrime security command.",
+    "Said the new law could open careers for Maldivians in cybersecurity and help address human trafficking concerns raised in a 2023 US report."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Said weak and unclear rules have made cybercrime hard to punish in practice and that the bill is a step forward.",
+    "Cautioned that giving investigators broad powers over electronic data needs monitoring, and asked for these points to be handled in committee with expert advice."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Said the bill will ease cybercrime investigations and give relief to people held under detention before trial.",
+    "Said judges would be able to weigh the crime and the person's record when granting bail, and asked for expert consultation in committee."
+   ]
+  }
+ ],
+ "decisions": [
+  "Chair announced the day's agenda and that there were no announcements from the chair.",
+  "Sitting paused for a recess from 10:29 to 11:01 after item 5.1, then resumed with item 6.1.",
+  "The Speaker closed the sitting so that several committees (including Finance, Petitions, Judiciary and Foreign Affairs) could meet.",
+  "The next Majlis sitting was set for Wednesday 17 July 2024 at 9:00."
+ ],
+ "votes": [],
+ "pagesTotal": 52,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

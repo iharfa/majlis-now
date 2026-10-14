@@ -1,0 +1,424 @@
+{
+ "sittingId": "848",
+ "date": "2024-06-24",
+ "title": "5th sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 61,
+  "onLeave": 2,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened with 61 members present. An urgent matter filed by the member for Maradhoo could not proceed because he was not in the chamber. The rest of this part was the first-stage debate on the government's bill to amend the Health Services Act (2015/29), sponsored by the member for South Henveyru. Nearly all speakers backed it, mainly for defining the Director General of Health Services' duties, a national health master plan and preventive care, while many also raised island health service gaps and asked the committee to refine the bill. The debate continues into the next part. This part continues the preliminary debate on the government's bill to amend the Health Services Act (Law No. 29/2015). Members from the government side and a few from the opposition spoke on health services in their constituencies, medicine and staff shortages, Aasandha spending and the powers of the Director General of Health Services. After a short break the Majlis voted 82 in favour, with none against, to accept the bill, which was sent to the Social Committee. The sitting then closed, with the next sitting set for Tuesday 25 June 2024 at 9:00. Some text is garbled, so speaker gists are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers and praise",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "61 present announced"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "none that day"
+  },
+  {
+   "n": "urgent",
+   "title": "Urgent matter under rule 170 (Maradhoo member)",
+   "outcome": "not taken up, sponsor absent from the floor"
+  },
+  {
+   "n": "5.1",
+   "title": "First-stage debate: bill to amend the Health Services Act (law 2015/29)",
+   "outcome": "debated; continues in next part, break 10:31 to 11:01"
+  },
+  {
+   "n": "5",
+   "title": "Preliminary debate on the Bill to amend the Health Services Act (Law No. 29/2015) (continued)",
+   "outcome": "debate completed; sponsor gave closing remarks",
+   "workId": "1473"
+  },
+  {
+   "n": "6",
+   "title": "Voting on whether to accept the Health Services Act amendment bill",
+   "outcome": "accepted 82-0; sent to the Social Committee",
+   "workId": "1473"
+  },
+  {
+   "n": "7",
+   "title": "Any other business",
+   "outcome": "none; sitting closed, next sitting Tuesday 25 June 2024 at 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hussain Imran Latheef",
+   "constituency": "South Henveyru",
+   "turns": 3,
+   "positions": [
+    "Introduced the bill: clearer duties for the Director General of Health Services, a national plan, and preventive care.",
+    "In closing, said the bill should not be politicised and raised past ventilator and medicine procurement as concerns.",
+    "As sponsor, said the debate raised concerns about the IGMH ward and a hospital used as a mortgage asset by a past government, and hoped the bill passes quickly after study."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 3,
+   "positions": [
+    "Raised a point of order, saying a remark about Addu City health services was inaccurate and citing a recent operation at Hithadhoo hospital.",
+    "Argued the bill's changes are minor and questioned whether they would improve services, citing medicine and equipment shortages and Aasandha limits abroad.",
+    "Questioned the powers the bill gives the Director General of Health Services and who drafted the bill."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Backed the bill; said many services still do not reach islands and criticised earlier governments' record.",
+    "Raised mosquito problems and called on members to back the bill so it can be passed soon."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Said building large hospitals does not help without equipment, doctors, nurses and staff, and argued for a health system that delivers services across the atolls.",
+    "Said Aasandha spending is very high and should be reformed, and thanked the President for sending the bill."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; linked public health to imported food and chemical standards needing oversight.",
+    "Said past health facilities and staff were left in poor condition."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said prevention beats treatment and called for national health awareness programmes.",
+    "Mentioned smoking and chemical use in farming as health risks."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said islands in his constituency lack X-ray, scanning and lab services and asked the ministry to act quickly."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill fully; said it clarifies who the Director General answers to and hoped it improves island health centre hours and services."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said the COVID-era experience showed the Director General's accountability and appointment terms needed to be spelled out."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; welcomed preventive care in the law and recalled earlier school health awareness visits that have since faded."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; stressed preventive care and food safety, and spoke about chronic disease and health spending."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; criticised long waits and costs at IGMH and private clinics.",
+    "Suggested an insurance-style system covering care up to MVR 100,000 at any hospital."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; summarised its three amended articles and asked the committee to hear technical experts.",
+    "Said Thinadhoo regional hospital services need improving."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said island hospitals lack routine tests and mosquito control, and asked for faster specialist access.",
+    "Described poor conditions at Kolamaafushi and Mamendhoo health facilities."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said the Director General's duties should be clear and preventive care introduced.",
+    "Suggested studying why diseases are rising given large health spending."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Backed the bill in principle; called for reviewing Aasandha and insurance arrangements and more committee changes.",
+    "Raised Fuvahmulah's scan machine and air ambulance needs."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said it responds to COVID-era procurement problems by giving the Director General clear legal duties.",
+    "Mentioned a government food safety project."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said Addu City pharmacies lack medicines and hoped such bills will resolve health system problems."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill but wanted the health master plan explained.",
+    "Voiced concern about Director General appointments through the civil service on the minister's advice."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said island health services are weak in Ihavandhoo and nearby islands.",
+    "Asked for Aasandha and ENSPA to be reviewed."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill's three main changes but wanted more study at committee.",
+    "Raised Kendhoo's stalled water and sewerage works and missing lead shielding in X-ray rooms."
+   ]
+  },
+  {
+   "name": "Mohamed Shamin Habeeb",
+   "constituency": "Kurendhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said Kurendhoo health centre has one doctor and urged better doctor quality on islands.",
+    "Called for monitoring imported food as preventive care."
+   ]
+  },
+  {
+   "name": "Faruhath Mohamed",
+   "constituency": "South Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said Kulhudhuffushi regional hospital patients are still transferred to Malé and its cardiac centre lacks a heart doctor.",
+    "Asked for the hospital to be upgraded."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; welcomed defined Director General duties and preventive care, and asked the committee to define the post's powers."
+   ]
+  },
+  {
+   "name": "Munthazim Ibrahim",
+   "constituency": "Kaashidhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; raised a nerve illness affecting Kaashidhoo residents and asked for a study of disease causes."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said his atoll's hospital and health posts need more doctors and nurses.",
+    "Described heavy reliance on IGMH."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; urged monitoring people who received COVID vaccines and more even Aasandha cover.",
+    "Called for regulating private hospital prices."
+   ]
+  },
+  {
+   "name": "Yoosuf Nasheed",
+   "constituency": "Gan",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; urged separating public health from hospital services.",
+    "Asked that law cover patients with no guardian and that the Director General come from the civil service."
+   ]
+  },
+  {
+   "name": "Mohamed Afoo Hamid",
+   "constituency": "Kendhikulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; cited government health pledges such as Aasandha medical checkups and school screening. Speech continues into next part."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and spoke about unsafe imported produce, and about vaccine prices and deaths during Covid, asking for them to be investigated.",
+    "Hoped Aasandha cover could be extended to treatment abroad, including Turkey and Thailand."
+   ]
+  },
+  {
+   "name": "Ahmed Thariq",
+   "constituency": "Mahibadhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that a member should not make accusations against a person who cannot reply in the chamber; the Chair accepted it as a point of order."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and said health centres in his constituency are in poor condition, lacking basic lab testing, and that residents travel to Malé for care.",
+    "Said Aasandha spending was twice the budgeted amount last year without clear benefit to residents."
+   ]
+  },
+  {
+   "name": "Ahmed Zahir",
+   "constituency": "Maduvvari",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment and said Maduvvari lacks a suitable health building and enough doctors and nurses.",
+    "Hoped better services in the atolls will reduce trips to Malé and abroad for treatment."
+   ]
+  },
+  {
+   "name": "Ismail Shafeeu",
+   "constituency": "Isdhoo",
+   "turns": 1,
+   "positions": [
+    "Thanked the sponsor and said the three health centres in his constituency are in poor condition, with shortages of lab technicians and nurses.",
+    "Said island health centres depend on a regional hospital whose condition is also weak."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and said Rathafandhoo and Fiyoaree have poor health services, with no building or staff, and hoped the committee stage will address this."
+   ]
+  },
+  {
+   "name": "Mohamed Ali",
+   "constituency": "Gadhdhoo",
+   "turns": 1,
+   "positions": [
+    "Said health services in Gadhdhoo and Vaadhoo are stalled, with promised hospital projects not visible, and that even small requests must go through the regional hospital in Thinadhoo."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Said the bill is needed now and should make Aasandha and STO services easier to access.",
+    "Said he believes it will help prevent theft and waste of medicines, citing expired Panadol sold to the STO."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Hoped committee study will strengthen the bill, and raised cancer and mental illness care, conditions at the IGMH ward and medicine standards.",
+    "Said water and sewerage shortages on two islands in his constituency also affect health."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Thanked the sponsor and said members earlier in the term had chances to fix health problems, and urged the Majlis to focus on more important issues."
+   ]
+  }
+ ],
+ "decisions": [
+  "The urgent matter filed by the Maradhoo member under rule 170 was not taken up because he was absent from the floor.",
+  "Debate on the Health Services Act (2015/29) amendment bill began and continues into the next part.",
+  "A break was held from 10:31 to 11:01 before debate resumed.",
+  "The Majlis accepted the Health Services Act (Law No. 29/2015) amendment bill at the preliminary stage by 82 votes to 0.",
+  "Under rule 97(r) of the Majlis rules, the bill was sent to the Social Committee.",
+  "The next Majlis sitting was set for Tuesday 25 June 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the Bill to amend the Health Services Act (Law No. 29/2015)",
+   "yes": 82,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 66,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

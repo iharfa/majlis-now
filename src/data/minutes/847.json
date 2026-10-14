@@ -1,0 +1,224 @@
+{
+ "sittingId": "847",
+ "date": "2024-06-10",
+ "title": "4th sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 64,
+  "onLeave": 1,
+  "officialTravel": 0
+ },
+ "summary": "The sitting opened at 09:00 and ended at 13:16. The Speaker announced the Majority Leader (Ibrahim Falah) and Minority Leader (Ibrahim Nazil) and said the government had sent a list of 37 bills for this term. Members held the preliminary debate on an MDP bill to amend the Immigration Act so that holders of Israeli passports cannot enter the Maldives; speakers from both sides condemned the killing of Palestinians and argued over whether the bill was political, with several asking for it to go to committee. The bill was accepted 88-0 and sent to the Security Services Committee, and the House then approved three ministers nominated by the President (Attorney General, Islamic Affairs and Housing, Land and Urban Development).",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "64 present, 1 on leave, none on official travel at the roll call"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Government bill to amend the Health Services Act, Law 29/2015 (sponsored by South Henveyru member Hussain Imran Latheef)",
+   "outcome": "listed for first reading; no debate recorded"
+  },
+  {
+   "n": "4.2",
+   "title": "Sovereign Development Fund bill (government bill, sponsored by Central Fuvahmulah member Ali Fazad)",
+   "outcome": "listed for first reading; no debate recorded"
+  },
+  {
+   "n": "5.1",
+   "title": "Announcement of the Majority Leader and Minority Leader under Rule 37",
+   "outcome": "Ibrahim Falah (Inguraidhoo, PNC) declared Majority Leader; Ibrahim Nazil (South Hithadhoo, MDP) declared Minority Leader"
+  },
+  {
+   "n": "5.2",
+   "title": "Government's list of bills for the term under Rule 82(c)",
+   "outcome": "list of 37 bills received; to be shared with members and put on the Majlis website"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate: bill to amend the Immigration Act, Law 1/2007 (sponsored by South Galolhu member Meekail Ahmed Nasym)",
+   "outcome": "debated; accepted 88-0 and referred to the Security Services Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "Report of the Government Accountability Committee on approval of three ministers nominated by the President",
+   "outcome": "report presented by Mohamed Ismail (Vilimale'); no debate sought"
+  },
+  {
+   "n": "8.1",
+   "title": "Vote: accept the Immigration Act amendment bill",
+   "outcome": "passed 88-0-0"
+  },
+  {
+   "n": "8.2",
+   "title": "Vote: approve Ahmed Usham as Attorney General",
+   "outcome": "approved 87-0-0"
+  },
+  {
+   "n": "8.3",
+   "title": "Vote: approve Dr. Mohamed Shaheem Ali Saeed as Minister of Islamic Affairs",
+   "outcome": "approved 83-0-0"
+  },
+  {
+   "n": "8.4",
+   "title": "Vote: approve Dr. Ali Haidar Ahmed as Minister of Housing, Land and Urban Development",
+   "outcome": "approved 81-4-0"
+  },
+  {
+   "n": "9",
+   "title": "Other business",
+   "outcome": "none; next sitting set for Monday 24 June 2024 at 09:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 2,
+   "positions": [
+    "Introduced the bill to bar Israeli passport holders as a firm stand against the Gaza killings and called for cross-party backing.",
+    "Said he hoped for debate on the bill's merits, and that his motive was not to topple the government."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Said the issue is sensitive and the government should consult stakeholders before deciding.",
+    "Raised religious ties to Al-Aqsa and the risk of public pressure driving decisions; the chair asked him to stay on the bill."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Called the bill important but said it is a long-running issue, and moved to refer it to the Security Services Committee."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Supported sending the bill to committee and asked that the effects on Maldivian interests be studied there."
+   ]
+  },
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 1,
+   "positions": [
+    "Backed referral to committee after careful study, and said he viewed the bill as politically motivated."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Criticised the majority for staying silent, asked why the government had not acted earlier, and questioned the need for committee referral."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Called the bill politically driven, said the MDP did not act when in government, and backed referral to committee."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying his constituents would expect that, and urged teaching about Palestine in schools."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Said the government's own decision should not be avoided in debate, and proposed sending the bill to the Foreign Relations Committee."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Rejected MDP claims that the government was avoiding the issue and said the majority was keeping debate short to speed up committee work."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, said action had been slow, and urged members to end debate and bring it into effect quickly."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Presented the Government Accountability Committee report recommending approval of the three ministers, finding they met constitutional requirements."
+   ]
+  }
+ ],
+ "decisions": [
+  "Ibrahim Falah (PNC) named Majority Leader and Ibrahim Nazil (MDP) named Minority Leader under Rule 37.",
+  "Government's list of 37 bills for the term received; to be shared with members and published on the Majlis website.",
+  "Immigration Act amendment bill (Israeli passports) accepted for consideration 88-0 and sent to the Security Services Committee.",
+  "Majlis approved Ahmed Usham as Attorney General, 87-0.",
+  "Majlis approved Dr. Mohamed Shaheem Ali Saeed as Minister of Islamic Affairs, 83-0.",
+  "Majlis approved Dr. Ali Haidar Ahmed as Minister of Housing, Land and Urban Development, 81-4.",
+  "Sitting adjourned; next sitting Monday 24 June 2024 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the Immigration Act (Law 1/2007) amendment bill and send it to committee",
+   "yes": 88,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approval of Ahmed Usham as Attorney General",
+   "yes": 87,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approval of Dr. Mohamed Shaheem Ali Saeed as Minister of Islamic Affairs",
+   "yes": 83,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approval of Dr. Ali Haidar Ahmed as Minister of Housing, Land and Urban Development",
+   "yes": 81,
+   "no": 4,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 43,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}
