@@ -477,6 +477,8 @@
   <url><loc>https://majlis-now.vercel.app/votes/vote-1922-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1913-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1853-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1814-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1732-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1944-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1939-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1944-acceptance</loc></url>
@@ -499,6 +501,7 @@
   <url><loc>https://majlis-now.vercel.app/votes/vote-1870-acceptance</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1873-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1831-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1774-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1873-acceptance</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1861-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1853-acceptance</loc></url>
@@ -508,8 +511,144 @@
   <url><loc>https://majlis-now.vercel.app/votes/vote-1845-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1837-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1837-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1828-acceptance</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1832-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1832-acceptance</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1831-acceptance</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1830-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1742-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1816-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1733-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1579-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1579-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1823-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1822-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1823-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1822-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1816-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1814-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1807-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1805-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1803-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1807-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1806-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1805-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1628-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1628-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1797-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1712-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1703-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1783-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1485-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1485-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1783-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1774-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1771-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1763-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1762-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1756-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1749-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1742-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1741-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1707-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1741-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1729-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1508-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1508-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1733-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1698-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1725-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1714-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1732-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1728-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1697-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1729-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1727-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1725-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1728-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1714-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1712-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1707-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1703-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1698-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1697-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1684-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1679-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1679-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1587-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1587-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1580-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1670-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1664-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1664-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1656-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1572-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1572-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1469-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1469-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1643-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1643-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1619-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1619-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1599-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1583-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1583-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1525-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1525-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1489-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1489-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1488-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1488-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1486-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1486-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1483-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1483-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1522-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1522-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1478-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1478-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1477-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1477-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1556-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1556-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1555-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1555-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1571-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1571-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1563-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1559-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1559-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1550-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1550-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1546-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1546-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1537-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1537-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1536-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1536-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1535-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1535-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1533-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1533-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1518-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1518-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1517-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1517-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1516-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1516-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1514-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1514-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1513-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1513-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1496-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1496-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1473-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1473-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1519-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1501-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1505-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1505-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1504-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1504-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1474-acceptance</loc></url>
 </urlset>

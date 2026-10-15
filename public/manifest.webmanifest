@@ -1,7 +1,7 @@
 {
   "name": "Majlis Now",
   "short_name": "Majlis Now",
-  "description": "What the Maldives Parliament is doing now, in plain English.",
+  "description": "A CSO-led parliamentary oversight tool built for youth, demystifying what happens in the Maldives Parliament.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fcf8ff",

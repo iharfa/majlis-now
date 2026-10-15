@@ -27,12 +27,21 @@ print("sitemap:", len(set(urls)), "urls")
 
 # OG image: plain 1200x630 card rendered with PyMuPDF (no extra deps).
 import fitz
+n_votes = len(re.findall(r'^\s+id: "([^"]+)",', rc, flags=re.M))
 doc = fitz.open()
 page = doc.new_page(width=1200, height=630)
 page.draw_rect(fitz.Rect(0, 0, 1200, 630), color=None, fill=(0.275, 0.282, 0.831))
-page.insert_text((80, 250), "Majlis Now", fontsize=96, fontname="helv", color=(1, 1, 1))
-page.insert_text((80, 330), "What the Maldives Parliament is doing now,", fontsize=40, fontname="helv", color=(0.88, 0.88, 1))
-page.insert_text((80, 385), "in plain English. From official records.", fontsize=40, fontname="helv", color=(0.88, 0.88, 1))
-page.insert_text((80, 560), "majlis-now.vercel.app", fontsize=28, fontname="helv", color=(0.75, 0.76, 1))
+page.draw_rect(fitz.Rect(0, 0, 18, 630), color=None, fill=(1, 0.78, 0.25))
+white, soft, faint = (1, 1, 1), (0.88, 0.88, 1), (0.75, 0.76, 1)
+page.insert_text((80, 130), "CSO-LED PARLIAMENTARY OVERSIGHT  ·  BUILT FOR YOUTH", fontsize=24, fontname="hebo", color=(1, 0.78, 0.25))
+page.insert_text((80, 245), "Majlis Now", fontsize=104, fontname="hebo", color=white)
+page.insert_text((80, 320), "What happens in Parliament, demystified.", fontsize=40, fontname="helv", color=soft)
+page.insert_text((80, 372), "So we can engage with what matters most to us.", fontsize=40, fontname="helv", color=soft)
+stats = [(len(works), "bills tracked"), (n_votes, "roll-call votes"), (len(sittings), "sittings")]
+for k, (n, label) in enumerate(stats):
+    x = 80 + k * 300
+    page.insert_text((x, 480), str(n), fontsize=56, fontname="hebo", color=white)
+    page.insert_text((x, 515), label, fontsize=24, fontname="helv", color=faint)
+page.insert_text((80, 585), "majlis-now.vercel.app  ·  from official People's Majlis records", fontsize=24, fontname="helv", color=faint)
 page.get_pixmap(dpi=72).save("public/og.png")
 print("og.png written")
