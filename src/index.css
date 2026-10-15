@@ -9,7 +9,7 @@
   body {
     background-color: #fcf8ff; /* background */
     color: #1b1b23; /* on-surface */
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', 'Noto Sans Thaana', sans-serif;
     -webkit-font-smoothing: antialiased;
   }
   h1,
