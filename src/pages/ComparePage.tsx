@@ -1,3 +1,4 @@
+import { VOTE_KIND } from '@/types'
 import { useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { Container, PageHeader } from '@/components/ui/Container'
@@ -68,7 +69,7 @@ export function ComparePage() {
                   <Link to={`/votes/${v.id}`} className="px-3 py-3 text-center w-40 md:w-72 hover:text-primary">
                     <p className="text-label-sm font-label-bold text-on-surface line-clamp-2">{v.title.replace(/ — .*$/, '')}</p>
                     <p className="text-[11px] text-outline">
-                      {v.voteType === 'acceptance' ? 'Acceptance' : 'Final'} · {formatDate(v.date)} · {v.result}
+                      {VOTE_KIND[v.voteType]} · {formatDate(v.date)} · {v.result}
                     </p>
                   </Link>
                   <div className={cn('px-4 py-3 font-label-bold', CHOICE_CLASS[vb?.choice ?? ''] ?? 'text-outline')}>

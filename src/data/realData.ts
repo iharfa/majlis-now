@@ -123,7 +123,10 @@ function buildVote(rc: RealRollcall): Vote {
   const passed = rc.result === 'Passed'
   const acceptance = rc.voteType === 'acceptance'
   const counts = `${rc.yes} in favour, ${rc.no} against`
-  const whatItDecided = acceptance
+  const amendment = rc.voteType === 'amendment'
+  const whatItDecided = amendment
+    ? `MPs voted on a proposed change to the bill: ${rc.subject}. It was ${passed ? 'adopted' : 'rejected'} (${counts}). This is not a vote on the bill as a whole.`
+    : acceptance
     ? passed
       ? `Parliament voted to accept the bill for consideration (${counts}), so it moves to committee stage. This is not the final vote on the bill.`
       : `Parliament voted not to take the bill up (${counts}), so it goes no further.`
@@ -132,14 +135,14 @@ function buildVote(rc: RealRollcall): Vote {
       : `This was the final vote on the bill. It was rejected (${counts}) and goes no further.`
   return {
     id: voteId,
-    title: `${rc.title} — ${acceptance ? 'vote to accept the bill' : 'final vote'}`,
+    title: `${rc.title} — ${amendment ? rc.subject.replace(/^./, (c) => c.toLowerCase()) : acceptance ? 'vote to accept the bill' : 'final vote'}`,
     voteType: rc.voteType,
     billId: `bill-${rc.workId}`,
     date: rc.date,
     result: rc.result,
     yesCount: rc.yes, noCount: rc.no, abstainCount: rc.abstain, absentCount: rc.absent,
     themeId: themeOf(rc.title),
-    summary: `${acceptance ? 'Vote to accept' : 'Final vote on'} the ${rc.title}: ${rc.result.toLowerCase()}, ${counts}.`,
+    summary: `${amendment ? `Vote on ${rc.subject.replace(/^./, (c) => c.toLowerCase())} to` : acceptance ? 'Vote to accept' : 'Final vote on'} the ${rc.title}: ${rc.result.toLowerCase()}, ${counts}.`,
     whatItDecided,
     keyEffects: [
       `${rc.result} with ${counts}.`,

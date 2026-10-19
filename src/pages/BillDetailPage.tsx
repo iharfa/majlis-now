@@ -194,7 +194,7 @@ export function BillDetailPage() {
               {relatedVotes.map((v) => (
                 <Link key={v.id} to={`/votes/${v.id}`} className="flex items-center justify-between bg-white rounded-xl border border-outline-variant/30 p-5 hover:shadow-md transition-all">
                   <div>
-                    <p className="font-label-bold text-on-surface">{v.voteType === 'acceptance' ? 'Vote to accept the bill' : 'Final vote'}</p>
+                    <p className="font-label-bold text-on-surface">{v.voteType === 'acceptance' ? 'Vote to accept the bill' : v.voteType === 'amendment' ? v.title.replace(/^.* — /, 'Vote on ') : 'Final vote'}</p>
                     <p className="text-label-sm text-on-surface-variant">
                       {v.result} · {formatDate(v.date)} · {v.yesCount} yes / {v.noCount} no / {v.absentCount} absent
                     </p>

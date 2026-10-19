@@ -255,12 +255,15 @@ export interface MPVote {
 export type VoteProvenance = 'official-rollcall' | 'illustrative'
 
 /** What a floor vote was for. */
-export type VoteType = 'acceptance' | 'passage'
+export type VoteType = 'acceptance' | 'passage' | 'amendment'
+
+/** Short label per vote type, e.g. "Acceptance" / "Final" / "Amendment". */
+export const VOTE_KIND: Record<VoteType, string> = { acceptance: 'Acceptance', passage: 'Final', amendment: 'Amendment' }
 
 export interface Vote {
   id: string
   title: string
-  /** acceptance = vote to take the bill up (sends it to committee); passage = final vote. */
+  /** acceptance = vote to take the bill up (sends it to committee); passage = final vote; amendment = vote on a proposed change to the bill. */
   voteType: VoteType
   billId?: string
   issueId?: string

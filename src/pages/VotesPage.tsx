@@ -1,3 +1,4 @@
+import { VOTE_KIND } from '@/types'
 import { Link } from 'react-router-dom'
 import { Container, PageHeader } from '@/components/ui/Container'
 import { Icon } from '@/components/ui/Icon'
@@ -34,7 +35,7 @@ export function VotesPage() {
                   {v.result}
                 </span>
                 <span className="text-label-sm font-label-bold text-on-surface-variant bg-surface-container px-2 py-0.5 rounded-full">
-                  {v.voteType === 'acceptance' ? 'Acceptance' : 'Final'}
+                  {VOTE_KIND[v.voteType]}
                 </span>
                 {theme && <span className="text-label-sm text-on-surface-variant">{theme.name}</span>}
                 <span className="text-label-sm text-outline ml-auto">{formatDate(v.date)}</span>

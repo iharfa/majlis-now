@@ -1,3 +1,4 @@
+import { VOTE_KIND } from '@/types'
 import { Link } from 'react-router-dom'
 import { Container } from '@/components/ui/Container'
 import { ActivityItem } from '@/components/cards/ActivityItem'
@@ -115,7 +116,7 @@ export function HomePage() {
               <div className="flex items-center gap-3 flex-wrap mb-3">
                 <ResultBadge result={hero.result} />
                 <span className="px-3 py-1 rounded-full text-label-sm font-label-bold bg-surface-container text-on-surface-variant">
-                  {hero.voteType === 'acceptance' ? 'Acceptance vote' : 'Final vote'}
+                  {VOTE_KIND[hero.voteType]} vote
                 </span>
                 <span className="text-on-surface-variant text-label-sm flex items-center gap-1">
                   <Icon name="calendar_month" className="text-sm" /> {formatDate(hero.date)}
@@ -168,7 +169,7 @@ export function HomePage() {
               <Link key={v.id} to={`/votes/${v.id}`} className="group block bg-white rounded-2xl border border-outline-variant/30 shadow-sm hover:shadow-md transition-all p-6">
                 <div className="flex items-center gap-2 mb-3">
                   <ResultBadge result={v.result} />
-                  <span className="text-label-sm text-on-surface-variant">{v.voteType === 'acceptance' ? 'Acceptance' : 'Final'}</span>
+                  <span className="text-label-sm text-on-surface-variant">{VOTE_KIND[v.voteType]}</span>
                   <span className="text-label-sm text-outline ml-auto">{formatDate(v.date)}</span>
                 </div>
                 <h3 className="font-headline-md text-lg text-on-surface group-hover:text-primary transition-colors line-clamp-2">

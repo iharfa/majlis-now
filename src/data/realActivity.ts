@@ -10,7 +10,7 @@ const voteItems: ActivityFeedItem[] = realVotes.map((v) => {
   return {
     id: `feed-${v.id}`,
     kind: passed ? 'vote-passed' : 'vote-rejected',
-    title: acceptance ? (passed ? 'Bill accepted for debate' : 'Bill not taken up') : passed ? 'Bill passed' : 'Bill rejected',
+    title: v.voteType === 'amendment' ? (passed ? 'Amendment adopted' : 'Amendment rejected') : acceptance ? (passed ? 'Bill accepted for debate' : 'Bill not taken up') : passed ? 'Bill passed' : 'Bill rejected',
     summary: `${v.title.replace(/ — .*$/, '')}: ${v.yesCount} in favour, ${v.noCount} against.`,
     timestamp: v.date,
     relativeLabel: relativeFromNow(v.date),

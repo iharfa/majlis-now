@@ -1,3 +1,4 @@
+import { VOTE_KIND } from '@/types'
 import { Link, useParams } from 'react-router-dom'
 import { Container } from '@/components/ui/Container'
 import { VoteSummaryTiles } from '@/components/votes/VoteSummaryTiles'
@@ -35,7 +36,7 @@ export function VoteDetailPage() {
           {vote.result.toUpperCase()}
         </span>
         <span className="px-3 py-1 rounded-full text-label-sm font-label-bold bg-surface-container text-on-surface-variant">
-          {acceptance ? 'Acceptance vote' : 'Final vote'}
+          {VOTE_KIND[vote.voteType]} vote
         </span>
         <span className="text-on-surface-variant text-label-sm flex items-center gap-1">
           <Icon name="calendar_month" className="text-sm" /> {formatDate(vote.date)}
@@ -77,10 +78,12 @@ export function VoteDetailPage() {
           )}
           <div className="bg-surface-container-low rounded-2xl p-6">
             <p className="text-label-sm font-label-bold uppercase text-outline mb-1">
-              {acceptance ? 'What an acceptance vote is' : 'What a final vote is'}
+              What {vote.voteType === 'acceptance' ? 'an acceptance' : vote.voteType === 'amendment' ? 'an amendment' : 'a final'} vote is
             </p>
             <p className="text-sm text-on-surface-variant">
-              {acceptance
+              {vote.voteType === 'amendment'
+                ? 'During the bill’s review, an MP can propose changing its wording. MPs vote on each proposed change separately; the bill as a whole is voted on later.'
+                : acceptance
                 ? 'After the first debate, MPs vote on whether to take the bill up at all. If accepted it goes to a committee for detailed review before a final vote. Rejection ends the bill.'
                 : 'After committee review and the third reading, MPs vote on the final text. If passed, the bill goes to the President to be ratified into law.'}
             </p>
