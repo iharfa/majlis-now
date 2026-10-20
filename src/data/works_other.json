@@ -22,7 +22,8 @@
     "documents": [
       {
         "label": "Committee Report",
-        "url": "https://majlis.gov.mv/storage/action_files/1965/jcWaEUFV4nymHYDOQpsDKuzET1Ru71ngNoBXLx6J.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1965/jcWaEUFV4nymHYDOQpsDKuzET1Ru71ngNoBXLx6J.pdf",
+        "file": "tmp/docs/1965-committee-report.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1965",
@@ -51,7 +52,8 @@
     "documents": [
       {
         "label": "Petition",
-        "url": "https://majlis.gov.mv/storage/action_files/1964/rWpCdBHQi5Mqr4HWWjoZWaTrJSdDg48nytqdkwK1.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1964/rWpCdBHQi5Mqr4HWWjoZWaTrJSdDg48nytqdkwK1.pdf",
+        "file": "tmp/docs/1964-petition.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1964",
@@ -80,7 +82,8 @@
     "documents": [
       {
         "label": "Petition",
-        "url": "https://majlis.gov.mv/storage/action_files/1963/9KXeZjPkRA8eBP4WbXUC6loLo2MKKj8ymQN5ti1f.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1963/9KXeZjPkRA8eBP4WbXUC6loLo2MKKj8ymQN5ti1f.pdf",
+        "file": "tmp/docs/1963-petition.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1963",
@@ -109,7 +112,8 @@
     "documents": [
       {
         "label": "Motion",
-        "url": "https://majlis.gov.mv/storage/action_files/1962/S3tTSMVM4LeQ93Um6gF3NfcCUYqSKfSSN7zCVgEy.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1962/S3tTSMVM4LeQ93Um6gF3NfcCUYqSKfSSN7zCVgEy.pdf",
+        "file": "tmp/docs/1962-motion.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1962",
@@ -138,7 +142,8 @@
     "documents": [
       {
         "label": "Question & Answer",
-        "url": "https://majlis.gov.mv/storage/action_files/1961/JBz0TfhDQwQb6gS7VLbP5IY2aWCeoSVC1zqlJTHE.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1961/JBz0TfhDQwQb6gS7VLbP5IY2aWCeoSVC1zqlJTHE.pdf",
+        "file": "tmp/docs/1961-question-answer.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1961",
@@ -167,7 +172,8 @@
     "documents": [
       {
         "label": "Question & Answer",
-        "url": "https://majlis.gov.mv/storage/action_files/1960/tFV5G86HqdceogI0WzuId46ZiSx6aqH6CpFPDJtw.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1960/tFV5G86HqdceogI0WzuId46ZiSx6aqH6CpFPDJtw.pdf",
+        "file": "tmp/docs/1960-question-answer.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1960",
@@ -202,7 +208,8 @@
     "documents": [
       {
         "label": "Resolution",
-        "url": "https://majlis.gov.mv/storage/action_files/1959/48srs3ld4zVAJ7H9kirg4aiBl5atXOKhvuppkjyS.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1959/48srs3ld4zVAJ7H9kirg4aiBl5atXOKhvuppkjyS.pdf",
+        "file": "tmp/docs/1959-resolution.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1959",
@@ -231,15 +238,18 @@
     "documents": [
       {
         "label": "Motion",
-        "url": "https://majlis.gov.mv/storage/action_files/1957/q4ztTH0uuwqeJZ0M8U9FdvcDwtOlDVIQ6s5Tf1gO.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1957/q4ztTH0uuwqeJZ0M8U9FdvcDwtOlDVIQ6s5Tf1gO.pdf",
+        "file": "tmp/docs/1957-motion.pdf"
       },
       {
         "label": "Committee Report",
-        "url": "https://majlis.gov.mv/storage/action_files/1957/iGdYLD74Ex9zsxB5Mqttm0FamovYSNbDBahPxhhr.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1957/iGdYLD74Ex9zsxB5Mqttm0FamovYSNbDBahPxhhr.pdf",
+        "file": "tmp/docs/1957-committee-report.pdf"
       },
       {
         "label": "Report passed at parliament",
-        "url": "https://majlis.gov.mv/storage/action_files/1957/7kRfmTZQtlYmxFndgWmJOjjwLcIrqBXXREXUWuAF.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1957/7kRfmTZQtlYmxFndgWmJOjjwLcIrqBXXREXUWuAF.pdf",
+        "file": "tmp/docs/1957-report-passed-at-parliament.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1957",
@@ -305,15 +315,18 @@
     "documents": [
       {
         "label": "Motion",
-        "url": "https://majlis.gov.mv/storage/action_files/1955/mwKJoeEUGMlX29uWaN60Hsj1OIS85yFItJMd8SkG.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1955/mwKJoeEUGMlX29uWaN60Hsj1OIS85yFItJMd8SkG.pdf",
+        "file": "tmp/docs/1955-motion.pdf"
       },
       {
         "label": "Committee Report",
-        "url": "https://majlis.gov.mv/storage/action_files/1955/tTbJzgdrfROChRaz0QaFWqcBDTY8g4lOVRXRR03y.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1955/tTbJzgdrfROChRaz0QaFWqcBDTY8g4lOVRXRR03y.pdf",
+        "file": "tmp/docs/1955-committee-report.pdf"
       },
       {
         "label": "Parliament passed Hon. Ahmed Shafneez as Deputy Commissioner General of Taxation",
-        "url": "https://majlis.gov.mv/storage/action_files/1955/rOTcjTq0dJI7FIPiwHLrKijVKj7GFC1q6bfn9lFe.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1955/rOTcjTq0dJI7FIPiwHLrKijVKj7GFC1q6bfn9lFe.pdf",
+        "file": "tmp/docs/1955-parliament-passed-hon-ahmed-shafneez-as-deputy-commissioner-.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1955",

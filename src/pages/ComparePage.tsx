@@ -12,6 +12,17 @@ import { formatDate, pct } from '@/utils/format'
 const CHOICE_CLASS: Record<string, string> = {
   Yes: 'text-secondary', No: 'text-error', Abstain: 'text-tertiary', Absent: 'text-on-surface-variant',
 }
+const CHOICE_ICON: Record<string, string> = { Yes: 'check_circle', No: 'cancel', Abstain: 'remove_circle', Absent: 'person_off' }
+const CAST = new Set(['Yes', 'No', 'Abstain'])
+
+function Choice({ choice, align }: { choice?: string; align: 'left' | 'right' }) {
+  return (
+    <div className={cn('px-4 py-3 font-label-bold flex items-center gap-1.5', align === 'right' && 'justify-end', CHOICE_CLASS[choice ?? ''] ?? 'text-outline')}>
+      {choice && <Icon name={CHOICE_ICON[choice]} className="text-[18px]" />}
+      {choice ?? '—'}
+    </div>
+  )
+}
 
 export function ComparePage() {
   const [params] = useSearchParams()
@@ -21,6 +32,10 @@ export function ComparePage() {
   const mpA = mpById(a)
   const mpB = mpById(b)
   const sorted = [...votes].sort((x, y) => y.date.localeCompare(x.date))
+  // Only roll calls where at least one of the two actually cast a vote (yes, no or abstain)
+  const rows = sorted
+    .map((v) => ({ v, va: v.mpVotes.find((x) => x.mpId === a)?.choice, vb: v.mpVotes.find((x) => x.mpId === b)?.choice }))
+    .filter(({ va, vb }) => CAST.has(va ?? '') || CAST.has(vb ?? ''))
 
   return (
     <Container className="py-8">
@@ -56,28 +71,34 @@ export function ComparePage() {
             <Row label="Present at votes" a={attendanceLabel(mpA.id)} b={attendanceLabel(mpB.id)} />
           </div>
 
-          <h2 className="font-headline-md text-headline-md mt-10 mb-4">Roll-call votes</h2>
+          <h2 className="font-headline-md text-headline-md mt-10 mb-1">How they voted</h2>
+          <p className="text-label-sm text-on-surface-variant mb-4">
+            {rows.length} roll calls where at least one of them voted
+            {sorted.length > rows.length ? ` (${sorted.length - rows.length} more where both were absent or not on the roll call are hidden)` : ''}.
+          </p>
           <div className="bg-white rounded-2xl border border-outline-variant/30 overflow-hidden">
-            {sorted.map((v) => {
-              const va = v.mpVotes.find((x) => x.mpId === mpA.id)
-              const vb = v.mpVotes.find((x) => x.mpId === mpB.id)
+            {rows.map(({ v, va, vb }) => {
+              const passed = v.result === 'Passed'
               return (
                 <div key={v.id} className="grid grid-cols-[1fr_auto_1fr] items-center border-t first:border-t-0 border-outline-variant/40">
-                  <div className={cn('px-4 py-3 text-right font-label-bold', CHOICE_CLASS[va?.choice ?? ''] ?? 'text-outline')}>
-                    {va?.choice ?? '—'}
-                  </div>
-                  <Link to={`/votes/${v.id}`} className="px-3 py-3 text-center w-40 md:w-72 hover:text-primary">
+                  <Choice choice={va} align="right" />
+                  <Link to={`/votes/${v.id}`} className="px-3 py-3 text-center w-44 md:w-80 hover:text-primary">
                     <p className="text-label-sm font-label-bold text-on-surface line-clamp-2">{v.title.replace(/ — .*$/, '')}</p>
-                    <p className="text-[11px] text-outline">
-                      {VOTE_KIND[v.voteType]} · {formatDate(v.date)} · {v.result}
-                    </p>
+                    <p className="text-[11px] text-outline mt-0.5">{VOTE_KIND[v.voteType]} vote · {formatDate(v.date)}</p>
+                    <span
+                      className={cn(
+                        'inline-block mt-1 px-2 py-0.5 rounded-full text-[11px] font-label-bold',
+                        passed ? 'bg-primary-container text-on-primary-container' : 'bg-error-container text-on-error-container',
+                      )}
+                    >
+                      {v.voteType === 'amendment' ? (passed ? 'Amendment adopted' : 'Amendment rejected') : passed ? 'Passed' : 'Rejected'} · {v.yesCount}–{v.noCount}
+                    </span>
                   </Link>
-                  <div className={cn('px-4 py-3 font-label-bold', CHOICE_CLASS[vb?.choice ?? ''] ?? 'text-outline')}>
-                    {vb?.choice ?? '—'}
-                  </div>
+                  <Choice choice={vb} align="left" />
                 </div>
               )
             })}
+            {rows.length === 0 && <p className="p-6 text-center text-on-surface-variant">Neither member voted in any recorded roll call.</p>}
           </div>
         </>
       )}

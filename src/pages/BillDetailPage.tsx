@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { Container } from '@/components/ui/Container'
 import { BillTimeline } from '@/components/bills/BillTimeline'
@@ -12,6 +11,10 @@ import { Avatar } from '@/components/ui/Avatar'
 import { PartyTag } from '@/components/ui/PartyTag'
 import { daysBetween, daysSince, formatDate } from '@/utils/format'
 import finalTextIds from '@/data/billtexts.json'
+import docTextsJson from '@/data/doctexts.json'
+import { DocText } from '@/components/ui/DocText'
+
+const docTexts = docTextsJson as Array<{ key: string; workId: string; label: string; pages: number }>
 
 export function BillDetailPage() {
   const { id } = useParams()
@@ -25,6 +28,7 @@ export function BillDetailPage() {
   const sittings = sittingsForBill(bill.id)
   const officialSource = bill.sources.find((s) => s.kind === 'official')
   const ai = bill.aiSummary
+  const workId = bill.id.replace(/^bill-/, '')
   const closed = bill.status === 'Passed' || bill.status === 'Rejected' || bill.status === 'Withdrawn'
 
   const downloadCsv = () => {
@@ -165,7 +169,11 @@ export function BillDetailPage() {
             </section>
           )}
 
-          {(finalTextIds as string[]).includes(bill.id.replace(/^bill-/, '')) && <FinalText workId={bill.id.replace(/^bill-/, '')} />}
+          {(finalTextIds as string[]).includes(workId) ? (
+            <DocText url={`/billtexts/${workId}.json`} title="Full text as passed" source="final bill" />
+          ) : docTexts.some((d) => d.key === `${workId}-bill`) ? (
+            <DocText url={`/doctexts/${workId}-bill.json`} title="Full text as introduced" source="bill" />
+          ) : null}
 
           <section className="bg-white rounded-2xl border border-outline-variant/30 p-6">
             <div className="flex items-center justify-between mb-4">
@@ -232,49 +240,5 @@ export function BillDetailPage() {
         </div>
       </div>
     </Container>
-  )
-}
-
-interface FinalTextDoc { workId: string; sourceUrl: string; pages: string[]; unreadable: number; model: string; generatedAt: string }
-
-/** Full Dhivehi text of the bill as passed. Fetched only when opened, so it stays out of the bundle. */
-function FinalText({ workId }: { workId: string }) {
-  const [doc, setDoc] = useState<FinalTextDoc | 'loading' | 'error' | null>(null)
-  const load = () => {
-    if (doc) return
-    setDoc('loading')
-    fetch(`/billtexts/${workId}.json`)
-      .then((r) => (r.ok ? r.json() : Promise.reject()))
-      .then(setDoc, () => setDoc('error'))
-  }
-  return (
-    <details className="group bg-white rounded-2xl border border-outline-variant/30 p-6" onToggle={(e) => (e.currentTarget as HTMLDetailsElement).open && load()}>
-      <summary className="cursor-pointer list-none flex items-center justify-between gap-3">
-        <span className="font-headline-md text-headline-md flex items-center gap-2">
-          <Icon name="article" className="text-primary" /> Full text as passed
-          <span className="text-label-sm font-label-bold text-outline">Dhivehi</span>
-        </span>
-        <Icon name="expand_more" className="text-on-surface-variant transition-transform group-open:rotate-180" />
-      </summary>
-      {doc === 'loading' && <p className="text-label-sm text-outline mt-4">Loading…</p>}
-      {doc === 'error' && <p className="text-label-sm text-error mt-4">Could not load the text. Use the official PDF below.</p>}
-      {doc && typeof doc === 'object' && (
-        <div className="mt-4">
-          <p className="text-label-sm text-outline mb-4">
-            Transcribed by AI from the final bill PDF ({doc.pages.length} pages
-            {doc.unreadable ? `, ${doc.unreadable} unreadable word${doc.unreadable === 1 ? '' : 's'} marked [?]` : ''}). The{' '}
-            <a href={doc.sourceUrl} target="_blank" rel="noreferrer noopener" className="text-primary hover:underline">official PDF</a> is the authority.
-          </p>
-          <div lang="dv" dir="rtl" className="max-h-[70vh] overflow-y-auto text-on-surface text-lg leading-loose space-y-6 pl-2">
-            {doc.pages.map((p, i) => (
-              <div key={i}>
-                <p className="text-label-sm text-outline mb-2" dir="ltr">Page {i + 1}</p>
-                <div className="whitespace-pre-wrap">{p}</div>
-              </div>
-            ))}
-          </div>
-        </div>
-      )}
-    </details>
   )
 }

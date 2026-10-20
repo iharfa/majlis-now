@@ -17,6 +17,7 @@ Transcription rules:
 - Logical reading order, one line per printed paragraph or list item (join lines that wrap mid-sentence). Blank line between articles/sections. Keep headings on their own line.
 - Tables (e.g. current vs. amended text): write each row as `| cell | cell |`, right-to-left cell order as printed.
 - Skip repeated page headers/footers and page numbers. Signature blocks, stamps and handwriting: write `[signature]`, `[stamp]`, or the legible text.
+- If a whole page is the English (or other non-Dhivehi) text of an international treaty or convention attached to the document, do NOT transcribe it. Write only one line: `[English text of the <convention name, as printed>: not transcribed here; see the official PDF]`.
 - If a word is genuinely unreadable in the image and the layer text does not settle it, write `[?]`. Never invent or "improve" wording; do not translate.
 
 If you crop or zoom images, keep every scratch file (scripts and crops) in a subfolder of your scratchpad named after your bill and page range, e.g. `ocr_{ID}_{FROM}/`; other agents share the scratchpad.

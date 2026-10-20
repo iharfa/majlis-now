@@ -20,6 +20,7 @@ const CommitteeDetailPage = lazy(() => import('@/pages/CommitteeDetailPage').the
 const SittingsPage = lazy(() => import('@/pages/SittingsPage').then((m) => ({ default: m.SittingsPage })))
 const SittingDetailPage = lazy(() => import('@/pages/SittingDetailPage').then((m) => ({ default: m.SittingDetailPage })))
 const SearchPage = lazy(() => import('@/pages/SearchPage').then((m) => ({ default: m.SearchPage })))
+const BusinessPage = lazy(() => import('@/pages/BusinessPage').then((m) => ({ default: m.BusinessPage })))
 const InsightsPage = lazy(() => import('@/pages/InsightsPage').then((m) => ({ default: m.InsightsPage })))
 
 const TITLES: Array<[RegExp, string]> = [
@@ -33,6 +34,7 @@ const TITLES: Array<[RegExp, string]> = [
   [/^\/sittings/, 'Sittings'],
   [/^\/search/, 'Search'],
   [/^\/insights/, 'Insights'],
+  [/^\/business/, 'Other business'],
 ]
 
 function RouteTitle() {
@@ -89,6 +91,7 @@ export function App() {
               <Route path="sittings/:id" element={<SittingDetailPage />} />
               <Route path="search" element={<SearchPage />} />
               <Route path="insights" element={<InsightsPage />} />
+              <Route path="business" element={<BusinessPage />} />
               <Route path="*" element={<NotFoundPage />} />
             </Route>
           </Routes>
