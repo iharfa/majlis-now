@@ -10,7 +10,7 @@ minutesPdf/minutesFile, pointOfOrderPdf/pointOfOrderFile, workIds, url, fetchedA
 
 Run from repo root: python scripts/fetch_sittings.py
 """
-import json, os, re, urllib.error
+import datetime, json, os, re, urllib.error
 from majlis import BASE, TMP, RUN_DATE, fetch, iso_date, strip_tags
 
 OUT = os.path.join("src", "data", "sittings.json")
@@ -44,7 +44,9 @@ def term_cards(term_id):
 
 
 def parse_sitting(sid, title, date, term):
-    h = fetch(f"{BASE}/sitting/session/{sid}")
+    # Minutes and other PDFs are attached days after a sitting, so re-fetch recent pages
+    recent = (date or "") >= (datetime.date.today() - datetime.timedelta(days=60)).isoformat()
+    h = fetch(f"{BASE}/sitting/session/{sid}", refresh=recent)
     body = h[h.find("<body"):]
     t = strip_tags(body)
     ag = re.search(r"Agenda No\.\s*(\S+(?:\s*/\s*\S+)*?)\s+Summary", t)
