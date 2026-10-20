@@ -1,0 +1,22 @@
+{
+  "workId": "1958",
+  "titleDv": "ޑިޕްލޮމެޓިކް މިޝަންތަކާއި ކޮންސިއުލަރ ޕޯސްޓްތަކާއި ބައިނަލްއަޤްވާމީ ޖަމްޢިއްޔާތަކުގެ އިމްތިޔާޒުތަކުގެ ބިލު",
+  "summary": "This government bill is a new law setting out the privileges and immunities the Maldives gives to foreign diplomatic missions, consular posts, UN specialised agencies and other international organisations, and to their staff. It does this by giving selected articles of the Vienna Conventions on Diplomatic Relations and on Consular Relations the force of law in the Maldives, listed in schedules. It sets how diplomats' tax and customs exemptions are granted and lets procedures be set in regulations. Later parts cover UN specialised agencies, other international organisations and general provisions. This summary covers the first 12 of 65 pages.",
+  "whyItMatters": "It would put into Maldivian law who can claim diplomatic immunity and tax or import-duty exemptions, and how. That affects the work of courts, police, customs and tax officials.",
+  "keyProvisions": [
+    "Article 1 sets out what the law covers. Article 2 lists its purposes: setting privileges for diplomatic missions, consular posts and their staff and families under the two Vienna Conventions, and for UN specialised agencies and other international organisations.",
+    "Article 3 gives the force of law to Articles 1, 22 to 24 and 27 to 40 of the Vienna Convention on Diplomatic Relations (Schedule 1). It explains how terms such as 'receiving State' apply to the Maldives, and that Articles 35, 36 and 40 apply only as far as this law provides.",
+    "Article 3 also treats a waiver of a diplomat's immunity under Article 32 of the Convention, made by the head of the mission, as a waiver by the sending State.",
+    "Article 4 grants the tax exemptions in Article 34 of the Convention as exemption from goods and services tax paid in the Maldives. It grants the Article 36 exemptions as exemption from import duty and taxes on goods for a mission's official use or a diplomat's personal use.",
+    "Article 5 lets the procedures for these exemptions be set in regulations, with the relevant tax and customs bodies. The exemptions do not cover some goods and people, such as Maldivian citizens or permanent residents. Some details in this part are uncertain.",
+    "Article 6 gives the force of law to listed articles of the Vienna Convention on Consular Relations, including Articles 1, 5, 15, 17, 31 to 33, 35, 39 to 41, 43 to 45, 48 to 55, 57, 58(1) to (3) and 59 to 62."
+  ],
+  "whoIsAffected": "Foreign embassies, consulates, UN agencies and international organisations in the Maldives and their staff, plus the tax, customs and foreign affairs authorities that deal with them.",
+  "statedReasons": "The government says the bill puts into law the privileges and immunities the Maldives must give to diplomatic missions, consular posts, UN specialised agencies and other international organisations, together with the rules and procedures for granting them.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 65,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-20"
+}

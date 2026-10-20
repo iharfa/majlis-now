@@ -10,6 +10,10 @@
   <url><loc>https://majlis-now.vercel.app/sittings</loc></url>
   <url><loc>https://majlis-now.vercel.app/search</loc></url>
   <url><loc>https://majlis-now.vercel.app/insights</loc></url>
+  <url><loc>https://majlis-now.vercel.app/bills/bill-1968</loc></url>
+  <url><loc>https://majlis-now.vercel.app/bills/bill-1967</loc></url>
+  <url><loc>https://majlis-now.vercel.app/bills/bill-1966</loc></url>
+  <url><loc>https://majlis-now.vercel.app/bills/bill-1958</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1952</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1951</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1944</loc></url>
@@ -125,6 +129,8 @@
   <url><loc>https://majlis-now.vercel.app/bills/bill-1474</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1473</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1469</loc></url>
+  <url><loc>https://majlis-now.vercel.app/sittings/sitting-1075</loc></url>
+  <url><loc>https://majlis-now.vercel.app/sittings/sitting-1074</loc></url>
   <url><loc>https://majlis-now.vercel.app/sittings/sitting-1072</loc></url>
   <url><loc>https://majlis-now.vercel.app/sittings/sitting-1071</loc></url>
   <url><loc>https://majlis-now.vercel.app/sittings/sitting-1070</loc></url>
@@ -509,6 +515,8 @@
   <url><loc>https://majlis-now.vercel.app/votes/vote-1846-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1836-acceptance</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1845-passage</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1837-amendment-vote-result-for-first-amendment-to-the-b</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1837-amendment-vote-result-for-second-amendment-to-the-</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1837-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1837-acceptance</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1828-acceptance</loc></url>
