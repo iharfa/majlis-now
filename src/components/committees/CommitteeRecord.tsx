@@ -1,14 +1,13 @@
+import { useEffect, useState } from 'react'
 import { DocText } from '@/components/ui/DocText'
 import { Icon } from '@/components/ui/Icon'
 import { formatDate } from '@/utils/format'
-import meetingsJson from '@/data/committeeMeetings.json'
 import docTextsJson from '@/data/doctexts.json'
 
 interface Doc { label: string; url: string; key: string }
 interface Meeting { id: string; title: string; number: string; date: string | null; summary: string; attendance: Array<{ name: string; constituency: string; status: string }>; documents: Doc[]; url: string }
 interface Report { id: string; title: string; documents: Doc[]; url: string }
 
-const record = meetingsJson as Record<string, { meetings: Meeting[]; reports: Report[] }>
 const docTexts = docTextsJson as Array<{ key: string; label: string; pages: number; en?: boolean }>
 
 /** Dhivehi transcription and English translation of one committee document, when we have them. */
@@ -31,8 +30,14 @@ function DocPair({ doc }: { doc: Doc }) {
 
 /** Meetings (with the Majlis's own English summary and attendance) and committee reports, with full texts. */
 export function CommitteeRecord({ committeeId }: { committeeId: string }) {
-  const r = record[committeeId.replace(/^cmt-/, '')]
-  if (!r) return null
+  const [r, setR] = useState<{ meetings: Meeting[]; reports: Report[] } | null>(null)
+  useEffect(() => {
+    setR(null)
+    fetch(`/cmtmeetings/${committeeId.replace(/^cmt-/, '')}.json`)
+      .then((res) => (res.ok ? res.json() : null))
+      .then(setR, () => setR(null))
+  }, [committeeId])
+  if (!r || (!r.meetings.length && !r.reports.length)) return null
   return (
     <>
       {r.reports.length > 0 && (
