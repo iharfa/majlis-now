@@ -27,7 +27,7 @@ export function DocText({ url, title, source, className = '' }: { url: string; t
       {doc && typeof doc === 'object' && (
         <div className="mt-4">
           <p className="text-label-sm text-outline mb-4">
-            Transcribed by AI from the {source} PDF ({doc.pages.length} pages
+            {url.endsWith(".en.json") ? "Translated by AI into English from the Dhivehi" : "Transcribed by AI from the"} {source} PDF ({doc.pages.length} pages
             {doc.unreadable ? `, ${doc.unreadable} unreadable word${doc.unreadable === 1 ? '' : 's'} marked [?]` : ''}). The{' '}
             <a href={doc.sourceUrl} target="_blank" rel="noreferrer noopener" className="text-primary hover:underline">official PDF</a> is the authority.
           </p>
