@@ -31,6 +31,15 @@ for d in q:
                "unreadable": sum(p.count("[?]") for p in pages), "model": "claude-opus-5-5",
                "method": "Page images transcribed by Claude, checked against the PDF text layer", "generatedAt": "2026-10-20"},
               open(os.path.join("public", "doctexts", f"{d['key']}.json"), "w", encoding="utf-8", newline="\n"), ensure_ascii=False)
-    index.append({"key": d["key"], "workId": d["workId"], "label": d["label"], "pages": d["pages"]})
+    # English translation (pNN.en.txt), when every page has one
+    en = [p[:-4] + ".en.txt" for p in paths]
+    has_en = all(os.path.exists(p) for p in en)
+    if has_en:
+        pages_en = [re.sub(r"(?<![A-Za-z0-9])A[0-9]{6}(?![0-9])", "[ID redacted]", open(p, encoding="utf-8").read().strip()) for p in en]
+        json.dump({"workId": d["workId"], "label": d["label"] + " (English translation)", "sourceUrl": d["url"], "pages": pages_en,
+                   "unreadable": sum(p.count("[unclear]") for p in pages_en), "model": "claude-opus-5-5",
+                   "method": "Translated by Claude from the Dhivehi transcription", "generatedAt": "2026-10-21"},
+                  open(os.path.join("public", "doctexts", f"{d['key']}.en.json"), "w", encoding="utf-8", newline="\n"), ensure_ascii=False)
+    index.append({"key": d["key"], "workId": d["workId"], "label": d["label"], "pages": d["pages"], "en": has_en})
 json.dump(index, open(os.path.join("src", "data", "doctexts.json"), "w", encoding="utf-8", newline="\n"), ensure_ascii=False)
 print(f"{len(index)} of {len(q)} documents assembled")

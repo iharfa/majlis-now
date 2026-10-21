@@ -8,6 +8,7 @@ import { NotFoundPage } from './NotFoundPage'
 import { committeeById, mpById, constituencyById, billsForCommittee } from '@/data'
 import { StatusPill } from '@/components/ui/StatusPill'
 import { formatDate } from '@/utils/format'
+import { CommitteeRecord } from '@/components/committees/CommitteeRecord'
 
 export function CommitteeDetailPage() {
   const { id } = useParams()
@@ -76,6 +77,8 @@ export function CommitteeDetailPage() {
               </ul>
             </section>
           )}
+
+          <CommitteeRecord committeeId={c.id} />
 
           {/* Members */}
           <section className="bg-white rounded-2xl border border-outline-variant/30 p-6">
