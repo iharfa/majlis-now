@@ -1,22 +1,22 @@
 {
   "workId": "1546",
-  "titleDv": "ޤާނޫނު ނަންބަރު 31/79 (ދިވެހިރާއްޖޭގެ އެކްސްޕޯޓް އިމްޕޯޓް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Export Import Act (Act No. 31/79). It changes the import duty rates in tariff item 24, which covers tobacco products. It adds a duty of 200 percent for a new group of goods under tariff item 85 (electrical goods), which appears to cover electronic cigarettes and similar devices. It also rewrites Article 8 and sets a 30-day deadline in clause 6. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 18 pages.",
-  "whyItMatters": "Cigarettes, cigars and similar tobacco goods would cost more to import, and the higher duty would probably show up in shop prices.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 31/79 (ދިވެހިރާއްޖޭގެ އެކްސްޕޯޓް އިމްޕޯޓްގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Export Import Act (Act No. 31/79). It raises the import duty on cigarettes and beedi from 25 percent and Rf 3 per stick to 50 percent and Rf 8 per stick, and adds new duty lines for e-cigarette flavours and chemicals and for heated tobacco sticks. It raises the duty on electronic cigarettes, vaping devices and tobacco heating devices from 25 percent to 200 percent. It also rewrites Article 8, which sets when the President can waive import duty, royalty or permit fees. The changes take effect on 1 November 2024.",
+  "whyItMatters": "Cigarettes, beedi, vapes and heated tobacco products become more expensive to import, which is likely to raise their shop prices. Duty waivers for projects and businesses would need Cabinet advice and follow published Customs procedures.",
   "keyProvisions": [
-    "Clause 1 replaces Article 5(a)(1)(i) with a new text.",
-    "Clause 2 replaces the table for tariff item 24 in Article 7(a). The table lists a 200 percent duty for one group of goods and a duty of 50 percent or Rf 8 for four other categories, with the higher amount applying.",
-    "The bill's comparison table shows the current duty on those four categories as 25 percent or Rf 3, so the printed change is from 25 percent or Rf 3 to 50 percent or Rf 8.",
-    "Clause 3 deletes one row of tariff item 38. Clause 4 changes tariff item 85 so that a group of goods that appears to be electronic cigarettes and related products carries a 200 percent duty.",
-    "Clause 5 replaces Article 8 with sub-articles (a) to (h). These pages could not be read reliably.",
-    "Clause 6 sets a 30-day deadline after the law takes effect, and clause 7 sets a start date in 2024. A finance note on the next pages gives revenue estimates in millions of rufiyaa, including 1,058.7 for 2025."
+    "Clause 1 rewrites Article 5(b)(1)(i) so the listed tobacco goods also include heated tobacco products, tobacco heating devices and their parts.",
+    "Clause 2 replaces chapter 24 in Article 7(a): cigarettes and beedi go from 25 percent and Rf 3 each to 50 percent and Rf 8 each; e-cigarette flavours and chemicals carry 50 percent and Rf 8 per millilitre; heated tobacco sticks carry 50 percent and Rf 8 per stick; other tobacco goods stay at 200 percent.",
+    "Clause 3 deletes the chapter 38 line that taxed e-cigarette flavours and chemicals at 200 percent, since they move to chapter 24. Clause 4 raises the chapter 85 duty on e-cigarettes, vaping devices, tobacco heating devices and their parts from 25 percent to 200 percent.",
+    "Clause 5 rewrites Article 8: the President may waive duty, royalty or permit fees for goods imported for economically useful work, for the public benefit in an emergency, or for strategic projects and businesses, with the cases decided on the advice of the Cabinet and for a set period.",
+    "The new Article 8 requires weighing the effect on state revenue and the economic and social costs and benefits, sends waiver requests through Maldives Customs Service under published procedures, has the economic ministry set conditions in regulations, and keeps the separate exemption for diplomats under international treaties.",
+    "Clause 6 requires related regulations within 30 days, and clause 7 sets the start date as 1 November 2024. The cost assessment estimates extra duty revenue of Rf 180.3 million in 2024 and Rf 1,058.7 million in 2025, with no extra state spending."
   ],
-  "whoIsAffected": "Importers and sellers of tobacco products and electronic cigarettes, smokers, and the Customs authorities.",
-  "statedReasons": "The explanatory note says the duty changes are submitted together with the amendment to the Tobacco Control Act (No. 15/2010), so that the two laws match.",
+  "whoIsAffected": "Smokers and vapers, importers and sellers of tobacco and vaping products, businesses and agencies that seek duty waivers, and Maldives Customs Service.",
+  "statedReasons": "The note says the bill raises import duty on tobacco, tobacco products and substitutes, raises duty on e-cigarettes and vaping devices until their import is banned under the Tobacco Control Act (No. 15/2010), and changes the rules for waiving import duty, royalty and revenue fees.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 18,
   "pagesTotal": 18,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

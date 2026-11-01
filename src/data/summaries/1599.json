@@ -1,22 +1,22 @@
 {
   "workId": "1599",
-  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 ... އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Decentralization Act (Act No. 7/2010), which sets up the island, atoll and city councils. It changes and adds a run of articles numbered 56-2 to 56-11, which deal with a type of committee attached to the councils: how it is made up, how its members are chosen, its duties and its funding. It also changes Article 148 and swaps some terms used in the Act. The bill says the related regulations must be amended within 30 days, and that it takes effect once ratified and published. The scans are hard to read, so some details are uncertain, including the exact name of the committees. This summary covers the first 12 of 26 pages.",
-  "whyItMatters": "If passed, councils would have new rules about how these committees are formed, run and paid for, and the committees would have clearer duties and money set out in law.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ދާއިރާތައް ލާމަރުކަޒީ އުޞޫލުން ހިންގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Decentralization Act (Act No. 7/2010) mainly to rewrite the rules for the Women's Development Committees elected in islands and cities. It replaces the list of the committees' duties and powers (Article 56-7), requires each committee to have its own operating rules (Article 56-8), and adds three new articles (56-9 to 56-11) on council support, funding, yearly targets and reports, political neutrality and financial accounts. Committee members' pay would be set by the National Pay Commission instead of the finance ministry, and members not covered elsewhere would get a MVR 3,000 Ramadan allowance each year. The bill also changes Articles 56-2 and 148 and replaces references to the Ministry of Finance with a general term for the ministry in charge of finance.",
+  "whyItMatters": "Island and city councils would be legally required to hand at least 5% of their government grant to their Women's Development Committee on a set timetable, and committees would have to publish yearly targets and progress reports. The attached cost estimate puts the extra cost of the Ramadan allowance at about MVR 2.8 million in 2025.",
   "keyProvisions": [
-    "Clause 1 rewrites a sub-clause of Article 56-2 and clause 2 removes a sub-clause of Article 56-6.",
-    "Clause 4 adds a sub-clause to Article 56-6 that sets an amount of MVR 3,000. What it is paid for is hard to read.",
-    "Clauses 5 to 7 rewrite Articles 56-7 and 56-8 and add new Articles 56-9, 56-10 and 56-11. These list the committee's members and duties, how members are chosen and when they leave, with several numbered lists.",
-    "Article 56-9 refers to a 5% share, apparently of the council's yearly budget, for the committee's work, and to a 30-day period. The exact meaning is uncertain.",
-    "Clause 8 changes Article 148 of the Act.",
-    "Clause 10 says the related regulations must be amended within 30 days, and clause 11 says the bill takes effect when ratified and published."
+    "Article 56-6 is changed so the National Pay Commission sets committee members' pay on the Local Government Authority's advice, and members who get no Ramadan allowance under another law receive MVR 3,000 before each Ramadan; sub-article 56-6(k), which gave the committees power to own property, is removed.",
+    "The new Article 56-7 lists the committees' duties, including advising the council on island or city development, raising women's participation in politics, professions, management and business, advising on measures against domestic violence and workplace harassment, and raising awareness on women's and children's health and women's rights.",
+    "Article 56-8 requires every committee to have operating rules, made under principles set by the Local Government Authority, covering meetings, voting, conflicts of interest, programmes, reporting and handling money and property.",
+    "New Article 56-9 makes councils provide office support and consult the committee, ring-fences at least 5% of the council's government grant for the committee, and requires the money for the first two quarters to be handed over within 30 days of the council receiving it, with the rest released on a timetable set by regulation; councils and the Local Government Authority must also arrange training for members.",
+    "New Article 56-10 requires committees to set and publish yearly targets in the first month of each year, report on progress at least once a year, work without favouring any side, run no business for profit and not support any political party, though individual members may take part in party activity outside committee work.",
+    "New Article 56-11 requires committees to follow the Public Finance Act, keep accounts, report donations they receive and notify the Local Government Authority in advance of donations above a limit set by the finance ministry; clause 10 gives 30 days to update or issue regulations, and clause 11 says the law takes effect once ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "Island, atoll and city councils, the members of these committees, and residents who take part in or rely on them.",
-  "statedReasons": "The explanatory note says the Decentralization Act is being amended to change the rules on these committees, including their structure, how they are run and their duties. The scan is hard to read, so this is a rough reading.",
+  "whoIsAffected": "Women's Development Committees and their members, island and city councils, the Local Government Authority, the finance ministry and the National Pay Commission.",
+  "statedReasons": "The explanatory note says the bill is meant to set out the role of the Women's Development Committees more clearly in law and strengthen them, including requiring councils to give them financial and administrative support and training, fixing how their share of the council grant is released, and arranging Ramadan allowance payments for members. It also says the bill fixes some problems found in applying the Act.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 26,
   "pagesTotal": 26,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

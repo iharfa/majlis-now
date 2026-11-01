@@ -1,22 +1,22 @@
 {
   "workId": "1559",
-  "titleDv": "ޤާނޫނު ނަންބަރު 4/2013 (ސިޔާސީ ޕާޓީ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Political Parties Act (Law No. 4/2013). It removes some articles and a schedule (a printed form), rewrites others, and changes the fine amounts for parties that break certain rules. In total it repeals Article 10, Article 53 and the schedule, and amends Articles 20, 35 and 49. It also sets a 30-day window after the law takes effect for something to be done under the new rules. The scans are fairly clear, but the exact subject of each article is hard to read, so some details are uncertain.",
-  "whyItMatters": "It changes the rules political parties must follow to stay registered and the money penalties they can face, so parties and their members could be affected. Fines in Article 49 would be set at MVR 30,000, MVR 75,000 and MVR 100,000.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 4/2013 (ސިޔާސީ ޕާޓީގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Political Parties Act (Law No. 4/2013). It removes the rule that stops someone who ran in a party primary from then running in the same election in another capacity, such as an independent. It changes how state funding for parties is calculated: the 0.1% to 0.2% range would be measured against the revenue the annual budget expects for that year, not the annual budget itself. It adds a MVR 100,000 fine on a party when someone belonging to it breaks the Act. It also replaces the party registration form printed in the Act with a form based on a template the Elections Commission sets.",
+  "whyItMatters": "Party primary candidates who lose could run again in the same election by another route, and parties themselves, not only individuals, could be fined when their people break the law. The amount of public money parties receive would be tied to expected state revenue.",
   "keyProvisions": [
-    "Clause 1 repeals Article 10 of the Political Parties Act in full.",
-    "Clauses 2 and 3 amend Article 20: paragraph (a) is reworded, and new paragraphs are added with points (1) to (4). One of the new paragraphs mentions Article 12 and a 12-month period.",
-    "Clause 4 amends Article 35, which refers to figures of 0.1% and 0.2%. The two versions in the comparison table differ only slightly, so the exact change is unclear.",
-    "Clause 5 amends Article 49(a)(2) so the fines are MVR 30,000, then MVR 75,000 for repeating the offence, and MVR 100,000 in the amended text. The 100,000 figure appears only in the new version.",
-    "Clauses 6 and 7 repeal Article 53 and the schedule to the Act, which is a printed form with blanks to fill in.",
-    "Clause 8 gives 30 days from the date the law takes effect for a step to be completed. Clause 9 says the law takes effect on ratification and publication in the Gazette."
+    "Clause 1 repeals Article 10, which bars a party member who contested the party's primary from standing in that election in any other capacity and tells the Elections Commission to cancel such a candidacy.",
+    "Clauses 2 and 3 amend Article 20 so a party applies for registration using a form drawn up to a template set by the Elections Commission under regulations. The form must include the proposed name, address and contact details, details of the people representing the party, and other information set in regulations, limited to what the Commission needs to check under Article 12. The form must be public on the Commission's website.",
+    "Clause 4 amends Article 35 so annual state funding for parties is between 0.1% and 0.2% of the revenue estimated in that year's state budget, instead of 0.1% to 0.2% of the annual budget.",
+    "Clause 5 amends Article 49(a)(2): anyone breaking another article of the Act still faces a fine of MVR 30,000 to 75,000, and the party that person belongs to would also be fined MVR 100,000.",
+    "Clauses 6 and 7 repeal Article 53 and the Schedule, which is the registration form currently printed in the Act.",
+    "Clause 8 requires regulations affected by the changes to be made and published in the Gazette within 30 days of the law taking effect. Clause 9 says it takes effect once passed, ratified and published in the Gazette."
   ],
-  "whoIsAffected": "Registered political parties, their officials and members, and the authority that registers and oversees parties.",
-  "statedReasons": "The explanatory note says the bill amends the Political Parties Act (No. 4/2013) to change some of its provisions. The note is hard to read, so the specific reasons are not clear.",
+  "whoIsAffected": "Political parties and their members and candidates, people forming new parties, and the Elections Commission.",
+  "statedReasons": "The note says the government wants to change how state budget money is given to parties, make parties share responsibility for breaches by holding the party accountable alongside individuals, and have registration forms follow an Elections Commission template instead of a form in the law.",
   "sourceDoc": "Bill",
   "pagesRead": 11,
   "pagesTotal": 11,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

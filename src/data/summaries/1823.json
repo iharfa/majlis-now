@@ -1,22 +1,22 @@
 {
   "workId": "1823",
-  "titleDv": "ޤާނޫނު ނަންބަރު 9/2009 (ރައީސުލްޖުމްހޫރިއްޔާގެ މަޤާމުން ކުރީ ރައީސުންގެ ރައްކާތެރިކަމާއި އިސްތިރާހަތު ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Former Presidents Protection and Benefit Act (Act No. 9/2009), which sets out the protection and benefits given to former presidents. It rewrites Articles 1(b), 3, 9 and 10, adds provisions to Article 5, and changes the definition in Article 13. It also repeals Article 8 and replaces it with a new Article 8-1 that includes an amount of MVR 25,000. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 13 pages.",
-  "whyItMatters": "It changes what benefits a former president can receive and the rules for when they apply or stop, with the sums involved set in the new Article 8-1.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 9/2009 (ރައީސުލްޖުމްހޫރިއްޔާކަން ކޮށްފައިވާ މީހަކަށް ދޭންޖެހޭ ރައްކާތެރިކަމާއި އިނާޔަތްތަކުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Former Presidents Protection and Benefit Act (Act No. 9/2009). It scraps Article 8, which lets a former president get up to MVR 175,000 a month from the state to run an office. It extends the law to former vice presidents who completed a full five-year term, giving them MVR 25,000 a month and state-paid medical care in the Maldives and abroad. It also pauses a one-term former president's allowance while they hold another state post or serve a second term, and drops the duty to provide security to a former president while they live abroad.",
+  "whyItMatters": "The Finance Ministry's attached estimate says the changes would cut spending on these benefits from a budgeted MVR 19.7 million to MVR 10.2 million in 2026, a saving of about MVR 9.5 to 10.6 million a year.",
   "keyProvisions": [
-    "Clauses 1 and 2 replace Article 1(b) and Article 3(s); the new Article 3(s) refers to the case covered by Article 3(b) and sets out numbered sub-points (1) and (2).",
-    "Clause 3 amends Article 5 by adding new paragraphs. The conditions they set could not be read reliably.",
-    "Clause 4 repeals Article 8. The comparison table shows the current Article 8 containing a figure of MVR 175,000.",
-    "Clause 5 inserts a new Article 8-1. Its paragraph (a)(1) contains an amount of MVR 25,000 (twenty-five thousand rufiyaa). The scans do not make clear whether this replaces the 175,000 figure in old Article 8.",
-    "Clauses 6 and 7 replace Article 9(s) and Article 10, and clause 8 amends the definition in Article 13; the text of each could not be read reliably.",
-    "The bill is followed by a financial-impact statement listing 2026 figures of MVR 10,500,000, MVR 300,000 and MVR 700,000, but the scan does not make clear what each line covers."
+    "Clause 4 repeals Article 8, removing the state payment of up to MVR 175,000 a month for a former president's office, staff and related costs.",
+    "Clause 5 adds Article 8-1: a former vice president gets MVR 25,000 a month and state-paid medical care at home and abroad, with the monthly payment paused while they hold any elected or appointed state post.",
+    "Clause 2 rewrites Article 3(c) so a one-term former president's financial allowance is paused while they serve a second term as president or hold another state post.",
+    "Clause 3 adds Article 5(b) and (c): Maldives National Defence Force protection does not have to be given to a former president while they live abroad, but must be arranged when they visit the Maldives.",
+    "Clauses 6 and 7 extend Article 9(a) (the government's power to change benefits in an economic crisis, after consulting Parliament) to all beneficiaries, and extend Article 10's loss of all benefits for a crime proven to be committed in office to vice presidents.",
+    "Clause 8 adds Article 13(e) defining a former vice president as someone who completed the vice president's term in a five-year presidential term, and clause 9 says the law takes effect when published in the Government Gazette."
   ],
-  "whoIsAffected": "Former presidents of the Maldives, and the government bodies that provide and fund their protection and benefits.",
-  "statedReasons": "A short explanatory note is printed, but the scan is too unclear to summarise it reliably.",
+  "whoIsAffected": "Former presidents and former vice presidents of the Maldives and their spouses, the MNDF that protects them, and the state budget that pays their benefits.",
+  "statedReasons": "The government says the bill reviews some benefits given to former presidents under Act No. 9/2009, gives benefits to people who have served as vice president, and makes the related amendments to the law.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 13,
   "pagesTotal": 13,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

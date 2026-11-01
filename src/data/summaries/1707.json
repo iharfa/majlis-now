@@ -1,22 +1,22 @@
 {
   "workId": "1707",
-  "titleDv": "ދިވެހިރާއްޖޭގެ ޕަބްލިކް ރެފަރެންޑަމް ބިލު",
-  "summary": "This bill is a new law on how public referendums are held in the Maldives. It lists the parts of the Constitution that it works with (Articles 2 and 5), and has rules on who can call a referendum (Articles 3 and 4). It then covers how the vote is organised, with time limits for some steps and rules for groups that register to take part (Articles 19 to 23). The bill has 39 articles in total. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 20 pages.",
-  "whyItMatters": "If a question is put to a national vote, this law would set the steps, deadlines and rules that apply to the vote and to campaigners.",
+  "titleDv": "ރައްޔިތުންގެ ޚިޔާލު ހޯދުމުގެ އާންމު ވޯޓު ނެގުމުގެ ބިލު",
+  "summary": "This is a new law setting out how public referendums are held in the Maldives. It allows a referendum on important public matters (called by Parliament), on major national issues (called by the President), and on changes to protected parts of the Constitution, such as the chapter on fundamental rights, the presidential term limit and the country's territory. The Elections Commission runs every referendum, following this law and the General Elections Act (Law 11/2008) for things like the voter register, campaign spending, vote counting, complaints and offences. Each referendum can ask only one question, which voters answer yes or no, and must happen 45 to 90 days after it is requested. The bill has 39 articles.",
+  "whyItMatters": "It gives every Maldivian aged 18 and over a defined way to vote on a single national question, and it sets out when the President must sign or drop a constitutional amendment depending on the result.",
   "keyProvisions": [
-    "Articles 2 and 5 list the Constitution articles (including 79, 107, 108 and 262) that this law works with, and say this law applies to referendums held under them.",
-    "Articles 3 and 4 deal with who can call a referendum and how.",
-    "Articles 6 to 14 cover how the vote is run; they refer back to Articles 3 to 5 and the contents page shows separate articles on notices and the voting process.",
-    "Article 16 mentions an age of 18, which appears to be the voting age for a referendum.",
-    "Article 19 sets time limits of 45 and 90 days, and Article 20 mentions periods of 15 and 7 days for registering groups, with a list of what must be provided.",
-    "Articles 21 to 23 deal with campaigning and the groups involved."
+    "Articles 2 to 5 list when a referendum is held: Parliament can call one by majority resolution, the President can call one by signed decision, and a referendum is required before the President signs an amendment to Chapter 2 or Articles 3(a)/(b), 79(a), 107, 108 or 262(b) of the Constitution, or when the President refuses to sign a constitutional amendment.",
+    "Articles 6 to 14 require each resolution to state the full question, the reason and the requested timing, cover only one issue, and come with an information paper; the President's paper must be prepared with Cabinet advice.",
+    "Article 15 says the Elections Commission must publish the question within 5 working days and make the information paper available at least 21 days before the vote; Article 16 gives the vote to every citizen aged 18 or over, and Article 17 makes it a secret ballot.",
+    "Articles 19 to 23 require the vote between 45 and 90 days after the request, the date to be announced within 7 days of the question being published, and allow Parliament (by a majority of all members) or the President to withdraw a non-mandatory referendum before the date is announced, with reasons.",
+    "Articles 25 to 27 require a voter register published at least 14 days before the vote and let political parties, associations, legal entities and individuals campaign from the announcement until 6:00 pm on the day before the vote.",
+    "Article 31 says if a majority of voters approve a constitutional amendment the President must sign and gazette it within 15 days, otherwise the bill is void; for other questions the side that called the vote must follow the majority result. Results are gazetted within 14 days (Article 32), and costs come from the state Consolidated Fund (Article 35)."
   ],
-  "whoIsAffected": "Voters, political groups and campaigners, and the institutions that organise national votes.",
-  "statedReasons": "The explanatory note says the bill is meant to set clear rules for holding a public referendum under the Constitution. The scan of the note is hard to read, so the wording is approximate.",
+  "whoIsAffected": "Voters aged 18 and over, Parliament, the President and Cabinet, the Elections Commission, and political parties and groups that campaign.",
+  "statedReasons": "The note says the government is proposing the bill to set out in law the situations where the Constitution allows a referendum, the roles of those who call one, and the rules the Elections Commission follows in running it.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 20,
   "pagesTotal": 20,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

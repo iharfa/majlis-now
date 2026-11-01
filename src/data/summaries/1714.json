@@ -1,22 +1,22 @@
 {
   "workId": "1714",
-  "titleDv": "ދިވެހިރާއްޖޭގެ އިންޓެލެކްޗުއަލް ޕްރޮޕަރޓީ އޮފީހުގެ ބިލު",
-  "summary": "This bill would set up the Maldives Intellectual Property Office as a government body (Article 4) and say what it does (Article 5). The office would be headed by a Registrar General (Article 6), and the bill sets rules for how that person is appointed, what qualifications are needed, how long they serve, and how they can resign or be removed (Articles 7 to 12). The bill has 34 articles in five parts: introduction, the office, the intellectual property registers, fees, and general provisions. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 24 pages.",
-  "whyItMatters": "People and businesses that register patents, trademarks or other intellectual property would deal with one named office run by a Registrar General, with set rules for who can hold that job.",
+  "titleDv": "މޯލްޑިވްސް އިންޓެލެކްޗުއަލް ޕްރޮޕަރޓީ އޮފީހުގެ ބިލު",
+  "summary": "This government bill would create the Maldives Intellectual Property Office, a government office under the ministry responsible for economic policy, to register and protect intellectual property such as trademarks, copyright, patents, industrial designs and geographical indications. The office would be led by a Registrar of Intellectual Property, appointed and removed by the Minister, who would keep a public register of all registered intellectual property. The bill sets qualifications, a 5-year term, conduct and confidentiality rules for the Registrar and staff. It also creates a way to ask for a Registrar's decision to be reviewed, then to go to court, and a complaints system for the office's services. It is a new law, not an amendment, and has 34 articles in five chapters.",
+  "whyItMatters": "Businesses, creators and inventors would register and check intellectual property through one dedicated office with a public register and set deadlines to challenge its decisions. The attached cost estimate puts running costs at about MVR 1.3 million a year.",
   "keyProvisions": [
-    "Article 4 sets up the Maldives Intellectual Property Office and Article 5 lists its functions in a series of points.",
-    "Article 6 makes a Registrar General the head of the office, and Article 7 sets how the Registrar General is appointed, with a 30-day time limit mentioned in Article 7.",
-    "Article 8 lists the qualifications a Registrar General must meet, and Article 9 covers the length of the term, with a period of 5 years mentioned.",
-    "Articles 10 to 12 cover how a Registrar General can leave the job, including a list of grounds for termination in Article 10, then resignation and dismissal.",
-    "Articles 13 to 16 cover the Registrar General's powers and duties; this part was only partly readable.",
-    "Later parts, which were not rendered, deal with the registers of intellectual property (Articles 21 to 24), fees (Articles 25 to 30) and general provisions (Articles 31 to 34)."
+    "Article 4 creates the Maldives Intellectual Property Office under the ministry, with the Minister answerable to Parliament for it; Article 5 lists its duties, including registering intellectual property, keeping the register, public awareness programmes, international cooperation and collecting fees set in the intellectual property laws.",
+    "Articles 7 to 12 say the Minister appoints the Registrar within 30 days of the law taking effect, for a 5-year term that can be renewed once; the Registrar must be a Maldivian with a first degree in intellectual property, law or a related field and at least 10 years of management experience, and cannot hold a political party post or sit on a company board.",
+    "Articles 15 to 20 require the Registrar and staff to work free of political or other influence, step away from cases where they have a personal interest, refuse gifts and keep information confidential, including trade secrets, except for lawful investigations or court orders; they are protected from lawsuits for acts done in good faith.",
+    "Articles 21 to 24 require the Registrar to keep a register of intellectual property recording the owner, rights, registration date, protection period, transfers and licences, and to make it available to the public, including digitally.",
+    "Articles 26 to 29 let a person who disagrees with a Registrar's decision ask for a review within 14 days; the Registrar must decide within 45 days after advice from a review committee, and the person can go to court within 30 days.",
+    "Article 30 requires a complaints system for the office's services, Article 32 gives the Registrar 6 months to publish regulations, and Article 33 says the law takes effect 3 months after it is published in the Government Gazette."
   ],
-  "whoIsAffected": "Anyone who applies for or holds intellectual property registrations in the Maldives, and the staff of the new office.",
-  "statedReasons": "The explanatory note says the bill is meant to set up an office to register and manage intellectual property rights. The scan of the note is hard to read, so the wording is approximate.",
+  "whoIsAffected": "Businesses, creators and inventors who register or use trademarks, copyright, patents and designs in the Maldives, and the staff of the new office.",
+  "statedReasons": "The note says the government wants a strong system to protect and develop intellectual property, encourage creativity and investment in business and support economic growth, by setting up this office and setting its duties, powers and enforcement rules.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 24,
   "pagesTotal": 24,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

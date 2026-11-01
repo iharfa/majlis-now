@@ -1,22 +1,22 @@
 {
   "workId": "1830",
   "titleDv": "ޤާނޫނު ނަންބަރު 9/2014 (ދިވެހިރާއްޖޭގެ ޤާނޫނުލްޢުޤޫބާތު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Penal Code. It rewrites the offence about stolen goods so it covers buying, hiding, selling or moving stolen property, not only receiving it. It also expands the cyber-crime article: misusing computer networks, and handing over or holding SIM cards and bank or online accounts for others to misuse, would become crimes. These crimes would be graded by seriousness. The scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "Buying goods you know are stolen, or lending your SIM card or bank account to someone who misuses it, could become a crime with a prison sentence.",
+  "summary": "This government bill amends the Maldives Penal Code (Law No. 9/2014). It makes gambling and running a gambling place, including online, a crime, graded as a Class 4 felony. It rewrites the offence of receiving stolen property so it also covers laundering, selling, importing, exporting and trading stolen goods, including online. It also rewrites the forgery article to cover counterfeiting and passing off fake items as genuine, with a wider definition of 'document' that includes electronic records, money and intellectual property.",
+  "whyItMatters": "Placing a bet or running a betting business, in person or online, could lead to a felony conviction. Selling, moving or dealing in goods known to be stolen, and faking documents or items, would carry clearer and in some cases heavier grades.",
   "keyProvisions": [
-    "Replaces Article 218 and renames the offence to cover receiving and buying stolen property. Knowingly taking, holding or buying stolen goods without meaning to return them to the owner is an offence.",
-    "New Article 218 clauses make it an offence to pass stolen property on, hide where it came from, or buy it while knowing it is stolen. Dealing in stolen goods is also covered, including bringing them into or taking them out of the Maldives. Grading follows the property-value rules in Article 210.",
-    "Renames and rewrites Article 310 on cyber-network offences. It covers unauthorised use of or interference with a network, and using SIM cards, bank accounts or online accounts to make an act look like someone else's.",
-    "Under Article 310, giving, selling or holding SIM cards or accounts for others to misuse is also an offence.",
-    "A broad definition of 'network' covers computer systems, data, servers, websites, apps and electronic communications. Offences range from Class 3 to Class 5 felonies, with the Class 3 and 4 levels for cases with aggravating features such as financial harm.",
-    "Also amends Article 616 and its chapter heading, including a new definition. This part could not be read reliably."
+    "Article 218 is renamed to cover receiving and trafficking stolen property. Taking, holding or keeping someone else's property without checking whether it is stolen, and not to return it to the owner, stays an offence, graded one level below theft under Article 210(b).",
+    "New parts of Article 218 make it an offence to transfer stolen property to someone else, disguise its origin or ownership, or knowingly hide it. Knowingly selling, importing or exporting, distributing or supplying stolen goods, or dealing in them online, is also an offence. These are graded one level above theft under Article 210(b).",
+    "The chapter and Article 310 headings change to cover forgery, counterfeiting and fraudulent acts. Article 310 makes it an offence to create or alter a document, or an item falsely shown as made by a certain person, original, valuable or antique, with intent to cause harm or hide wrongdoing, or to knowingly rely on such a fake.",
+    "Article 310 defines 'document' widely: printed or electronic records, money (coins and notes), stamps, seals, badges and tokens, electronic signatures and registry data, and intellectual property such as trademarks and copyright.",
+    "Forgery of a document that creates or affects legal rights, or is issued by or to the government, is a Class 4 felony. Forging money, bonds, stocks, securities or financial instruments is a Class 3 felony. Other cases are a Class 5 felony.",
+    "Article 616 (on not fasting in Ramadan, drinking alcohol and sorcery) adds gambling to its heading and makes gambling and running a gambling place a Class 4 felony. 'Gambling' means staking something of value on the outcome of a game, sport or event. Free-entry contests, free prize draws and amusement machines that give only free plays or tokens are excluded. The law would take effect when published in the Government Gazette."
   ],
-  "whoIsAffected": "Anyone who buys or resells second-hand goods, phone and bank account holders, and people accused of online or cyber offences.",
-  "statedReasons": "The government says it wants to update offences in the Penal Code and change the penalties and grading of some existing offences.",
+  "whoIsAffected": "People who gamble or run betting businesses or online betting, people who buy, sell or trade second-hand goods, and anyone accused of forgery or counterfeiting.",
+  "statedReasons": "The government says the bill makes gambling and running gambling places a crime, and changes the elements and grades of some existing Penal Code offences.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 19,
   "pagesTotal": 19,
-  "confidence": "Low",
+  "confidence": "High",
   "model": "claude-opus-5-5",
-  "generatedAt": "2026-10-06"
+  "generatedAt": "2026-11-01"
 }

@@ -1,21 +1,21 @@
 {
   "workId": "1727",
-  "titleDv": "ޤާނޫނު ނަންބަރު 9/2014 (ދިވެހިރާއްޖޭގެ ޤާނޫނުލްޢުޤޫބާތު) އަށް .. ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Penal Code (Act No. 9/2014) in one area: Article 121. It changes a list in Article 121 by adding a seventh item to the six that exist now. It also adds a new Article 121-1 made up of two lettered sub-articles, a numbered list of four points, and a grading clause that makes one case a grade 4 offence and another a grade 1 offence. The new article also refers to another law, Act No. 5/2009. The scans are hard to read, so the exact subject of the offence is uncertain.",
-  "whyItMatters": "If it becomes law, a new rule with its own offence grading could apply under Article 121 of the Penal Code, which could expose people to criminal liability.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 9/2014 (ދިވެހިރާއްޖޭގެ ޤާނޫނުލްޢުޤޫބާތު) އަށް .. ވަނަ އިސްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Penal Code (Act No. 9/2014) to make dangerous driving of a land vehicle a separate criminal offence. It adds reckless driving to the list in Article 121(b), the situations presumed to be reckless conduct that could cause death or serious injury, alongside things like explosives, machinery and animals. It also adds a new Article 121-1 that defines the offence of dangerous driving: driving without regard for your own safety or the safety of other road users, in breach of the road traffic law and rules. Examples listed include speeding above the limit set under the Land Transport Act (Act No. 5/2009), dangerous overtaking and driving without a licence.",
+  "whyItMatters": "Drivers who speed, overtake dangerously or drive without a licence could face criminal charges under the Penal Code, not only traffic fines, and people hurt in such accidents would have a criminal route to pursue the driver.",
   "keyProvisions": [
-    "Clause 1 amends Article 121 so that its list of six items becomes a list of seven, with a new item (7) added.",
-    "Clause 2 adds a new Article 121-1 with a side heading and two lettered sub-articles, (a) and (b).",
-    "Sub-article 121-1(b) contains a numbered list of four points, and the first point refers to Act No. 5/2009.",
-    "A further sub-article of 121-1 grades the offence, with item (1) a grade 4 offence and item (2) a grade 1 offence.",
-    "Clause 3 sets when the amendment takes effect, apparently on ratification and publication in the gazette."
+    "Clause 1 adds item (7) to Article 121(b): driving a land vehicle in a way that causes fear or with disregard for the risk to someone's life is presumed to be a reckless act that could cause death or serious injury.",
+    "Clause 2 adds Article 121-1(a): driving a land vehicle dangerously, in breach of the standards in road traffic laws and rules and without regard for one's own safety or other road users' safety, is an offence.",
+    "Article 121-1(b) lists acts treated as dangerous driving: exceeding the top speed limit set under Act No. 5/2009 and its regulations, dangerous overtaking, driving without a driving licence, and other driving that disregards the danger to oneself or road users.",
+    "Article 121-1(c) grades the offence: it is a class 4 felony where the driving showed no regard at all for the driver's own or another person's life, and a class 1 misdemeanour in other cases.",
+    "Clause 3 says the amendment takes effect on the day it is ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "People who could be charged under Article 121 of the Penal Code, though the scans do not make clear who exactly this covers.",
-  "statedReasons": "The explanatory note names Article 121 of the Penal Code and Act No. 5/2009. The rest of the note is too hard to read to give a reliable summary.",
+  "whoIsAffected": "Drivers of cars, motorcycles and other land vehicles, people injured in road accidents, and police and prosecutors who handle traffic cases.",
+  "statedReasons": "The note says Article 121 does not currently list reckless driving against road rules, so drivers in such accidents face no suitable action through the criminal justice system. The bill makes dangerous driving a separate offence so victims can get justice and drivers who break the Land Transport Act standards can be prosecuted.",
   "sourceDoc": "Bill",
   "pagesRead": 5,
   "pagesTotal": 5,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

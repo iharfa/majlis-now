@@ -1,21 +1,22 @@
 {
   "workId": "1749",
-  "titleDv": "ގާނޫނު ނަންބަރު 5/2009 (ބިންގަޑު ދަތުރުފަތުރުގެ ގާނޫނު) އަށް .. ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Land Transport Act (Law No. 5/2009). It changes four articles (22, 63, 67 and 70) that deal with driving offences, penalties and driving licences. The clearest changes are to fines: a new MVR 25,000 fine is added to Article 22, and the fines in Article 67 rise from roughly MVR 1,000 to 2,000 to between MVR 10,000 and 50,000, with a separate MVR 5,000 fine. Article 63 gets new penalty wording that also refers to the Penal Code (Law 9/2014). The scans are hard to read, so the exact offences each change covers are uncertain.",
-  "whyItMatters": "If passed, some road and licence offences would carry much higher fines, and people could face licence consequences for them.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 5/2009 (އެއްގަމު ދަތުރުފަތުރުގެ ޤާނޫނު) އަށް .. ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Land Transport Act (Law No. 5/2009). It adds a MVR 25,000 fine for failing to make way for, or blocking, emergency vehicles with sirens on. It lists five acts that count as dangerous or careless driving, such as driving without a licence, driving the wrong way on a one-way road and speeding. It raises the fine for driving without a licence, for adults and under-18s alike, to between MVR 10,000 and 50,000, and lets the vehicle's owner be fined or have their own licence suspended if they let that person drive. It also widens third-party insurance to cover bodily injury, including permanent injury.",
+  "whyItMatters": "Unlicensed and dangerous driving would carry much higher fines, vehicle owners could be punished for lending their vehicle to such drivers, and people injured by another vehicle could claim for bodily and permanent injuries under third-party insurance.",
   "keyProvisions": [
-    "Article 22: a new clause (e) adds a fine of MVR 25,000 (twenty-five thousand rufiyaa) for the cases covered by the earlier clauses of that article.",
-    "Article 63: clause (a) is rewritten into a numbered list of five items, and a new clause refers to the Penal Code (Law 9/2014) and to suspension periods (3 to 6 months and 10 to 25 days appear in the text).",
-    "Article 67(h): the penalty table is replaced. The current text has fines of about MVR 1,000, 1,500 and 2,000; the proposed text sets a fine of MVR 10,000 to 50,000 and a separate fine of MVR 5,000. The first amount appears to apply to an under-18 driver, but this is uncertain.",
-    "Article 70(a) is reworded and an extra parenthetical phrase is added; the change could not be read reliably.",
-    "Pages 4 to 7 contain a side-by-side table of the current text and the proposed text for each change."
+    "Article 22: a new clause sets a fine of MVR 25,000 for anyone who does not make way for, or obstructs, an emergency vehicle travelling with its siren on.",
+    "Article 63(a): five acts are defined as dangerous or careless driving: driving without a licence, driving against traffic on a one-way road, overtaking dangerously, exceeding the legal speed limit, and racing in busy traffic areas.",
+    "Article 63: a new clause says that if the dangerous driver is not the owner but used the vehicle with the owner's permission, the owner's licence can be suspended for 3 to 6 months.",
+    "Article 67(a): the fine for driving a vehicle without the required licence, by a person under or over 18, changes from MVR 1,000, 1,500 and 2,000 (first, second and later offences) to a single range of MVR 10,000 to 50,000; an owner who knowingly lent the vehicle can be fined MVR 5,000.",
+    "Article 70: the definition of third-party insurance is changed to cover bodily injury to others (minor and permanent injury), alongside damage to other vehicles and property.",
+    "The changes take effect when the amendment is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "Drivers and vehicle owners, and especially people accused of the offences covered by Articles 22, 63, 67 and 70.",
-  "statedReasons": "An explanatory note is printed on page 2, but the scan is too hard to read, so no reason is reported here.",
+  "whoIsAffected": "Drivers, especially unlicensed and under-18 drivers, vehicle owners who lend their vehicles, people injured in road accidents, and insurers offering third-party cover.",
+  "statedReasons": "The note says serious accidents from breaking road rules are rising and endangering lives, so penalties for dangerous driving should be made stricter; it also wants third-party insurance to cover permanent injuries so victims get fair compensation.",
   "sourceDoc": "Bill",
   "pagesRead": 7,
   "pagesTotal": 7,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

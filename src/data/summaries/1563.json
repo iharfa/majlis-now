@@ -1,21 +1,22 @@
 {
   "workId": "1563",
-  "titleDv": "ޤާނޫނު ނަންބަރު 9/2014 (ދިވެހިރާއްޖޭގެ ޤާނޫނުލްޢުޤޫބާތު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Penal Code (Law No. 9/2014). It changes one article only, Article 515, by replacing its text with a new version that has several numbered and lettered paragraphs. It also says how the new paragraphs sort certain acts into a Class 2 or Class 3 offence. The bill is short: two clauses, followed by a side-by-side table of the old and new wording. The scans are hard to read, so what exactly Article 515 covers is uncertain.",
-  "whyItMatters": "It would change the wording and the grading of one offence in the Penal Code, which could change how seriously that offence is charged and punished. Because the scans are hard to read, the exact effect on ordinary people cannot be stated with confidence.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 9/2014 (ދިވެހިރާއްޖޭގެ ޤާނޫނުލްޢުޤޫބާތު) އަށް ... ވަނަ އިސްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill, presented by the Maafushi MP, amends the Penal Code (Law No. 9/2014). It rewrites only Article 515, the offence of illicit enrichment (getting wealth without a lawful basis). Under the new wording, a state employee commits the offence if their lifestyle or the assets held in their name, or in the name of family, personal or business associates, are out of line with their official income and they cannot show these were lawfully obtained. The current article also requires reasonable evidence that the wealth came from a serious crime; the new text drops that condition. The penalty grades stay the same: a Class 2 felony for top office holders and a Class 3 felony for everyone else.",
+  "whyItMatters": "Prosecutors would no longer need to show evidence linking unexplained wealth to a serious crime, so state employees with wealth beyond their salaries could be convicted if they cannot explain where it came from. Property held by relatives or associates could also be counted as the accused person's own.",
   "keyProvisions": [
-    "Clause 1 replaces Article 515 of the Penal Code with new text, set out as paragraph (a) with points (1) to (3) and further paragraphs (b), (c) and (d).",
-    "The new text describes acts that count as an offence, with sub-points under paragraph (a). The wording is too hard to read reliably to say what they are.",
-    "Some paragraphs say that an act falls under a Class 2 offence, and others a Class 3 offence, so the new Article 515 would grade offences by seriousness.",
-    "The table at the end of the bill sets the current Article 515 beside the proposed Article 515, so readers can compare the two versions.",
-    "Clause 2 says the law takes effect once it is ratified by the President and published in the Gazette."
+    "Article 515(a) makes it an offence for a state employee, or someone holding a state employee's post, to keep a standard of living out of line with the income earned from that job.",
+    "Article 515(a) also covers acquiring and owning money or property, in their own name or that of a family, personal or business associate, out of line with that income, where they cannot prove the lifestyle or assets were lawfully obtained.",
+    "Article 515(b) says it is not an offence if the lifestyle or assets were in fact obtained lawfully.",
+    "Article 515(c) says money or property in the name of an associate is treated as the accused person's own if the court finds it is held for their benefit. A few words in this paragraph are hard to read in the scan.",
+    "Article 515(d) makes the offence a Class 2 felony when committed by the President, a minister, a member of the People's Majlis or a judge, and a Class 3 felony in all other cases.",
+    "Clause 2 says the law takes effect once it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "People who could be accused under Article 515 of the Penal Code, and the police, prosecutors and courts that apply it.",
-  "statedReasons": "The explanatory note says the bill is meant to amend Article 515 of the Penal Code. The reasons for the change are not clear in the scan.",
+  "whoIsAffected": "State employees and senior office holders such as the President, ministers, MPs and judges, their relatives and associates, and the prosecutors and courts handling corruption cases.",
+  "statedReasons": "The government says the way Article 515 currently defines the offence of illicit enrichment causes confusion when the law is interpreted, so the article needs to be amended.",
   "sourceDoc": "Bill",
   "pagesRead": 9,
   "pagesTotal": 9,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

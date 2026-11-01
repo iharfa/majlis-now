@@ -1,22 +1,22 @@
 {
   "workId": "1519",
-  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Maldives Tourism Act (Law no. 2/99). It rewrites several paragraphs of Article 9, which sets out dated fine tiers. The main change is the clock: the current text counts from the 10th amendment to the Act and uses a two-year window, while the new text counts from a 13th amendment and uses a six-month window. The fine amounts shown in the bill are MVR 100,000, 200,000, 5,000,000 and 10,000,000. The scans are hard to read, so exactly which conduct is fined is uncertain.",
-  "whyItMatters": "The fines run from MVR 100,000 up to MVR 10,000,000, and the bill resets the time windows attached to them, so the date the amendment starts decides when each tier bites for anyone covered.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމްގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Maldives Tourism Act (Law no. 2/99), changing the rules for extending leases on islands and land given out to build tourist resorts. At present only resort leases granted before the Act's 2nd amendment can be extended; the bill removes that limit, so any resort lessee can ask for an extension, as long as the total lease does not go past 50 years from the original lease date. It resets the deadlines for the extension fees: instead of two years from the 10th amendment, lessees get six months from the date this amendment (the 13th) takes effect to pay the lower fee. Fees are paid in US dollars.",
+  "whyItMatters": "Resort operators get a new, short window to lengthen their leases at a lower price, and the state expects to collect extension fees in the tens of millions of dollars as a result.",
   "keyProvisions": [
-    "Article 1 replaces one paragraph of Article 9. The current paragraph is tied to the 2nd amendment of the Act and includes a figure of 50 (fifty) whose unit is hard to read in the scan.",
-    "Article 2 replaces another paragraph of Article 9. Its opening words move from the 10th amendment and a two-year window to a 13th amendment and a six-month window. Tier (1) carries a fine of MVR 100,000 and tier (2) a fine of MVR 200,000.",
-    "Article 3 replaces item (1) of a further paragraph of Article 9. The wording is hard to read and no amount is printed in it.",
-    "Articles 4 and 5 replace items (2) and (3) of that paragraph. Both use the six-month window counted from the 13th amendment. Item (2) sets a fine of MVR 5,000,000 and item (3) a fine of MVR 10,000,000.",
-    "Article 6 says the amendment takes effect once it is ratified and published, with no waiting period visible in the text.",
-    "A financial note attached to the bill lists four estimated figures, 23.1, 46.3, 77.1 and 154.2 million rufiyaa, one against each of the four fine tiers. It assumes 15 cases, with a 50 and a 35 in a footnote that is hard to read."
+    "Article 1 rewrites Article 9(n) so that any island or land leased for a tourist resort can have its lease extended on request, up to a maximum of 50 years from the date it was first leased. The current text limits this to leases granted before the 2nd amendment of the Act.",
+    "Article 2 rewrites Article 9(s): a lessee who agrees to pay within 6 months of the 13th amendment taking effect pays US$100,000 for each year added to the lease, and one who agrees after those 6 months pays US$200,000 per year. The current law uses a 2-year window counted from the 10th amendment.",
+    "Article 3 restates a condition in Article 9 that the lessee must first have paid any rent, fines, charges or penalties owed to the government, except rent and fines the tourism ministry has deferred under an agreement.",
+    "Articles 4 and 5 set a separate one-off extension fee in Article 9: US$5,000,000 if paid within 6 months of the 13th amendment taking effect, or US$10,000,000 if paid after that. The current law ties these amounts to a 2-year window from the 10th amendment and links the higher fee to 99-year extensions.",
+    "Article 6 says the law takes effect once it is passed, ratified and published in the government gazette.",
+    "The attached cost assessment says the bill adds no state spending and estimates revenue of US$23.1 million and US$46.3 million under the two per-year fee tiers (assuming 15-year extensions) and US$77.1 million and US$154.2 million under the two one-off fee tiers."
   ],
-  "whoIsAffected": "People or businesses covered by Article 9 of the Tourism Act, which the scans do not make clear.",
-  "statedReasons": "The explanatory note and the attached note say the purpose is to amend the Tourism Act. The rest of the note is too hard to read to state its reasons reliably.",
+  "whoIsAffected": "Companies leasing islands or land for tourist resorts, the Ministry of Tourism, and the state budget.",
+  "statedReasons": "The government says the bill changes the rules in the Tourism Act for extending the lease period of islands and land given out to build tourist resorts.",
   "sourceDoc": "Bill",
   "pagesRead": 11,
   "pagesTotal": 11,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }
