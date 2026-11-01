@@ -1,21 +1,22 @@
 {
   "workId": "1517",
-  "titleDv": "ޤާނޫނު ނަންބަރު 18/2014 (ވިޔަފާރި ރަޖިސްޓްރީކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Business Registration Act (Law no. 18/2014). It replaces Article 5 with a new three-paragraph version and adds a new Article 5-1. The new Article 5-1 refers to the Securities Act (Law no. 2/2006) and includes a 10 percent figure. A comparison table at the end shows the current Article 5, which names the Companies Act (10/96) and the Partnership Act (13/2011). The scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "It changes the rules on how businesses are registered and ties them to the securities law. The scans are too hard to read to say exactly who must register or what changes for them.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 18/2014 (ވިޔަފާރި ރަޖިސްޓަރީކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Business Registration Act (Law no. 18/2014). It rewrites Article 5 so that a foreign party can do business in the Maldives only after registering (a foreign company re-registers under the Companies Act; others register a company or partnership) and getting an investment permit under the Foreign Investment Act. It adds a new Article 5-1 that lets foreigners invest in securities allowed under the Securities Act (Law no. 2/2006) without meeting those Article 5 steps. A foreign investor buying equity in a securities transaction cannot end up owning more than 10 percent of the shares.",
+  "whyItMatters": "Foreign investors could buy shares and other securities on the Maldivian market without setting up a registered business here, but each equity buyer is capped at a 10 percent stake.",
   "keyProvisions": [
-    "Article 1 replaces Article 5, which deals with registering businesses under the Act. The new text has three paragraphs, and its wording is hard to read.",
-    "The current Article 5, shown in the comparison table, refers to businesses formed under the Companies Act (10/96) and the Partnership Act (13/2011).",
-    "Article 2 adds a new Article 5-1. Paragraph (a) refers to the Securities Act (2/2006).",
-    "Paragraph (b) of the new Article 5-1 sets a 10 percent (ten percent) threshold. What the threshold is measured against is hard to read.",
-    "Article 3 says the amendment takes effect once it is ratified and published, with no waiting period visible in the text."
+    "Article 1 replaces Article 5: unless the Act says otherwise, a foreign party may do business in the Maldives only after completing set steps.",
+    "Under the new Article 5, a foreign company must re-register under the Companies Act, and any other foreign party must register a company or partnership under the Companies Act or the Partnership Act.",
+    "The new Article 5 also requires a permit to invest in the Maldives under the Foreign Investment Act. The current Article 5 only requires registration under the Companies Act (10/96) or the Partnership Act (13/2011).",
+    "Article 2 adds Article 5-1(a): the Act does not stop foreign parties from investing in securities permitted under the Securities Act (Law no. 2/2006), without meeting the Article 5 requirements.",
+    "New Article 5-1(b): a foreign party investing in equity may not own more than 10% of the shares bought in a securities transaction.",
+    "Article 3: the law takes effect once it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "Businesses that have to register under the Business Registration Act, including those linked to the Securities Act, though the scans do not name them clearly.",
-  "statedReasons": "An explanatory note is printed but is too faint to read, so its stated reasons cannot be given reliably.",
+  "whoIsAffected": "Foreign companies and individuals who want to do business or buy securities in the Maldives, and the local market where those securities are traded.",
+  "statedReasons": "The government says the bill sets out the areas in which foreign parties can invest in securities in the Maldives, along with related basic principles, by amending the Business Registration Act.",
   "sourceDoc": "Bill",
   "pagesRead": 6,
   "pagesTotal": 6,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

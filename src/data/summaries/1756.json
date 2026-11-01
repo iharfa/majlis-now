@@ -1,20 +1,22 @@
 {
   "workId": "1756",
-  "titleDv": "ދިވެހިރާއްޖޭގެ ޤާނޫނު އަސާސީއަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Constitution of the Maldives. It changes Article 138 only, by replacing its existing wording with a new set of lettered sub-clauses. A second short section appears to say when the amendment starts, which looks like the date it is ratified and published. The scans are hard to read, so the actual wording of the new Article 138 could not be made out and some details are uncertain.",
-  "whyItMatters": "Because it changes the Constitution itself, any effect would apply to the whole state. The scans were not clear enough to say who or what would be affected in practice.",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާގެ ޤާނޫނުއަސާސީއަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Constitution of the Maldives by rewriting Article 138, which deals with asset declarations by Cabinet ministers. Today, each minister must give the Auditor General a yearly statement of their assets, money, business interests and debts, but no deadline is set. The bill would require the statement to go to both Parliament and the Auditor General within 90 days of each year of service, to be checked by a licensed auditor, and to be published. Ministers would also have to file a statement within 30 days of taking office, and a minister who files late would have a daily amount cut from their salary.",
+  "whyItMatters": "Members of the public would be able to see what Cabinet ministers own, earn and owe, both when they take office and every year after. Ministers who miss the deadline would lose part of their pay for each day of delay.",
   "keyProvisions": [
-    "Section 1 amends Article 138 of the Constitution and sets out a rewritten Article 138 with several lettered sub-clauses, (a) onwards.",
-    "The new sub-clauses cross-refer to one another (for example, later clauses refer back to clause (a)), so they work as one connected set of rules.",
-    "Section 2 is a one-sentence start-date clause. It appears to bring the amendment into effect on ratification and publication, but this part is not fully legible.",
-    "Pages 5 to 7 are a rotated side-by-side table of the current and proposed text of Article 138. It could not be read reliably, so no further changes are listed here."
+    "Article 138(a): every Cabinet member must submit a yearly statement of their assets, money, business interests and debts to Parliament and the Auditor General (currently it goes only to the Auditor General).",
+    "Article 138(b) and (c): a 'year' is counted from the date the person took up the Cabinet post, and the statement for each year is due within 90 days of that year ending.",
+    "Article 138(d): the statement must be verified by a licensed auditor holding an audit licence from the Institute of Chartered Accountants of the Maldives.",
+    "Article 138(e): if the statement is not filed within the 90-day period, a daily amount is deducted from the minister's salary for every day until it is filed.",
+    "Article 138(f) and (g): each newly appointed Cabinet member must file a statement of income, assets and debts within 30 days of taking office, and all statements filed under (a) and (f) must be published.",
+    "Section 2: the amendment takes effect once it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "Unclear from the scans; as a constitutional amendment it would apply to whoever Article 138 covers.",
-  "statedReasons": "An explanatory note is printed on page 2, but it could not be read reliably, so no reason is reported here.",
+  "whoIsAffected": "Members of the Cabinet, along with Parliament and the Auditor General, who would receive their asset statements.",
+  "statedReasons": "Article 138 requires ministers to declare their assets each year but sets no deadline or date for it, and no set period for filing after their term ends. The bill seeks to make ministers disclose what they own and which businesses they have interests in when they start in office.",
   "sourceDoc": "Bill",
   "pagesRead": 7,
   "pagesTotal": 7,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

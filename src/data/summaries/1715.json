@@ -1,19 +1,22 @@
 {
   "workId": "1715",
-  "titleDv": "ދިވެހިރާއްޖޭގެ ޤާނޫނުއަސާސީއަށް ... ވަނަ އިސްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Constitution of the Maldives. Its first article adds a new clause to Article 73 of the Constitution. The new clause is made up of five numbered points that appear to deal with members of the People's Majlis in connection with political parties. A second article says when the amendment takes effect. The handwriting-style scans are hard to read, so what each point requires is uncertain.",
-  "whyItMatters": "Article 73 is part of the Constitution's rules on People's Majlis members, so a change to it would be a change to the constitution itself, though the exact effect could not be confirmed.",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާގެ ޤާނޫނުއަސާސީއަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Constitution of the Maldives to add new situations in which a member of the People's Majlis loses their seat. It adds a new clause to Article 73, listing five such situations. They cover MPs who leave or switch the party they were elected under, independent MPs who join a party, MPs expelled from their party, and a recall process in which voters in the MP's constituency can vote to remove them. The change would take effect once it is passed, ratified and published in the Government Gazette.",
+  "whyItMatters": "MPs elected on a party ticket could lose their seat for leaving or switching parties, and voters in a constituency would get a way to petition for and vote on removing their MP.",
   "keyProvisions": [
-    "Article 1 of the bill adds a new clause to Article 73 of the Constitution, placed after an existing clause of that Article.",
-    "The new clause is a list of five numbered points. They appear to refer to political parties and to members of the People's Majlis, but the wording could not be read reliably.",
-    "Article 2 of the bill appears to say the amendment takes effect once it is ratified and published in the Government Gazette."
+    "Article 1 adds a new lettered clause to Article 73 of the Constitution, saying an MP loses their seat if any of five listed situations happens after they are elected.",
+    "An MP elected as a party member loses their seat if they resign from that party or switch to another party, and an MP elected as an independent loses their seat if they join a political party.",
+    "An MP elected as a party member loses their seat if the party expels them, under its own rules, for voting against a party decision in the Majlis or one of its committees; the clause also refers to a request by the constituency's voters, but this part of the wording is unclear.",
+    "If a party expels an MP for any other reason, the MP is removed only if a majority of eligible voters in their constituency decide to remove them.",
+    "Voters can start a recall: a petition signed by a share of the constituency's eligible voters (the percentage to be set by law) goes to the Majlis, the relevant committee reviews it and can call a public vote in the constituency, and the MP is removed if a majority of those who vote back it.",
+    "Article 2 says the amendment takes effect on the day it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "Members of the People's Majlis and the political parties they belong to, though this is uncertain.",
-  "statedReasons": "A short explanatory note of two lines is printed on page 2, but it could not be read reliably.",
+  "whoIsAffected": "Members of the People's Majlis, the political parties they belong to, and voters in each constituency.",
+  "statedReasons": "The note says the bill is submitted to amend the Constitution by changing the situations in which members of the People's Majlis lose their seats.",
   "sourceDoc": "Bill",
   "pagesRead": 4,
   "pagesTotal": 4,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

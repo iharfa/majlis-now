@@ -1,21 +1,22 @@
 {
   "workId": "1721",
   "titleDv": "ޤާނޫނު ނަންބަރު 8/2008 (އިލެކްޝަންސް ކޮމިޝަނުގެ ޤާނޫނު) އަށް .. ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Elections Commission Act (Law No. 8/2008). It replaces Article 4 of the Act with new text made up of four lettered clauses. The scanned pages are hard to read, and the amendment is printed as a side-by-side table of old and new wording, so the exact changes are uncertain. From the layout, the article appears to deal with how the Commission's members are chosen and appointed. The bill also says it takes effect once it is ratified and published in the Gazette.",
-  "whyItMatters": "Article 4 of the Act appears to be about the Commission's members, so a change here could alter who sits on the body that runs the country's elections.",
+  "summary": "This bill amends the Elections Commission Act (Law No. 8/2008) by rewriting Article 4, which sets out how members of the Elections Commission are appointed. Under the current Article 4, the President picks candidates from people who answered a public announcement and sends at least as many names as there are seats to Parliament, which votes on them before the President appoints them. The bill takes the President out of the nominating step: the Parliament secretariat would advertise the posts, Parliament's Independent Institutions Committee would review the applicants and report to Parliament, and the President would appoint whoever Parliament approves. Candidates would still have to meet the qualifications in Article 5 of the Act.",
+  "whyItMatters": "It would move control over who is shortlisted for the Elections Commission, the body that runs the country's elections, from the President to Parliament. The President would still make the formal appointment, but only of people Parliament has approved.",
   "keyProvisions": [
-    "Clause 1 replaces Article 4 of the Elections Commission Act with a new Article 4 containing four clauses, (a) to (d).",
-    "The new Article 4 appears to concern the Commission's members and how they are put forward and appointed. The details could not be read reliably.",
-    "One clause refers to Article 5 of the Act, which suggests the new Article 4 is linked to the rules in that article.",
-    "Pages 4 to 6 set out the old and new wording of Article 4 side by side in a table. This table was too hard to read to compare the two versions.",
-    "Clause 2 says the amendment takes effect on the date it is ratified and published in the Gazette."
+    "Clause 1 replaces Article 4 of the Elections Commission Act with a new Article 4 titled \"Appointment of members\", with four parts, (a) to (d).",
+    "New Article 4(b): each time a member is to be appointed, the Parliament secretariat publicly invites applications, and Parliament's Independent Institutions Committee reviews the applicants and submits its report to Parliament.",
+    "New Article 4(c): the President must appoint the person or people approved by a majority of MPs present and voting at a sitting of Parliament.",
+    "New Article 4(d): the names Parliament approves must come from people who applied after the public announcement and who meet the conditions in Article 5 of the Act.",
+    "The comparison table shows the current rule being replaced: the President sends Parliament at least as many names as there are seats, chosen from public applicants, and also sends the names of the other applicants for information. The current clause saying members must have the experience and ability to do the Commission's work does not appear in the new text.",
+    "Clause 2 says the amendment takes effect once it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "The members of the Elections Commission and the institutions involved in appointing them, and so indirectly voters.",
-  "statedReasons": "The short explanatory note says the bill is submitted to amend the Act, but the rest of the wording was too hard to read to quote the reason.",
+  "whoIsAffected": "People applying to join the Elections Commission, the President, Parliament and its Independent Institutions Committee, and indirectly all voters.",
+  "statedReasons": "The sponsor says he considers it important that Parliament be the body that appoints the members of the Elections Commission.",
   "sourceDoc": "Bill",
   "pagesRead": 6,
   "pagesTotal": 6,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

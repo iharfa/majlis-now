@@ -1,20 +1,22 @@
 {
   "workId": "1518",
-  "titleDv": "ޤާނޫނު ނަންބަރު 2/2006 (ދިވެހިރާއްޖޭގެ ސެކިއުރިޓީޒް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Securities Act (Law no. 2/2006) so that it links to the Business Registration Act (Law no. 18/2014). It rewrites parts of Article 10 and Article 41, adds a new Article 41-1 and adds a new item to a list in Article 63. The new text of Article 10 and the new Article 41-1 both name the Business Registration Act. It would take effect three months after it is ratified and published. The scans are hard to read, so the exact rules are uncertain.",
-  "whyItMatters": "It changes how the securities law and the business-registration law fit together, which could affect businesses that deal in securities. The scans are too hard to read to say exactly how.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/2006 (ދިވެހިރާއްޖޭގެ މާލީ ސެކިއުރިޓީޒްއާބެހޭ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Maldives Securities Act (Law no. 2/2006) to let foreigners invest in securities licensed in the Maldives. Foreign investment would be allowed only within the sectors set out in the Business Registration Act (Law no. 18/2014) and under rules made under the Securities Act. The Authority would write regulations on which securities foreigners may buy, what conditions foreign investors must meet, and how they trade on the stock exchange. It would also have to set up a system to monitor these trades. The changes would take effect three months after the law is ratified and published in the Government Gazette.",
+  "whyItMatters": "Foreign individuals and companies could buy and sell certain Maldivian securities on the stock exchange, under conditions set by the Authority. Which securities are open to them would be decided together with the ministry in charge of economic policy.",
   "keyProvisions": [
-    "Article 1 replaces several sub-paragraphs of Article 10 and sets out a new text. A new paragraph cites the Business Registration Act (18/2014) by name, and its exact rule is hard to read.",
-    "Article 2 adds a new Article 41-1 after Article 41. It has a numbered list of three points (1) to (3) and further paragraphs that refer back to the Business Registration Act. The detail is hard to read.",
-    "Article 3 adds a new item (14) after item (13) in Article 63. The wording of the new item could not be read reliably.",
-    "Article 4 says the amendment takes effect three months after it is ratified and published."
+    "Article 1 re-letters several paragraphs of Article 10 and adds a new paragraph. It covers deciding how foreigners may invest in securities licensed under the Act, within the sectors set by the Business Registration Act (18/2014).",
+    "Article 2 adds a new Article 41-1, 'Foreign investment in securities'. Under 41-1(a), foreigners may invest in securities within the Business Registration Act's sectors and in line with the Securities Act and its regulations.",
+    "Under 41-1(b), the regulations must cover three things: (1) which types of securities foreigners may invest in, (2) the conditions foreign investors must meet, and (3) the procedures for foreigners trading on the stock exchange.",
+    "Under 41-1(c), the Authority must set up a monitoring and compliance mechanism to check that foreign trades on the stock exchange follow the Business Registration Act, the Securities Act and its regulations. Under 41-1(d), the Authority decides which securities are open to foreigners after consulting the ministry responsible for economic policy.",
+    "Article 3 adds item (14) to Article 63(b): a regulation on foreign investors investing in securities.",
+    "Article 4 says the amendment takes effect three months after it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "Businesses that are registered under the Business Registration Act and deal in securities, though the scans do not name them clearly.",
-  "statedReasons": "An explanatory note is printed and refers to the Business Registration Act (18/2014) and the Securities Act (2/2006). It is too hard to read to state its reasons reliably.",
+  "whoIsAffected": "Foreign investors, companies whose securities trade on the Maldives stock exchange, and the Authority that regulates securities.",
+  "statedReasons": "The government says the bill sets the rules for foreigners to invest in Maldives-licensed securities markets, in line with the Business Registration Act (18/2014).",
   "sourceDoc": "Bill",
   "pagesRead": 5,
   "pagesTotal": 5,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

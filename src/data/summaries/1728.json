@@ -1,22 +1,22 @@
 {
   "workId": "1728",
-  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ބައިބަޔަށް ބެހިގެން ރަށްތަކާއި ސިޓީތަކުގެ ކައުންސިލްތަކުގެ ހިންގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Decentralization Act (Act No. 7/2010), the law that sets up and governs local councils. It rewrites parts of Articles 70, 75, 79 and 100 and adds a new Article 144-1. One of the rewritten clauses includes a figure of MVR 10,000,000, and another refers to a period of six months and to Article 69-1. A separate clause gives 30 days after the law takes effect for related steps to be done. The scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "If it becomes law, the rules for how local councils work and are run could change, which affects the people who serve on and deal with island and city councils.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ދާއިރާތައް ލާމަރުކަޒީ އުސޫލުން ހިންގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill, presented by the member for South Fuvahmulah, amends the Decentralization Act (Act No. 7/2010), the law that runs island, atoll and city councils. It limits the businesses that council-owned local enterprise companies can run: no competing with private businesses already operating on the island, only work the island's development needs, and no investment above MVR 10 million. It stops councils from charging rent on land or buildings used to provide basic government services, and lets the state hold back money from council grants when a council has gone more than six months without paying for public services. It also tightens oversight of council bank accounts and limits big decisions, such as hiring staff, leasing land or lagoons, and starting new projects, in the last year of a council's term.",
+  "whyItMatters": "Council companies would have to drop businesses that compete with private firms on their island, and outgoing councils could not hire staff, lease land or start unplanned projects in their final year without following rules set by the finance ministry and the Local Government Authority.",
   "keyProvisions": [
-    "Clause 1 replaces a sub-article of Article 70. The new text opens with a 'despite' clause and has a list of three points, one of which includes MVR 10,000,000.",
-    "Clause 2 amends Article 75, changing a sub-article that refers to items (9) and (12) of an earlier sub-article.",
-    "Clause 3 replaces Article 79(c). It refers to Article 79(b)(1) and Article 69-1 and mentions a period of six months.",
-    "Clause 4 replaces two sub-articles of Article 100. The details could not be read reliably.",
-    "Clause 5 adds a new Article 144-1 with an opening paragraph that mentions a 365-day period and a list of lettered points. The scan is too unclear to say what the points require.",
-    "Clause 6 sets a 30-day deadline after the law takes effect, and clause 7 says the amendment takes effect on ratification and publication in the gazette."
+    "Clause 1 adds to Article 70: a local enterprise company may only run a business that private parties are not already running on its island or islands, that the island's development needs, and whose investment or capital is no more than MVR 10,000,000. Companies already running businesses that break these rules must stop them within 90 days of the amendment taking effect.",
+    "Clause 2 adds a sub-article to Article 75 saying councils cannot charge rent for land or buildings given out for the government to provide basic services to the public, despite items (9) and (12) of Article 75(c).",
+    "Clause 3 rewrites Article 79(c): before handing councils the revenue set out in Article 79(a)(1), the state deducts any fines owed to it and any money a council has owed for more than six months for the public services listed in Article 69-1.",
+    "Clause 4 adds two sub-articles to Article 100: councils must manage their bank accounts under rules set by the finance ministry, and must give the ministry their bank statements when it asks.",
+    "Clause 5 adds Article 144-1: when 365 days or less remain in a council's term, it cannot hire permanent or contract staff, lease out land, lagoons or lagoon areas, or start development projects not in its development plan, except under rules set by the finance ministry and the Local Government Authority.",
+    "Clause 6 requires the related regulations and rules to be made or amended and published in the gazette within 30 days of the law taking effect, and clause 7 says the law takes effect once it is passed, ratified and published in the gazette."
   ],
-  "whoIsAffected": "Local councils and councillors under the Decentralization Act, and the residents who rely on them, though the scans do not make this fully clear.",
-  "statedReasons": "The explanatory note says the bill amends the Decentralization Act and refers to councils several times. The rest of the note could not be read reliably.",
+  "whoIsAffected": "Local councils and their enterprise companies, private businesses on islands where those companies operate, and people hoping for council jobs or land leases near the end of a council term.",
+  "statedReasons": "The note says the government is proposing the bill to set in law the range of business that council enterprise companies may run, to review some of the rules for state grants to councils, and to set rules for major financial decisions councils make in the final year of their term.",
   "sourceDoc": "Bill",
   "pagesRead": 7,
   "pagesTotal": 7,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

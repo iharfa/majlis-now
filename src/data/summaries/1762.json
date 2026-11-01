@@ -1,22 +1,21 @@
 {
   "workId": "1762",
-  "titleDv": "ޤާނޫނު ނަންބަރު 4/2007 (އޯޑިޓު ޤާނޫނު) އަށް ...... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Audit Act (Law No. 4/2007). It adds a new sub-article after an existing paragraph of Article 9. The new provision deals with performance reports from the bodies the Auditor General audits, including a time limit of 90 days and another of 30 days, and a fine of MVR 5,000 for breaking the rules. The explanatory note is followed by a list of 26 numbered entries (apparently institutions or groups of institutions), and those could not be read reliably. The scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "If passed, public bodies that fall under the Auditor General's audit would have deadlines to produce reports, with a fine if they miss them, which would make it easier for the public to see how they perform.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 4/2007 (އޮޑިޓް ޤާނޫނު) އަށް ...... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Audit Act (Law No. 4/2007) by adding a new paragraph, 9(ha-1), to Article 9. It gives the Auditor General the power to require members of independent commissions, holders of independent posts, and heads of statutory bodies, offices and agencies to submit statements of their assets and money, to receive those statements, and to publish them. Each official would have to file a statement of their holdings within 30 days of taking office, and a yearly statement checked by a licensed auditor within 90 days after each year in office ends. Anyone who breaks these requirements could be fined MVR 5,000. The explanatory note lists 26 posts and bodies it has in mind, from the Elections Commission to the Commissioner of Police.",
+  "whyItMatters": "If passed, the asset and money declarations of senior officials in independent and statutory bodies would be collected by the Auditor General and made public, so anyone could look them up.",
   "keyProvisions": [
-    "Clause 1 adds a new sub-article to Article 9 of the Audit Act, numbered as a '-1' paragraph after an existing paragraph.",
-    "Sub-article (1) sets out a duty tied to the end of a 1 year period, with a time limit of 90 days.",
-    "Sub-article (2) sets a shorter time limit of 30 days.",
-    "Sub-article (3) says that failing to comply with (1) and (2) can be punished with a fine of MVR 5,000.",
-    "The explanatory note is followed by a numbered list of 26 entries, which could not be read well enough to describe.",
-    "Clause 2 is a short commencement clause, saying when the amendment takes effect once it is ratified and published."
+    "Clause 1 adds paragraph (ha-1) after paragraph (ha) of Article 9, letting the Auditor General ask the covered officials for statements of their assets and money, receive them and publish them.",
+    "Sub-paragraph (1): a yearly statement verified by an auditor licensed by the Institute of Chartered Accountants of the Maldives, due within 90 days after the end of each year counted from the date the official took office.",
+    "Sub-paragraph (2): on taking office, a statement of the official's assets, money, business interests and debts as of the day they took the oath, due within 30 days.",
+    "Sub-paragraph (3): anyone who breaks the requirements can be fined MVR 5,000 (the text refers to numbers (1) and (3), which appears to mean (1) and (2)).",
+    "Clause 2: the law takes effect once it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "State institutions and statutory bodies that the Auditor General audits, and the public that relies on those audits.",
-  "statedReasons": "The explanatory note refers to the Auditor General's audit of state offices and statutory bodies, but the scan was too hard to read for the reasons to be stated reliably.",
+  "whoIsAffected": "Members of constitutional commissions and tribunals and the heads of authorities and agencies such as the Prosecutor General, Commissioner of Police and Commissioner General of Taxation, plus the Auditor General's office, which would collect and publish their statements.",
+  "statedReasons": "The note says there is no clear system for these officials to declare and disclose their assets and money, and the rules sit across the Constitution and many laws, so the bill puts one requirement in a single law instead of amending all of them.",
   "sourceDoc": "Bill",
   "pagesRead": 5,
   "pagesTotal": 5,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

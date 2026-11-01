@@ -1,21 +1,21 @@
 {
   "workId": "1556",
-  "titleDv": "ޤާނޫނު ނަންބަރު 8/2008 (އިންތިޚާބު ކޮމިޝަނުގެ ޤާނޫނު) އަށް .. ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Elections Commission Act (Law No. 8/2008). It rewrites Article 7, which deals with the Commission's chair and vice chair, and Article 15(a). Article 7 gets new paragraphs (a), (b) and (c). Article 15(a) is reworded as well. The bill also has a clause on how the changes apply to people already in office when it takes effect. The scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "It changes how the Elections Commission's chair and vice chair are chosen or replaced, and so affects who leads the body that runs elections.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2008 (އިލެކްޝަންސް ކޮމިޝަންގެ ޤާނޫނު) އަށް .. ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Elections Commission Act (Law No. 8/2008). Right now, the Commission's own members pick its chair and vice chair from among themselves and then tell the Majlis and the President within 48 hours. Under the bill, the President would send one or more members' names to the Majlis, and would appoint as chair or vice chair whoever the Majlis approves by a majority of members present and voting. It also changes the resignation rule so the chair and vice chair resign by letter to the President instead of to the Commission or its chair. People already serving as chair and vice chair stay in their posts until their terms end under the law.",
+  "whyItMatters": "It moves the choice of who leads the body that runs elections from the commissioners themselves to the President, with approval from Parliament.",
   "keyProvisions": [
-    "Clause 1 replaces Article 7, whose heading mentions the Commission's chair and vice chair, with new paragraphs (a), (b) and (c).",
-    "Under the new Article 7(b), the text covers the position of chair or vice chair when someone's term ends or the post is left open. The exact rule is hard to read.",
-    "Clause 2 rewrites Article 15(a), which deals with the chair or vice chair and what happens when that post is vacant or a person is elected to it.",
-    "Clause 3 is a transitional rule on how the amended Article 7 applies to people already serving on the Commission when the law starts.",
-    "Clause 4 says the law takes effect once it is ratified by the President and published in the Gazette."
+    "Clause 1 replaces Article 7: the President must appoint a chair and vice chair from among the Commission's members, as set out in that article (7(a)).",
+    "Each time a chair or vice chair is needed, the President must submit the name of one or more Commission members to the Majlis (7(b)), and then appoint the person the Majlis approves by a majority of members present and voting (7(c)).",
+    "Clause 2 rewrites Article 15(c): a chair or vice chair who wants to resign sends a letter to the President, and leaves the post once the President receives it. Before, the chair resigned to the Commission and the vice chair to the chair.",
+    "Clause 3 says that, despite the new Article 7, members appointed as chair and vice chair before the law starts stay in those posts until they leave them as the law provides.",
+    "Clause 4 says the law takes effect when it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "The members of the Elections Commission, especially its chair and vice chair, and the Majlis and President who take part in appointments.",
-  "statedReasons": "The explanatory note says the bill amends the Elections Commission Act (No. 8/2008) to change how the posts of the Commission's chair and vice chair are handled. The note is hard to read, so the detailed reasons are not clear.",
+  "whoIsAffected": "The members of the Elections Commission, especially its chair and vice chair, plus the President and the Majlis, who gain a role in choosing them.",
+  "statedReasons": "The government says the bill is meant to strengthen how independent commissions run and to make the method for appointing their chairs and vice chairs from among their members the same across commissions.",
   "sourceDoc": "Bill",
   "pagesRead": 6,
   "pagesTotal": 6,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

@@ -1,22 +1,22 @@
 {
   "workId": "1571",
   "titleDv": "ދިވެހިރާއްޖޭގެ ޤާނޫނުއަސާސީއަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Constitution of the Maldives. It changes five articles: Article 3, Article 73(c), Article 115(c), Article 251(c) and Article 262. Article 73(c) is rewritten as three numbered situations about members of the People's Majlis and their political party status, and the bill ends with a clause on when the amendment takes effect. The last three pages set the current wording beside the proposed wording for each article. The scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "Constitutional changes sit above ordinary laws, so any change to the Majlis membership rules in Article 73(c) would apply to every MP and voter.",
+  "summary": "This government bill amends the Constitution of the Maldives. It says any change to the Maldives' sea areas, including the exclusive economic zone, or anything that reduces them, needs a law passed by at least two-thirds of all MPs. It makes MPs lose their seat if they leave, are expelled from, or switch the party they were elected for, or if an independent MP joins a party. It also requires a majority of all MPs to approve any foreign military use of Maldivian territory or foreign troops operating there, and adds long-term national development planning to the President's duties.",
+  "whyItMatters": "Parliament, not the government alone, would have to approve border or sea-area changes and foreign military activity in the Maldives, and MPs who switch parties mid-term would lose their seats.",
   "keyProvisions": [
-    "Clause 1 amends Article 3, adding or replacing provisions in its paragraphs (printed as (a) and (b)).",
-    "Clause 2 replaces Article 73(c) with three numbered paragraphs about MPs. The wording appears to cover members elected for a political party and members elected without one, but this could not be read reliably.",
-    "Clause 3 replaces Article 115(c) with new wording.",
-    "Clause 4 replaces Article 251(c), the longest of the new passages.",
-    "Clause 5 amends Article 262, changing paragraph (a)(3) and adding to the text after paragraph (c).",
-    "Clause 6 is the closing clause on when the amendment comes into force. Pages 7 to 9 are a side-by-side table of current and proposed text for Articles 3, 115, 251 and the other changed provisions."
+    "Article 3 is split into two parts. New 3(b) says the internal waters, archipelagic waters, territorial sea, contiguous zone and exclusive economic zone can only be changed or reduced by a law passed by at least two-thirds of all MPs.",
+    "A new Article 73(e), after 73(d), says an MP loses their seat if, during the term they were elected for, they leave or are expelled from the party they represent or join another party. An MP elected as an independent loses their seat on joining a political party.",
+    "Article 115(e) adds a duty for the President to set short, medium and long-term national development plans and visions, alongside setting the state's main policies.",
+    "Article 251(c) is rewritten so no foreign power may use any part of Maldivian territory for military purposes, by agreement or otherwise, without approval by a majority of all MPs. Foreign troops may not operate in the Maldives for military purposes without that approval, except when taking part in exercises held under an agreement.",
+    "Adds a fourth item to Article 262(c) that refers to Article 262(c) itself, under a heading about the President assenting to bills. The text does not make clear what practical effect this has.",
+    "The changes take effect once passed, ratified and published in the Government Gazette (clause 6)."
   ],
-  "whoIsAffected": "Members of the People's Majlis, political parties, and voters, plus anyone affected by the other constitutional articles amended.",
-  "statedReasons": "",
+  "whoIsAffected": "Members of Parliament and political parties, the President and government, and any foreign country seeking military access to the Maldives.",
+  "statedReasons": "The government says the bill makes changes to Maldivian sea areas require a two-thirds law, makes foreign military use of Maldivian territory require Parliament's approval, and makes MPs lose their seat if the status they were elected under changes.",
   "sourceDoc": "Bill",
   "pagesRead": 9,
   "pagesTotal": 9,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

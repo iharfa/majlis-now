@@ -1,22 +1,22 @@
 {
   "workId": "1533",
-  "titleDv": "ޤާނޫނު ނަންބަރު 7/2023 (ކުންފުނީގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Company Act (No. 7/2023). It changes a handful of numbers in Articles 100, 113 and 126, mostly shortening time periods. Article 100 appears to set how many days' notice must be given before a meeting, and the bill changes those day counts. Articles 113 and 126 are also amended, and Article 126 gets a shorter deadline. The scans are hard to read, so some details are uncertain, including what each deadline applies to.",
-  "whyItMatters": "Companies and the people who run or own them would work to different deadlines under the Act, with several periods getting shorter. The exact obligations could not be read reliably.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2023 (ކުންފުނިތަކުގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Company Act (Law No. 7/2023), mainly to speed up how a company's special general meeting is called. When a meeting is requested, the company would have to send out the invitation within 3 days instead of 21, and hold the meeting within 10 days instead of 3 months. The minimum notice to members before a special general meeting would drop from 14 days to 7 days, for both private and public companies. The bill also says a company's own rules can raise its minimum number of directors, and it cuts the deadline for filling missing director or managing director posts after the Registrar orders it from 30 days to 10 days.",
+  "whyItMatters": "Shareholders who ask for a special general meeting would get one within days rather than months, with less advance notice for other members. Companies told by the Registrar that they are short of directors or have no managing director would have a third of the time to fix it.",
   "keyProvisions": [
-    "Article 100(a)(1): a period is cut from 21 days to 3 days. It appears to be the notice that must be given before a meeting; the type of meeting could not be read.",
-    "Article 100(a)(2): a period is changed from 3 days to 10 days, so this one gets longer.",
-    "Article 100(c)(1) and (2): a period in each is cut from 14 days to 7 days.",
-    "Article 113: one lettered paragraph is replaced. The printed old and new texts look near-identical, so the change could not be identified.",
-    "Article 126(a) and (b): a period in each is cut from 30 days to 10 days. The text refers to Articles 113, 114 and 125; what the deadline applies to could not be read.",
-    "The last clause (5) appears to say the amendment takes effect on the date it is ratified."
+    "Article 100(a)(1): after receiving a written request for a meeting, the invitation must be sent within 3 days (currently 21 days).",
+    "Article 100(a)(2): the meeting must be held within 10 days of the request (currently 3 months).",
+    "Article 100(b)(1) and (2): members of private and public companies must get notice at least 7 days before a special general meeting (currently 14 days).",
+    "Article 113(d): adds the company's own governing rules to the list of laws and regulations that may set more directors, and says the article does not stop a company from increasing its minimum number of directors.",
+    "Article 126(a) and (b): once the Registrar tells a company it lacks the required number of directors (Article 113) or a managing director (Article 114), it must appoint them and file the Article 125(b) details within 10 days (currently 30 days).",
+    "Clause 5: the changes take effect once the law is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "Companies registered under the Company Act and the people who run, own or deal with them.",
-  "statedReasons": "A short explanatory note is printed on page 2. It says the bill amends the Company Act, but the reasons could not be read reliably.",
+  "whoIsAffected": "Companies registered under the Company Act, their shareholders and directors, and the Registrar of Companies.",
+  "statedReasons": "The explanatory note says the government is presenting the bill to change the procedures a company must complete to hold a special general meeting under the Company Act.",
   "sourceDoc": "Bill",
   "pagesRead": 10,
   "pagesTotal": 10,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

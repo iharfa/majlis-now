@@ -1,22 +1,22 @@
 {
   "workId": "1729",
   "titleDv": "ޤާނޫނު ނަންބަރު 8/2021 (ޤައުމީ ޕޭމަންޓް ސިސްޓަމްގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the National Payment System Act (Act No. 8/2021). It makes three changes to the law: it rewrites Article 15, it rewrites Article 50(a), and it adds a new Article 50-1. The new Article 50-1 sets out several sub-articles that refer back to Article 18 and include a money amount, with figures of MVR 100,000 and MVR 10,000,000 printed. The scans are hard to read, so some details are uncertain, including exactly who the new rules apply to.",
-  "whyItMatters": "If it becomes law, businesses that run or take part in payment systems could face new or changed rules and money penalties under the Act.",
+  "summary": "This government bill, presented by the Makunudhoo MP, amends the National Payment System Act (Act No. 8/2021). It adds a new Article 50-1 that bans anyone without a licence or exemption from soliciting (offering or advertising) payment services to the public in the Maldives, and bans Maldivian payment operators from soliciting on behalf of unlicensed foreign providers. The Maldives Monetary Authority can fine anyone who breaks these rules between MVR 100,000 and MVR 10,000,000. The bill also rewrites Article 50(a) so that banks and parties exempted by the Authority under Article 18 are not caught by the licensing rule, and rewrites Article 15 to let system operators set up or join companies, partnerships and joint ventures to run systems or provide payment services.",
+  "whyItMatters": "Foreign or unlicensed payment apps and services could no longer be marketed to people in the Maldives, and local payment firms that promote them could face fines of up to MVR 10 million.",
   "keyProvisions": [
-    "Replaces Article 15 with a new text made up of two sub-articles, one of them a list of four numbered points. The details could not be read reliably.",
-    "Replaces Article 50(a), which refers to Article 18(a) and Article 18(c)-(d). The wording could not be read reliably.",
-    "Adds a new Article 50-1 after Article 50. It has several lettered sub-articles that refer back to Article 18 and to Article 50.",
-    "One sub-article of the new Article 50-1 sets an amount between MVR 100,000 and MVR 10,000,000. The scan suggests this is a fine range, but this is not certain.",
-    "Another sub-article of Article 50-1 introduces a defined term in quotation marks, whose meaning could not be read.",
-    "Clause 4 sets when the amendment takes effect, apparently after ratification and publication in the gazette."
+    "Article 15 is rewritten: operators keep their existing powers (owning or running systems, clearing and settlement, holding collateral, giving intraday liquidity), and a new Article 15(b) lets them form, or become shareholders or partners in, a company, partnership or joint venture to run a system or provide payment services.",
+    "Article 50(a) is rewritten: no one may provide payment services or run a payment system in the Maldives without a licence or permit from the Authority, except banks under Article 18(b), parties or activities the Authority has exempted under Article 18, and system operators under Article 18(a). No one may claim to offer such services without a licence.",
+    "New Article 50-1(a) bars anyone other than licensed providers, banks and exempted parties from soliciting payment services, whether in the Maldives or elsewhere, directly or through an intermediary.",
+    "New Article 50-1(b) and (c) bar anyone running a payment system or service in the Maldives from soliciting on behalf of a party outside the Maldives, unless that foreign party is itself licensed under the Act, a bank under Article 18(b), or exempted by the Authority.",
+    "New Article 50-1(d) lets the Authority fine anyone who breaks these rules between MVR 100,000 and MVR 10,000,000.",
+    "New Article 50-1(e) defines soliciting as offering, advertising or inviting the Maldivian public, or part of it, to take up a payment service or make an agreement for one, and 50-1(f) lets the Authority set out which specific acts count as soliciting. The amendment takes effect once ratified and published in the Government Gazette (clause 4)."
   ],
-  "whoIsAffected": "Probably companies and people who operate or take part in payment systems in the Maldives, though the scans do not make this fully clear.",
-  "statedReasons": "The explanatory note names the National Payment System Act and says the bill is submitted to amend it. The rest of the note could not be read reliably.",
+  "whoIsAffected": "Payment service providers and system operators in the Maldives, foreign payment companies marketing to Maldivians, and the Maldives Monetary Authority, which gains new fining powers.",
+  "statedReasons": "The note says the Maldives Monetary Authority already licenses companies to run payment systems and provide payment services under Act No. 8/2021, and the bill adds rules to the law banning the solicitation of payment services and setting penalties for it.",
   "sourceDoc": "Bill",
   "pagesRead": 9,
   "pagesTotal": 9,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

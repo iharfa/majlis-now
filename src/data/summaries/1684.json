@@ -1,21 +1,22 @@
 {
   "workId": "1684",
-  "titleDv": "ޤާނޫނު ނަންބަރު 2/2012 (ދިވެހިރާއްޖޭގެ ސިވިލް އެވިއޭޝަން އޮތޯރިޓީގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Maldives Civil Aviation Authority Act (Act No. 2/2012). It has seven amending clauses plus a commencement clause, and it touches Articles 5, 8, 12, 23, 25, 30 and 49 of the Act. Two of the changes take text out (part of Article 5 and all of Article 8), and the others rewrite or add to the remaining articles. A comparison table at the back sets the old and new wording side by side. The scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "It changes the rules that govern the Civil Aviation Authority, the body that regulates air travel in the Maldives, but the scans are too unclear to say exactly who gains or loses powers.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/2012 (ދިވެހިރާއްޖޭގެ ސިވިލް އޭވިއޭޝަން އޮތޯރިޓީގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Maldives Civil Aviation Authority Act (Act No. 2/2012). It removes the parts of the Act that give the ministry a role under the old Civil Aviation Act (No. 2/2001) and that make the ministry responsible for civil aviation policy. It tightens the conflict-of-interest rule for board members, shortens the time the board has to meet on an urgent matter from 5 days to 3, and adds permit-issuing and rule-making to the Authority's functions. It also updates the article sending 2 US dollars of each departing passenger's departure tax to the Civil Aviation Fund, and says the right to appeal Authority decisions to the minister applies unless another law says otherwise.",
+  "whyItMatters": "The Civil Aviation Authority would take over policy and rule-making work from the ministry, and people with any stake in an aviation business could no longer sit on its board.",
   "keyProvisions": [
-    "Clause 1 removes a paragraph of Article 5, and clause 2 removes Article 8 altogether.",
-    "Clause 3 replaces paragraph (a) of Article 12. The new text includes a figure of 5%, but the surrounding words could not be read reliably.",
-    "Clause 4 amends paragraph (d) of Article 23. The comparison table suggests a number in the paragraph changes from 3 to 5.",
-    "Clause 5 changes Article 25, and clause 6 replaces Article 30 with new text that mentions a period of 2 years and refers to Law No. 29/2016 and Law No. 71/78.",
-    "Clause 7 replaces Article 49 with new text. Clause 8 says the amendment takes effect once the President ratifies it and it is published in the Government Gazette."
+    "Clause 1 removes Article 5(c), which covered doing the ministry's tasks under Act No. 2/2001, and clause 2 removes Article 8, which made the ministry responsible for civil aviation policy and let the minister give the Authority policy directions in writing.",
+    "Clause 3 rewrites Article 12(d): a board member must not hold any share or interest in a legal entity that provides civil aviation services, directly or through someone else, or have an interest in any place the Authority regulates. The current rule only bars holdings above 5%.",
+    "Clause 4 changes Article 23(b) so that when the Chief Executive asks in writing for an urgent decision, the board must meet and decide within 3 days instead of 5.",
+    "Clause 5 adds two items to Article 25: issuing the permits needed to carry out the Authority's duties under this Act or the civil aviation law, and making all regulations needed for its civil aviation responsibilities.",
+    "Clause 6 rewrites Article 30 so that 2 US dollars of the departure tax collected from each passenger leaving Maldivian airports goes to the Civil Aviation Fund. The comparison table shows the reference changing from Law No. 71/78 (airport service charge) to Law No. 29/2016 (departure taxes and fees).",
+    "Clause 7 rewrites Article 49 so the right to ask the minister to review an Authority decision applies unless another law says otherwise. Clause 8 says the changes take effect once passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "The Civil Aviation Authority, and probably airlines, airports and others it regulates, though the scans do not make this certain.",
-  "statedReasons": "The explanatory note refers to Act No. 2/2001 on civil aviation and links the amendment to it, but the scan is too unclear to state the reasons reliably.",
+  "whoIsAffected": "The Civil Aviation Authority and its board, the transport ministry, aviation businesses and people who challenge the Authority's decisions.",
+  "statedReasons": "The government says these changes are needed to go with a new Maldives Civil Aviation Bill, which would replace Act No. 2/2001 with an up-to-date system for running civil aviation.",
+  "sourceDoc": "Bill",
   "pagesRead": 9,
   "pagesTotal": 9,
-  "confidence": "Low",
-  "sourceDoc": "Bill",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

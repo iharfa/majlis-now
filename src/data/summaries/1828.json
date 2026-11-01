@@ -1,19 +1,19 @@
 {
   "workId": "1828",
-  "titleDv": "ޤާނޫނު ނަންބަރު 32/2015 (ޓެރަރިޒަމް ދެކޮޅުހެދުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Anti-Terrorism Act (Act No. 32/2015). It is very short: one clause changes Article 4 by adding a new item (8) after item (7) of one of its lettered paragraphs, and a second clause deals with when the amendment takes effect. The scans are hard to read, so what the new item (8) says could not be made out and some details are uncertain.",
-  "whyItMatters": "The effect on people could not be worked out from the scans, because the wording of the added item is not legible.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 32/2015 (ޓެރަރިޒަމް މަނާކުރުމުގެ ޤާނޫނު) އަށް ...... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Anti-Terrorism Act (Act No. 32/2015). It adds one new item to the list in Article 4(a) of that Act: damaging a mosque. According to the bill's explanatory note, this places damage to mosques among the acts treated as terrorism. The bill has only two clauses: the amendment itself and a clause saying when it takes effect.",
+  "whyItMatters": "If passed, damaging a mosque would fall under the Anti-Terrorism Act, so such cases could be handled as terrorism offences rather than under ordinary criminal law.",
   "keyProvisions": [
-    "Clause 1 amends Article 4 of the Anti-Terrorism Act by adding a new item numbered (8) after item (7) of one of its lettered paragraphs.",
-    "The wording of the new item (8) is a single short line that could not be read reliably.",
-    "Clause 2 appears to be the usual commencement clause, saying when the amendment takes effect."
+    "Clause 1 adds a new item (8) after item (7) of Article 4(a) of the Anti-Terrorism Act.",
+    "The new Article 4(a)(8) reads: damaging a mosque.",
+    "Clause 2 says the amendment takes effect on the day it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "Unclear from the scans; the bill amends the Act that sets out Maldivian anti-terrorism law.",
-  "statedReasons": "A one-paragraph explanatory note is printed, but the scan is too unclear to summarise it reliably.",
+  "whoIsAffected": "Anyone who damages a mosque in the Maldives, along with the police, prosecutors and courts who apply the Anti-Terrorism Act.",
+  "statedReasons": "The note says Article 10 of the Constitution makes Islam the state religion, damage to mosques has become common and keeps happening, and such acts harm the dignity of mosques. It says protecting that dignity is part of respecting Islam, so these acts should be counted as acts of terrorism.",
   "sourceDoc": "Bill",
   "pagesRead": 3,
   "pagesTotal": 3,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

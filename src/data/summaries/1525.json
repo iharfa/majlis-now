@@ -1,20 +1,21 @@
 {
   "workId": "1525",
-  "titleDv": "ޤާނޫނު ނަންބަރު 12/2016 (ޖިނާއީ އިޖުރާއަތުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This is a short bill amending the Criminal Procedure Act (No. 12/2016). It changes only Article 73(a). The new text refers to Article 72, and it is followed by two numbered sub-points. A table on page 4 sets the old and new wording side by side. The scans are hard to read, so what the article actually requires is uncertain.",
-  "whyItMatters": "It changes one rule in the criminal procedure law, but I could not read the new wording well enough to say what changes in practice for people or institutions.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 12/2016 (ޖިނާއީ އިޖުރާއަތުގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Criminal Procedure Act (No. 12/2016) to make it possible to freeze money in bank accounts used in scams. It rewrites Article 73(a), which currently lets a law enforcement agency ask a court to freeze an account only when monitoring under Article 72 points to a serious crime. The new text also covers money taken from an account holder by fraud, deception or a scam, and lets the freeze reach accounts the money was transferred to. It adds a power for the police to freeze those accounts themselves while the court is deciding, with the order signed by an officer of Sub Inspector rank or above.",
+  "whyItMatters": "Money taken in a scam could be held in the accounts it was moved to before it disappears, without waiting for a court order. It also gives police officers a new power to stop transactions on people's bank accounts for a limited time without a judge's prior approval.",
   "keyProvisions": [
-    "Clause 1 replaces Article 73(a) of the Criminal Procedure Act with new text that refers to Article 72.",
-    "The new Article 73(a) is followed by two numbered sub-points, 1 and 2. The second refers back to 73(a)(1). Their content could not be read reliably.",
-    "Page 4 is a comparison table of the current and amended Article 73(a); only Article 73 is shown.",
-    "Clause 2 appears to say the amendment takes effect on the date it is ratified."
+    "Clause 1 replaces Article 73(a): if monitoring under an Article 72 order shows a serious crime, or money being taken from an account holder by fraud, deception or a scam, and there are reasonable grounds, a law enforcement agency may ask a court to freeze that account and any account the money was transferred to for a set period, or to stop transactions from them.",
+    "New Article 73(a)(1): while the court is deciding on such a request, the Maldives Police Service may itself issue an order freezing the money in the account, or in an account it was transferred to, or stopping transactions from it.",
+    "New Article 73(a)(2): this police freeze order must be issued by an officer of Sub Inspector of Police rank or higher, and the bank or office holding the account must be told without delay (the rest of this sentence is not legible in the scan).",
+    "Clause 2: the amendment takes effect on the day it is ratified and published in the Government Gazette.",
+    "Page 4 is a table setting the current Article 73(a) beside the proposed wording."
   ],
-  "whoIsAffected": "Probably people involved in criminal cases and the bodies that apply the Criminal Procedure Act, but the pages could not be read well enough to be sure.",
-  "statedReasons": "A short explanatory note is printed on page 2. It could not be read reliably, so its stated reasons are not given here.",
+  "whoIsAffected": "Scam victims, the holders of accounts that scam money passes through, banks, and the Maldives Police Service.",
+  "statedReasons": "The police told Parliament's SOE committee on 31 July 2024 that there is no legal way to hold scam money as it moves through later accounts, since the current law only allows court-ordered freezes of suspects' accounts, not third-party accounts used in the crime. The bill seeks a quick legal fix because scams are becoming common and cause heavy losses to the public.",
   "sourceDoc": "Bill",
   "pagesRead": 4,
   "pagesTotal": 4,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

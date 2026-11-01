@@ -1,21 +1,22 @@
 {
   "workId": "1619",
-  "titleDv": "ޤާނޫނު ނަންބަރު 22/2010 (ޖުޑިޝަރީގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Judicature Act (Act No. 22/2010). Clause 1 replaces Article 5 of that Act with new text split into several lettered sub-clauses, including time limits of 5 and 7 (the unit is hard to read and is probably days). It also changes a provision of the Judicial Service Commission Act (Act No. 13/2010, Article 26) to match. Clause 2 says the amendment takes effect once it is ratified and published in the Government Gazette. A table at the end sets the current text side by side with the proposed text. The scans are hard to read, so most details are uncertain.",
-  "whyItMatters": "It changes rules in the law that organises the courts and in the law for the commission that oversees judges, but the scans do not make the practical effect clear.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 22/2010 (ދިވެހިރާއްޖޭގެ ކޯޓުތަކުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ޤާނޫނު",
+  "summary": "This bill amends the Judicature Act (Act No. 22/2010) to cut the Supreme Court from 7 judges (the Chief Justice plus 6) to 5, including the Chief Justice, and requires the total number of Supreme Court judges to always be an odd number. To get there, the Judicial Service Commission (JSC) would send the Majlis the names of judges it finds unfit for the post, and a judge is removed if two-thirds of the members present and voting agree. The JSC must send the names within 5 days of the law taking effect, and the Majlis must decide within 7 days after that. Both bodies may set aside their usual procedures and time limits to meet these deadlines, and removed judges keep the special benefits set out in the Judges Act.",
+  "whyItMatters": "It would shrink the country's highest court and set a fast, fixed-deadline process for Parliament to remove sitting Supreme Court judges, changing who decides the final appeals in the Maldives.",
   "keyProvisions": [
-    "Clause 1 replaces Article 5 of the Judicature Act with new sub-clauses (a) onward. The wording of most of them could not be read reliably.",
-    "Several of the new sub-clauses refer to periods of 5 and 7, the unit of which is hard to read.",
-    "A further sub-clause changes how Article 26 of the Judicial Service Commission Act (Act No. 13/2010) applies, so the two laws line up.",
-    "Clause 2 says the amendment takes effect when it is ratified and published.",
-    "A comparison table at the end lists the existing wording against the proposed wording for each change."
+    "Article 5(a) as rewritten: the Supreme Court is made up of 5 judges including the Chief Justice, and the total number of its judges must be an odd number.",
+    "Article 5(b): for this purpose, a Supreme Court judge can be removed only if the JSC finds the judge unfit, refers the judge to the Majlis, and two-thirds of members present and voting approve.",
+    "Article 5(c) and (d): the JSC must submit the names within 5 days of the law taking effect, the Majlis must decide within 7 days of receiving them, and state bodies must complete any arrangements needed because of the removals within 7 days of the Majlis decision.",
+    "Article 5(e) and (f): judges not removed stay in their posts, the deadlines count holidays, and the JSC and the Majlis may depart from procedures and time limits in other laws and their own rules to meet them.",
+    "Article 5(g): removed judges receive the special benefits and privileges in Article 26(b) and (c) of the Judges Act (Act No. 13/2010), as decided by the JSC, paid by the state.",
+    "Clause 2: the law takes effect once it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "Judges, the Judicial Service Commission and people who deal with the courts.",
-  "statedReasons": "The explanatory note says the Judicature Act is being amended to change how the rules in Article 5 work together with the Judicial Service Commission Act. The scan is hard to read, so this is a rough reading.",
+  "whoIsAffected": "Supreme Court judges, the Judicial Service Commission, members of the People's Majlis and anyone whose case reaches the Supreme Court.",
+  "statedReasons": "The sponsor says the change is needed so that the Supreme Court is constituted under the Judicature Act the way it was before, linking this to the public's hopes for the Constitution and better conditions for citizens.",
   "sourceDoc": "Bill",
   "pagesRead": 8,
   "pagesTotal": 8,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }
