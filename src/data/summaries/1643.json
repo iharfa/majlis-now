@@ -1,21 +1,22 @@
 {
   "workId": "1643",
-  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Tourism Act (Law No. 2/99). It changes Articles 4, 5 and 9 and adds new Articles 45-1 to 45-7. The changes to Article 9 set out amounts of money tied to lease periods of 20, 25 and 49 years, with figures from 100,000 up to 10,000,000 rufiyaa printed. The new Articles 45-1 to 45-7 set up a process run by the Tourism Ministry, including a register and a procedure ending in a decision. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 27 pages.",
-  "whyItMatters": "If passed as drafted, people and companies holding tourism leases could face new fixed payments linked to lease length, and a new Ministry procedure would apply to them.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމްގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill, presented by Thimarafushi MP Ahmed Riyaz, amends the Maldives Tourism Act (Law No. 2/99). It changes who decides which land and islands can be used for tourism, and widens the rules on giving islands, land or lagoons to investors as a 'cross subsidy' in return for funding government projects. It sets new fees for extending tourist resort leases, from USD 100,000 per extra year up to USD 10 million for a 49-year extension. It also adds rules on closing resorts for redevelopment, tourist hotels, and a new Tourism Development Fund, and updates the definitions of tourist hotel and tourist guest house.",
+  "whyItMatters": "Resort lease holders could buy lease extensions of up to 49 years for set fees paid to the state, and could lose their lease if a redevelopment closure is not finished on time. Island and city councils would pick land for tourism on inhabited islands, while the President would pick uninhabited islands and lagoons.",
   "keyProvisions": [
-    "Articles 1 and 2 change Article 4(a) and (c) of the Tourism Act.",
-    "Articles 3 to 6 change Article 5(a), paragraphs (1), (2), (3) and (8), including who can get a permit or approval from the Ministry.",
-    "Article 7 changes Article 9(a) to (c), and Article 8 changes Article 9(d). They use lease periods of up to 50 years and 49 years, and amounts of 100,000, 200,000, 2,500,000, 3,000,000, 5,000,000 and 10,000,000 rufiyaa depending on the lease length. Exactly what the payments are for could not be read reliably.",
-    "Article 9 adds new Articles 45-1 to 45-7 after Article 45. Article 45-1 and 45-2 deal with a Ministry procedure, 45-3 with how it is carried out, and 45-4 to 45-7 with a register (45-4 refers to Law No. 3/2006), what it must contain, and how entries are made, changed or removed.",
-    "Many cross-references to the 15th amendment of the Tourism Act appear in the amended articles, so the bill's effect depends on that earlier amendment."
+    "Article 4 is changed so that on inhabited islands and cities, the island or city council decides which land is set aside for tourism, in line with the land use plan; uninhabited islands and lagoons under a council's area are designated by the President. Only tourist guest houses or tourist hotels may be built in areas designated this way.",
+    "Article 5 is changed so islands, land or lagoons can be given as a 'cross subsidy' for important projects under any important government policy, not only economic or social ones. The rent and acquisition charge for such land can be offset against the investor's own spending on the project.",
+    "Article 9 sets resort leases at up to 50 years and lets them be extended within that limit for USD 100,000 per extra year if the lessee agrees to pay within 6 months of the 15th amendment being ratified, or USD 200,000 per year after that.",
+    "Lessees who already hold 50-year leases can get up to 49 more years by giving the tourism ministry a bank guarantee, clearing all unpaid rent, fines and fees, and paying a one-off fee: USD 5 million for 49 years, USD 2.5 million for 20 years or USD 3 million for 25 years within 6 months, or USD 10 million for 49 years after 6 months.",
+    "New Article 45-1 says a running tourist property can only close for redevelopment with ministry permission and for a set period; if work is not finished and the property reopened on time, or if it stops services and closes against the rules, the ministry may cancel the lease without paying compensation. Article 45-2 requires a list of land where tourist hotels can be built within one year.",
+    "New Articles 45-4 to 45-10 create a Tourism Development Fund, replacing the existing tourism facilities fund under the Public Finance Act. It is funded by a share of tourism rent, CSR payments and investment returns, run by the tourism ministry with a committee including the finance ministry and industry groups, audited yearly by the Auditor General and reported to Parliament and the President. Regulations must be made within 3 months, and the law starts when published in the Government Gazette."
   ],
-  "whoIsAffected": "Holders of tourism leases and permits, tourism businesses, and the Tourism Ministry that runs the register and approvals.",
-  "statedReasons": "The explanatory note says the bill amends the Tourism Act to change rules about the periods and payments for tourism leases and to add a procedure. The scan is too faint for more detail.",
+  "whoIsAffected": "Tourist resort lease holders and investors, island and city councils, guest house and hotel operators, and the Tourism Ministry.",
+  "statedReasons": "The government says the bill changes the rules for giving land as a cross subsidy and for extending resort leases, and puts into law the rules for closing tourist properties for redevelopment and for setting up a tourism fund.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 27,
   "pagesTotal": 27,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

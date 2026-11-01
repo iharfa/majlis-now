@@ -1,22 +1,22 @@
 {
   "workId": "1720",
-  "titleDv": "ދަތުރު ރާވާ ރޭވުމުގެ ޚިދުމަތުގެ ބިލު",
-  "summary": "This is a new bill to regulate travel planning services in the Maldives. It sets up a council to oversee the sector and sets out how that council is formed, how its chair and members are appointed and removed, and how it meets and makes decisions. The table of contents shows later chapters on registering service providers, finances, complaints and general rules. This summary covers the first 12 of 29 pages, and the scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "If it became law, businesses that plan trips for customers would need to answer to a government-backed council, and customers would have a body to take complaints to.",
+  "titleDv": "ދަތުރު ރާވައި ހިންގުމުގެ ޚިދުމަތް ދިނުމާބެހޭ ބިލު",
+  "summary": "This is a government bill that would create a new law on tourism-related travel planning services in the Maldives, covering travel agencies, tour agencies and tour operators. It says only businesses holding a tour operator licence from the tourism ministry could provide these services, sets out how licences are applied for, issued and renewed, and creates a separate licence for foreign tour operators who work through a local licensed partner. It also sets rules on offices, insurance, reservation vouchers, price disclosure and airport representatives, and gives the ministry a complaints system, a review committee and the power to fine operators or suspend and cancel licences. It would repeal Articles 32 and 33 of the Maldives Tourism Act (Law No. 2/99), which currently require travel planners to get a ministry permit.",
+  "whyItMatters": "Travel agents and tour operators would need a five-year licence, liability insurance and audited yearly reports, and could be fined up to MVR 1 million for breaking licence or service rules. Tourists and resorts would get a formal way to complain to the ministry.",
   "keyProvisions": [
-    "Article 1 says the law comes into force once it is ratified and published, and can be cited as the Travel Planning Services Act.",
-    "Article 2 lists the aims of the law, including regulating people and businesses that provide travel planning services.",
-    "Article 3 sets up a Travel Planning Services Council, and Article 4 covers its membership and how many members it has. Article 4 also refers to Law No. 18/2014.",
-    "Articles 5 to 10 cover who qualifies to be on the council, how the chair and members are appointed, and how they can be removed. Several time limits are given, including 15 and 30 day periods, but the details were hard to read.",
-    "Article 11 sets the quorum for council meetings at 5 members, and Articles 12 to 14 deal with meetings and decision-making.",
-    "The table of contents lists Articles 15 to 23 on registering and licensing providers and Articles 26 to 29 on complaints and related matters. Those pages were not rendered, so they are not summarised here."
+    "Articles 3 and 4 say only businesses with a tour operator licence may provide travel planning services, and a licence requires registration under the Business Registration Act (Law No. 18/2014), an office meeting Article 15's standards and insurance under Article 16.",
+    "Article 7 requires the ministry to issue a licence within 30 days of a complete application, or to say within 15 days what is missing and give at least 15 days to fix it; refusals must be explained in writing. Article 11 makes licences valid for 5 years.",
+    "Articles 9, 10, 21 and 22 let foreign tour operators work in the Maldives only through an agreement with a locally licensed tour operator, with a representative office or online platform here, and only to serve the tourists they bring.",
+    "Articles 15 to 20 require a public office or online platform with records of transactions, liability insurance, a reservation voucher for every booking, a voucher for independent travellers before resorts or guesthouses serve them, public prices, and written agreements with the resorts and services they sell.",
+    "Articles 24 and 25 let anyone with an interest complain to the ministry, which must set up a complaints system within 90 days and a separate review committee for appeals.",
+    "Articles 27 to 29 list banned acts, such as operating without a licence or publishing false prices, and allow fines of up to MVR 100,000 for unlicensed operation, MVR 100,000 to 1,000,000 for breaching licence or service rules, and up to MVR 10,000 for other breaches, plus licence suspension or cancellation."
   ],
-  "whoIsAffected": "Travel agents and other businesses that plan or sell trips, the people who would sit on the new council, and customers of these services.",
-  "statedReasons": "The explanatory note says the bill is meant to set rules for travel planning services and the body that would oversee them, but the wording was too hard to read to quote more precisely.",
+  "whoIsAffected": "Travel agencies, tour operators and foreign tour companies serving the Maldives, airport representatives, resorts and guesthouses that take bookings through them, and tourists who use their services.",
+  "statedReasons": "The note says the government is submitting the bill to set out how tourism travel planning businesses are licensed, set service standards, and create a firm legal basis for registering and monitoring these services and providers.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 29,
   "pagesTotal": 29,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

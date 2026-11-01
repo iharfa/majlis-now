@@ -1,22 +1,22 @@
 {
   "workId": "1969",
-  "titleDv": "ޤާނޫނު ނަންބަރު 24/2020 (ތަޢުލީމީ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This government bill, presented by the MP for Huraa, makes a long list of amendments to the Education Act (Law No. 24/2020). It adds a home-schooling programme as a recognised way for children to receive compulsory education, with rules for registering and checking it. It reworks the articles on free education from preschool through higher secondary, and sets rules for the school year, including a minimum number of school days. It also changes the duties of schools and the education ministry. This summary covers the first 12 of 47 pages, and the scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "Parents could legally teach their children at home through a registered programme, and the rules on free schooling and the length of the school year would change for every school.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 24/2020 (ތަޢުލީމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill, presented by the MP for Huraa, makes 45 amendments to the Education Act (Law No. 24/2020). Its main addition is a home-schooling programme: a child of compulsory school age who cannot attend school because of a physical or mental disability or a special illness can be taught at home, based on an assessment and under ministry rules. It also extends free state education to cover preschool and higher secondary as well as primary and secondary, fixes the school year to start in January with at least 195 teaching days, and rewrites the rules for registering teachers, tuition centres, Quran classes and nurseries. The last 25 pages are a table comparing the current law with the proposed wording. If passed, it would take effect on 1 January 2027.",
+  "whyItMatters": "Children with disabilities or serious illnesses would get a legal route to schooling at home, every Maldivian child would be entitled to free preschool and higher secondary schooling at state schools, and all serving teachers would have to register again within three years.",
   "keyProvisions": [
-    "Amends definitions in Article 2 and changes several clauses in Articles 3, 8, 10, 11 and 13 about how education is organised and what schools and the ministry must do.",
-    "Changes Article 15 on compulsory education, which refers to children up to the age of 16, and rewrites Article 16 on how compulsory education is delivered.",
-    "Adds a new Article 16-1 creating a home-schooling programme, covering primary and lower secondary levels, with registration, standards, assessment and monitoring set by the ministry.",
-    "Repeals Article 17 and rewrites Articles 18 and 20 on providing preschool, primary, secondary and higher secondary education free of charge to Maldivian children, and arranging how that is funded.",
-    "Adds a new Article 23-1 on the academic year and school calendar, which must list term dates, exams and holidays, and requires at least 195 school days a year.",
-    "Also amends Articles 23, 24, 26 and 34, including rules on exams and the ministry's responsibilities. These parts could not be read reliably."
+    "Article 15 and new Article 16-1 let the ministry allow a child to be home-schooled instead of attending school if the child has a physical or mental disability or a special illness, the parents are able to teach, and the child is registered with a school; ministry regulations must set the assessment, registration, home-school plan, tutor requirements, parents' duties and monitoring.",
+    "Article 16 is rewritten so that children whose disability means they cannot learn either at school or through home schooling are not bound by compulsory education, but parents must still make reasonable efforts to teach them.",
+    "Article 17 (free preschool) is repealed and Article 18 is rewritten so the state must provide preschool, primary, secondary and higher secondary education free at state schools; Article 20 keeps free books and stationery for students who need them and state-paid arrangements when a child's island has no suitable school.",
+    "New Article 23-1 says the school year must start in January (and no later than the end of February), must have at least 195 days excluding weekends and holidays, and needs a published calendar listing term dates, exams, admissions, transfers and holidays; Article 23 is also changed so state schools give free daytime breakfast to students under ministry criteria.",
+    "Articles 36 to 38 are rewritten: tuition centres, Quran classes, nurseries and daycare must register with the ministry; every teacher must register, school teachers need a teaching licence; a 5-member Teachers Registration Board chaired by a ministry-appointed registrar runs registration and licensing; serving teachers must re-register within 3 years and the board must be re-formed within 30 days.",
+    "New Article 41-1 lets the ministry hand some of its registration and enforcement powers to city and island councils outside Malé City through written agreements; Article 47 definitions are updated, including Quran and tuition classes as teaching more than 5 children under 18 at once, and regulations must be made or updated within 6 months."
   ],
-  "whoIsAffected": "Students, parents considering home schooling, teachers, government and private schools, and the education ministry.",
-  "statedReasons": "The note says the government is submitting the bill to introduce a home-schooling programme into the Education Act and to make other changes needed in the law.",
+  "whoIsAffected": "Children with disabilities or serious illnesses and their parents, all students and parents in state schools, teachers and principals, tuition centres, Quran classes and nurseries, local councils, and the education ministry.",
+  "statedReasons": "The note says the government wants to introduce a home-schooling programme so children can be taught at home based on an assessment of their disability or mental condition, to set out the roles of parents, teachers and principals in more detail, and to fix problems found in applying the Education Act.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 47,
   "pagesTotal": 47,
-  "confidence": "Low",
+  "confidence": "High",
   "model": "claude-opus-5-5",
   "generatedAt": "2026-11-01"
 }

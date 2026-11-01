@@ -1,20 +1,22 @@
 {
   "workId": "1516",
-  "titleDv": "",
-  "summary": "This is a new Foreign Investment Bill with 45 articles, not an amendment to an existing law. According to the contents page, it opens with the short title and purpose, then sets out rules about foreign investment and how it is registered or approved, and ends with enforcement and general provisions. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 44 pages, which is mostly the contents list and the opening articles.",
-  "whyItMatters": "If passed, it would set the legal framework for how people and companies from outside the Maldives invest here. The exact conditions are unreadable in the pages rendered.",
+  "titleDv": "ފޮރިން އިންވެސްޓްމަންޓްގެ ބިލު",
+  "summary": "This government bill creates a new Foreign Investment Act with 45 articles. It replaces and repeals the 1979 foreign investment law (Law No. 25/79). Foreign investors could only invest in sectors the law allows, and only after getting permission from the ministry in charge of foreign investment. The minister, after consulting the Cabinet, would publish lists of sectors closed to foreigners and sectors open only with conditions. Every other sector would be open. Getting permission would take four steps: a no-objection letter, meeting set obligations such as registering a company, a foreign investment licence, and a signed investment agreement. The bill also sets out investor protections, limits on the state taking over investments, fines, a complaints process, and how investment treaties apply.",
+  "whyItMatters": "Anyone from abroad who wants to set up or buy into a business in the Maldives would need to go through this licensing system, and a Maldivian company could not sell shares to a foreign party without it. Foreign businesses already operating here would have 12 months to register or apply under the new law, or a business set up without a foreign investment permit could lose its business permit.",
   "keyProvisions": [
-    "Article 1 gives the short title of the law, and Article 2 states its purpose; the exact wording of the purpose could not be read.",
-    "The contents page lists 45 articles grouped into several chapters, running to page 38 of the bill.",
-    "Articles 4 to 11 are written as rules about foreign investment and the bodies or procedures that deal with it. Articles 8 to 11 contain numbered sub-lists of conditions. Their content could not be read reliably.",
-    "Pages 13 to 44 of the bill were not rendered, so the later chapters are not summarised."
+    "Articles 8 to 11: every sector is open to foreign investment unless the minister lists it as closed or open only with conditions. The first lists must be published in the Government Gazette within 3 months of the law starting and reviewed at least every 3 years. The minister must weigh national security, competition, how developed Maldivian businesses in that sector are, and jobs. Existing permits in a newly closed sector can run until they expire.",
+    "Articles 12 to 19: applications go to the ministry, which checks financial ability, immigration eligibility and whether the investment conflicts with the national interest. It also considers security, competition, jobs, exports, environmental impact and technology transfer, and must decide within 30 days of a complete application. Article 14 requires a foreign investment permit before shares in a Maldivian company or partnership are transferred to a foreign party.",
+    "Articles 22 to 26: a licence must be renewed by applying 6 months before it expires. The ministry may suspend or cancel it for false information, bankruptcy, one year without doing the licensed work, or breaking licence conditions. It must cancel it for false information or a breached licence condition, after written notice and a chance to respond. Every licensed investor must sign an investment agreement with the ministry covering at least 19 listed items, including taxes, employment, the environment and an anti-corruption clause.",
+    "Articles 28 to 32: investments get full protection and fair treatment, and investors may send capital and profits home. This can be limited during a balance-of-payments or foreign exchange crisis, and laws on sovereignty, defence, the environment, human rights, disasters or epidemics can restrict investments. The state may take over an investment only for a defined public interest or national security, following the law's procedures and after paying fair market value.",
+    "Articles 33 to 36: running a business the licence does not cover, breaching licence conditions or giving false information can bring fines of up to 30% of the business's value. Other offences carry fines of MVR 100,000 to 1,000,000, or 10% of the business's value. Investors can complain to a review committee in the ministry and then go to court or use the dispute process in their agreement.",
+    "Articles 37 to 44: where a treaty the Maldives has joined sets different rules for investors from treaty countries, the treaty rules apply. Such treaties must be made public, and those placing duties on citizens published in the Gazette. Licences issued under the 1979 law are treated as valid. Except for the Special Economic Zones Act (Law No. 24/2014), this law overrides other laws on foreign investment. Regulations are due within 3 months, and the law starts 3 months after it is published in the Gazette."
   ],
-  "whoIsAffected": "Foreign investors and the Maldivian businesses and institutions that deal with them, though the exact obligations are unreadable.",
-  "statedReasons": "An explanatory note is printed on page 2 but could not be read reliably.",
+  "whoIsAffected": "Foreign individuals, companies and joint ventures investing in the Maldives, Maldivian companies and partnerships that take on foreign shareholders, and the ministry responsible for foreign investment.",
+  "statedReasons": "The government says the bill sets out rules on which sectors foreigners may invest in, how investment permits are issued, what protection investors receive, when the state may take over an investment and how compensation is paid.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 44,
   "pagesTotal": 44,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }
