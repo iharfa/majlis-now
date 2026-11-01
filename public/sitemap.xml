@@ -11,6 +11,7 @@
   <url><loc>https://majlis-now.vercel.app/search</loc></url>
   <url><loc>https://majlis-now.vercel.app/insights</loc></url>
   <url><loc>https://majlis-now.vercel.app/business</loc></url>
+  <url><loc>https://majlis-now.vercel.app/bills/bill-1969</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1968</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1967</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1966</loc></url>
@@ -130,6 +131,11 @@
   <url><loc>https://majlis-now.vercel.app/bills/bill-1474</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1473</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1469</loc></url>
+  <url><loc>https://majlis-now.vercel.app/sittings/sitting-1081</loc></url>
+  <url><loc>https://majlis-now.vercel.app/sittings/sitting-1079</loc></url>
+  <url><loc>https://majlis-now.vercel.app/sittings/sitting-1078</loc></url>
+  <url><loc>https://majlis-now.vercel.app/sittings/sitting-1077</loc></url>
+  <url><loc>https://majlis-now.vercel.app/sittings/sitting-1076</loc></url>
   <url><loc>https://majlis-now.vercel.app/sittings/sitting-1075</loc></url>
   <url><loc>https://majlis-now.vercel.app/sittings/sitting-1074</loc></url>
   <url><loc>https://majlis-now.vercel.app/sittings/sitting-1072</loc></url>
@@ -480,6 +486,12 @@
   <url><loc>https://majlis-now.vercel.app/committees/cmt-152</loc></url>
   <url><loc>https://majlis-now.vercel.app/committees/cmt-153</loc></url>
   <url><loc>https://majlis-now.vercel.app/committees/cmt-154</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1968-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1967-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1966-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1958-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1952-acceptance</loc></url>
+  <url><loc>https://majlis-now.vercel.app/votes/vote-1951-acceptance</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1935-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1922-passage</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1913-passage</loc></url>

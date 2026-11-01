@@ -1,0 +1,39 @@
+{
+  "sittingId": "1081",
+  "date": "2026-10-29",
+  "title": "12th Sitting of Third session of 2026",
+  "agendaNo": "އޖ/12/3/2026",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/12/3/2026).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "From the Speaker's desk: submission of the proposed state budget for 2027, under Article 96(a) of the Constitution.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The sitting was set to receive the government's proposed state budget for 2027.",
+  "pagesRead": 2,
+  "pagesTotal": 2,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

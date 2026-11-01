@@ -34,11 +34,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "260"
     ],
     "meetingDates": [
+      "21 Oct 2026",
+      "20 Oct 2026",
+      "12 Oct 2026",
       "22 Aug 2026",
-      "18 Aug 2026",
-      "17 Aug 2026",
-      "16 Aug 2026",
-      "10 Aug 2026"
+      "18 Aug 2026"
     ],
     "works": 0,
     "documents": [
@@ -54,7 +54,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/115",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "116",
@@ -83,11 +83,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "209"
     ],
     "meetingDates": [
+      "21 Oct 2026",
+      "14 Oct 2026",
+      "07 Oct 2026",
       "22 Aug 2026",
-      "16 Aug 2026",
-      "10 Aug 2026",
-      "28 Jul 2026",
-      "23 Jun 2026"
+      "16 Aug 2026"
     ],
     "works": 0,
     "documents": [
@@ -103,7 +103,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/116",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "117",
@@ -130,11 +130,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "203"
     ],
     "meetingDates": [
+      "19 Oct 2026",
       "04 Aug 2026",
       "28 Jul 2026",
       "23 Jun 2026",
-      "06 May 2026",
-      "15 Apr 2026"
+      "06 May 2026"
     ],
     "works": 0,
     "documents": [
@@ -150,7 +150,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/117",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "118",
@@ -174,11 +174,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     ],
     "formerMemberIds": [],
     "meetingDates": [
+      "26 Oct 2026",
       "12 Aug 2026",
       "14 Jul 2026",
       "23 Jun 2026",
-      "05 May 2026",
-      "13 Apr 2026"
+      "05 May 2026"
     ],
     "works": 0,
     "documents": [
@@ -194,7 +194,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/118",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "119",
@@ -222,10 +222,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "194"
     ],
     "meetingDates": [
-      "19 Aug 2026",
-      "16 Aug 2026",
-      "13 Aug 2026",
-      "12 Aug 2026"
+      "27 Oct 2026",
+      "26 Oct 2026",
+      "21 Oct 2026",
+      "20 Oct 2026",
+      "19 Oct 2026"
     ],
     "works": 0,
     "documents": [
@@ -241,7 +242,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/119",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "120",
@@ -270,13 +271,15 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "223",
       "199",
       "237",
-      "239"
+      "239",
+      "268"
     ],
     "meetingDates": [
-      "06 Oct 2026",
-      "25 Aug 2026",
-      "23 Aug 2026",
-      "18 Aug 2026"
+      "29 Oct 2026",
+      "27 Oct 2026",
+      "26 Oct 2026",
+      "12 Oct 2026",
+      "06 Oct 2026"
     ],
     "works": 0,
     "documents": [
@@ -292,7 +295,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/120",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "121",
@@ -319,11 +322,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "213"
     ],
     "meetingDates": [
+      "27 Oct 2026",
+      "26 Oct 2026",
+      "20 Oct 2026",
       "18 Aug 2026",
-      "17 Aug 2026",
-      "16 Aug 2026",
-      "01 Jul 2026",
-      "24 Jun 2026"
+      "17 Aug 2026"
     ],
     "works": 0,
     "documents": [
@@ -339,7 +342,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/121",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "122",
@@ -369,11 +372,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "191"
     ],
     "meetingDates": [
+      "26 Oct 2026",
+      "21 Oct 2026",
+      "20 Oct 2026",
       "12 Aug 2026",
-      "28 Jul 2026",
-      "29 Jun 2026",
-      "06 May 2026",
-      "21 Apr 2026"
+      "28 Jul 2026"
     ],
     "works": 0,
     "documents": [
@@ -389,7 +392,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/122",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "123",
@@ -421,11 +424,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "177"
     ],
     "meetingDates": [
-      "07 Oct 2026",
-      "24 Aug 2026",
-      "23 Aug 2026",
-      "17 Aug 2026",
-      "15 Jul 2026"
+      "26 Oct 2026",
+      "20 Oct 2026",
+      "13 Oct 2026",
+      "12 Oct 2026",
+      "07 Oct 2026"
     ],
     "works": 0,
     "documents": [
@@ -441,7 +444,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/123",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "124",
@@ -468,11 +471,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "250"
     ],
     "meetingDates": [
+      "27 Oct 2026",
+      "20 Oct 2026",
       "29 Jul 2026",
       "22 Jun 2026",
-      "13 May 2026",
-      "27 Apr 2026",
-      "11 Feb 2026"
+      "13 May 2026"
     ],
     "works": 0,
     "documents": [
@@ -488,7 +491,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/124",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "125",
@@ -517,11 +520,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "248"
     ],
     "meetingDates": [
+      "13 Oct 2026",
       "25 Aug 2026",
       "24 Aug 2026",
       "23 Aug 2026",
-      "22 Aug 2026",
-      "18 Aug 2026"
+      "22 Aug 2026"
     ],
     "works": 0,
     "documents": [
@@ -537,7 +540,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/125",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "126",
@@ -563,11 +566,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "176"
     ],
     "meetingDates": [
-      "23 Aug 2026",
-      "16 Aug 2026",
-      "12 Aug 2026",
-      "04 Aug 2026",
-      "03 Aug 2026"
+      "28 Oct 2026",
+      "27 Oct 2026",
+      "26 Oct 2026",
+      "21 Oct 2026",
+      "20 Oct 2026"
     ],
     "works": 0,
     "documents": [
@@ -583,7 +586,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/126",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "127",
@@ -603,18 +606,18 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "243",
       "245",
       "267",
-      "218"
+      "268"
     ],
     "formerMemberIds": [
-      "268",
-      "266"
+      "266",
+      "218"
     ],
     "meetingDates": [
+      "27 Oct 2026",
+      "21 Oct 2026",
+      "12 Oct 2026",
       "24 Aug 2026",
-      "23 Aug 2026",
-      "17 Aug 2026",
-      "16 Aug 2026",
-      "11 Aug 2026"
+      "23 Aug 2026"
     ],
     "works": 0,
     "documents": [
@@ -630,7 +633,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/127",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "128",
@@ -638,11 +641,10 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "category": "State Institutions related Standing Committees",
     "status": "Ongoing",
     "chairId": "206",
-    "viceChairId": "218",
+    "viceChairId": "222",
     "memberIds": [
       "210",
       "206",
-      "218",
       "222",
       "229",
       "242",
@@ -650,25 +652,26 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "204",
       "244",
       "258",
+      "182",
       "250"
     ],
     "formerMemberIds": [
       "208",
+      "218",
       "227",
       "249",
       "224",
-      "182",
       "215",
       "267",
       "199",
       "203"
     ],
     "meetingDates": [
-      "11 Aug 2026",
-      "29 Jul 2026",
-      "23 Jun 2026",
-      "11 May 2026",
-      "21 Apr 2026"
+      "28 Oct 2026",
+      "27 Oct 2026",
+      "20 Oct 2026",
+      "18 Oct 2026",
+      "14 Oct 2026"
     ],
     "works": 0,
     "documents": [
@@ -684,7 +687,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/128",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "129",
@@ -712,10 +715,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "240"
     ],
     "meetingDates": [
+      "26 Oct 2026",
+      "21 Oct 2026",
       "11 Aug 2026",
       "10 Aug 2026",
-      "05 Aug 2026",
-      "03 Aug 2026"
+      "05 Aug 2026"
     ],
     "works": 0,
     "documents": [
@@ -731,7 +735,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/129",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "130",
@@ -761,11 +765,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "206"
     ],
     "meetingDates": [
-      "06 Oct 2026",
-      "19 Aug 2026",
-      "16 Aug 2026",
-      "12 Aug 2026",
-      "11 Aug 2026"
+      "28 Oct 2026",
+      "21 Oct 2026",
+      "20 Oct 2026",
+      "07 Oct 2026",
+      "06 Oct 2026"
     ],
     "works": 0,
     "documents": [
@@ -781,7 +785,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/130",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "131",
@@ -808,11 +812,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "194"
     ],
     "meetingDates": [
+      "27 Oct 2026",
+      "12 Oct 2026",
       "11 Aug 2026",
       "03 Aug 2026",
-      "07 Jul 2026",
-      "01 Jul 2026",
-      "23 Jun 2026"
+      "07 Jul 2026"
     ],
     "works": 0,
     "documents": [
@@ -828,7 +832,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/131",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "132",
@@ -852,11 +856,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     ],
     "formerMemberIds": [],
     "meetingDates": [
-      "06 Oct 2026",
-      "18 Aug 2026",
-      "17 Aug 2026",
-      "12 Aug 2026",
-      "11 Aug 2026"
+      "27 Oct 2026",
+      "21 Oct 2026",
+      "20 Oct 2026",
+      "19 Oct 2026",
+      "13 Oct 2026"
     ],
     "works": 0,
     "documents": [
@@ -872,11 +876,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/132",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "133",
-    "name": "Foreign Relations Sub Committee (To review Annual Reports)",
+    "name": "Foreign Relations Sub Committee (To review Annual Reports for the year 2023 of Ministry of Foreign Affairs and 17 missions)",
     "category": "Select Committees",
     "status": "Completed",
     "chairId": "247",
@@ -912,7 +916,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/133",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "134",
@@ -952,7 +956,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/134",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "135",
@@ -985,7 +989,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/135",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "136",
@@ -1020,7 +1024,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/136",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "137",
@@ -1057,7 +1061,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/137",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "138",
@@ -1084,11 +1088,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "233"
     ],
     "meetingDates": [
+      "07 Oct 2026",
       "10 Aug 2026",
       "14 Jul 2026",
       "29 Jun 2026",
-      "17 Jun 2026",
-      "15 Jun 2026"
+      "17 Jun 2026"
     ],
     "works": 0,
     "documents": [
@@ -1104,7 +1108,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/138",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "139",
@@ -1137,7 +1141,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/139",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "140",
@@ -1181,7 +1185,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "works": 0,
     "documents": [],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/140",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "141",
@@ -1309,7 +1313,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/141",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "142",
@@ -1346,7 +1350,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/142",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "143",
@@ -1379,7 +1383,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/143",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "144",
@@ -1415,7 +1419,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/144",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "145",
@@ -1452,43 +1456,43 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/145",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "146",
     "name": "Budget Committee",
     "category": "Select Committees",
     "status": "Ongoing",
-    "chairId": "249",
-    "viceChairId": "177",
+    "chairId": null,
+    "viceChairId": null,
     "memberIds": [
-      "217",
-      "249",
       "177",
       "185",
       "196",
       "197",
       "203",
       "206",
-      "207",
       "209",
+      "217",
+      "218",
       "222",
       "229",
       "231",
       "232",
-      "240",
       "242",
+      "249",
       "252",
       "265",
       "266",
       "254",
-      "258",
-      "237"
+      "258"
     ],
     "formerMemberIds": [
       "192",
       "194",
-      "218"
+      "207",
+      "240",
+      "237"
     ],
     "meetingDates": [
       "19 Nov 2025",
@@ -1509,7 +1513,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/146",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "147",
@@ -1561,7 +1565,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/147",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "149",
@@ -1601,7 +1605,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/149",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "150",
@@ -1640,7 +1644,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/150",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "151",
@@ -1682,6 +1686,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "213"
     ],
     "meetingDates": [
+      "27 Oct 2026",
       "11 Aug 2025",
       "15 Jul 2025",
       "14 Jul 2025",
@@ -1690,7 +1695,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "works": 0,
     "documents": [],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/151",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "152",
@@ -1723,7 +1728,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/152",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "153",
@@ -1762,7 +1767,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/153",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   },
   {
     "id": "154",
@@ -1800,6 +1805,6 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/154",
-    "fetchedAt": "2026-10-06"
+    "fetchedAt": "2026-11-01"
   }
 ]

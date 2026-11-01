@@ -1,0 +1,259 @@
+{
+ "sittingId": "1079",
+ "date": "2026-10-28",
+ "title": "11th Sitting of third session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 32,
+  "onLeave": 8,
+  "officialTravel": 4
+ },
+ "summary": "The sitting opened at 09:01 with 32 members present, and first readings were announced for two MDP-sponsored resolutions: one asking members' views on the removal of three Supreme Court justices, and one on the government's decision to take 14 plots of land from Male' City Council and make them state property. Most of this part was the preliminary debate on the government bill amending the Education Act (24/2020), which would set up a home-schooling programme, fix the school calendar in law and change the breakfast programme. Government-aligned members backed the bill, while MDP members questioned how much consultation went into it, a clause requiring parents to show they can afford home-schooling, and how the system would be supervised. After the 10:30-11:00 break, the Speaker moved to the Finance Committee report raising the Speaker's pay, ministers' car allowances and island councillors' allowances, and debate on it was still going on when this part ends; no votes were recorded in this part. This part opens partway through the debate on the Finance Committee report reviewing pay and allowances for the Speaker, ministers, MPs' car allowances and island councillors; members argued over councillor workloads, ministers' pay, national debt and whether raising top salaries is fair while ordinary wages stay low. The Finance Committee then presented a second report proposing a special allowance so the Chief Justice's pay matches the Speaker's; debate covered judicial independence, the gap between top salaries and the minimum wage, and several points of order. Both reports were put to a vote and passed (42-12 and 40-12). The chair announced that the next sitting, on 29 October 2026 at 1:30pm, would be for presenting the 2027 state budget. The opening speech fragment continues from part 1 without a speaker header, so it is not attributed.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "32 present, 8 on leave, 4 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Resolution to ascertain MPs' views on the removal of three Supreme Court justices (sponsored by North Galolhu member Mohamed Ibrahim)",
+   "outcome": "first reading announced"
+  },
+  {
+   "n": "5.2",
+   "title": "Resolution to ascertain MPs' views on the government decision to separate 14 plots from Male' City Council jurisdiction as state property (sponsored by South Galolhu member Meekail Ahmed Naseem)",
+   "outcome": "first reading announced"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate on the bill amending the Education Act, Law 24/2020 (government bill sponsored by Huraa member Dr. Anara Naeem)",
+   "outcome": "debated; 4 hours allotted; no vote in this part",
+   "workId": "1969"
+  },
+  {
+   "n": "7.1",
+   "title": "Finance Committee report on revising the Speaker's pay and allowances, ministers' car allowances and island councillors' allowances (Constitution Article 102)",
+   "outcome": "presented and debated; 1 hour allotted; debate continues into part 2"
+  },
+  {
+   "n": "7.1",
+   "title": "Finance Committee report reviewing salaries and allowances of the Speaker, ministers, MPs' car allowances and island councillors (Article 102 of the Constitution)",
+   "outcome": "debate concluded; put to vote under item 8.1"
+  },
+  {
+   "n": "7.2",
+   "title": "Finance Committee report reviewing the salary and allowances of the Chief Justice (Article 102 of the Constitution)",
+   "outcome": "presented and debated; put to vote under item 8.2"
+  },
+  {
+   "n": "8.1",
+   "title": "Vote on the Finance Committee report on pay and allowances of the Speaker, ministers, MPs and councillors",
+   "outcome": "passed 42-12"
+  },
+  {
+   "n": "8.2",
+   "title": "Vote on the Finance Committee report on the Chief Justice's salary and allowances",
+   "outcome": "passed 40-12"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 8,
+   "positions": [
+    "Asked whether the changes were based on proper study and consultation with education professionals.",
+    "Said education should not be politicised and called for better pay and recognition for principals and teachers.",
+    "Said salaries of the Speaker and ministers are already adequate and raising councillor pay cuts into grants meant for public services.",
+    "Argued government debt rose from 123 to 156 billion and borrowing to repay debt is not repaying it."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 4,
+   "positions": [
+    "Backed the education bill, saying it opens schooling to children who cannot attend school, and cited university campus expansion under the current government.",
+    "Presented the Finance Committee report: the Speaker's pay is below the Deputy Speaker's and an MP's, so a special allowance is proposed; ministers' car and councillors' allowances are also revised.",
+    "Presented the Finance Committee report proposing a special allowance so the Chief Justice's pay equals the Speaker's, agreed unanimously in committee.",
+    "Raised a point of order disputing claims about development in Shaviyani atoll."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Opposed the pay increases, saying the country's situation does not justify raising ministers' or the Speaker's pay.",
+    "Said harmonisation issues and SEN teachers' risk allowance remain unresolved while this change passed committee within a minute.",
+    "Said the gap between an MP's and a teacher's pay is far above international norms and the minimum wage should rise first.",
+    "Objected to PNC members defending salary rises for top officials while public services remain lacking."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 2,
+   "positions": [
+    "Said the education bill was drafted at the Attorney General's office without enough consultation with the education minister, and its regulatory mechanism is weak.",
+    "Raised concern that home-schooling could be used by families with extremist views, and asked for the bill to be sent back for consultation.",
+    "Opposed the pay report, arguing it aims to influence the heads of the three branches of state in connection with a large development project."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarah",
+   "turns": 2,
+   "positions": [
+    "Supported the Chief Justice report, saying the heads of the three branches of state should be paid on one standard.",
+    "Raised a point of order that the 18th Majlis raised MPs' pay to 100,000 with the Hanimaadhoo member's vote."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Presented the government's Education Act amendment, introducing home-schooling for children with special needs or psychological conditions based on an assessment.",
+    "Said the bill also clarifies the roles of parents, teachers and principals and fixes practical problems in applying the 2020 law."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Objected to the clause making parents' financial ability a condition for home-schooling, saying it discriminates and could exclude children who need it.",
+    "Said targeted school breakfasts could label children, cited unfinished classrooms and halls in Shaviyani, and called for the education ministry to be independent of politics."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported home-schooling as a way to reach children missing formal education, and the wider role given to parents.",
+    "Called for teachers to receive the highest pay and benefits, and supported the change giving teachers a day off with their families."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill, saying home-schooling rules in Article 8 are clearly set out and pre-school and baby nursery are brought into the formal system.",
+    "Blamed the 2022 merging of teacher overtime into salaries for teacher complaints, and urged the Pay Commission to improve teacher pay."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Said the bill as written could leave some children out and was sent without enough study or technical consultation.",
+    "Said over 5,000 children are out of school and over 13,000 young people are idle; asked for amendments in committee or withdrawal of the bill."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Rejected the claim that the bill lacked education ministry consultation, saying government bills are drafted with the relevant ministries.",
+    "Said home-schooling helps children unable to attend due to illness or disability, and fixing the school calendar in law prevents abrupt changes."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Read out the Article 16 conditions, saying the parental financial-ability requirement means home-schooling would mainly reach wealthier families.",
+    "Raised unequal benefits for teachers versus officials, council duties without matching grants, and textbook shortages."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as clearly written and not a political matter, and urged consultation with the relevant education ministry department in committee.",
+    "Disputed claims of textbook shortages and said the previous government's breakfast programme incurred losses of over nine million rufiyaa."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Said committees, not the government, finalise bills and will consult stakeholders, so lack of prior consultation is not a reason to oppose.",
+    "Said the government aims to raise teacher pay, provide housing and insurance, and give all children equal opportunity."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and cited air-conditioned classrooms and higher-education loans under the current government.",
+    "Criticised the previous MDP government's education record, including a curriculum agreement he said was reported in the press."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Said the Speaker receives about MVR 73,000 while an MP with committee allowance gets about 82,000, so the change corrects an imbalance.",
+    "Described the change as small and said the government also plans pay improvements for councillors, teachers and health workers; his turn continues into part 2."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Said the Chief Justice's pay is low and judges need adequate pay to stay independent and resist bribery."
+   ]
+  }
+ ],
+ "decisions": [
+  "First readings were announced for the North Galolhu member's resolution on the removal of three Supreme Court justices and the South Galolhu member's resolution on 14 Male' City Council plots.",
+  "Preliminary debate on the Education Act (24/2020) amendment bill was held with 4 hours allotted; no vote was taken in this part.",
+  "The Finance Committee report on pay and allowances (a special allowance for the Speaker, revised ministers' car allowance from MVR 7,500, and an MVR 5,000 service allowance for island councillors) was presented with 1 hour of debate allotted.",
+  "The sitting recessed from 10:30 to 11:00.",
+  "Finance Committee report on pay and allowances of the Speaker, ministers, MPs' car allowances and island councillors passed (42-12).",
+  "Finance Committee report on the Chief Justice's salary and allowances passed (40-12).",
+  "Chair announced the next sitting on 29 October 2026 at 1:30pm for presenting the 2027 state budget."
+ ],
+ "votes": [
+  {
+   "what": "Finance Committee report on salaries and allowances of the Speaker, ministers, MPs' car allowances and island councillors",
+   "yes": 42,
+   "no": 12,
+   "abstain": 0
+  },
+  {
+   "what": "Finance Committee report on the Chief Justice's salary and allowances",
+   "yes": 40,
+   "no": 12,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 65,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-opus-5-5",
+ "generatedAt": "2026-11-01"
+}

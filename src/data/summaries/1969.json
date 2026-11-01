@@ -1,0 +1,22 @@
+{
+  "workId": "1969",
+  "titleDv": "ޤާނޫނު ނަންބަރު 24/2020 (ތަޢުލީމީ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill, presented by the MP for Huraa, makes a long list of amendments to the Education Act (Law No. 24/2020). It adds a home-schooling programme as a recognised way for children to receive compulsory education, with rules for registering and checking it. It reworks the articles on free education from preschool through higher secondary, and sets rules for the school year, including a minimum number of school days. It also changes the duties of schools and the education ministry. This summary covers the first 12 of 47 pages, and the scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "Parents could legally teach their children at home through a registered programme, and the rules on free schooling and the length of the school year would change for every school.",
+  "keyProvisions": [
+    "Amends definitions in Article 2 and changes several clauses in Articles 3, 8, 10, 11 and 13 about how education is organised and what schools and the ministry must do.",
+    "Changes Article 15 on compulsory education, which refers to children up to the age of 16, and rewrites Article 16 on how compulsory education is delivered.",
+    "Adds a new Article 16-1 creating a home-schooling programme, covering primary and lower secondary levels, with registration, standards, assessment and monitoring set by the ministry.",
+    "Repeals Article 17 and rewrites Articles 18 and 20 on providing preschool, primary, secondary and higher secondary education free of charge to Maldivian children, and arranging how that is funded.",
+    "Adds a new Article 23-1 on the academic year and school calendar, which must list term dates, exams and holidays, and requires at least 195 school days a year.",
+    "Also amends Articles 23, 24, 26 and 34, including rules on exams and the ministry's responsibilities. These parts could not be read reliably."
+  ],
+  "whoIsAffected": "Students, parents considering home schooling, teachers, government and private schools, and the education ministry.",
+  "statedReasons": "The note says the government is submitting the bill to introduce a home-schooling programme into the Education Act and to make other changes needed in the law.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 47,
+  "confidence": "Low",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

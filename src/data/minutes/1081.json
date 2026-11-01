@@ -1,0 +1,58 @@
+{
+ "sittingId": "1081",
+ "date": "2026-10-29",
+ "title": "12th Sitting of Third session of 2026",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 54,
+  "onLeave": 6,
+  "officialTravel": 3
+ },
+ "summary": "The 12th sitting of the third session opened at 13:32 on Thursday 29 October 2026 with 54 members present, and its only business was the presentation of the proposed 2027 state budget. Minister of Finance and Public Enterprises Hassan Zareer presented a budget of about MVR 59.7 billion (MVR 4.5 billion less than the 2026 budget), with MVR 52.6 billion in total spending, MVR 43.2 billion expected in revenue and grants, a projected deficit of MVR 9.4 billion (7.3% of GDP) and no new taxes. He described debt repayments, falling tourist arrivals and higher fuel subsidies in 2026, and named 2027 priorities including the Thilafushi commercial port, the Thilamale bridge, housing, health, education and solar energy. The Speaker sent the budget to the budget review committee and said the budget debate would be scheduled after seven days; there were no MP speeches or votes.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of the sitting",
+   "outcome": "opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "54 present, 6 on leave, 3 on official travel reported by the chair"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda (agenda no. 2026/3/12)",
+   "outcome": "announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Presentation of the proposed 2027 state budget under Article 96(a) of the Constitution",
+   "outcome": "presented by the Finance Minister; referred to the budget review committee, debate after seven days"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hassan Zareer",
+   "constituency": "",
+   "turns": 1,
+   "positions": [
+    "Minister of Finance presented a 2027 budget of about MVR 59.7 billion, MVR 4.5 billion below 2026, with no new taxes planned.",
+    "Projected 2027 revenue of MVR 43.2 billion, spending of MVR 52.6 billion, a MVR 9.4 billion deficit and MVR 4.5 billion in debt repayments.",
+    "Listed priorities: Thilafushi port by November 2027, Thilamale bridge, MVR 3 billion for housing, MVR 10.2 billion for health, solar energy projects."
+   ]
+  }
+ ],
+ "decisions": [
+  "The proposed 2027 state budget was presented to Parliament by the Minister of Finance and Public Enterprises.",
+  "The Speaker referred the budget to the committee formed from the Finance and Economic Affairs committees for review under Standing Order 233(r).",
+  "The Speaker announced the budget debate would be placed on the agenda after a seven-day period under Standing Order 235(a).",
+  "Next sitting announced for Monday 2 November 2026 at 09:00."
+ ],
+ "votes": [],
+ "pagesTotal": 18,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-opus-5-5",
+ "generatedAt": "2026-11-01"
+}
