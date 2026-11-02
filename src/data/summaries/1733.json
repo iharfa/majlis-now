@@ -1,22 +1,22 @@
 {
   "workId": "1733",
   "titleDv": "ޒަކާތުގެ ބިލު",
-  "summary": "This bill would create a law on zakat, the Islamic obligation to give a share of wealth to those in need. It sets out the purposes of the law and creates a nine-member board to run it, with articles on how members are chosen, how long they serve, how they can be removed, how the board meets and what it is responsible for. The rest of the bill (54 articles in seven chapters) covers the later chapters, which were not rendered. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 42 pages.",
-  "whyItMatters": "If passed, zakat in the Maldives would be handled under a specific law and an official board rather than informally, which affects people who pay zakat and those who receive it.",
+  "summary": "This bill creates a Zakat Act, the first law setting out how zakat (the Islamic obligation to give a share of wealth to those in need) is paid, collected and shared out in the Maldives. It covers two kinds of zakat: zakat al-fitr, paid by Muslims around Eid al-Fitr, and zakat on wealth, paid on things like gold, silver, cash, business stock, shares and salaries once they pass a minimum threshold (nisab) and have been held for 12 months. It turns the existing Maldives Zakat House into a government office under the ministry for Islamic affairs, creates a nine-member Zakat Council and a Shari'ah Advisory Committee, and moves the existing state Zakat Fund under this law with powers to invest. It also sets fines for misusing zakat money or claiming it with false information, and a complaints process. The bill says the law takes effect on 1 January 2026.",
+  "whyItMatters": "Zakat payments, who qualifies to receive them and how the money is invested would be run under written rules with a public register of beneficiaries, yearly audits by the Auditor General and reports to Parliament. Zakat paid on wealth would also be deductible when working out income tax.",
   "keyProvisions": [
-    "Articles 1 to 4 give the short title, the purposes of the law (linked to collecting and distributing zakat in line with Islamic Shari'ah), how it relates to other law, and a list of its chapters.",
-    "Article 5 sets up the board that will carry out the law, and Article 6 sets out its responsibilities.",
-    "Article 7 sets a board of nine members, including a chair and deputy chair, with seats allotted to named institutions and one member each in several categories, and mentions a 60-day period for appointments.",
-    "Article 8 covers the length of members' terms (a five-year term is mentioned) and Article 9 covers resignation and removal of members.",
-    "Article 10 covers how the board holds meetings and takes decisions, and Article 11 lists the board's responsibilities.",
-    "The table of contents shows later chapters spanning articles 12 to 54, which were not read."
+    "Articles 3 and 4 apply the law to everyone resident in the Maldives (including their assets abroad) and to non-residents with assets in the Maldives, and cover two types of zakat: zakat on wealth and zakat al-fitr.",
+    "Article 7 has the President form a nine-member Zakat Council within 60 days, chaired by the minister, including the Zakat House director general, members from the Maldives Monetary Authority, the Quran centre, the finance ministry, the Islamic finance council and the ministry, plus two zakat experts chosen after a public call; appointed members serve five-year terms. Articles 12 to 15 make the Maldives Zakat House a civil service office led by a director general picked by the Council after a public announcement and interviews.",
+    "Articles 21 to 28 require every Muslim who can afford it to pay zakat al-fitr for themselves and the family they support, in staple food or its cash value, at a rate the Zakat House sets and publishes each year, with digital payment options and distribution to the poor and needy who register as beneficiaries.",
+    "Articles 30 to 36 list the assets liable for zakat on wealth (including gold, silver, cash, business goods, livestock, crops, minerals, rent, sukuk and bonds, shares and wages), exempt state, waqf, charity-fund and mosque property, and require a nisab threshold published and updated each year. Article 37 limits distribution to the eight Quranic categories of recipient, and Article 39 makes zakat paid to the state deductible under the Income Tax Act (Law 25/2019).",
+    "Articles 43 to 48 create the Zakat Fund, replacing the fund set up under Article 26 of the Public Finance Act (Law 3/2006). It holds zakat money and investment returns, can only spend on beneficiaries, Shari'ah-compliant investment and set administration costs, and is audited by the Auditor General every year, with annual reports to the President and Parliament.",
+    "Article 49 makes it an offence for officials to collect zakat from people or assets that are not liable, or to pay or invest it outside the law, with fines of MVR 1,000 to 100,000; anyone who obtains zakat money with false information must pay back the same amount and can be removed from the beneficiary register. Article 51 allows complaints to a review committee at the ministry."
   ],
-  "whoIsAffected": "People and businesses who owe zakat, people who qualify to receive it, and the institutions named on the new board.",
-  "statedReasons": "The explanatory note could not be read reliably; it appears to say zakat needs a legal framework so it can be collected and distributed in line with Islamic Shari'ah.",
+  "whoIsAffected": "Muslims in the Maldives who pay zakat al-fitr or zakat on wealth, people who receive zakat, staff of the Maldives Zakat House, local councils given zakat duties, and the institutions represented on the Zakat Council.",
+  "statedReasons": "The government says the bill sets up a legal framework for the Maldivian zakat system, so that paying, collecting and distributing zakat is run under clear legal arrangements that meet the purposes Islamic Shari'ah sets for zakat.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 42,
   "pagesTotal": 42,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

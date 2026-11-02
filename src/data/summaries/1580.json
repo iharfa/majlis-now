@@ -1,22 +1,22 @@
 {
   "workId": "1580",
-  "titleDv": "އެޓަރނީ ޖެނެރަލްގެ އޮފީސް ބިލު",
-  "summary": "This is a new bill to set up the Attorney General's Office by law. It builds on Article 133(a) of the Constitution, which makes the Attorney General's Office a state institution, and on Article 116. The bill says what the Office is, lists what it does for the state, and sets out the powers and duties of the Attorney General. Later chapters cover the Deputy Attorney General, the Office's staff and miscellaneous rules. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 32 pages.",
-  "whyItMatters": "It would put the powers and duties of the state's chief legal office, which advises and represents the government, into one law.",
+  "titleDv": "ބަންޑާރަނައިބުގެ އޮފީހުގެ ބިލު",
+  "summary": "This is a new bill, submitted on behalf of the government, that sets out in law the Attorney General's Office. It treats the Office as a government ministry under Articles 116 and 133(a) of the Constitution and lists its duties, from representing the state in courts and arbitration to advising on bills and publishing the country's laws. It sets the qualifications, powers and limits of the Attorney General, creates senior posts including a Deputy Attorney General and a Solicitor General, and splits staff into a legal service and an administrative service. Current Attorney General's Office civil servants, assets and contracts would move to the Office set up under this law, and it would take effect 30 days after it is published in the Government Gazette.",
+  "whyItMatters": "It puts the role of the government's chief legal adviser and the state's lawyer in court into one law, and has the Office's staff hired and managed under its own regulations made by the Attorney General.",
   "keyProvisions": [
-    "Articles 1 and 2 give the short title and purpose, and Article 2 sets out the aims of the law.",
-    "Article 3 establishes the Attorney General's Office under Article 133(a) of the Constitution and gives its English name as \"Attorney General's Office\".",
-    "Article 4 sets out the functions of the Office as a long list of items, including legal advice to the state and acting for the state in legal matters.",
-    "Article 5 deals with the head of the Office, the Attorney General, and says how the Attorney General relates to the Office's work.",
-    "Article 8 lists the responsibilities of the Attorney General, partly mirroring the Office's functions in Article 4.",
-    "Chapters on the Deputy Attorney General (Articles 14 to 18), the Office's staff (Articles 19 to 26) and general rules (Articles 27 to 33) are listed in the contents but were not rendered, so they are not summarised."
+    "Article 4 lists the Office's duties, including suing and defending on behalf of the state at home and abroad, representing it in arbitration and mediation, giving legal advice before the President ratifies bills, drafting bills, publishing up-to-date laws, human rights treaty reporting, and legal aid for people without the means who are accused in serious criminal cases.",
+    "Article 7 says the Attorney General must have notable legal experience and education and meet the requirements for appointment to the Cabinet; Article 9 says the Attorney General follows only the Constitution and the law, free from anyone else's influence.",
+    "Article 10 bars the Attorney General from holding other posts, running a business, buying or renting state property, or having a financial interest in dealings with the state; Article 11 requires a yearly declaration of assets, business interests and debts to the Auditor General.",
+    "Articles 14 to 18 let the Attorney General appoint a Deputy Attorney General and a Solicitor General after consulting the President, each needing a master's degree and at least 10 years of experience; the Solicitor General is the Office's top administrative officer and is hired through an open call and interviews.",
+    "Articles 19 to 26 split staff into a legal service and an administrative service, require open recruitment based on merit, set pay through the Ministry of Finance in line with National Pay Commission policy, allow a bonus scheme, set retirement at 65, and allow retirement after 25 years of service.",
+    "Article 28 protects the Attorney General and Office staff from civil or criminal claims for acts done in good faith, Article 29 requires an annual report to the President and Parliament before 10 January to be made public within 14 days, and Article 30 transfers current staff, assets, budget and contracts to the Office."
   ],
-  "whoIsAffected": "Government ministries and state bodies that rely on the Attorney General's Office, and the lawyers who work in it.",
-  "statedReasons": "The explanatory note refers to Article 133(a) of the Constitution and says the bill is to set out the Office's work and the powers of the Attorney General in law.",
+  "whoIsAffected": "The Attorney General and staff of the Attorney General's Office, and the government bodies, councils and state companies that it advises and represents.",
+  "statedReasons": "The note says the bill gives a legal basis for the Attorney General's qualifications, duties and standards under Article 133(a) of the Constitution, and for setting up the Attorney General's Office as a separate permanent government office with its own rules on how it is run and on its staff.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 32,
   "pagesTotal": 32,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

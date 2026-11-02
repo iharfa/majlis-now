@@ -1,21 +1,22 @@
 {
   "workId": "1513",
-  "titleDv": "",
-  "summary": "This is a new Infrastructure Planning and Management Bill with 49 articles. Its purpose article (Article 2) lists several aims, including coordinated planning of infrastructure projects. The contents list shows chapters on how infrastructure planning is run, how projects are handled, and rules on the way projects are carried out, with enforcement at the end. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 50 pages.",
-  "whyItMatters": "If passed, it would set a common legal process for planning and managing infrastructure projects. The exact rules are unreadable in the pages rendered.",
+  "titleDv": "ބިނާވެށި ޕްލޭންކުރުމާއި ހިންގުމުގެ ބިލު",
+  "summary": "This is a new law, not an amendment, setting up a national system for planning land use and approving building and land development across the Maldives. It names the ministry, city councils, island councils and offices for urban, special and industrial zones as 'planning offices', and each must prepare a physical development plan for its area using a registered planner, after consulting residents, and get it approved by the ministry. Anyone developing land would first need a land development permit from the council (in cities and islands) or the ministry (elsewhere). The bill then sets out warning, compliance and stop-work notices with fines for breaking permit rules, a complaints and appeal route ending in court, and rules on publishing plans and permits. The government submitted it through Kolamaafushi MP Ibrahim Didi on 11 August 2024.",
+  "whyItMatters": "Building or changing the use of land would need a permit checked against an approved local plan, with fixed deadlines for councils to decide and fines of up to MVR 250,000 per repeat breach of a stop-work notice. Councils would gain formal planning powers, and residents would get a legal right to be consulted on plans and to complain about planning decisions.",
   "keyProvisions": [
-    "Article 1 gives the short title, the Infrastructure Planning and Management Act, and Article 2 lists the purposes of the law in numbered clauses.",
-    "Article 3 sets up a body or process for infrastructure planning, and Article 4 lists its functions in numbered clauses.",
-    "Article 5 deals with how some positions are filled or how some rules apply, and Article 6 lists numbered categories of members. The details could not be read reliably.",
-    "Article 7 lists the duties of the members of that body in numbered clauses.",
-    "Pages 13 to 50 were not rendered, so Articles 8 to 49 are not summarised."
+    "Articles 3 to 7: the President sets national planning policy on Cabinet advice; the ministry makes regulations, approves plans and registers planners; planning offices are the ministry, city councils, island councils and offices named for urban, special and industrial zones.",
+    "Articles 8 to 16: each planning office must prepare a physical development plan (national, city, island, urban area, industrial zone or commercial zone master plan) through a registered planner and after public consultation. The ministry must approve or return it within 90 days (60 days to ask for fixes), or it counts as approved, and plans are reviewed every 5 years.",
+    "Articles 17 to 22: land may be developed only with a permit; the office must decide within 30 days or the permit counts as granted if the application is complete. It can add conditions such as heritage protection or environmental, social or transport impact assessments, and a permit lapses if work does not start within 1 year.",
+    "Articles 24 to 32: breaches are handled by a warning notice (only within 2 years of the breach), a compliance notice (up to 40 days to comply), then a stop-work notice (up to 48 hours). Fines run from MVR 1,000 to 50,000 depending on whether the project costs more than MVR 10 million, rise to MVR 100,000 to 250,000 for repeat breaches, and add up to MVR 1,000 a day while a stop-work notice is ignored. Officers may inspect sites on 48 hours' notice, but homes need the owner's consent or a court order.",
+    "Articles 33 to 39: anyone with an interest can complain to a planning office within 30 days, appeal its decision to a ministry review committee, and then take the case to court within 30 days of the committee's answer.",
+    "Articles 40 to 48: approved plans, permits and complaint reports must be published, except trade secrets, live investigations, fair-trial or national-security matters. The ministry may fine individuals up to MVR 15,000 (50,000 if repeated), companies up to MVR 30,000 (100,000 if repeated) and planning offices up to MVR 50,000 for other breaches. Urban-area permits follow the urban development law, regulations are due within 3 months, and the law takes effect 3 months after it is published in the Gazette."
   ],
-  "whoIsAffected": "Government bodies and others involved in planning and building infrastructure projects, though the exact groups could not be confirmed.",
-  "statedReasons": "An explanatory note is printed on page 2 but could not be read reliably.",
+  "whoIsAffected": "Anyone building on or changing the use of land, city and island councils, the planning ministry, and registered planners.",
+  "statedReasons": "The government says the bill creates a firm legal framework for built-environment planning in the Maldives so land is used sustainably, and sets basic standards for developing land in line with plans and for monitoring development and taking action.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 50,
   "pagesTotal": 50,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

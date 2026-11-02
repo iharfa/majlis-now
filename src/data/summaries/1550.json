@@ -1,22 +1,22 @@
 {
   "workId": "1550",
-  "titleDv": "ޤާނޫނު ނަންބަރު 15/2010 (ދުންފަތުގެ ކޮންޓްރޯލް ކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Tobacco Control Act (Act No. 15/2010). It changes the Act's purpose clause and adds a new Article 3-1 that links to the penalty rules in Article 29. It brings in an age of 21 for dealing with tobacco products and rewrites the articles on selling them. It adds new Articles 10-1 and 10-2 with fixed fines, and changes later articles on the Act's enforcement. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 44 pages.",
-  "whyItMatters": "Anyone under 21 could be barred from tobacco sales, and shops or sellers who break the rules could face fixed money fines.",
+  "titleDv": "ގާނޫނު ނަންބަރު 15/2010 (ދުންފަތުގެ ކޮންޓްރޯލްކުރުމާބެހޭ ގާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Tobacco Control Act (Act No. 15/2010). It bans importing, selling, giving away and using e-cigarettes, vapes and the liquids made for them, with fixed fines for each breach. It raises the minimum age for buying tobacco from 18 to 21 and requires sellers to check ID. It also bans growing tobacco, importing tobacco plants or seeds, and making tobacco products in the Maldives, and requires a separate Ministry licence to import, re-export or sell tobacco. It raises the general fine range in Article 29 and widens the Act's definitions of tobacco products, advertising and sponsorship, including social media.",
+  "whyItMatters": "Using or selling a vape would become an offence with fines from Rf 5,000 to Rf 50,000, and people aged 18 to 20 could no longer buy tobacco. Shops that break the rules could lose their tobacco licence or business permit.",
   "keyProvisions": [
-    "Clause 1 replaces Article 3(a), and clause 2 adds a new Article 3-1 with sub-articles (a), (b) and (c) that point to the penalties in Article 29.",
-    "Clauses 3 to 5 replace sub-articles of Article 6, and clause 6 replaces Article 7. These articles set the age of 21 for tobacco sales and purchases.",
-    "Clause 7 replaces Article 8, and clauses 8 and 9 replace Article 10 and add Articles 10-1 and 10-2. The new articles set out the offences and the fines for them.",
-    "The fixed fines printed in Articles 10-1 and 10-2 run from Rf 5,000 up to Rf 50,000, with higher amounts for some breaches.",
-    "Clauses 10 to 17 change Articles 11, 12, 13, 14 and 17 and add Article 17-1. Clause 18 changes Article 18 and refers to the Export Import Act (No. 31/79).",
-    "Clauses 19 to 25 go on to change Articles 19, 21, 22, 25 and 28. These pages are hard to read and are not described in detail."
+    "New Article 10-1 bans importing e-cigarettes, vaping devices and their liquids, with a fine of Rf 50,000 plus Rf 10,000 for each device imported.",
+    "New Article 10-2 bans selling (Rf 20,000 plus Rf 10,000 per device), giving away (Rf 10,000) and using (Rf 5,000) e-cigarettes and vapes, with an extra Rf 50,000 fine for selling or giving one to a child. Heated tobacco products are excluded from the vape definition.",
+    "Articles 6 and 7 are rewritten so tobacco cannot be sold to, or sold with the help of, anyone under 21 (previously 18). Sellers must ask for an ID card or other official document and must display a warning sign.",
+    "Article 10 bans growing tobacco, importing tobacco plants, seeds or other growable parts, and making any tobacco product in the Maldives. Article 8 bars shops from displaying tobacco or its packs where the public can see them.",
+    "New Articles 3-1, 17-1 and 28-1 let the Ministry cancel a tobacco licence, or ask the relevant office to suspend or cancel a business permit, for smoking in banned places, illegal advertising or sponsorship, or trading without a licence. Article 28 requires separate licences for selling, importing and re-exporting tobacco.",
+    "Article 29(b)(1) changes the fine range to Rf 1,000 to Rf 1,000,000 (previously Rf 500 to Rf 100,000), with fines for smuggling and similar offences set at 10 times the goods' value plus taxes. Regulations must be issued within 60 days; Article 10-2 takes effect on 15 December 2024 and the rest on 15 November 2024."
   ],
-  "whoIsAffected": "Shop owners and anyone who sells tobacco, young adults under 21, and the authorities who enforce the Act.",
-  "statedReasons": "The explanatory note says the bill amends the Tobacco Control Act (No. 15/2010) to change its rules on tobacco products. The note is hard to read, so the full reasons are uncertain.",
+  "whoIsAffected": "Vape and e-cigarette users, young adults aged 18 to 20, tobacco importers, shops that sell tobacco, and the Ministry and government offices that enforce the Act.",
+  "statedReasons": "The note says the bill bans importing, selling, possessing and using e-cigarettes, vaping devices and their flavours, adds more measures against people who break the Act, and fixes problems found in enforcing it.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 44,
   "pagesTotal": 44,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

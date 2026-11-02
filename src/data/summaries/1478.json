@@ -1,22 +1,22 @@
 {
   "workId": "1478",
   "titleDv": "ދައުލަތުގެ ފިސްކަލް ޒިންމާގެ ބިލު",
-  "summary": "This bill is a new State Fiscal Responsibility law. Its explanatory note says it replaces the Fiscal Responsibility Act (Law 7/2013). It sets principles for how the government taxes, spends and borrows. It also sets a limit on state debt, and it requires the Finance Ministry to publish a multi-year fiscal responsibility framework and a fiscal strategy statement and to manage fiscal risks. The contents list also covers budget outturn reports, special circumstances, and Parliament's role in oversight. The scans are hard to read, so some details are uncertain, especially the numbers in the debt limit. This summary covers the first 12 of 41 pages.",
-  "whyItMatters": "It sets the rules for how much the government can run deficits and borrow, which affects public services, taxes and the country's debt.",
+  "summary": "This bill creates a new State Fiscal Responsibility Act and repeals the current Fiscal Responsibility Act (Law 7/2013). It sets core rules for the government's finances: keep total state debt and the overall fiscal balance at sustainable levels compared with GDP, and manage fiscal risks. Within 6 months of each new presidential term, the Finance Minister must write a 5-year Fiscal Responsibility Charter with fiscal targets, which Cabinet approves and Parliament receives. Each year the Minister must also publish a fiscal strategy statement, a budget outcome report and a fiscal risks statement, and the Auditor General must report on whether the government followed the law. The rules can be set aside only in listed emergencies, such as a major disaster, a deep economic shock or a pandemic, and only for a period Parliament approves.",
+  "whyItMatters": "It sets binding limits and reporting duties on how the government borrows and spends, and requires yearly public reports that let Parliament and the public check the state's finances.",
   "keyProvisions": [
-    "Article 4 says the law applies to state institutions and, as far as can be read, to companies and other bodies set up under law, including councils and independent institutions.",
-    "Article 5 lists fiscal policy principles that the government must follow, including managing public debt and fiscal risks and being transparent.",
-    "Article 6 sets a ceiling on state debt. The text mentions 91 percent, a 3-year period and a 2.5 percent figure, but it could not be read reliably how these combine.",
-    "Articles 7 to 10 require the Finance Ministry to prepare a fiscal responsibility framework covering 5 years, at least 6 months before each financial year. It must include fiscal targets and a statement of fiscal risks.",
-    "Article 11 requires the framework to go to Parliament and be published in the Government Gazette. One clause mentions a 14-day period.",
-    "The rest of the bill, listed in the contents but not rendered, covers the fiscal strategy statement, budget outturn reports, managing fiscal risks, exceptional circumstances, Parliament's role, regulations, and repealing the old law."
+    "Article 5 sets the main principles: keep total state debt as a share of GDP and the overall fiscal balance at sustainable levels, reduce fiscal risks, and keep recurrent spending growing more slowly than state revenue.",
+    "Article 6 lets the government borrow from the central bank only as a short-term advance for cash-flow needs, repaid within 91 days at market interest, and capped at 2.5% of average annual revenue over the past 3 years.",
+    "Articles 7 to 11 require a 5-year Fiscal Responsibility Charter for each presidential term, with at least one target per principle. Cabinet must approve it by the end of March in the term's first year, and within 14 days it goes to Parliament and is published in the Government Gazette. Article 17 allows a review after 2 years.",
+    "Articles 15 and 16 allow the targets to be suspended only in set cases: a natural disaster harming more than 15% of the Maldives population, or a major economic shock such as real GDP or tourist bed nights falling for 2 quarters in a row, a 25% drop in state revenue, inflation above 15% for 3 months, a banking crisis, or a pandemic. A revised charter must then be approved by Cabinet and Parliament.",
+    "Articles 18 to 33 require a yearly fiscal strategy statement with 3-year operational targets, a budget outcome report within 5 months of each financial year, and a fiscal risks statement covering areas such as state companies, councils, debt and climate change.",
+    "Article 34 requires the Auditor General to report to the Minister and Parliament by the end of October each year on how far the government complied with this law. Article 35 requires Parliament to publish a fiscal impact analysis before passing any law or decision that affects state finances."
   ],
-  "whoIsAffected": "The Finance Ministry, state institutions and companies, councils, and Parliament as it scrutinises the budget.",
-  "statedReasons": "The note says the bill replaces Law 7/2013 with a new framework for fiscal policy, fiscal rules and responsible management of the state's finances.",
+  "whoIsAffected": "The Finance Ministry, Cabinet, state offices and councils, state-owned companies, the Auditor General and Parliament.",
+  "statedReasons": "The note says the government is proposing the bill to replace Law 7/2013 with a new, workable system of fiscal rules, setting the principles, targets and procedures to keep the state's finances sustainable, prudent and responsible.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 41,
   "pagesTotal": 41,
-  "confidence": "Low",
+  "confidence": "High",
   "model": "claude-opus-5-5",
-  "generatedAt": "2026-10-14"
+  "generatedAt": "2026-11-01"
 }
