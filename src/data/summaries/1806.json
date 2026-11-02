@@ -1,21 +1,22 @@
 {
   "workId": "1806",
-  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ... ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Decentralization Act (Act No. 7/2010), the law that sets up how island, atoll and city councils work. It is a long list of changes, rewriting some articles, adding new ones and removing some paragraphs. The parts read cover council size, council elections, and how council posts are filled. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 57 pages.",
-  "whyItMatters": "If passed as written, the rules for who sits on local councils and how they are chosen and run could change for every island, atoll and city council.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ދާއިރާތައް ލާމަރުކަޒީ އުސޫލުން ހިންގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Decentralization Act (Act No. 7/2010) to abolish atoll councils. It deletes Chapter 3 of the Act (Articles 6 to 19), which sets up atoll councils, and makes island councils report directly to the Local Government Authority instead of to an atoll council. Duties that atoll councils held, such as receiving island council budgets, accounts and documents, move to the Local Government Authority, which may open its own offices in the atolls. The bill also cuts island council size, changes how Malé and Fuvahmulah city councils are made up, and makes the head of each Women's Development Committee a full-time post elected by public vote. The bill runs 57 pages: 18 pages of amendments followed by a table comparing the current and proposed wording.",
+  "whyItMatters": "Atoll councils would disappear after the next local council election, and most island councils would have fewer elected members. Island councils would deal directly with the Local Government Authority and government offices instead of going through an atoll council.",
   "keyProvisions": [
-    "Clauses 1 to 3 replace paragraphs in Articles 1 and 3 of the Act.",
-    "Clauses 5 to 7 rewrite three paragraphs of Article 22.",
-    "Clause 8 replaces Article 24 on the number of council members: a figure of 2,000 splits councils into 3-member and 5-member ones, and the article also sets seat counts of 1 and 2 tied to Article 56-5. The scan does not let me confirm what those seats are for.",
-    "Clauses 10 and 11 remove paragraphs from Article 51, and clauses 12 to 14 rewrite and add to Article 56-6.",
-    "Clauses 15 to 27 change Articles 58, 59, 62, 65, 66, 68, 69 and 79, and add new Articles 58-1 and 61-2, which include a 72-hour time limit."
+    "Clause 4 deletes Chapter 3 (Articles 6 to 19) on atoll councils, and other clauses remove atoll councils from Articles 1, 3, 22, 62, 65, 66, 68, 79, 89, 90, 92, 102, 105, 106, 112, 127, 130, 148 and 152.",
+    "Clause 8 rewrites Article 24: islands under 2,000 people elect 3 councillors (at least 1 a woman) and larger islands elect 5 (at least 2 women), down from 5 and 7 for islands under and over 3,000 now.",
+    "Clause 9 adds to Article 41: Malé City Council gets as many members as Malé has Majlis seats, plus the mayor, and Fuvahmulah City Council gets one member from each of its 8 wards, plus the mayor.",
+    "Clauses 12 to 14 change Article 56-6: each Women's Development Committee gets as many members as its island or city council, its president is elected by a secret public vote and works full-time on a salary, and other members work part-time.",
+    "Clauses 16 and 18 let the Local Government Authority set up offices in the atolls (new Article 58-1) and set board meeting rules (new Article 61-2), including that the board president may delay a board decision and must send it back to the board with reasons within 72 hours.",
+    "Clauses 43 to 46 say the new council and committee sizes apply from the next regular local election; atoll councils, their offices and assets pass on when new councillors take office, and the Local Government Authority must place atoll council staff in jobs of the same level within 60 days."
   ],
-  "whoIsAffected": "Local councillors, people who stand for council seats, and residents of islands, atolls and cities served by councils.",
-  "statedReasons": "The bill has an explanatory note referring to Act No. 7/2010, but it is too hard to read to summarise reliably.",
-  "pagesRead": 12,
-  "pagesTotal": 57,
-  "confidence": "Low",
+  "whoIsAffected": "Atoll councillors and atoll council staff, island and city councillors, Women's Development Committee members, the Local Government Authority, and residents of islands, Malé and Fuvahmulah.",
+  "statedReasons": "The note says the government wants to strengthen how the decentralised system runs by abolishing atoll councils, reviewing how island councils, city councils and Women's Development Committees are formed, and making the law work better.",
   "sourceDoc": "Bill",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "pagesRead": 57,
+  "pagesTotal": 57,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

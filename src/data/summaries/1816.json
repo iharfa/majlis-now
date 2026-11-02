@@ -1,21 +1,22 @@
 {
   "workId": "1816",
-  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Tourism Act (Law No. 2/99). It changes the definitions in Article 2 and amends Articles 4, 5, 6 and 9, and it adds new Articles 6-1 and 6-2. Several of the changes deal with who may hold or take part in a tourism business, with rules set by percentage of shareholding (45, 49 and 50 percent appear) and by minimum dollar amounts, which range from US$100,000 up to US$5,000,000 in the clauses read. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 39 pages.",
-  "whyItMatters": "The changes appear to set new ownership and financial conditions for people and companies in the tourism business, so they could affect who is able to hold or invest in a tourism property.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމްގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Maldives Tourism Act (Law No. 2/99). It lets the government lease islands, land or lagoons to state companies (companies where the government holds at least 45 percent) to build tourist resorts, and it adds tourism training resorts to the kinds of places that can be leased. It lets the Tourism Ministry extend the time a leaseholder has to finish building a resort for a fee, lets the ministry set and widen the lagoon area that goes with a leased island, and resets the fees for extending resort leases by up to 49 years. It also creates a new category called tourism-based rehab, rewrites the licensing rules for tour operators and foreign tour operators, and raises the fines for running tourist services without a licence.",
+  "whyItMatters": "State companies would be able to get islands for resorts under rules set in the law, and resort leaseholders would get set prices for extending their leases, ranging from US$2.5 million to US$10 million. Lease rent from tourist hotels and guesthouses on designated land would go to the island or city council, and anyone offering tourist services without a licence would face fines of MVR 100,000 to MVR 1,000,000.",
   "keyProvisions": [
-    "Clause 1 amends the definitions in Article 2. The new terms could not be read reliably.",
-    "Clauses 2 to 6 amend Articles 4 and 5. Clause 6 adds new sub-articles (1) to (10) to Article 5, and one of them sets a 45 percent (forty-five percent) figure.",
-    "Clause 7 amends Article 6 so that it refers to new Articles 6-1, 6-2 and 45-1.",
-    "Clause 8 adds new Articles 6-1 and 6-2, which set conditions and procedures involving the Minister. The scans of these articles are too hard to read to describe them with confidence.",
-    "Clauses 9 and 10 amend Article 9. They add tiered conditions tied to dollar amounts (US$100,000, US$200,000, US$1,500,000, US$2,500,000, US$3,000,000, US$4,000,000 and US$5,000,000) and to shareholding thresholds of 49 and 50 percent. What each tier applies to could not be confirmed."
+    "Article 5 gets a new route for leasing to a state company to build a resort. The Cabinet must approve it, the company must be able to pay for and carry out the build, it cannot pass on or sublease its rights, it pays an acquisition fee, and the details go to the Auditor General's Office afterwards.",
+    "A new Article 4(r) says rent paid for land designated for tourist guesthouses and hotels goes to the island or city council where the land is.",
+    "New Article 6-1 lets the ministry extend the deadline to finish building a leased resort if work has actually started, charge a fee, and defer rent and fines for that period. If a resort is still not open after the deadline, the ministry can cancel the lease without paying compensation. New Article 6-2 has the ministry set the lagoon area around a leased island and lets it widen that area for a fee.",
+    "Article 9 resets the lease-extension prices. Extending by 20 years costs US$2.5 million, by 25 years US$3 million, and by 49 years US$5 million if applied for within 6 months of the amendment taking effect. A 49-year extension can also be paid as US$1.5 million up front plus US$4 million over 12 months or US$4.5 million over 24 months. After the 6 months, a 49-year extension costs US$10 million.",
+    "New Articles 16-21 to 16-25 create tourism-based rehab: facilities for treating drug use, built on leased islands or land in zones the government chooses. They need a rehab licence and must run treatment programmes that include behavioural therapy and education. Otherwise the resort rules apply to them.",
+    "Articles 32 and 33 set up tour operator licences and foreign tour operator licences. Foreign operators must work through a licensed Maldivian operator under an affiliation agreement. Article 48 sets fines of MVR 100,000 to MVR 1,000,000 for unlicensed tourist services, MVR 100,000 a day if they carry on after being told to stop, and MVR 5,000 to 100,000 for other breaches. Regulations must be published within 90 days."
   ],
-  "whoIsAffected": "Owners, shareholders and investors in tourism businesses, and the ministry that administers the Tourism Act.",
-  "statedReasons": "The explanatory note could not be read well enough to give the stated reasons reliably; it says the bill amends the Tourism Act (Law No. 2/99).",
+  "whoIsAffected": "Resort leaseholders and developers, state-owned companies, tour operators and guides, foreign travel firms, island and city councils, and the Tourism Ministry.",
+  "statedReasons": "The government says the bill puts into the Tourism Act a system for leasing land to state companies for resorts and for tourism training resorts, rules for extending resort development deadlines and setting lagoon areas, and licensing for tour operators, along with other changes to make the law easier to enforce.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 39,
   "pagesTotal": 39,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

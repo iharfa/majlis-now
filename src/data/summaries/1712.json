@@ -1,21 +1,22 @@
 {
   "workId": "1712",
   "titleDv": "ޓްރޭޑްމާކްގެ ބިލު",
-  "summary": "This bill is a new law on trademarks, which are the signs a business uses to tell its goods or services apart from others. It defines what counts as a trademark (Article 3) and sets out who can apply and which signs cannot be registered (Articles 4 to 6). It then sets out how an application is made (Article 7 onward). The bill has 52 articles in seven parts, which also cover registration, collective and certification marks, enforcement and general provisions. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 63 pages.",
-  "whyItMatters": "Anyone who runs a business under a brand name or logo would have a legal process for registering it, and a clear route to challenge copies.",
+  "summary": "This bill creates a new Trademark Act for the Maldives, setting up a system for registering trademarks, which are signs that tell one business's goods or services apart from another's. Only a registered mark gives its owner exclusive rights, and the bill sets out how to apply to the Registrar, how others can object, which signs cannot be registered, and how registrations are renewed, cancelled or revoked. It also covers certification marks and collective marks, court cases and compensation for infringement, Customs holding back suspected fake imports, and a criminal offence of counterfeiting. Trademarks registered before the law starts must be registered again within 12 months or they lapse. The law would take effect 12 months after it is published in the Government Gazette.",
+  "whyItMatters": "Businesses could register a brand name or logo for 10 years at a time and go to court or Customs to stop copies, while people who sell or import counterfeit-branded goods as a business could face fines of up to MVR 2 million.",
   "keyProvisions": [
-    "Article 3 defines a trademark as a sign that can tell one business's goods or services apart from another's.",
-    "Articles 4 to 6 deal with who may apply and which marks cannot be registered; Article 6 gives a list of grounds, with a rule that some marks can still be registered if they have become distinctive through use.",
-    "Article 7 begins the registration process with the application, and Article 8 lists what an application must contain.",
-    "The contents page shows separate parts on registering trademarks (Articles 7 to 25), transferring and licensing trademarks (Articles 26 and 27), and collective and certification marks (Articles 28 to 31).",
-    "Later parts, which were not rendered, appear to cover protection and enforcement of trademark rights (Articles 32 to 48) and general provisions (Articles 49 to 52)."
+    "Article 5 gives the owner of a registered mark the right to stop others using the same or a confusingly similar sign on similar goods or services, and Article 6 lists exceptions such as resale of genuine goods and honest use of a person's own name.",
+    "Articles 14 and 15 list signs that cannot be registered, including signs with no distinctive feature, plain descriptions or generic names, misleading signs, state flags and emblems, signs that clash with earlier or well-known marks, and applications made in bad faith.",
+    "Articles 9 and 10 give a 6-month priority right to applicants who first filed in a Paris Convention or WTO member country or showed the goods at an official exhibition; Article 13 allows objections within 3 months of an application being published.",
+    "Article 20 sets registration at 10 years, renewable for further 10-year periods (Article 21); Article 25 lets a court or the Registrar revoke a mark that has gone unused in the Maldives for 5 years without good reason.",
+    "Articles 40 to 44 let a trademark owner ask the Maldives Customs Service to hold suspected infringing imports, with time limits to take the case to court, and allow courts to order such goods destroyed.",
+    "Article 45 makes counterfeiting a mark, or trading in, importing or exporting counterfeit goods on a commercial scale, an offence punishable by a fine between MVR 100,000 and MVR 2,000,000; Article 48 lets courts confiscate or destroy the goods and the proceeds."
   ],
-  "whoIsAffected": "Businesses, designers and brand owners in the Maldives, and anyone who sells goods or services under a brand name.",
-  "statedReasons": "The explanatory note says the bill is meant to set up a legal framework for registering and protecting trademarks. The scan of the note is hard to read, so the wording is approximate.",
+  "whoIsAffected": "Businesses and brand owners, importers and exporters, the Registrar, the Maldives Customs Service, the courts and the ministry in charge of economic policy.",
+  "statedReasons": "The note says the bill sets up a trademark registration system and its basic rules to create a supportive environment for producers and creators in the Maldives, and sets out the rights of trademark owners and how infringement will be dealt with and enforced.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 63,
   "pagesTotal": 63,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

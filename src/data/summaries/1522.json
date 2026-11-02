@@ -1,22 +1,22 @@
 {
   "workId": "1522",
-  "titleDv": "އަރބަން ޑިވެލޮޕްމެންޓް ބިލު",
-  "summary": "This is a new, full-length Urban Development Bill, not an amendment. Its contents page lists 51 articles in seven chapters. The opening articles give the law's name and purposes, and then appear to set up an urban development plan and say where it applies, such as a town, an island or part of an island. A later chapter starting at Article 8 appears to set up a body to carry out the law. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 52 pages.",
-  "whyItMatters": "If passed as written it would be the main law on planning urban development, but the rules on land and buildings are in the later pages, which were not read.",
+  "titleDv": "އަރބަން ޑިވެލޮޕްމަންޓްގެ ބިލު",
+  "summary": "This government bill creates a new Urban Development Act in 51 articles. It is a new law, not an amendment. It lets the President, on the minister's advice, declare urban areas in three tiers: metropolitan areas, urban regions and urban centres, set by population. It creates an Urban Development Authority under the ministry. The Authority would draw up a master plan and zoning map for each urban area, issue development permits, and enforce them through warnings, compliance notices, stop-work notices and fines. It also sets up a complaints process, with review by the ministry and then the courts.",
+  "whyItMatters": "Large development projects in declared urban areas would need a permit from the new Authority after impact assessments, consultation with councils and agencies, and a public comment period. Breaking the rules could bring fines of 1% of a project's value. Councils would share planning powers over these areas with the Authority until development is finished.",
   "keyProvisions": [
-    "Article 1 sets out the law's name, which Article 1(b) gives as the Urban Development Act.",
-    "Article 2 lists the law's purposes in several lettered paragraphs. They could not be read reliably.",
-    "Article 5 appears to define an urban development plan, and Article 6 appears to cover what the plan contains.",
-    "Article 7 appears to cover towns, islands or parts of islands, with four numbered sub-points.",
-    "Chapter 3 starts at Article 8 and appears to set up a body to run the law. The contents page shows Articles 9 to 14 on its members, meetings and related matters.",
-    "The contents page lists 51 articles, ending on page 44 of the bill. Pages beyond the first 12 were not read."
+    "Article 9 defines a metropolitan area (the zone containing the capital, with an actual or planned population over 150,000), an urban region (over 50,000, with one or more urban centres) and an urban centre (meets the conditions for a city under the Decentralisation Act and has over 10,000 people). Under Article 10, planning and development in a declared area follow this law even if a council runs it. The council keeps its municipal services, and the Authority's powers end once development projects are finished.",
+    "Article 5 creates the Urban Development Authority as a government office under the ministry. It takes over the ministry's existing urban planning department's staff, assets and duties, and the minister answers to Parliament for it. Article 7 lets the minister set up technical committees that include civil society and private sector members.",
+    "Articles 11 to 14 require every urban area to be split into zones with set uses: residential, commercial, industrial, transport, recreation, mixed use, conservation and special use. The Authority must publish a zoning map and prepare a master plan, which the ministry approves.",
+    "Articles 16 to 22 require a development permit from the Authority. An application must include environmental, social, economic, transport, critical infrastructure and utility assessment reports. The Authority must consult councils and agencies, giving them at least 15 days, and open the plan for public comment. It must tell the applicant its decision within 14 days and publish a report. A permit lapses if work has not started within 2 years.",
+    "Articles 31 to 38 set out enforcement: warning notices, compliance notices, stop-work notices and fines. Article 37 sets the fine at 1% of the project's value for projects over MVR 20 million, or MVR 100,000 for smaller ones, plus up to MVR 1,000 a day while the breach continues. Officers may inspect sites after 48 hours' notice. Entering a home needs the owner's consent or a court order.",
+    "Articles 39 to 45 let anyone with an interest complain to the Authority within 30 days, for example over a refused permit, extra conditions or a notice. Decisions can be reviewed by a committee at the ministry and then taken to court within 30 days. Article 29 bars development that harms protected areas, heritage sites or natural open space. The law takes effect 6 months after it is published in the Government Gazette (Article 50), and the ministry must make regulations within 3 months (Article 49)."
   ],
-  "whoIsAffected": "Likely government planning bodies and people who own, build or live in towns and islands, but this is not clear from the pages read.",
-  "statedReasons": "A short explanatory note is printed on page 2. It could not be read reliably, so its stated reasons are not given here.",
+  "whoIsAffected": "Developers and contractors working on government-assigned urban development projects, city, island and atoll councils, residents of and near declared urban areas, and the ministry responsible for urban development.",
+  "statedReasons": "The government says the bill sets up a legal framework to declare urban areas and their zones and land uses, set basic standards for developing them, and set rules for monitoring development projects and taking action.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 52,
   "pagesTotal": 52,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }
