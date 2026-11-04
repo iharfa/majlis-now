@@ -1,21 +1,21 @@
 {
   "workId": "1679",
-  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ދާއިރާތައް ލާމަރުކަޒީ އުސޫލުން ހިންގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Decentralization Act (Act No. 7/2010), the law that sets up and runs the island, atoll and city councils. It is very short. It makes the same kind of change in four places, Articles 15, 29, 45 and 56-6. In each one, a time limit of 365 days is replaced by 548 days. That is roughly 12 months becoming roughly 18 months. The scans make clear what the numbers are, but not fully which council step the time limit applies to.",
-  "whyItMatters": "A time limit in the Act that runs for one year would run for about 18 months instead, which changes how long council members and residents live with that rule.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ދާއިރާތައް ލާމަރުކަޒީ އުޞޫލުން ހިންގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill, presented by the Hoarafushi MP Ali Moosa, amends the Decentralization Act (Act No. 7/2010), the law that sets up local councils. It changes the rules for filling seats that become empty partway through a council's term. Under the current law, if a council president's or member's seat falls vacant with 365 days or less left in the council's term, holding an election for it is not required. The bill raises that cut-off to 548 days (about 18 months) and makes it a ban: no by-election may be held for the seat, except in the situation described in Article 29(d). The same change applies to members of women's development committees.",
+  "whyItMatters": "Seats on local councils and women's development committees that fall empty in the last 18 months of a term would stay empty instead of going to a by-election, so voters in those areas would not elect a replacement.",
   "keyProvisions": [
-    "Clause 1 amends Article 15(a), replacing 365 days with 548 days.",
-    "Clause 2 amends Article 29(a) in the same way, and clause 3 does the same to Article 45(a).",
-    "Clause 4 amends Article 56-6(1-a), again replacing 365 days with 548 days.",
-    "The comparison table at the back shows the old and new wording side by side. The only difference in each row is the number of days.",
-    "Clause 5 says the amendment takes effect once the President ratifies it and it is published in the Government Gazette."
+    "Clause 1 amends Article 15(c): if a council president's post falls vacant with 548 days or less left in the council's term, no one may be elected to it, except in the situation set out in Article 29(d). The current limit is 365 days, and an election is only 'not required'.",
+    "Clause 2 amends Article 29(c) in the same way for council members' seats, with the exception in Article 29(d).",
+    "Clause 3 amends Article 45(c) in the same way for council members' seats, with the exception in Article 45(d).",
+    "Clause 4 amends Article 56-6(a-1) in the same way for members of women's development committees, with the exception in Article 56-6(a-2).",
+    "Clause 5 says the law takes effect once it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "Members and leaders of local councils under the Decentralization Act, and residents of the islands, atolls and cities they serve.",
-  "statedReasons": "The explanatory note describes the reason for extending the time limit in the councils' work under Act No. 7/2010, but the scan is too unclear to quote the reasoning reliably.",
+  "whoIsAffected": "Local councils and women's development committees, people who would run in council by-elections, voters in areas with vacant seats, and the body that runs by-elections.",
+  "statedReasons": "The government says more and more council seats are falling vacant during councils' terms, forcing frequent by-elections and rising costs, and wants to avoid holding many by-elections when councils are close to the end of their term.",
+  "sourceDoc": "Bill",
   "pagesRead": 7,
   "pagesTotal": 7,
-  "confidence": "Medium",
-  "sourceDoc": "Bill",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

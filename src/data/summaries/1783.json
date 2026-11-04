@@ -1,22 +1,22 @@
 {
-  "titleDv": "ޤާނޫނު ނަންބަރު 24/2014 (ސްޕެޝަލް އިކޮނޮމިކް ޒޯން ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Special Economic Zone Act (Law No. 24/2014). It adds a new category of very large investment project, with a minimum investment of US$500,000,000, and sets special rules for it. It adds new Articles 17-1, 22-1, 70-1 and 70-2 and a new chapter, and changes Articles 9, 20, 73 and 82. Article 70-2 sets step-by-step percentage rates, including 5% for the first 10 years and 10% for years 11 to 20, after which the Income Tax Act (Law No. 25/2019) applies. Some terms in the scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "A project that invests at least US$500 million could get its own approval route and a different tax schedule from other businesses in special economic zones.",
+  "workId": "1783",
+  "titleDv": "ޤާނޫނު ނަންބަރު 24/2014 (ސްޕެޝަލް އިކޮނޮމިކް ޒޯންގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Special Economic Zone Act (Law No. 24/2014) to create a new type of zone called a \"sustainable township\" (new Article 17-1). A sustainable township is a residential area under one management, with mixed-use real estate and/or integrated tourism, plus homes, services and public facilities. A new chapter (Articles 70-1 and 70-2) says a permit is only given if the investment is at least US$500 million and the zone includes luxury tourism or luxury housing, an international hospitality training centre or health centre, at least 60% renewable energy, and food production facilities. It sets a fixed list of tax breaks for these zones, including a 5% business income tax for the first 10 years, and adds a freehold transfer tax on long-term strata leases of villas and rooms (Article 22-1).",
+  "whyItMatters": "Developers investing US$500 million or more could build large resort-style towns where villas and rooms are sold or leased long term, paying lower taxes than normal for up to 20 years. People who buy villas or rooms in these zones would pay a transfer tax through the seller.",
   "keyProvisions": [
-    "Article 9 is amended and a new Article 17-1 is added to introduce the new project category.",
-    "Article 70-1 sets conditions for qualifying, including a minimum investment of US$500,000,000, with some steps that have a 60 day deadline.",
-    "Article 70-2(1) sets percentage rates of 1%, 2% and 4% in three tiers; the scans do not make clear what they are charged on.",
-    "Article 70-2(2) sets 5% for the first 10 years, 10% for years 11 to 20, and from year 21 the Income Tax Act (Law No. 25/2019) applies.",
-    "Articles 20, 22-1, 73 and 79 are amended to link the new category into the existing law, and Article 79 also touches Laws 11/2024 and 5/2011 in the comparison table.",
-    "Article 82 adds a definition of the new project type based on the US$500,000,000 threshold. Regulations must be made within 6 months."
+    "Article 17-1 defines a \"sustainable township\" and Article 20 adds it as a new zone type (20(v)); Article 9 is updated to cover zone types up to Article 17-1.",
+    "Article 22-1 adds a freehold transfer tax of 4% on long-term strata leases of villas or rooms in a zone, collected by the seller from the buyer and paid to the Maldives Inland Revenue Authority.",
+    "Article 70-1 lists permit conditions: at least US$500,000,000 invested, a luxury integrated tourism or mixed-use development, an international hospitality training centre or health centre, at least 60% of the zone's energy from renewables, and farming or aquaculture facilities.",
+    "Article 70-2 says these zones get only the benefits listed there: freehold transfer tax of 1%, then 2%, then 4% for later periods; business income tax of 5% for years 1 to 10, 10% for years 11 to 20, and the normal Income Tax Act (Law No. 25/2019) rate from year 21.",
+    "Article 70-2 also exempts developers from income tax on profits from selling residential villas or rooms, and exempts imported capital goods for building the zone from import duty; the general benefits under Article 23 do not apply.",
+    "Article 82 adds definitions of luxury real estate and luxury integrated tourism developments (each at least US$500 million); Article 79 updates references to the Foreign Investment Act (Law No. 11/2024) and the Income Tax Act (Law No. 25/2019); regulations are due within 6 months."
   ],
-  "whoIsAffected": "Large foreign and local investors, businesses in special economic zones, and the government agencies that approve zones and collect tax.",
-  "statedReasons": "The explanatory note says the bill amends the Special Economic Zone Act to make it easier to bring in large investment. Some of the wording was hard to read.",
+  "whoIsAffected": "Large investors and developers, buyers or long-term leaseholders of villas and rooms in these zones, and the Maldives Inland Revenue Authority.",
+  "statedReasons": "The explanatory note says the government is proposing the bill to allow special economic zones to be set up as sustainable townships, and to set the conditions and rules for those zones.",
+  "sourceDoc": "Bill",
   "pagesRead": 12,
   "pagesTotal": 12,
-  "confidence": "Medium",
-  "workId": "1783",
-  "sourceDoc": "Bill",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

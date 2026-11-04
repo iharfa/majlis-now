@@ -1,22 +1,22 @@
 {
   "workId": "1536",
-  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމް ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Tourism Act (Law No. 2/99). Its main change is in Article 35, which sets the daily tax charged per tourist by type of facility. For one group of facilities (resorts and similar) the rate would double from 6 to 12 US dollars from 1 January 2025. For another group (including guesthouses and vessels) it would double from 3 to 6 dollars. It also removes item (2) of Article 5(c), rewrites Article 5(d) and changes or repeals some other paragraphs of Article 35. The tables and comparison pages are hard to read, so some details are uncertain.",
-  "whyItMatters": "Tourists staying at resorts, guesthouses and similar places would be charged more per day from 2025, which could raise prices and government income.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/99 (ދިވެހިރާއްޖޭގެ ޓޫރިޒަމްގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Tourism Act (Law No. 2/99). It doubles the daily green tax paid by tourists from 1 January 2025: from 6 to 12 US dollars per person per day at resorts, hotels, guesthouses, tourist vessels and similar places, and from 3 to 6 dollars at hotels and guesthouses on inhabited islands with 50 rooms or fewer. From 2025, children under 2 years old would not pay the green tax. The bill also removes the requirement to get permission from the President's Office before leasing an island, land or lagoon for tourism, and changes the yearly list of tourism sites so that it is drawn up with the President rather than the President's Office. It deletes three older paragraphs of Article 35 (e, f and g) on the earlier tax rules and their collection.",
+  "whyItMatters": "Tourists staying in the Maldives would pay twice as much green tax per day from 2025, and the government estimates this brings in about MVR 963.6 million more in 2025.",
   "keyProvisions": [
-    "Clause 1 deletes item (2) of Article 5(c).",
-    "Clause 2 replaces Article 5(d), a paragraph that appears to deal with leases of tourism land. The detail could not be read reliably.",
-    "Clause 3 replaces Article 35(a): from 1 January 2023 to 31 December 2024 the rate is 6 US dollars per day, and from 1 January 2025 it is 12 US dollars.",
-    "Clause 3 also adds Article 35(b) for a second group of facilities (a figure of 50 appears in the text): 3 US dollars per day until 31 December 2024 and 6 US dollars from 1 January 2025.",
-    "Clause 4 replaces another paragraph of Article 35 with a new rule that includes a 2 US dollar figure from 1 January 2025. Clause 5 repeals some other paragraphs of Article 35. The exact scope of both is uncertain.",
-    "The financial note says the bill takes effect on 1 January 2025 and estimates extra income of MVR 963.6 million in 2025, MVR 1,198.5 million in 2026 and MVR 1,272.3 million in 2027."
+    "Clause 1 deletes Article 5(a)(2), which required permission from the President's Office before an island, land or lagoon is leased for tourism.",
+    "Clause 2 rewrites a paragraph of Article 5 (paragraph ގ): the Tourism Ministry must publish each financial year's list of islands, land and lagoons to be released for tourism, in consultation with the President, and may change the list with the President's approval (previously the President's Office).",
+    "Clause 3 rewrites Article 35(b): tourists at resorts, integrated resorts, resort hotels, hotels, guesthouses, tourist vessels and similar places pay a green tax of 6 US dollars per person per day from 1 January 2023 to 31 December 2024, and 12 US dollars from 1 January 2025.",
+    "Clause 3 also rewrites Article 35(c): at hotels and guesthouses on inhabited islands with 50 or fewer registered rooms, the rate is 3 US dollars per day until 31 December 2024 and 6 US dollars from 1 January 2025.",
+    "Clause 4 replaces Article 35(d) so that from 1 January 2025 children under 2 years old are exempt from the green tax; Clause 5 deletes Article 35(e), (f) and (g).",
+    "Regulations under the Tourism Act must be amended and published in the Gazette within 30 days of the law taking effect, and the law takes effect when it is published in the Gazette."
   ],
-  "whoIsAffected": "Tourists, resort and guesthouse operators, and the Tourism Ministry.",
-  "statedReasons": "The explanatory note is too hard to read in full. The financial note estimates extra income of MVR 963.6 million in 2025.",
+  "whoIsAffected": "Tourists, resort, hotel, guesthouse and tourist vessel operators, the Tourism Ministry and the President's Office.",
+  "statedReasons": "The government says the bill changes the rules for leasing islands, land and lagoons for tourism and raises the green tax. The cost estimate says the aim is to strengthen the state's fiscal and debt sustainability and increase foreign-currency income, estimating extra income of MVR 963.6 million in 2025, MVR 1,198.5 million in 2026 and MVR 1,272.3 million in 2027.",
   "sourceDoc": "Bill",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14",
-  "pagesRead": 12,
+  "pagesRead": 13,
   "pagesTotal": 13,
-  "confidence": "Medium"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

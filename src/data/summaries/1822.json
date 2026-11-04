@@ -1,21 +1,22 @@
 {
   "workId": "1822",
-  "titleDv": "ޤާނޫނު ނަންބަރު 30/2024 (ދައުލަތުގެ ފިސްކަލް ޒިންމާދާރުކަމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Fiscal Responsibility Act (Act No. 30/2024). It changes two deadlines in the Act from 6 months to 24 months after the Act took effect: the one in Article 39(a), which refers to Articles 7 and 11, and the one in Article 41. It also deletes Article 39(s), which contained an 18-month period, and adds new paragraphs to Article 39 that refer back to the time set in paragraph (a) and to Article 12. The bill comes with a table setting the current text beside the amended text. Some scans are hard to read, so what Articles 7, 11 and 12 cover could not be confirmed.",
-  "whyItMatters": "The time allowed for the work the Fiscal Responsibility Act requires would become four times longer, so those requirements would be met later than the Act now says.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 30/2024 (ދައުލަތުގެ ފިސްކަލް ޒިންމާގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill, presented by the Huraa MP, amends the Fiscal Responsibility Act (Act No. 30/2024). It extends the deadline for drawing up, approving and publishing the first Fiscal Responsibility Charter from 6 months to 24 months after the Act took effect, and does the same for the deadline for the Minister to make and publish the Act's regulations. It removes Article 39(b), which defined when a reporting cycle counts as having started (after its first 18 months). It also adds two paragraphs saying that, within that 24-month period, the charter-related duties under the Act and Article 12 of the Act do not have to be complied with.",
+  "whyItMatters": "The government would have up to two years from the Act's start, instead of six months, to adopt the first fiscal responsibility charter and the Act's regulations, and some of the Act's duties would not apply during that time.",
   "keyProvisions": [
-    "Clause 1 replaces Article 39(a). The comparison table shows the period changing from 6 (six) months to 24 (twenty-four) months from when the Act took effect.",
-    "Clause 2 deletes Article 39(s). The current text of that paragraph contains an 18 (eighteen) month period.",
-    "Clause 3 adds new paragraphs to Article 39. They refer to the period in paragraph (a) and to Article 12; their exact effect could not be read reliably.",
-    "Clause 4 replaces Article 41, again changing the period from 6 (six) months to 24 (twenty-four) months after the Act took effect.",
-    "Clause 5 says the amendment takes effect when the President ratifies it."
+    "Clause 1 rewrites Article 39(a): the first Fiscal Responsibility Charter under Article 7 must be drawn up, approved as set out in Article 11 and published in the Government Gazette within 24 months of the Act taking effect, instead of 6 months.",
+    "Clause 2 repeals Article 39(b), which said a reporting cycle counts as having started once its first 18 months have passed.",
+    "Clause 3 adds Article 39(bh): despite anything in this or any other law, there is no obligation, during the period in paragraph (a), to comply with anything that must be done under the Act in connection with drawing up the charter.",
+    "Clause 3 also adds Article 39(lh): Article 12 of the Act does not have to be complied with during the period in paragraph (a).",
+    "Clause 4 rewrites Article 41 so that the Minister must make and publish the regulations required under the Act within 24 months of the Act taking effect, instead of 6 months.",
+    "Clause 5 says the amendment takes effect once it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "The Ministry of Finance and other government bodies that must meet the Act's deadlines, and anyone relying on the fiscal rules the Act sets.",
-  "statedReasons": "The short explanatory note appears to say the bill changes time limits set in the Fiscal Responsibility Act, but the scan is hard to read.",
+  "whoIsAffected": "The Minister of Finance and government bodies responsible for the fiscal responsibility charter and regulations, and the public who rely on the fiscal rules the Act sets.",
+  "statedReasons": "The government says the bill is needed to resolve difficulties in drawing up the State's Fiscal Responsibility Charter required by Act No. 30/2024 and to review the principles for drawing it up.",
   "sourceDoc": "Bill",
   "pagesRead": 6,
   "pagesTotal": 6,
-  "confidence": "Medium",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

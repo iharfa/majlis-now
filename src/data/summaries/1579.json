@@ -1,22 +1,22 @@
 {
   "workId": "1579",
-  "titleDv": "ޤާނޫނު ނަންބަރު 17/2011 (މަސްތުވާތަކެތީގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Drug Act (Law No. 17/2011). It amends Article 2 and adds new Articles 3-1 to 3-4, which set up a way of sorting drugs into numbered schedules (Schedules 1 to 4) and listing or de-listing substances, including a temporary listing process with time limits. It then changes or adds definitions in Articles 5, 6, 7, 9 and 10, and adds new Articles 5-1, 10-1 and 10-2. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 145 pages.",
-  "whyItMatters": "What counts as a controlled drug, and so what is an offence, depends on these schedules, so changes here decide which substances people can be charged over.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 17/2011 (މަސްތުވާތަކެއްޗާބެހޭ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill makes more than 90 changes to the Drug Act (Law No. 17/2011). It sets up four drug schedules, including a temporary Schedule 4 for new substances, with Majlis approval needed for listing changes. It adds new crimes, such as running a place where people use drugs, financing the drug trade and holding prescription drugs without a prescription, and raises some prison terms. It gives police and customs new powers over boats, travellers, controlled deliveries and drug-use premises, and lets courts freeze and confiscate drug money, in trafficking cases even without a conviction. It also rewrites the treatment system and the Drug Court's duties.",
+  "whyItMatters": "Which substances are illegal, how long people can be jailed, and what property the state can take would all change. People with a drug dependency would be steered more toward treatment through the Drug Court and new community, outpatient and residential services.",
   "keyProvisions": [
-    "Clause 1 amends Article 2 of the Act. The explanatory note in the bill lists seven bullet points on the reasons for the changes.",
-    "New Article 3-1 sets out when a substance can be treated as a drug, with several alternative conditions.",
-    "New Articles 3-2 and 3-3 define Schedules 1, 2, 3 and 4 and how substances are added to or moved between them.",
-    "New Article 3-4 covers temporary listing of a substance. Time limits of 14 days and 30 days appear in the process.",
-    "Clauses 3 to 9 insert or rewrite definitions in Articles 5 to 10, including new Articles 5-1, 10-1 and 10-2.",
-    "The offences and penalties that follow from these schedules are in later pages and were not rendered."
+    "New Articles 3-2 to 3-4 create Schedules 1 to 4. Changes to Schedules 1 to 3 are made by a presidential decree after advice from the National Drug Control Council and a Cabinet decision, and need Majlis approval within 14 days. The minister can list a new substance in Schedule 4 for up to 12 months, but must send it to the Majlis within 14 days, which decides within 30 days.",
+    "New offences: holding a Schedule 2 (medical) drug without a prescription carries 3 years and a MVR 10,000 fine (Article 122-1). Running a place where people use drugs carries 5 years and MVR 50,000 to 100,000 (Article 128-1). Providing a place for drug dealing or trafficking, or financing the drug trade, carries 20 years and MVR 200,000 to 1,000,000 (Articles 128-1 and 128-2). The penalty in Article 124(b) rises to 10 to 15 years.",
+    "Police can stop, board and search boats, question and sample people on board, and confiscate a boat found carrying drugs (Article 151 and new Articles 153-1 to 153-6). Customs can further search travellers after X-ray screening (Article 151-1). Police can close a drug-use place for 24 hours by notice, or up to 3 months by court order (Article 156-2).",
+    "Controlled deliveries and undercover operations need written permission from senior police (Articles 154 and 155), and police must report their numbers to the Majlis security services committee every year (Article 156-1).",
+    "Courts can freeze money and property linked to drug crimes (Article 157-1) and order it confiscated (Article 161). In trafficking cases, property can be confiscated even without a conviction if the accused has a criminal record and cannot prove it was lawfully obtained, decided on the civil standard (Article 161-1).",
+    "Article 47 is rewritten so the government must provide community-based screening, outpatient and residential treatment, with residential sections for women and children, and Article 48 is repealed. People held in police custody or remand must get detox treatment (Article 103). The Drug Court must publish a yearly report (Article 46), and the Prosecutor General must give priority to letting eligible people finish treatment (Article 60)."
   ],
-  "whoIsAffected": "People who use, carry, sell or prescribe drugs, health workers, and the police and courts who apply the Act.",
-  "statedReasons": "The explanatory note lists seven points on why the Drug Act is being amended, including how drugs are defined and sorted. The exact wording could not be read reliably.",
+  "whoIsAffected": "People who use, carry, sell or finance drugs, owners of premises and boats, travellers, and the police, customs, courts and treatment centres who apply the Act.",
+  "statedReasons": "The government says drug trafficking, possession and drug-related crime are growing, so it wants to give law enforcement special powers, add offences and penalties, control new substances, strengthen treatment and review how the Drug Court and its treatment programme work.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 145,
   "pagesTotal": 145,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

@@ -1,18 +1,19 @@
 {
   "workId": "1803",
-  "titleDv": "ޤާނޫނު ނަންބަރު 1/2013 (ސުލްހަވެރިކޮށް އެއްވެ ޖަމާވުމުގެ ޙުރިއްޔާގެ ޤާނޫނު) އުވާލުމުގެ ބިލު",
-  "summary": "This bill would repeal the Freedom of Peaceful Assembly Act (Act No. 1/2013) in full. It has two clauses: the first repeals the Act, and the second covers when the repeal takes effect, apparently once the President ratifies it. It contains no replacement law. The explanatory note is hard to read in places. The bill was rejected by a vote, so the 2013 Act stays in force.",
-  "whyItMatters": "The bill would have removed the law on the freedom of peaceful assembly without putting another in its place, but since it was rejected nothing changes.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 1/2013 (ސުލްޙަވެރިކަމާއެކު އެއްވެއްޖުމުގެ މިނިވަންކަމުގެ ޤާނޫނު) އުވާލުމުގެ ބިލު",
+  "summary": "This member's bill would repeal the Freedom of Peaceful Assembly Act (Law No. 1/2013) in full. It has two clauses: the first abolishes the 2013 Act once the new law starts, and the second says the repeal starts on the date it is published in the Government Gazette after being passed and ratified. It does not put any replacement law in place. The bill was rejected by a vote, so the 2013 Act stays in force.",
+  "whyItMatters": "If passed, there would no longer be a dedicated law setting rules for protests and public gatherings, leaving assemblies governed by the Constitution and other laws. Because the bill was rejected, the current assembly rules remain unchanged.",
   "keyProvisions": [
-    "Clause 1 repeals Act No. 1/2013 (the Freedom of Peaceful Assembly Act).",
-    "Clause 2 is the start-date clause, which appears to make the repeal take effect on ratification by the President."
+    "Clause 1 states that Law No. 1/2013 (the Freedom of Peaceful Assembly Act) is abolished when this law comes into force.",
+    "Clause 2 says the law takes effect from the date it is published in the Government Gazette after being passed by Parliament and ratified.",
+    "The bill contains no replacement rules, transitional provisions or amendments to other laws."
   ],
-  "whoIsAffected": "Anyone who organises or takes part in public gatherings and protests, and the authorities who oversee them.",
-  "statedReasons": "The note cites Article 32 of the Constitution and Act No. 1/2013 and presents this bill as the way to repeal that Act. The rest of the note is too hard to read to summarise reliably.",
+  "whoIsAffected": "People who organise or join protests and public gatherings, and the police who oversee them.",
+  "statedReasons": "The note says Article 32 of the Constitution gives everyone the right to assemble peacefully without prior state permission, but Law No. 1/2013 obstructs that right. It argues the Act is no longer needed because other laws already give the police the powers required to keep public safety and order.",
+  "sourceDoc": "Bill",
   "pagesRead": 3,
   "pagesTotal": 3,
-  "confidence": "Medium",
-  "sourceDoc": "Bill",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

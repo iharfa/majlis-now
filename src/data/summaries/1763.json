@@ -1,22 +1,22 @@
 {
   "workId": "1763",
-  "titleDv": "ޤާނޫނު ނަންބަރު 3/2013 (ދައުލަތުގެ ވިޔަފާރިތައް ޚާއްސަ ކުރުމާއި ކޯޕަރޭޓް ކުރުމާއި ބެލެހެއްޓުމާއި ތަޙްލީލު ކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Privatization and Corporatization, Monitoring and Evaluation of Government Businesses Act (Law No. 3/2013). It adds a new sub-article after an existing paragraph of Article 12. The new provision deals with performance reports of state-owned businesses, including a time limit of 90 days and another of 30 days, and a fine of MVR 5,000 for breaking the rules. The scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "If passed, state-owned companies would face a clear duty and deadlines to report on their performance, and a fine if they do not, so the public could see how government businesses are doing.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 3/2013 (ދައުލަތުގެ ވިޔަފާރި ތަންތަން ޕްރައިވެޓައިޒްކުރުމާއި ކޯޕަރޭޓައިޒްކުރުމާއި އަދި މޮނިޓަރކޮށް އިވެލުއޭޓްކުރުމުގެ ޤާނޫނު) އަށް .... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This member's bill amends the Privatization and Corporatization, Monitoring and Evaluation of Government Businesses Act (Law No. 3/2013). It gives the board set up under that law the power to require the chairperson, CEO, managing director and deputy managing director of state-owned companies, companies the government has a stake in, and government entities run on business lines to declare their assets and finances. They would file a declaration within 30 days of taking office and then an auditor-verified declaration every year. The board would publish these declarations, and anyone who does not comply could be fined MVR 5,000.",
+  "whyItMatters": "The top bosses of state-owned companies would have to disclose their wealth, business interests and debts, and the public would be able to see those declarations.",
   "keyProvisions": [
-    "Clause 1 adds a new sub-article to Article 12 of the Act, numbered as a '-1' paragraph after an existing paragraph.",
-    "Sub-article (1) sets out a duty for government businesses connected to a performance report, with a period of 1 year mentioned.",
-    "Sub-article (2) sets a time limit of 90 days.",
-    "Sub-article (3) sets a shorter time limit of 30 days.",
-    "Sub-article (4) says that failing to comply with (1) to (3) can be punished with a fine of MVR 5,000.",
-    "Clause 2 is a short commencement clause, saying when the amendment takes effect once it is ratified and published."
+    "Clause 1 adds a new paragraph (ޏ-1) after paragraph (ޏ) of Article 12, letting the board ask the chairperson, CEO, managing director and deputy managing director of government companies, government-part-owned companies and government entities run commercially to submit asset and financial declarations, and to publish them.",
+    "Sub-paragraph (1): these office holders must submit a declaration of their assets and finances once a year, verified by an auditor licensed by the Institute of Chartered Accountants of the Maldives. Each year is counted from the date they took up the post.",
+    "Sub-paragraph (2): each annual declaration is due within 90 days after the end of that one-year period.",
+    "Sub-paragraph (3): on taking up the post, each office holder must declare the property, money, business interests and debts they hold as of that day, within 30 days.",
+    "Sub-paragraph (4): anyone who breaches an order under sub-paragraphs (1) or (3) can be fined MVR 5,000.",
+    "Clause 2: the amendment takes effect when it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "State-owned companies and the people who run them, the bodies that oversee them, and citizens who want to track how public money is used.",
-  "statedReasons": "The explanatory note refers to performance reports of government businesses and to transparency and accountability.",
+  "whoIsAffected": "Chairpersons, CEOs, managing directors and deputy managing directors of state-owned and government-part-owned companies, the board that oversees them, and members of the public who follow how state companies are run.",
+  "statedReasons": "The sponsor says the law already requires state companies to publish audits, annual reports and performance reports but not their heads' asset declarations, and since these companies run major state projects and manage key state assets, their heads should be held accountable and transparent like other state office holders.",
   "sourceDoc": "Bill",
   "pagesRead": 4,
   "pagesTotal": 4,
-  "confidence": "Medium",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

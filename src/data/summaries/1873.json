@@ -1,22 +1,22 @@
 {
   "workId": "1873",
-  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ދާއިރާތައް ލާމަރުކަޒީ އުސޫލުން ހިންގުމުގެ ޤާނޫނު) އަށް 18 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This amendment to the Decentralization Act changes how staff are hired and paid at the 'Authority' set up under Article 61. Its staff become civil servants, hired and dismissed by the Civil Service Commission, and its chief executive takes on staff management duties. It also changes council funding: before money is paid to councils under Article 79, any fines a council owes the state are deducted. So are council bills for electricity, water, sewerage or waste left unpaid for 6 months.",
-  "whyItMatters": "Councils that fall behind on utility bills or fines would get less money from the government. That could affect which services they can afford to run on the islands.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2010 (ދިވެހިރާއްޖޭގެ އިދާރީ ދާއިރާތައް ލާމަރުކަޒީ އުސޫލުން ހިންގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Decentralization Act (Law No. 7/2010). It makes the staff of the Local Government Authority, the body that oversees island and city councils, civil servants, hired and dismissed by the Civil Service Commission instead of the Authority's board. The Authority's chief executive officer would draft the staff structure, the Civil Service Commission would approve it, and the National Pay Commission would set pay. The bill also adds waste management to the list of public services in Article 69-1(a).",
+  "whyItMatters": "Local Government Authority staff would move into the civil service, with pay set by the National Pay Commission. Waste management would be listed alongside the other services named in Article 69-1(a).",
   "keyProvisions": [
-    "Repeals one sub-clause of Article 61",
-    "New Article 61-3: the Authority's staff are appointed and dismissed by the Civil Service Commission on the Authority's advice, and come under the Civil Service Act (5/2007) and its regulations",
-    "The chief executive officer drafts the staff structure on the board's advice and the Civil Service Commission approves it; the National Pay Commission sets salaries and allowances under the State Wage Policy Act (11/2016)",
-    "For staff matters, the chief executive officer takes on the role that Article 63 of the Civil Service Act gives to another official",
-    "Amended Article 79(n): before revenue is released to councils, any fines the council owes the state are deducted, along with charges for electricity, water, sewerage and waste services left unpaid for 6 months",
-    "Transitional deadlines: staff structure submitted within 30 days, approved within 15 days, pay set within 30 days, and staff placed in posts within 60 days"
+    "Repeals Article 61(lh), which gave the Authority's board the power to appoint and dismiss staff.",
+    "New Article 61-3(a) and (b): the Civil Service Commission appoints and dismisses the Authority's staff on the chief executive officer's advice, and the chief executive officer takes the role of the responsible senior official under Article 63 of the Civil Service Act (5/2007) for all staff matters.",
+    "New Article 61-3(c) to (e): the chief executive officer drafts a structure of posts, grades and duties on the board's advice, the Civil Service Commission approves it, and the National Pay Commission sets salaries and allowances under the State Wage Policy Act (11/2016).",
+    "Adds waste management services as item (4) under Article 69-1(a).",
+    "Transitional deadlines: the Authority submits the staff structure within 30 days of the law taking effect, the Commission approves it within 15 days, pay is set within 30 days after that, and staff are moved into the new posts within 60 days of pay being set.",
+    "The law takes effect when published in the Government Gazette."
   ],
-  "whoIsAffected": "Staff of the Authority under the Decentralization Act, island and city councils, and the utility and waste companies that bill councils.",
-  "statedReasons": "",
-  "sourceDoc": "Final Bill",
-  "pagesRead": 3,
-  "pagesTotal": 3,
-  "confidence": "Medium",
+  "whoIsAffected": "Staff of the Local Government Authority, the Civil Service Commission and National Pay Commission, and island and city councils that provide public services.",
+  "statedReasons": "The government says the bill makes Local Government Authority staff civil servants to strengthen how the Authority is run, and lets councils run waste management as one of the public services they provide.",
+  "sourceDoc": "Bill",
+  "pagesRead": 6,
+  "pagesTotal": 6,
+  "confidence": "High",
   "model": "claude-opus-5-5",
-  "generatedAt": "2026-10-06"
+  "generatedAt": "2026-11-01"
 }

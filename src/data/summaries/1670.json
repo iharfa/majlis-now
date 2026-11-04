@@ -1,21 +1,22 @@
 {
   "workId": "1670",
-  "titleDv": "ދިވެހިރާއްޖޭގެ ސިވިލް އެވިއޭޝަން ޤާނޫނުގެ ބިލު",
-  "summary": "This is a full new Civil Aviation law for the Maldives, not an amendment. The scans read are the cover, the explanatory note, the table of contents and the first four articles of a 129-page bill. The table of contents lists 106 articles grouped into 13 parts. The explanatory note mentions Act No. 2/2001 on civil aviation, which this bill appears to replace. Articles 1 to 4 cover the short title and start date, the purpose, where the law applies and a fourth opening article. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 129 pages.",
-  "whyItMatters": "If passed it would become the main law for civil aviation in the Maldives, which matters to airlines, airports, aviation workers and travellers, but most of its rules are in pages not read here.",
+  "titleDv": "ދިވެހިރާއްޖޭގެ މަދަނީ ވައިގެ ދަތުރުފަތުރުގެ ބިލު",
+  "summary": "This government bill is a full new Civil Aviation Act that would repeal and replace the current law, Law No. 2/2001 (Article 105). It has 106 articles in 13 chapters covering airports and aerodromes, aircraft registration and airworthiness, airline certificates and licences, air navigation, aviation safety and security, accident investigation, inspections, penalties and appeals. The Ministry sets aviation policy and the Maldives Civil Aviation Authority (set up under Law No. 2/2012) licenses, inspects and enforces, in line with the Chicago Convention and ICAO standards. It creates a separate Maldives Air Accident Investigation Agency under the Ministry. Military, police and customs aviation is mostly left out. The law would take effect 12 months after it is published in the Government Gazette (Article 104). A few passages in the scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "Every airline, airport, aerodrome, pilot, air traffic controller, engineer and cabin crew member in the Maldives would need licences under the new rules, and breaking them could bring fines of up to MVR 5 million or 4% of a company's yearly turnover. Passengers get a national accident-victim assistance plan and a separate body to investigate air accidents.",
   "keyProvisions": [
-    "The bill has 106 articles in 13 parts. Part 1 is the introduction (Articles 1 to 4), and Part 13 (Articles 102 to 106) is the closing part.",
-    "Article 1 gives the short title and start date. Article 2 sets out the purpose in a list of lettered points, and Article 3 covers where the law applies.",
-    "Article 4 sets responsibilities, though the scan is too unclear to say whose.",
-    "Article 9 is headed with '83 bis', which is the name of a provision in the international Chicago aviation convention.",
-    "The later parts, which were not read, run from Article 11 to Article 106 and take up most of the bill."
+    "Airports: the President designates where civil airports may be built, following a national airport master plan that is reviewed every 5 years (Articles 11 and 12). A 5-member Airport Development Coordination Council, set up by the Minister within 60 days, advises on and monitors airport development (Article 13). Running an airport needs an Authority operating permit and an agreement with the Ministry, and transferring that permit needs Ministry approval (Articles 15 to 17).",
+    "Aerodromes: building or running an aerodrome needs an Authority permit, and aircraft may take off and land only at permitted aerodromes unless the Authority allows otherwise (Articles 23 to 25). The Authority sets safety zones around aerodromes that limit buildings, trees, lights and smoke, and can order non-compliant structures to be demolished or fixed (Article 26).",
+    "Aircraft and airlines: aircraft registered in the Maldives take Maldivian nationality, with owners limited to Maldivian citizens, Maldivian companies and others living or doing business in the Maldives (Articles 27 to 29). Aircraft need an airworthiness certificate or a permit to fly (Articles 34 and 35). Commercial air services need an Air Operator Certificate and an air carrier licence, with a head office in the Maldives, a 3-year business plan, enough money to cover the first 24 months, insurance, and notice to the Authority of mergers or ownership changes of 10% or more (Articles 36 to 43).",
+    "Safety and security: the Authority must set up a National Civil Aviation Security Programme, a State Safety Programme, an Aviation Safety Plan and a national Accident Victims Assistance Plan, and each airline must have a plan that includes psychological support for victims and families (Articles 59 to 62). Pilots, engineers, air traffic controllers and flight information officers need licences, and cabin crew need an attestation (Article 66). Incident reporting is confidential, and people who report unintentional breaches are protected from criminal prosecution (Articles 64 and 65).",
+    "Accident investigation: the bill creates the Maldives Air Accident Investigation Agency under the Ministry, with financial and operational independence. It has a Chief Executive Officer and 3 commissioners appointed by the Minister for 5-year terms (Articles 67 to 71). Its investigators can seize flight recorders and other evidence, and cockpit voice recordings and witness statements must be used only for the investigation (Articles 76 and 77). Final reports must be published (Article 79).",
+    "Penalties: operating without a required permit carries a fine of MVR 50,000 to 500,000, altering a certificate MVR 5,000 to 50,000, and flying in a way that endangers life or body MVR 500,000 to 5,000,000 (Article 91). Licensed companies can be fined up to 4% of the previous year's turnover, plus up to 0.5% of average daily turnover per day for ignoring orders (Articles 92 and 96). Other banned acts include working under the influence of intoxicants and smoking on commercial flights (Articles 83 and 84). Authority decisions can be appealed to the Authority within 14 days and then taken to court (Articles 99 to 101)."
   ],
-  "whoIsAffected": "Probably airlines, airports, aviation staff and regulators, though only the opening pages were read.",
-  "statedReasons": "The explanatory note mentions Act No. 2/2001, but the scan is too unclear to state the reasons reliably.",
-  "pagesRead": 12,
-  "pagesTotal": 129,
-  "confidence": "Low",
+  "whoIsAffected": "Airlines, airport and aerodrome operators, aircraft owners, aviation workers, air traffic service providers, people who own property near aerodromes, and air passengers.",
+  "statedReasons": "The government says the bill replaces Law No. 2/2001 with a modern legal framework for running civil aviation, sets safety and security standards in line with international aviation treaties the Maldives has joined, and creates a legal basis for investigating aviation accidents and incidents.",
   "sourceDoc": "Bill",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "pagesRead": 129,
+  "pagesTotal": 129,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

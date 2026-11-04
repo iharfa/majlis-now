@@ -1,22 +1,22 @@
 {
   "workId": "1967",
   "titleDv": "ޤާނޫނު ނަންބަރު 10/2011 (މުދަލާއި ޚިދުމަތުގެ އަގުން ޓެކްސް ނެގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This government bill amends the Goods and Services Tax Act (Law 10/2011). It stops the tourism GST that has applied since 1 October 2026 to inbound tourism services, and related agency or booking services, sold by businesses with no permanent place of business in the Maldives. GST already collected on these services since 1 October 2026 would be paid back. The bill also adds a new rule against GST avoidance, so the tax authority can deal with deals made mainly to get a tax benefit. This summary covers the first 12 of 14 pages, and some details in the scans are hard to read.",
-  "whyItMatters": "Overseas online travel agents and foreign tour operators would no longer charge tourism GST on these services. The government's cost sheet estimates MVR 1,608.5 million in lost revenue.",
+  "summary": "This government bill amends the Goods and Services Tax Act (Law 10/2011). It ends the tourism GST that has applied since 1 October 2026 to inbound tourism products (accommodation, food, transport and other tourist activities in the Maldives) sold by businesses with no permanent place of business in the Maldives, and to agency or booking services linked to them. GST already collected on these sales since 1 October 2026 would be refunded. The bill also adds a new anti-avoidance rule that lets the Commissioner General of MIRA disregard deals made mainly to get a GST benefit and adjust the tax owed.",
+  "whyItMatters": "Overseas online travel agents and foreign tour operators would stop charging Maldives tourism GST on these sales. The government's cost sheet, citing MIRA, puts the lost revenue at MVR 1,608.5 million.",
   "keyProvisions": [
-    "Removes Article 15(h)(6), which taxes inbound tourism services and related agency or booking services supplied by businesses with no permanent place of business in the Maldives. It also removes Article 15(n-1), which started that tax on 1 October 2026. Linked provisions in Articles 5-2, 13, 19 and 37 are repealed, along with a definition in Article 68 that appears to read 'inbound tourism provider'.",
-    "When the amendment takes effect, GST on these services stops. Any GST collected on them since 1 October 2026 must be returned to the person it was collected from, and the supplier has no further duty under the Act for those transactions.",
-    "Adds a new Article 63-1 on GST avoidance. A deal counts as avoidance if someone gets a tax benefit from it and, judged by its substance, getting that benefit was the only or main reason for it. MIRA can then treat the deal as if it did not happen, or by its real substance, and reassess the tax.",
-    "Article 63-1 defines 'tax benefit' broadly, for example paying less GST, claiming more input tax, or paying GST later. Article 19 gets a new item (5), whose wording is only partly readable.",
-    "Article 59-1 is rewritten; it seems to cover registered taxpayers, but the details are hard to read. Regulations must be updated within 90 days, and the amendment takes effect once it is published in the Government Gazette.",
-    "The attached cost sheet, citing MIRA, estimates lost tourism GST of MVR 299.3 million from online travel agents and MVR 1,309.2 million from foreign tour operators, MVR 1,608.5 million in total. The sheet as read does not clearly say what time period this covers."
+    "Removes the provisions added for this tax: the item in Article 15 that makes inbound tourism products from businesses without a permanent place of business in the Maldives taxable, the Article 15 clause that started the tax on 1 October 2026, and linked items in Articles 5-2 and 13. It also repeals the Article 19 pricing rule and the Article 37 bar on input tax for these suppliers, and the definition of 'inbound tourism product' in Article 68.",
+    "Section 11 stops the tax once the amendment takes effect. GST collected on these products since 1 October 2026 must be refunded to the person it was collected from, and suppliers need not complete any further steps under the Act for that period.",
+    "Adds Article 63-1 on GST avoidance. A transaction counts as avoidance if someone got a tax benefit from it and, judged by its substance, getting that benefit was the sole or main reason for it. The Commissioner General may then treat it as unacceptable for tax purposes or void, and change the tax payable, refunds or input tax of any registered person affected, even one who did not take part.",
+    "Article 63-1 defines 'transaction' and 'tax benefit' broadly, including paying less GST, claiming more input tax, getting a refund sooner, paying GST later, or making taxable goods or services look non-taxable.",
+    "Rewrites Article 59-1 so MIRA can order registered persons to hand over information showing whether anyone required to register for GST has done so, not only tourism suppliers. Article 19 also gets a new item (5) covering goods and services sold to persons other than associated persons.",
+    "Regulations must be amended or made and published within 90 days, and the amendment takes effect once it is passed, ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "Overseas online travel agents and foreign tour operators selling Maldives tourism services, the tourists who buy from them, businesses whose deals could be treated as GST avoidance, and state revenue.",
-  "statedReasons": "The government says it wants to stop the tourism GST charged since 1 October 2026 on inbound tourism services provided by businesses with no permanent place of business in the Maldives. It also wants to strengthen action against businesses that avoid paying GST.",
+  "whoIsAffected": "Overseas online travel agents and foreign tour operators selling Maldives tourism services, the tourists who buy from them, GST-registered businesses whose deals could be treated as avoidance, and state revenue.",
+  "statedReasons": "The government says it wants to stop the GST charged since 1 October 2026 on inbound tourism products and related agency or booking services provided by persons without a permanent place of business in the Maldives. It also wants to strengthen the measures MIRA can take against people who avoid GST.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 14,
   "pagesTotal": 14,
-  "confidence": "Medium",
+  "confidence": "High",
   "model": "claude-opus-5-5",
-  "generatedAt": "2026-10-20"
+  "generatedAt": "2026-11-01"
 }
