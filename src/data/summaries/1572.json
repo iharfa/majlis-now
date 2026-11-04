@@ -1,22 +1,22 @@
 {
   "workId": "1572",
-  "titleDv": "ޤާނޫނު ނަންބަރު 30/2015 (ދިވެހިރާއްޖޭގެ ކުޅިވަރު ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Maldives Sports Act (Law No. 30/2015). It changes Articles 1 to 6 and adds new Articles 4-1 and 5-1. It adds numbered lists of kinds of sports bodies and participants, and new provisions about registering clubs, associations or federations that refer to the Associations Act (Law No. 3/2022). This summary covers the first 12 of 80 pages, and the scans are hard to read, so some details are uncertain.",
-  "whyItMatters": "Sports clubs, associations and the people who run or play in them could face new registration and recognition rules under the Act.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 30/2015 (ދިވެހިރާއްޖޭގެ ކުޅިވަރު ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill, presented by the Dhidhdhoo MP, makes a large set of amendments (90 clauses) to the Maldives Sports Act (Law No. 30/2015). It sets out a national sports framework, requires sports federations, associations, clubs and academies to register as associations under the Associations Act (Law No. 3/2022), and gives the sports minister the power to set sports policy. It closes the Maldives Sports Corporation and the Maldives Sports Fund, moving their staff and assets to the sports ministry, and creates a new National Sports Fund run by the National Sports Council. It also changes the Commissioner of Sports and the National Sports Council, sets up a separate anti-doping agency, and gives the Maldives Paralympic Committee legal status in the Act.",
+  "whyItMatters": "Every sports club, association and federation would have to register and be run under rules set through the Associations Act, with the Commissioner of Sports checking that they follow them. Public money for sport would go through a new fund that is audited each year and reported to Parliament, instead of the state-owned Sports Corporation.",
   "keyProvisions": [
-    "Clause 1 amends Article 1(b), and Clauses 2 to 6 amend paragraphs of Article 2.",
-    "Clause 7 amends Article 3 with a longer list of persons or things the Act covers.",
-    "Clause 8 amends Article 4(a) to list two categories, and Clause 9 adds Article 4-1 with a numbered list of up to 13 kinds of sports body or participant.",
-    "Clauses 9 and 10 refer to registration of sports bodies under the Associations Act (Law No. 3/2022), with separate paragraphs for different kinds of body.",
-    "Clause 10 amends Article 5, and Clause 11 adds Article 5-1 with several paragraphs on recognition or registration.",
-    "Clauses 12 to 14 amend Article 6(a), (b) and (c). The rest of the bill, pages 13 to 80, was not rendered."
+    "New Article 4-1 sets up a national sports framework of school, non-competitive and competitive sport, made up of 13 kinds of body (including the ministry, the National Sports Council, the Commissioner of Sports, the Olympic and Paralympic committees, federations, regional associations, clubs and academies). The sports minister runs it, and new Article 5-1 lets the minister set sports policy, which must be published.",
+    "Rewritten Article 5 says sports bodies can only be set up after registering under the Associations Act (Law No. 3/2022) as one of six kinds: national federation, national association, regional association, association, club or academy. The Registrar of Associations writes the rules, with advice from the Commissioner of Sports, and the Commissioner monitors bodies and takes action against those that break them. Tournaments for community events, schools or national occasions are exempt.",
+    "The Commissioner of Sports is appointed by the President on the advice of the minister and the National Sports Council, serves 5 years instead of 4 (Article 9), and must act independently (new Article 6(e)).",
+    "The National Sports Council gets a chair chosen by the minister, 2 members to represent women, 1 to represent people with disabilities, and 2 Olympic and 2 non-Olympic members from federations and associations (Article 12). Members serve 4 years and can be reappointed for up to 2 more terms, vacancies must be filled within 45 days, and the Council, not the ministry, makes regulations under the Act (Article 52).",
+    "Chapter 4 (Maldives Sports Corporation and Maldives Sports Fund) is removed, and the Corporation's staff, assets and obligations pass to the sports ministry. New Articles 35-1 to 35-8 create a National Sports Fund within 60 days, funded by the state budget, profits from ministry sports facilities, sponsorship, donations and investments. It is audited each year by the Auditor General, and the minister sends an annual report to the President and Parliament within 3 months of the year's end.",
+    "National team players and staff get an allowance set by the President (Article 33), sponsors of teams and sports broadcasts can deduct that spending under the Income Tax Act (Law No. 25/2019) (Article 35), a Maldives National Anti-Doping Agency is set up under its own board (Article 38), and new Articles 50-1 to 50-7 make the Maldives Paralympic Committee a legal body. Sports disputes go to arbitration under the Arbitration Act (Law No. 10/2013) or to court (Article 51-1)."
   ],
-  "whoIsAffected": "Sports clubs, associations and federations, and their officials, members and players.",
-  "statedReasons": "",
+  "whoIsAffected": "Sports clubs, associations, federations and academies, national team players and staff, the Commissioner of Sports, the National Sports Council, the Olympic and Paralympic committees, and staff of the Maldives Sports Corporation.",
+  "statedReasons": "The government says the bill aims to set out in law one framework for all competitive and non-competitive sport for all ages under a decentralised system, and to clarify the roles of the Commissioner of Sports, the National Sports Council and sports associations, and to strengthen how the law is run.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 80,
   "pagesTotal": 80,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

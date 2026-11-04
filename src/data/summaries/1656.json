@@ -1,21 +1,22 @@
 {
   "workId": "1656",
-  "titleDv": "ހައުސިންގގެ ބިލު",
-  "summary": "This is a new Housing Bill, not an amendment, submitted by Asma Rasheed on 22 April 2025. Its table of contents lists 82 articles in about nine chapters. They run from general provisions and principles, through housing policy and the roles of the Ministry and other bodies, to a long chapter with several parts (articles 32 to 63) and closing chapters up to article 82. The scans are hard to read, so most details are uncertain. This summary covers the first 12 of 73 pages, which are mostly the contents list and the opening articles.",
-  "whyItMatters": "A full housing law would set out who is responsible for housing policy and how housing arrangements are governed, which could affect people looking for homes, tenants, landlords and housing agencies.",
+  "titleDv": "ބޯހިޔާވަހިކަމުގެ ބިލު",
+  "summary": "This is a new Housing Bill, not an amendment. Asma Rasheed submitted it on behalf of the government on 22 April 2025. It has 82 articles and would create a \"Housing Act\". The Ministry would have to write a national housing policy, strategy and survey, and every company or body that runs a housing project would have to register with the Ministry and get a permit for each project. It sets minimum standards that every housing unit must meet, lays out who can get social housing and how flats are given out and taken back, and sets up a Housing Fund. It also creates a complaints, appeal and fines system.",
+  "whyItMatters": "People buying flats from developers would get legal protections, such as advance payments going into escrow accounts and honest sales brochures. Families without proper housing would have a legal route to social housing: a needs list, published rules and points-based allocation, with ties decided by lottery.",
   "keyProvisions": [
-    "Article 1 sets the short title, \"Housing Act\", and its opening paragraph describes what the law covers.",
-    "Article 2 lists the purposes of the law in several numbered points.",
-    "Chapter 2, articles 3 and 4, sets out principles, and article 4 deals with how those principles are to be applied.",
-    "Chapter 3, articles 5 to 10, covers housing policy and the responsibilities of the Ministry; article 6 deals with how the Ministry carries out functions, and article 7 mentions a period of 5 years.",
-    "The contents list shows later chapters covering articles 11 to 18, 19 to 31, a long chapter on articles 32 to 63 with several parts, articles 64 to 70, articles 71 to 79, and final provisions in articles 80 to 82. The text of those articles was not rendered."
+    "Articles 7 to 9: the President sets a national housing policy on the Minister's advice, reviewed at least every 5 years. The Ministry must publish a national housing strategy and a housing needs survey within 6 months of the law starting. After that, the survey is repeated every 10 years.",
+    "Articles 11 to 18: anyone running a housing project must register with the Ministry and get a permit for each project. Advertising, booking or selling units before the permit is banned. Buyers' payments must go into an escrow account, and projects already under way must register within 180 days.",
+    "Articles 19 to 31: every housing unit must have safe water, reliable electricity, waste collection, a sewerage connection and telecom access. It must also have a private toilet, a kitchen, a bedroom and a living area, plus accessibility features, lifts in multi-storey buildings, emergency exits, light, ventilation and firefighting equipment.",
+    "Social housing (Chapter 6): applicants must be Maldivians aged 18 or over who lack adequate housing and have low financial means, judged by an income and assets test. The income threshold is set by the Minister, published in the Gazette and reviewed every 3 years using the consumer price index. Priority goes to people with disabilities, carers of dependent parents and victims of domestic violence.",
+    "Social housing rules: the Ministry keeps a confidential register of people needing housing, reviewed every 12 months. Units are allocated by points, with ties decided by lottery. Renting out a social housing unit is banned. It can pass only to a spouse or child who also qualifies, and eviction requires 3 to 6 months' notice.",
+    "Articles 64 to 82: a Housing Fund must be set up within 90 days, run by a governing board the Minister appoints, and it can give housing loans. The Ministry handles complaints, and people can appeal to a review committee and then to court within 30 days. Fines are up to MVR 50,000, plus MVR 25,000 for each repeat. Regulations are due within 9 months, and the law starts 2 months after it is published in the Gazette."
   ],
-  "whoIsAffected": "People seeking housing, tenants and landlords, and the Ministry and agencies responsible for housing.",
-  "statedReasons": "The explanatory note was read only in part; it describes the purpose of setting up a law on housing, but the scan is too faint to quote its reasons reliably.",
+  "whoIsAffected": "Families without adequate housing, people buying flats from developers, housing developers and agencies, local councils, and the housing Ministry.",
+  "statedReasons": "The government says the bill sets up a housing system that lets everyone living in the Maldives reach safe, adequate housing and helps those in most need find a place to live. It also sets rules for registering housing providers, running projects responsibly, and the standards that developed housing must meet.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 73,
   "pagesTotal": 73,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

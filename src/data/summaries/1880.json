@@ -1,21 +1,22 @@
 {
   "workId": "1880",
-  "titleDv": "މޯލްޑިވްސް 2.0 ޑިޖިޓަލް ޓްރާންސްފޯމޭޝަނުގެ ބިލު",
-  "summary": "This government bill would create a legal framework called 'Maldives 2.0' for moving government services online. It sets up a government office called 'Maldives Digital Service' under a ministry the President chooses. That office would write and carry out the digital transformation plan, set technology standards, and oversee digital services across government. This summary is based on the contents list and the first 5 articles only.",
-  "whyItMatters": "It could change how you get government services, moving more of them online and requiring government systems to share data with each other.",
+  "titleDv": "މޯލްޑިވްސް 2.0 ޑިޖިޓަލް ޓްރާންސްފޯމޭޝަންގެ ބިލު",
+  "summary": "This government bill would create a new law, the 'Maldives 2.0 Digital Transformation Act', setting the rules for moving state services online. It turns the existing 'Maldives Digital Service', which currently sits under the Ministry of Home Affairs, into a government office set up by law. That office would be led by a Commissioner for Digital Technology appointed by the President, and its staff, assets and contracts would move over to it. The bill also requires a 'Maldives 2.0' roadmap, a single citizen portal and 'super app' for government services, rules for sharing data between government offices, a five-level data classification system, and a 'sovereign cloud' in the Maldives where government data must be hosted. Some pages in the data and cloud chapters are hard to read in the transcription, so a few details there are uncertain.",
+  "whyItMatters": "Most government services would be expected to go through one national portal and app using your digital ID, and offices could no longer ask you to re-submit documents another office already holds. Government data, including sensitive data, would by default have to be kept on a state-run cloud inside the Maldives.",
   "keyProvisions": [
-    "Article 1: sets principles for providing state services through digital platforms and for a digital governance system; the law would be called the 'Maldives 2.0 Digital Transformation Act'",
-    "Article 3: creates a government institution called 'Maldives Digital Service' to carry out the digital transformation framework, under the ministry the President decides",
-    "Article 4: the Service must prepare the digital transformation framework under Article 11, set the policies needed to carry it out, and monitor how it is implemented",
-    "Article 4 also gives the Service duties on technology standards, interoperability between government systems, and oversight of digital government services",
-    "Contents list (chapters not read): the 'Maldives 2.0' framework and roadmap, delivering state services digitally (including digital identity and data exchange), interoperability, government cloud infrastructure, and compliance monitoring"
+    "Articles 3 to 5: create the Maldives Digital Service under the ministry assigned to it, with the minister answerable to Parliament; its head, the Commissioner for Digital Technology, is appointed and removed by the President for a 5-year term, must be named within 30 days, and cannot be a political party member or hold shares in an ICT company.",
+    "Articles 10 and 15: a 7-member Digital Governance Advisory Committee gives technical advice, and a 7-member Digital Transformation Council chaired by the President sets digital policy; Article 16 requires a Maldives 2.0 roadmap within 6 months, approved by the Council and published.",
+    "Articles 19 to 21: the Service must run a digital identity system, a National Citizen Portal that brings together ministry and local council services (offices may not run separate portals unless the Council allows it), and a 'Maldives Super Application' that all digital government services must join, except those exempted by the National Security Council.",
+    "Articles 24 to 28: a central data-exchange system so citizens do not have to fetch documents from one office and hand them to another; each type of data gets one 'authoritative source', and offices must send the Service a list of the data they hold within 6 months.",
+    "Article 29: government data is sorted into five levels, from public to top secret; level 3 and above counts as critical data, and levels 4 and 5 must be stored on the sovereign cloud or a National Cyber Security Agency facility.",
+    "Articles 31 to 42: government data must be hosted on a sovereign cloud inside the Maldives, with encryption keys controlled only by the state and a disaster recovery site on a separate island; cyber threats must be reported within 1 hour; the Service can audit offices, publishes a yearly digital inclusion report, and can order fixes and fine offices that break the rules."
   ],
-  "whoIsAffected": "Anyone who uses government services, and the government offices that would have to digitise their services and follow shared standards.",
-  "statedReasons": "The government says the bill creates a 'Maldives 2.0' digital transformation framework so that state services are delivered through digital platforms. It also sets up a 'Maldives Digital Service' office to carry out that framework and manage digital governance.",
+  "whoIsAffected": "Everyone who uses government services, all government offices and local councils that would have to move their services onto shared systems, and ICT companies, cloud providers and submarine cable or satellite operators that handle state data.",
+  "statedReasons": "The government says the bill sets up trusted, safe and sustainable digital delivery of state services under a 'digital first' policy through a 'Maldives 2.0' programme. It also creates a 'Maldives Digital Service' office to run that programme, and sets a basic legal framework for inclusive digital governance.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 72,
   "pagesTotal": 72,
-  "confidence": "Low",
+  "confidence": "Medium",
   "model": "claude-opus-5-5",
-  "generatedAt": "2026-10-06"
+  "generatedAt": "2026-11-01"
 }
