@@ -1,22 +1,22 @@
 {
   "workId": "1732",
   "titleDv": "ޤާނޫނު ނަންބަރު 3/2010 (ޓެކްސް އެޑްމިނިސްޓްރޭޝަން ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Tax Administration Act (Law No. 3/2010). It changes many articles one by one, starting with Article 4 and then Articles 15, 16, 17, 18, 21, 23 and 25, and adds new Articles 21-1 and 21-2. The changes appear to involve the powers of the Commissioner and the tax authority, time limits and set fines, such as amounts of MVR 100,000 and MVR 250,000. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 116 pages.",
-  "whyItMatters": "People and businesses dealing with the tax authority could face different deadlines and fines, so it matters to know which new rules apply to them.",
+  "summary": "This government bill makes a large set of changes, in 90 clauses, to the Tax Administration Act (Law No. 3/2010), which sets out how the tax authority MIRA runs the tax system. It lets MIRA estimate the tax owed by people and businesses who do not file tax returns, and sets out the steps MIRA must follow in audits, investigations and tax estimates. It gives MIRA new ways to collect unpaid tax, such as publishing the names of people who owe tax and withholding government services from them. It also raises several fines and replaces house arrest with jail for tax evasion. A rewritten chapter on international agreements covers sharing financial account information with other countries and reports from multinational companies. Some articles (58-1, 58-2 and parts of 51-7 and 51-8) are hard to read in the scan, so their details are uncertain. The last 59 pages are a table comparing the current law with the proposed wording.",
+  "whyItMatters": "Businesses and individuals who file late, pay late or dispute a tax bill would face higher daily fines, shorter deadlines and stronger collection steps, including having their name published. Banks and other financial institutions would have new reporting and record-keeping duties, with fines of up to MVR 250,000 if they break them.",
   "keyProvisions": [
-    "Clause 1 amends Article 4(a)(2) of the Tax Administration Act.",
-    "Clauses 2 to 7 amend Article 15 of the Act, and clause 6 and clause 7 bring in fixed fines of MVR 100,000 and MVR 250,000 in new paragraphs.",
-    "Clauses 8 to 10 amend Articles 16 and 17 of the Act. The exact subject of these articles could not be read reliably.",
-    "Clause 11 amends Article 18 and sets out a list of numbered cases. The exact subject could not be read reliably, though it appears to concern requests made by the Commissioner or the tax authority.",
-    "Clause 12 adds new Articles 21-1 and 21-2 on tax-related decisions, with a 15-day time period mentioned.",
-    "Clauses 13 to 17 amend Articles 23 and 25 and remove one paragraph of Article 25. The remaining 104 pages were not rendered."
+    "New Articles 21-1 and 21-2 let the Commissioner General order anyone who holds tax-relevant information to give it to MIRA. Before using that information in an audit, MIRA must give the taxpayer at least 15 days to provide it themselves. Article 18 lets MIRA serve official letters by registered post or courier, email, its online portal, or by hand.",
+    "New Article 44-1 lets MIRA estimate the tax owed by someone who has not filed a return after being sent a notice. The taxpayer then has 30 days to file a return, and can correct the estimate within 6 months. New Article 39-1 lists the information MIRA may use, and allows indirect methods (such as bank deposits, markup or net worth) only where there are reasonable grounds to believe income was not reported.",
+    "Article 39 says MIRA must set the tax owed within 2 years of an audit notice or the start of an investigation, but MIRA may ask the Tax Appeal Tribunal to extend this to 5 years for transfer pricing cases or where information must come from abroad. Amended Article 44 requires a taxpayer to pay 25% of the disputed amount before appealing to the Tax Appeal Tribunal.",
+    "New Article 46-2 lets MIRA collect unpaid tax or fines by sending notices, publishing the names of people who have not paid, withholding government services, collecting from third parties, going to court, or going through foreign countries. New Article 49-2 lets the Commissioner General allow payment in instalments.",
+    "Penalties change. For tax evasion (Article 64), house arrest of 3 months to 1 year becomes jail of 3 months to 2 years. Not filing a return (Article 65) means a fine of 0.5% of the tax due plus MVR 50 a day, and the criminal penalty becomes a fine of up to MVR 250,000 plus 1 to 6 months in jail. The daily late-payment fine in Article 66 doubles from 0.05% to 0.1% of the unpaid amount. New Article 69-1 allows criminal charges up to 8 years after the offence.",
+    "Chapter 5 is renamed 'International agreements'. Financial institutions must collect self-certifications when accounts are opened and keep due-diligence records for 5 years under the OECD Common Reporting Standard (Article 51-2). Multinational groups based in the Maldives must file a country-by-country report within 12 months of their year-end (new Article 53-2). Articles 52 and 53 on foreign tax credits are repealed, and new offences in Articles 64-1 and 64-2 carry fines of up to MVR 250,000 for breaking reporting or transfer pricing documentation rules. The changes do not apply to tax years or cases already completed, and the law takes effect when published in the Government Gazette."
   ],
-  "whoIsAffected": "Taxpayers, businesses, and the tax authority staff who administer the Act.",
-  "statedReasons": "The explanatory note could not be read reliably; it appears to say the Act is being amended to change how some tax administration rules and penalties work.",
+  "whoIsAffected": "Taxpayers, especially businesses that file late, pay late or are audited, as well as banks and financial institutions, multinational company groups, and MIRA staff.",
+  "statedReasons": "The government says the bill gives MIRA power to estimate the tax owed by those who must file returns, puts the rules for this in law, reviews MIRA's audit, investigation and tax collection powers, and amends offences and penalties to strengthen how the tax system is run and enforced.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 116,
   "pagesTotal": 116,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }
