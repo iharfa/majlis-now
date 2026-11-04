@@ -1,21 +1,22 @@
 {
   "workId": "1473",
-  "titleDv": "ޤާނޫނު ނަންބަރު 29/2015 (ސިއްޙީ ޚިދުމަތް ދިނުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill amends the Health Services Act (Law No. 29/2015). It rewrites the Act's aims and Article 6 to set up a national health service system that gives people living in the Maldives good-quality, affordable care. It creates a new post in the Health Ministry, the Director General of Health Services, with set qualifications, duties and a five-year term. It also adds new articles on primary care: what services count as primary care, who sets the standards, and how the services are delivered. This summary covers the first 12 of 20 pages, and some passages are hard to read, so some details are uncertain.",
-  "whyItMatters": "The government would have a legal duty to organise everyday health care, such as primary care and vaccination, through a national system with set standards.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 29/2015 (ސިއްޙީ ޚިދުމަތުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Health Services Act (Law No. 29/2015). It rewrites the Act's aims and Article 6 so the national health service system must give everyone living in the Maldives good-quality, safe and affordable care, built on the World Health Organization's primary health care approach, and run under a health master plan reviewed at least every five years. It creates a Director General of Health Services in the Health Ministry, with set qualifications, duties and a five-year term. It adds new Articles 10-1 to 10-7 on preventive care: what it covers, who sets and checks its standards, who must keep it running, and that it is funded through the state budget each year. Some passages in the scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "Every health facility would have to provide preventive care such as vaccination and health education to published standards, checked by the Commissioner of Health, and the state would have to fund it in each year's budget.",
   "keyProvisions": [
-    "Amends Article 2(a) so one aim of the Act is to give people in the Maldives physical and mental health care at good quality and reasonable cost, through a national health service system.",
-    "New Article 5-1 creates the post of Director General of Health Services in the Ministry as a civil service post. New Article 5-2 lists the main duties, including advising the Minister on health policies, plans and projects, and overseeing health services.",
-    "To be appointed Director General, a person needs at least a Level 9 qualification and at least 10 years of work experience in health, including at least 4 years in management. The term is 5 years. A person already in the post who meets these conditions is treated as appointed.",
-    "Replaces Article 6 to describe the national health service system, meant to keep everyone living in the Maldives physically and mentally healthy and to give access to health services and facilities.",
-    "New Article 10-1 lists the services that make up primary care, including vaccination-related services. New Articles 10-2 to 10-4 cover who sets primary care standards, the basis on which primary care is delivered, and the Ministry setting up primary care services. Article 10-4 also refers to health facilities licensed under Article 28."
+    "Amends Article 2(a) and replaces Article 6 so the national health service system covers preventive, curative, rehabilitative, long-term and palliative care, follows WHO primary health care principles, refers people on to primary, secondary and tertiary care, and is run under a Ministry master plan reviewed at least every five years.",
+    "New Articles 5-1 and 5-2 create a Director General of Health Services, a civil service post appointed by the Civil Service Commission on the Minister's advice. The person needs at least a Level 9 qualification and 10 years of health-sector experience, 4 of them in management, serves a 5-year term, and answers to the Minister.",
+    "New Article 10-1 lists the services that count as preventive care (including health information and education, screening and vaccination programmes), with details to be set in regulations. Under Article 10-2 the Health Protection Agency sets preventive care standards, publishes them in the Government Gazette and reviews them at least every two years.",
+    "New Articles 10-4 and 10-5 have the Ministry set up preventive care services in islands and cities, let facilities licensed under Article 28 provide them with Ministry approval, and make whoever runs each health facility responsible for keeping preventive care going and reporting statistics.",
+    "New Article 10-6 has the Commissioner of Health monitor preventive care quality and safety and order facilities that fall short to fix problems. Article 10-7 says the money for preventive care must be included in the state budget passed by Parliament each year and released to the Ministry.",
+    "Adds definitions of preventive care and the primary health care principle to Article 74. Regulations must be made or amended within 3 months of the law taking effect, and the changes take effect 6 months after the law is published in the Gazette."
   ],
-  "whoIsAffected": "Patients and residents using public health services, the Health Ministry, and public and private health facilities.",
-  "statedReasons": "The government says it wants a national health service system that gives everyone in the Maldives the care they need, sets standards for primary care, and makes other amendments needed to run the Health Services Act better.",
+  "whoIsAffected": "Everyone using health services in the Maldives, the Health Ministry, the Health Protection Agency and Commissioner of Health, and public and private health facilities.",
+  "statedReasons": "The government says it wants a national health service system that gives everyone in the Maldives the information, services and care they need to stay healthy, sets out preventive care and makes sure it meets standards, and makes other amendments needed to run the Health Services Act better.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 20,
   "pagesTotal": 20,
   "confidence": "Medium",
   "model": "claude-opus-5-5",
-  "generatedAt": "2026-10-14"
+  "generatedAt": "2026-11-01"
 }

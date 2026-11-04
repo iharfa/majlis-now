@@ -1,22 +1,22 @@
 {
   "workId": "1474",
   "titleDv": "ސޮވްރިން ޑިވެލޮޕްމަންޓް ފަންޑުގެ ބިލު",
-  "summary": "This is a new law for the Sovereign Development Fund, a state savings fund. The fund already set up under Article 30-1 of the Public Finance Act (Law No. 3/2006) would continue under this law. The bill names the money that goes into the fund, including airport development fees, 10% of dividend income from state-owned companies, and sovereign guarantee fees. It says what the money can be used for, such as repaying the state's foreign debt. It also creates a seven-member governing council to run the fund. This summary covers the first 12 of 25 pages, and some passages are hard to read, so some details are uncertain.",
-  "whyItMatters": "The law would decide how some state income is saved and later used to pay off foreign debt, and who controls that money.",
+  "summary": "This government bill creates a stand-alone law for the Sovereign Development Fund, a state fund meant to help repay the state's foreign debt and to cover economic crises. The fund would become a separate legal body, and the money in the existing fund under Article 30-1 of the Public Finance Act (Law No. 3/2006) would move into it; that article would then be repealed. The bill lists the money paid into the fund and limits its use to repaying debt the public bank account cannot cover and budget support after an unusual economic shock, with the President's approval on the governing council's advice. It sets up a 7-member governing council chaired by the Finance Minister, a 5-member investment committee chaired by the Accountant General, and a Sovereign Development Fund Administration Office under the Finance Ministry led by a chief executive officer. It also sets rules for audits, public reports and closing the fund.",
+  "whyItMatters": "The law would decide how some state income, such as airport development fees and part of state company dividends, is saved and invested to pay off foreign debt, and who controls and checks that money.",
   "keyProvisions": [
-    "Article 3: the Sovereign Development Fund set up under Article 30-1 of the Public Finance Act (Law No. 3/2006), and the money in it, is treated as the fund under this law.",
-    "Article 5: money paid into the fund includes airport development fees, 10% of dividend income the state gets from state-owned companies, sovereign guarantee fees, and other money set on the governing council's advice.",
-    "Article 6: fund money can be used to repay the state's foreign-currency debt in the budget. Other uses need the governing council's advice and approval, which appears to be the President's. Article 7: fund income and any spending from the fund must be shown in the state budget.",
-    "Article 9: a Sovereign Development Fund Governing Council is to be formed within 30 days of the law taking effect. Article 10 makes it responsible for policies on how the fund is used, investment principles, the investment policy, and oversight of performance and risk.",
-    "Article 11: the council has 7 members: the Minister, 2 senior Ministry officials, the Maldives Monetary Authority Governor, a senior Monetary Authority official, and 2 people with experience in investment and related fields. Members other than the Minister and the Governor serve 5-year terms.",
-    "Articles 13 to 16 cover resignation, dismissal and filling vacancies. The council must meet at least 4 times each calendar year."
+    "Articles 3 and 4: the fund becomes an independent legal body kept apart from the public bank account, takes over all money in the fund set up under Article 30-1 of the Public Finance Act, and exists to keep the state able to repay foreign debt, hold foreign currency for debt payments, and provide money in economic crises.",
+    "Article 5: money paid in includes airport development fees, 10% of dividend income the state gets from companies it holds shares in, sovereign guarantee fees, and other money the President sets on the governing council's advice.",
+    "Articles 6 to 8: fund money can be used only to repay debt when the public bank account cannot, or for budget support after an unusual economic shock, with the President's approval on the council's advice. All fund spending must be in the state budget. Once the fund reaches the target size set by the President, extra money goes to the budget, and lowering that target needs the People's Majlis' approval.",
+    "Articles 9 to 16: the President appoints a 7-member governing council within 30 days, chaired by the Finance Minister and including 2 senior Finance Ministry staff, the Maldives Monetary Authority Governor and a senior MMA official, a senior official of the economic ministry, and one public member chosen through an open call. Non-ex-officio members serve 5-year terms and the council meets at least 4 times a year.",
+    "Articles 17 to 31: a 5-member investment committee (the Accountant General, two senior Finance Ministry officials and two investment experts chosen through an open call) invests the fund under a policy the council approves and meets at least 12 times a year. An administration office under the Finance Ministry runs the fund, and the Maldives Monetary Authority acts as custodian.",
+    "Articles 32 to 40: the CEO reports to the council every 3 months and publishes an annual report within 4 months of each year's end, the Auditor General audits the fund every year for the Majlis committee, audit reports are published, and the fund can be closed only with the Majlis' approval, with its assets going to the state budget. The law takes effect 3 months after it is published in the Government Gazette."
   ],
-  "whoIsAffected": "The Finance Ministry, the Maldives Monetary Authority, state-owned companies paying dividends, and taxpayers who carry the state's debt.",
-  "statedReasons": "The government says the bill sets up the Sovereign Development Fund, lays down rules for running it, and sets the duties of state bodies connected to it. The note also mentions the state's debt.",
+  "whoIsAffected": "The Finance Ministry, the Maldives Monetary Authority, the Accountant General and Auditor General, state-owned companies that pay dividends, and taxpayers who carry the state's debt.",
+  "statedReasons": "The government says the bill sets up a Sovereign Development Fund to reduce state debt and pass the state's wealth on to future generations, sets the rules for running the fund, and sets out the duties of the state bodies connected to it.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 25,
   "pagesTotal": 25,
-  "confidence": "Medium",
+  "confidence": "High",
   "model": "claude-opus-5-5",
-  "generatedAt": "2026-10-14"
+  "generatedAt": "2026-11-01"
 }

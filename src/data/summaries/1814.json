@@ -1,21 +1,22 @@
 {
   "workId": "1814",
-  "titleDv": "ބިންމަތީ ދަތުރުފަތުރުގެ ބިލު",
-  "summary": "This is a new, long bill that would set up a full law for land transport in the Maldives, to be called the Land Transport Act. It is organised in nine chapters and 127 articles over about 135 pages. From the contents list and the explanatory note, it covers rules for land transport vehicles and the people who use them, vehicle registration, driving licences, and the enforcement side of the law. The scans are hard to read, so some details are uncertain. This summary covers the first 12 of 151 pages, which are the cover, the explanatory note, the contents list and Articles 1 to 5.",
-  "whyItMatters": "If it passes, one law would govern how vehicles are registered and who may drive them, which would touch everyday drivers and vehicle owners.",
+  "titleDv": "އެއްގަމު ދަތުރުފަތުރުގެ ބިލު",
+  "summary": "This government bill would replace the Land Transport Act (Law No. 5/2009) and the 1978 law on walking on roads (Law No. 70/78) with a new Land Transport Act of 127 articles in nine chapters. It covers vehicle registration, insurance and roadworthiness, driving licences and a demerit point system, road rules, parking, public transport such as buses and taxis, police enforcement, and offences with fixed fines. The transport ministry would make most of the detailed rules through regulations. It could also cap how many vehicles may be registered on each island or city, and set how long a vehicle may stay in use there. The law would take effect six months after it is published in the Government Gazette.",
+  "whyItMatters": "Anyone who owns or drives a vehicle in the Maldives would face new conditions to register a car, a points system on their licence, and set fines such as MVR 750 for using a phone while driving. Bus and taxi operators would need 10-year licences with controlled fares, and school children and people with disabilities would get free bus service.",
   "keyProvisions": [
-    "Article 1 gives the short title, the Land Transport Act, and says the law starts once it is ratified and published.",
-    "Article 2 lists the purposes of the law. They follow the main topics of the bill: regulating land transport vehicles and the people who use them, and the registration and licensing systems.",
-    "Article 3 says which body or bodies carry out the law and sets out related roles and definitions. The details could not be read reliably.",
-    "Chapter 2 (Articles 4 to 9) deals with how the law is administered. Article 4 and Article 5 name the responsible authority and set out its work.",
-    "The contents list shows later chapters on driving licences (Articles 28 to 34), vehicle use and registration (Articles 35 to 76), and further chapters up to Article 127. These were not read."
+    "A vehicle with more than two wheels can be registered only if the owner has a garage, or a parking space they own or have rented for at least 10 years (Article 13). Every vehicle must be insured before registration (Article 20). Annual fees are listed in Schedule 1 and range from MVR 250 for small motorcycles to MVR 20,000 for cars of 2,000cc or more. Vehicles that do not run on fuel pay two-thirds of the fuel-vehicle rate.",
+    "The ministry would set the maximum number of vehicles that can be registered and the longest period they can be used on each inhabited island or city. It must consult the local council and announce any limit at least six months in advance (Article 25). A custom number plate would cost at least MVR 500,000 (Article 17).",
+    "A driving licence requires being 18, medically fit and passing a theory and practical test (Articles 28 and 33). A licence is held back if unpaid fees and fines reach MVR 5,000 (Article 31). A demerit point system must start within two years. Points are cleared after two years without a new offence, and drivers who build up too many must take a driver education course or lose their licence for a period (Article 32).",
+    "Road rules include driving on the left, stopping for people at zebra crossings, child car seats in cars and lights from 6pm to 6am (Articles 38, 42 and 44). Drivers may not use a phone or other device except for navigation, and only without taking both hands off the wheel (Article 49). Parking is banned within 10 feet of a road corner, and a vehicle may stay in one parking spot for at most 7 days (Article 53). Councils can set up paid parking zones with meters (Article 54).",
+    "Bus, taxi, pickup and private-hire services need a ministry licence that lasts 10 years. The ministry sets fares or a fare formula, and operators may not charge more or less than their published fare (Articles 62, 65 and 67). Passengers get rights to equal treatment, disability access, a refund or replacement trip when the operator cancels, and to complain or claim compensation (Article 75). Bus service for school children and people with disabilities is to be free (Article 74).",
+    "Reckless or dangerous driving, which the bill defines to include speeding, racing and driving while intoxicated, carries 20 years in prison if someone dies, 10 to 15 years for serious injury and 5 to 10 years for injury, plus a licence ban (Article 88). Other offences have fixed fines that rise for repeat offences. Speeding is MVR 1,000 the first time and MVR 5,000 plus a 30-day vehicle impound the third time (Article 97). Police can clamp a vehicle with MVR 5,000 or more in fines and impound it if they are not paid within 72 hours (Article 79)."
   ],
-  "whoIsAffected": "Vehicle owners, drivers, people applying for driving licences, and the government bodies that register vehicles and issue licences.",
-  "statedReasons": "The explanatory note says the bill sets out rules for land transport vehicles and the people who use them, and lists the main areas the law covers.",
+  "whoIsAffected": "All drivers and vehicle owners, pedestrians and cyclists, bus, taxi and lorry operators, driving schools and roadworthiness testers, local councils, the traffic police and the transport ministry.",
+  "statedReasons": "The government says the bill sets a modern legal framework to plan, run and oversee land transport, so that drivers, passengers and other road users are safe. It lists road rules, registration and licensing standards, parking, public transport and enforcement powers as the areas it covers.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 151,
   "pagesTotal": 151,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }

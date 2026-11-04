@@ -1,22 +1,22 @@
 {
   "workId": "1952",
-  "titleDv": "ޤާނޫނު ނަންބަރު 12/2016 (ޖިނާއީ އިޖުރާއަތުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill changes the Criminal Procedure Act's rules on sharing evidence before a criminal trial. It lists information the prosecution and the defence do not have to hand over, such as material that could harm an investigation, and lets either side ask the court to withhold, delay or limit disclosure to protect people, investigations or trade secrets. It also repeals sections 192 to 197, which cover court orders to confiscate money and property to the state, and section 202.",
-  "whyItMatters": "It affects what evidence an accused person and their lawyer get to see before trial. It also removes the Act's current confiscation rules, which the bill links to the separate Asset Recovery Bill.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 12/2016 (ޖިނާއީ އިޖުރާއަތުގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Criminal Procedure Act (Law No. 12/2016), mainly its rules on sharing evidence before a criminal trial. It rewrites the list of material the prosecution does not have to hand to the accused, such as internal investigation documents, the identity of people in secret operations and some witness statements, and sets out when a court can order evidence withheld, delayed or shared only under conditions. It gives the defence a matching but shorter set of protections, limits how the accused may use disclosed material, and repeals sections 192 to 197 and 202, which cover court orders to confiscate money and property gained through crime and appeals against those orders.",
+  "whyItMatters": "It changes what evidence an accused person and their lawyer can see before trial and what they may do with it. It also removes the Act's confiscation rules, which the government links to a separate bill on property obtained through crime.",
   "keyProvisions": [
-    "Section 130 replaced: lists information the State does not have to disclose under section 129, including material that could harm an investigation or reveal investigators' methods.",
-    "Section 131 replaced: the State may ask the court for an order not to disclose evidence, to delay it, or to disclose it only under conditions, on grounds including risk of physical harm or intimidation, harm to an investigation, loss of evidence, enabling further crime, and exposing a trade secret (the bill defines 'trade secret').",
-    "New section 131-1: limits how the defence may use material the State discloses (reading of this clause is partial).",
-    "Sections 133 and 134 replaced with matching rules for the defence: information the defence need not disclose under section 132, and defence requests for protective orders.",
-    "Sections 192 to 197 (orders for money and property to be taken by the State, and their enforcement) and section 202 are repealed.",
-    "Takes effect 6 months after it is ratified and published in the Government Gazette."
+    "Section 130 replaced: the State need not disclose its internal investigation and prosecution documents (opinions, legal advice, analyses, communications between investigators and prosecutors), information identifying people who ran a secret operation, certain State witness statements, or anything another law exempts; redacted parts must still be shared, and withheld evidence must be shared as soon as the reason ends, even mid-trial.",
+    "Section 131(n) replaced: the court may withhold, delay or condition disclosure of State evidence if it would be unfair because of risk of harm or threats, revealing investigation operations, tampering with evidence, exposing a third party's personal data, privileged material, enabling further crime, contempt of court, or exposing a trade secret; new 131(r) defines 'trade secret' and the State must give its reasons when it asks for protection.",
+    "New section 131-1: the accused may use evidence disclosed by the State only to prepare their defence or for their lawyer's official duties, and may not share it with anyone other than people working under them.",
+    "Sections 133 and 134 amended for the defence: work prepared by the accused, their lawyer or the lawyer's staff need not be disclosed, and the defence may seek a protective order only on grounds of harm or threats and evidence tampering, stating its reasons.",
+    "Sections 192 to 197 (court orders to confiscate money and property gained through crime, later-found assets, substitute assets, third-party rights and enforcement) and section 202 (appeals against confiscation orders) are repealed.",
+    "Section 13 of the bill: the changes take effect 6 months after the law is ratified and published in the Government Gazette."
   ],
-  "whoIsAffected": "People accused of crimes, their lawyers, prosecutors, police and other investigators, and witnesses in criminal cases.",
-  "statedReasons": "The government says it wants to review the rules on disclosing evidence in criminal cases and make the changes needed alongside a related bill, which appears to be the Asset Recovery Bill (that phrase is hard to read in the scan).",
+  "whoIsAffected": "People accused of crimes and their lawyers, prosecutors, police and other investigators, witnesses, and businesses whose information appears in evidence.",
+  "statedReasons": "The government says it wants to review the rules on disclosing evidence in criminal cases and make the changes to this Act needed in connection with the bill on property obtained through crime.",
   "sourceDoc": "Bill",
-  "pagesRead": 14,
+  "pagesRead": 21,
   "pagesTotal": 21,
-  "confidence": "Medium",
+  "confidence": "High",
   "model": "claude-opus-5-5",
-  "generatedAt": "2026-10-06"
+  "generatedAt": "2026-11-01"
 }

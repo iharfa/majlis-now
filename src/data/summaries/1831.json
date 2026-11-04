@@ -1,22 +1,22 @@
 {
   "workId": "1831",
-  "titleDv": "ޤާނޫނު ނަންބަރު 8/2009 (ދިވެހިރާއްޖޭގެ ޕެންޝަނާބެހޭ ޤާނޫނު) އަށް 6 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
-  "summary": "This bill is the 6th amendment to the Maldives Pension Act. It changes how the Pension Office is run and how pension savings are invested. The Board gets the power to approve investment rules and make investment decisions. The Board itself is rebuilt as 9 members, including 5 from the private sector, all with set qualifications. The bill also creates a Chief Executive Officer post, filled by the Board. Only the first 12 of 24 pages were read.",
-  "whyItMatters": "Pension savings from workers' pay are invested by the Pension Office. This bill changes who controls those investments and what rules they must follow, which can affect how retirement savings grow.",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2009 (ދިވެހިރާއްޖޭގެ ޕެންޝަނާބެހޭ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Maldives Pension Act (Law No. 8/2009). It stops the old-age basic pension for people whose other income is larger than the basic pension, and for basic-pension recipients who are elected to public office or employed by the state or a state company. It lets workers use their pension savings as collateral for a home loan down payment to buy, build or repair a home, not only to buy a finished home. It also lets members with a terminal illness withdraw their retirement savings early, and lets members use those savings to pay 80% of the cost of a Hajj place. Other changes cover investing pension money, self-employed contributions and when employers must pay in contributions.",
+  "whyItMatters": "Some older people could lose the basic state pension, while workers gain new ways to use their own retirement savings for housing, serious illness or Hajj before retirement age.",
   "keyProvisions": [
-    "Adds to the Pension Office's job: investing and managing pension assets, either itself or through asset managers (new Article 3 clause).",
-    "Lets the Pension Office Board approve the investment policy statement, basic investment principles and investment rules, and decide what pension assets are invested in (new Article 6 clauses).",
-    "Rewrites Article 8: the Board has 9 members, appointed by the President. They are a chairperson, one nominee each from three government ministries (one is the Finance Ministry) and 5 people from the private sector.",
-    "Board members must be Maldivian, at least 35, and have at least 5 years' experience in a listed field such as pensions, finance, investment, accounting, economics, law or insurance. Some people are barred, for example anyone convicted of fraud or bribery, MPs, councillors, political party office-holders, and anyone owning 5% or more of a company the Pension Office invests in.",
-    "A nomination committee shortlists candidates for chair and the private-sector seats through a public call, then sends names to the President.",
-    "New Articles 10-1 to 10-5 create a Chief Executive Officer, appointed by the Board and answerable to it. The CEO can serve at most two 5-year terms. These articles also set the CEO's duties, how the CEO can be removed, and when the post becomes vacant."
+    "New Article 11(1-ނ) and (2-ނ): a person of pension age gets no old-age basic pension if their income, including pensions from the modified scheme and the state, is larger than the basic pension. The Pension Office Board, consulting the Finance Ministry, writes rules on counting income, checking it, keeping it confidential and handling complaints.",
+    "New Article 11(1-ރ): a person receiving the basic pension loses it if elected to a post under the Constitution or a law, or appointed to a job with the state or a government company.",
+    "Articles 25, 26, 27 and 33: pension savings can be used as collateral for a down payment to buy, build or repair a home, through a loan from a bank, housing finance company or similar financial institution. Today the law only covers buying a finished home sold to the public.",
+    "New Articles 28-1 to 28-3: a member with a terminal illness, meaning a specialist doctor says they are unlikely to live more than 12 months even with proper treatment, can withdraw part or all of their retirement savings early, in one payment or several. This money is not counted when working out the basic pension.",
+    "New Article 32-1: a member who pays 20% of the Hajj fee to the government Hajj company can have the other 80% covered from their retirement savings to reserve a Hajj place, if they meet the conditions in Article 30. This is also allowed after pension age.",
+    "Investment and contribution changes: the Pension Office can invest pension assets itself or through asset managers (Articles 3, 16, 17, 18); the Board approves the investment principles (Article 6); an investment committee advises the Board (Article 9); members can switch investment portfolios (Article 16); the self-employed contribution rate and the employer payment deadline (now 7 working days) move to regulations (Articles 14 and 15). Regulations must be issued within 3 months of the law taking effect."
   ],
-  "whoIsAffected": "Workers and employers paying into the Maldives Retirement Pension Scheme, pensioners, and the Pension Office and its Board.",
-  "statedReasons": "",
-  "sourceDoc": "Final Bill",
-  "pagesRead": 12,
-  "pagesTotal": 24,
-  "confidence": "Medium",
+  "whoIsAffected": "Members of the Maldives Retirement Pension Scheme, people receiving or due to receive the old-age basic pension, employers, self-employed people, and the Pension Office and its Board.",
+  "statedReasons": "The government says the bill is meant to stop the basic pension for people whose income is larger than the basic pension, allow pension savings to be used as collateral to build or repair homes, release pension savings to people with a terminal illness, and allow pension savings to be used to reserve a Hajj place, along with other changes to run the law better.",
+  "sourceDoc": "Bill",
+  "pagesRead": 21,
+  "pagesTotal": 21,
+  "confidence": "High",
   "model": "claude-opus-5-5",
-  "generatedAt": "2026-10-06"
+  "generatedAt": "2026-11-01"
 }
