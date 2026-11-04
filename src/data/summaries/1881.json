@@ -1,21 +1,22 @@
 {
   "workId": "1881",
   "titleDv": "ޑިޖިޓަލް އައިޑެންޓިޓީގެ ބިލު",
-  "summary": "This government bill would create a legal 'Maldives digital identity system', so people can prove who they are online with government offices, companies and other people. It covers issuing digital ID numbers, authenticators and digital wallets, identity checks, system security and personal data protection. It also sets the rights of people who register and the duties of organisations that use the system. This summary is based on the contents list and the first 19 articles only.",
-  "whyItMatters": "A legal digital ID could change how you log in to government and private services. It would also set rules on who can use your identity data and how it must be protected.",
+  "summary": "This government bill would create the 'Maldives Digital Identity System', a legal way to prove who you are online and offline with government offices, companies and other people. Maldives Digital Services would run it, register people, issue each person a digital ID number, tokens and authenticators, approve digital wallets, and set the technical and security rules. Maldivian ID card holders, foreign workers with work permits and their dependants on visas could sign up, giving their name, ID or permit number, birth details, address, sex and a face image. Signing up would be voluntary, and the bill sets data protection rules, bans on tracking and commercial or political use of ID data, fines for service providers that break the rules, and a complaints process. Some words in the scanned text are hard to read, so a few details are uncertain.",
+  "whyItMatters": "A legal digital ID could become the usual way to log in to government and private services, and this bill decides who can see your identity data and what they may do with it. It also says you cannot be forced to use the digital ID, and that registration and getting an ID number are free.",
   "keyProvisions": [
-    "Article 1: sets principles and rules for setting up and running a Maldives digital identity system, the rights of people who register, and the duties of those taking part in it; the law would be called the 'Digital Identity Act'",
-    "Article 3: applies to people in the Maldives, Maldivians abroad, people outside the Maldives who use the system, and government institutions",
-    "Article 4: recognises a digital identity issued under this law as a way to identify a person in transactions",
-    "Article 19: establishes the 'Maldives Digital Identity System'",
-    "Contents list (chapters not read): issuing digital ID numbers, identity verification services, digital wallets, personal data protection including data breach notices, a supervisory body, and complaints"
+    "Articles 19 to 22: set up the Maldives Digital Identity System, linked to the existing ID card, Vaarutha portal and visa databases, and make Maldives Digital Services responsible for running it; Article 23 has the minister form a policy advisory committee within 90 days",
+    "Articles 27 and 31: Maldivian ID card holders, foreigners with work permits and their visa-holding dependants may register by giving name, ID or permit number, date and place of birth, sex, addresses and a face image (phone and email optional); Article 34 lets people leave the system at any time",
+    "Article 28: the system's database must be encrypted and run from data centres in the Maldives, with backups allowed abroad if they meet international standards",
+    "Article 43: nobody can be required to create or use a digital ID to get a service, and providers must offer another way to get the service, with exemptions for some small or online-only businesses",
+    "Articles 57 to 60: certain personal details may only be shared with the person's consent, ID data may not be used for marketing, profiling, tracking or political campaigns, and data may go to law enforcement only in set cases such as an ongoing prosecution or a court order",
+    "Articles 67 to 69: service providers and data processors that break the law can be fined up to MVR 500,000 for a first breach and MVR 500,000 to 1,000,000 for repeat breaches; registration and issuing ID numbers or authenticators must be free"
   ],
-  "whoIsAffected": "Everyone who uses government or private services that check identity, and the government bodies and businesses that would rely on the digital ID system.",
-  "statedReasons": "The government says the bill sets up a secure, trusted digital identity system for verifying identity in dealings with state bodies, legal persons and individuals. It also creates the legal framework to run the system and protect the data it uses.",
+  "whoIsAffected": "Maldivians and foreign residents who use services that check identity, the government offices and businesses that would rely on the system, and Maldives Digital Services, which would run it.",
+  "statedReasons": "The government says the bill sets up a secure, easy digital identity system for verifying identity in online dealings with state bodies, legal persons and others. It also sets rules to use technology fully while protecting the data used and keeping the system secure and trusted.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 111,
   "pagesTotal": 111,
-  "confidence": "Low",
+  "confidence": "Medium",
   "model": "claude-opus-5-5",
-  "generatedAt": "2026-10-06"
+  "generatedAt": "2026-11-01"
 }

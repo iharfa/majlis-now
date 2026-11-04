@@ -1,21 +1,22 @@
 {
   "workId": "1628",
   "titleDv": "ޖަނަވާރު ގެންގުޅުމާއި ޖަނަވާރުގެ ރައްކާތެރިކަމުގެ ބިލު",
-  "summary": "This is a new, stand-alone bill on keeping animals and protecting their welfare. It runs to 89 articles in 10 chapters. The chapters cover general provisions, who enforces the law, the duties of people who keep animals, rules for premises and operators that look after animals, permits and approvals, enforcement and complaints, and closing provisions. It does not amend an earlier law. The scans are hard to read and only the first 12 of 107 pages were rendered, so the detail is limited. This summary covers the first 12 of 107 pages.",
-  "whyItMatters": "Pet owners, animal keepers and anyone who runs an animal facility could face written rules and official oversight on how animals are treated.",
+  "summary": "This government bill creates a new, stand-alone Animal Keeping and Animal Welfare Act of 89 articles in 11 chapters, and does not amend an earlier act. The Ministry in charge of animal health sets policy and enforces it, and island and city councils carry out its standards locally. Anyone importing or exporting animals, animal parts, animal medicines or animal feed must register and get permits, and imported animals are screened and quarantined at ports. Breeding farms, pet shops, livestock and poultry farms, zoos and research centres must register, pet owners get set duties of care, and vets need a licence. The bill sets fines from MVR 5,000 up to MVR 1,000,000 and repeals the old rules on importing live animals and birds.",
+  "whyItMatters": "Keeping a pet, selling animals, running a farm or bringing an animal into the country would come under written duties, permits and inspections, with fines for abandoning or harming animals. The government would also have to open veterinary centres and animal sanctuaries.",
   "keyProvisions": [
-    "Article 1 gives the bill's name and its purpose, and Article 2 sets out its objectives in lettered sub-clauses.",
-    "Article 3 explains how the bill applies and Article 4 sorts animals into groups. Which groups they are is hard to read.",
-    "Articles 5 to 7 name the bodies responsible for carrying out the law, with a list of duties for the Ministry in Article 6 and for councils in Article 7.",
-    "The contents page lists Chapter 3 on keeping animals and Chapter 4 on shelter-type premises. Their detail falls outside the rendered pages.",
-    "The contents page also lists chapters on permits, enforcement and complaints, and final provisions, ending at Article 89."
+    "Articles 8 to 27 allow animal imports only for listed purposes: breeding, livestock and poultry, pets, research or education, exhibitions, and economic uses set by regulation. Importers must register with the Ministry and get a permit for each consignment. Animals are screened and quarantined at government port quarantine facilities, and can be sent back or destroyed if they fail the checks. Temporary imports are capped at 12 months and need a security deposit. Travellers' own pets and pets of Maldivians moving home can be brought in under set conditions.",
+    "Articles 9, 29, 35 and 37 require the Ministry to publish in the Government Gazette, within 8 months, the animals and animal parts that are banned from import or export. Articles 40 to 45 put veterinary medicines under the Maldives Food and Drug Authority, bar giving animals regulated antibiotics or hormones except by authorised people, and require animal feed importers and sellers to be licensed.",
+    "Articles 47 to 53 require breeding farms, pet shops and other animal sellers, livestock and poultry farms, zoos and parks, and research or teaching centres to register with the Ministry. Dangerous animals may be kept only by parties and in places set by regulation. The government must set up animal sanctuaries for seized, sick or held animals. People selling their own pets, or keeping livestock at home and not as a business, are exempt from the shop and farm rules.",
+    "Articles 54 to 61 set care standards: suitable space, temperature, light, food, water, room to move and protection from injury and disease. Under Article 56 only species on a pet-species list may be kept as pets. Owners must feed them, look after their health, keep public places clean, not let them roam, and keep up vaccinations. Harming animals living in public places is banned. Cutting or surgically altering animals, and killing animals someone keeps, are allowed only in listed cases.",
+    "Articles 62 to 74 require the government to open basic veterinary centres within 6 months and license vets and vet clinics. They set up a disease-reporting system with a list of notifiable diseases, and allow import bans, quarantine zones and the destruction of sick animals. Ministry inspectors can inspect registered places after scheduled notice, take samples and issue written compliance notices.",
+    "Articles 75 to 82 set fines: MVR 10,000 to 1,000,000 for spreading a notifiable disease; MVR 5,000 to 500,000 for illegal import or export; MVR 10,000 to 100,000 for illegal breeding, keeping animals in unregistered places, tampering with samples, or breaching care standards; and MVR 5,000 to 50,000 for abandoning a pet in a public place or harming a pet or a roaming animal. Regulations are due within 30 days of the law taking effect. Article 87 repeals Article 5(a)(2) of Law 4/75 on dangerous animals, the 2008 live-animal import regulation and Regulation 2012/R-4 on importing birds."
   ],
-  "whoIsAffected": "People who keep or breed animals, animal businesses and shelters, the Ministry and local councils.",
-  "statedReasons": "The explanatory note describes the bill as setting rules for keeping animals and for their welfare, and for the bodies that enforce them. The scan is hard to read, so this is a rough reading.",
+  "whoIsAffected": "Pet owners, pet shops, breeders, livestock and poultry farmers, animal importers and exporters, vets and vet clinics, zoos and research centres, the Ministry, the Maldives Food and Drug Authority and local councils.",
+  "statedReasons": "The government says the bill sets the rules and standards for keeping, caring for, breeding and trading animals in a sustainable and safe way. It also covers animal health, protection from diseases that spread to animals and people, and bringing animals into, around and out of the Maldives.",
   "sourceDoc": "Bill",
-  "pagesRead": 12,
+  "pagesRead": 107,
   "pagesTotal": 107,
-  "confidence": "Low",
-  "model": "claude-sonnet-5-5",
-  "generatedAt": "2026-10-14"
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
 }
