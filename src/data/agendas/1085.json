@@ -1,0 +1,78 @@
+{
+  "sittingId": "1085",
+  "date": "2026-11-09",
+  "title": "15th Sitting of third session of 2026",
+  "agendaNo": "އޖ/15/3/2026",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/15/3/2026).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Approval of the minutes of three previous sittings (minutes Nos. 10/3/2026 to 12/3/2026).",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 6,
+      "text": "Bills to be introduced: first reading of the Death Penalty Enforcement Bill (on setting and carrying out the death penalty), submitted on behalf of the government by Guraidhoo MP Hanan Mohamed Rasheed.",
+      "workId": "1981",
+      "kind": "bill"
+    },
+    {
+      "n": 6,
+      "text": "First reading of the Right to Protection of Name and Reputation Bill, submitted on behalf of the government by Vilimale' MP Mohamed Ismail.",
+      "workId": "1982",
+      "kind": "bill"
+    },
+    {
+      "n": 6,
+      "text": "First reading of the Maldives Immigration Bill, submitted on behalf of the government by North Kulhudhuffushi MP Mohamed Dawoodh.",
+      "workId": "1983",
+      "kind": "bill"
+    },
+    {
+      "n": 6,
+      "text": "First reading of the Real Estate Business Bill, submitted on behalf of the government by North Henveyru MP Ahmed Aifan.",
+      "workId": "1984",
+      "kind": "bill"
+    },
+    {
+      "n": 7,
+      "text": "Debate on the proposed 2027 State Budget, held under Article 235 of the Parliament's Rules of Procedure.",
+      "kind": "other"
+    },
+    {
+      "n": 8,
+      "text": "Voting on items from the day's business that have reached the voting stage.",
+      "kind": "vote"
+    },
+    {
+      "n": 9,
+      "text": "Any other business.",
+      "kind": "other"
+    }
+  ],
+  "summary": "This sitting was set to introduce four government bills (death penalty enforcement, name and reputation, immigration, real estate) and debate the 2027 State Budget.",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-09"
+}

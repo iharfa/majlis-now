@@ -1,5 +1,70 @@
 [
   {
+    "id": "1980",
+    "number": "20/2026/މ-43",
+    "sitting": "14th Sitting of Third session of 2026",
+    "type": "Other",
+    "status": "Completed",
+    "summary": "The no-confidence motion against the Minister of Economic Development, Transport and Trade, Hon. Mohamed Saeed has been moved under Article 101(h) of the Constitution and Section 229(h) of Rules and Regulations of the Parliament",
+    "title": "No-confidence motion against the Minister of Economic Development, Transport and Trade, Hon. Mohamed Saeed",
+    "sponsor": {
+      "constituency": "",
+      "name": "Table"
+    },
+    "stages": [
+      {
+        "name": "Completed",
+        "state": "current"
+      }
+    ],
+    "committeeId": null,
+    "sittings": [],
+    "documents": [
+      {
+        "label": "Motion",
+        "url": "https://majlis.gov.mv/storage/action_files/1980/4OB7L633QjF0EPHkvvaIMhHZOEB7Z0J85vZpR2tb.pdf",
+        "file": "tmp/docs/1980-motion.pdf"
+      },
+      {
+        "label": "Minister of Economic Development, Transport and Trade, Hon. Mohamed Saeed's no-confidence rejected at Parliament",
+        "url": "https://majlis.gov.mv/storage/action_files/1980/OvppOYBNtPhkW4LbRcxOVss5BLZZb4M7WNNlE9FU.pdf",
+        "file": "tmp/docs/1980-minister-of-economic-development-transpo.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1980",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "id": "1979",
+    "number": "ނެތް",
+    "sitting": "12th Sitting of Third session of 2026",
+    "type": "Other",
+    "status": "Ongoing",
+    "summary": "Presentation of the 2027 Budget in accordance with Article 96(h) of the Constitution",
+    "title": "Budget 2027",
+    "sponsor": {
+      "constituency": "",
+      "name": "Table"
+    },
+    "stages": [
+      {
+        "name": "Ongoing",
+        "state": "current"
+      }
+    ],
+    "committeeId": null,
+    "sittings": [],
+    "documents": [
+      {
+        "label": "Budget 2027",
+        "url": "https://majlis.gov.mv/storage/action_files/1979/VlM4V0nTeqPbP9dsuv6VGeCPtqpFbrOUD9AIzYKN.pdf",
+        "file": "tmp/docs/1979-budget-2027.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1979",
+    "fetchedAt": "2026-11-09"
+  },
+  {
     "id": "1977",
     "number": "M20/R/ML/2026/12",
     "sitting": "11th Sitting of third session of 2026",
@@ -22,17 +87,15 @@
     "documents": [
       {
         "label": "Committee report",
-        "url": "https://majlis.gov.mv/storage/action_files/1977/XvQhpMvBTx4EC70fH04SNmXO42Mf0uOHkm0OpUVc.pdf",
-        "file": "tmp/docs/1977-committee-report.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1977/XvQhpMvBTx4EC70fH04SNmXO42Mf0uOHkm0OpUVc.pdf"
       },
       {
         "label": "Report passed at Parliament",
-        "url": "https://majlis.gov.mv/storage/action_files/1977/WIs7iRJ58Ogk6I7oIgNqYvuk8Vph22oQvr6UdW2X.pdf",
-        "file": "tmp/docs/1977-report-passed-at-parliament.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1977/WIs7iRJ58Ogk6I7oIgNqYvuk8Vph22oQvr6UdW2X.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1977",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1976",
@@ -57,33 +120,35 @@
     "documents": [
       {
         "label": "Committee report",
-        "url": "https://majlis.gov.mv/storage/action_files/1976/EhMo08XKwTP9QJvQcRWdNMoRlkgPB4KXe7mCA6uP.pdf",
-        "file": "tmp/docs/1976-committee-report.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1976/EhMo08XKwTP9QJvQcRWdNMoRlkgPB4KXe7mCA6uP.pdf"
       },
       {
         "label": "Report passed at Parliament",
-        "url": "https://majlis.gov.mv/storage/action_files/1976/ClsGzt6TjEDAUlZbbmj4T7Fsja11SzYIJf0VToai.pdf",
-        "file": "tmp/docs/1976-report-passed-at-parliament.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1976/ClsGzt6TjEDAUlZbbmj4T7Fsja11SzYIJf0VToai.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1976",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1974",
     "number": "20/2026/ޤ-9",
     "sitting": "11th Sitting of third session of 2026",
     "type": "Resolutions",
-    "status": "First Reading",
+    "status": "Rejected by Vote",
     "summary": "Resolution to ascertain the views of the Members of Parliament on the Government's decision to separate fourteen lands of the Male’ City Council and declare them as State property, sponsored by Hon. Meekail Ahmed Nasym, MP for South Galolhu",
     "title": "Resolution to ascertain the views of the Members of Parliament on the Government's decision to separate fourteen lands of the Male’ City Council and declare them as State property",
     "sponsor": {
-      "constituency": "North Hulhumale'",
-      "name": "Hussain Shareef"
+      "constituency": "South Galolhu",
+      "name": "Meekail Ahmed Nasym"
     },
     "stages": [
       {
         "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Rejected by Vote",
         "state": "current"
       }
     ],
@@ -93,33 +158,45 @@
         "id": "1079",
         "title": "11th Sitting of third session of 2026",
         "date": "2026-10-28"
+      },
+      {
+        "id": "1084",
+        "title": "14th Sitting of Third session of 2026",
+        "date": "2026-11-04"
       }
     ],
     "documents": [
       {
         "label": "Resolution",
-        "url": "https://majlis.gov.mv/storage/action_files/1974/q7A82E3RR9VO1KGpw4h9bsixAM4r7tL1gRnRT8Xz.pdf",
-        "file": "tmp/docs/1974-resolution.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1974/q7A82E3RR9VO1KGpw4h9bsixAM4r7tL1gRnRT8Xz.pdf"
+      },
+      {
+        "label": "Resolution rejected by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1974/wrvWFpbNp8EPiUbyI2GOEbeUGbPNVUqGWfuBp8nR.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1974",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1973",
     "number": "20/2026/ޤ-7",
     "sitting": "11th Sitting of third session of 2026",
     "type": "Resolutions",
-    "status": "First Reading",
+    "status": "Rejected by Vote",
     "summary": "Resolution to determine the consensus among Members of Parliament regarding removal of three Supreme Court judges on the basis of unsubstantiated allegations, sponsored by Hon. Mohamed Ibrahim, MP for North Galolhu",
     "title": "Resolution to ascertain the views of the Members of Parliament on the removal of three Supreme Court judges on the basis of unsubstantiated allegations",
     "sponsor": {
-      "constituency": "North Hulhumale'",
-      "name": "Hussain Shareef"
+      "constituency": "North Galolhu",
+      "name": "Mohamed Ibrahim"
     },
     "stages": [
       {
         "name": "First Reading",
+        "state": "completed"
+      },
+      {
+        "name": "Rejected by Vote",
         "state": "current"
       }
     ],
@@ -129,17 +206,25 @@
         "id": "1079",
         "title": "11th Sitting of third session of 2026",
         "date": "2026-10-28"
+      },
+      {
+        "id": "1083",
+        "title": "13th Sitting of Third session of 2026",
+        "date": "2026-11-02"
       }
     ],
     "documents": [
       {
         "label": "Resolution",
-        "url": "https://majlis.gov.mv/storage/action_files/1973/4OISqa7DC55FZ1pgCpXE3pDmqOGe1wrnRTlBgo5G.pdf",
-        "file": "tmp/docs/1973-resolution.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1973/4OISqa7DC55FZ1pgCpXE3pDmqOGe1wrnRTlBgo5G.pdf"
+      },
+      {
+        "label": "Resolution rejected by vote",
+        "url": "https://majlis.gov.mv/storage/action_files/1973/ukEXjCTsXnF3FTDTzq6knG7GRiGBxsvD2JUet6uC.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1973",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1970",
@@ -164,17 +249,15 @@
     "documents": [
       {
         "label": "Committee Report",
-        "url": "https://majlis.gov.mv/storage/action_files/1970/tnykrFWm3QWBsyJbp6ZnKpJjFCktqMwSlLp2mH37.pdf",
-        "file": "tmp/docs/1970-committee-report.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1970/tnykrFWm3QWBsyJbp6ZnKpJjFCktqMwSlLp2mH37.pdf"
       },
       {
         "label": "Report passed at parliament",
-        "url": "https://majlis.gov.mv/storage/action_files/1970/qM7sBHYPamHncjtXl4CXPZpfEYA1ay4EYjNoHWcl.pdf",
-        "file": "tmp/docs/1970-report-passed-at-parliament.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1970/qM7sBHYPamHncjtXl4CXPZpfEYA1ay4EYjNoHWcl.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1970",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1965",
@@ -199,17 +282,15 @@
     "documents": [
       {
         "label": "Committee Report",
-        "url": "https://majlis.gov.mv/storage/action_files/1965/vVQvnIWbnRReqvIqOG48TbRJ1rAzU81gNFwipknU.pdf",
-        "file": "tmp/docs/1965-committee-report.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1965/vVQvnIWbnRReqvIqOG48TbRJ1rAzU81gNFwipknU.pdf"
       },
       {
         "label": "Report passed at parliament",
-        "url": "https://majlis.gov.mv/storage/action_files/1965/2314PCeTevx4bT06ToOESCzqeG56W7RSEz4ffjWz.pdf",
-        "file": "tmp/docs/1965-report-passed-at-parliament.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1965/2314PCeTevx4bT06ToOESCzqeG56W7RSEz4ffjWz.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1965",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1964",
@@ -234,12 +315,11 @@
     "documents": [
       {
         "label": "Petition",
-        "url": "https://majlis.gov.mv/storage/action_files/1964/rWpCdBHQi5Mqr4HWWjoZWaTrJSdDg48nytqdkwK1.pdf",
-        "file": "tmp/docs/1964-petition.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1964/rWpCdBHQi5Mqr4HWWjoZWaTrJSdDg48nytqdkwK1.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1964",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1963",
@@ -264,12 +344,11 @@
     "documents": [
       {
         "label": "Petition",
-        "url": "https://majlis.gov.mv/storage/action_files/1963/9KXeZjPkRA8eBP4WbXUC6loLo2MKKj8ymQN5ti1f.pdf",
-        "file": "tmp/docs/1963-petition.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1963/9KXeZjPkRA8eBP4WbXUC6loLo2MKKj8ymQN5ti1f.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1963",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1962",
@@ -294,32 +373,27 @@
     "documents": [
       {
         "label": "Motion",
-        "url": "https://majlis.gov.mv/storage/action_files/1962/S3tTSMVM4LeQ93Um6gF3NfcCUYqSKfSSN7zCVgEy.pdf",
-        "file": "tmp/docs/1962-motion.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1962/S3tTSMVM4LeQ93Um6gF3NfcCUYqSKfSSN7zCVgEy.pdf"
       },
       {
         "label": "Committee Report",
-        "url": "https://majlis.gov.mv/storage/action_files/1962/c81dtw4J13esvielisLddexLd6LfY6ewcghGGSot.pdf",
-        "file": "tmp/docs/1962-committee-report.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1962/c81dtw4J13esvielisLddexLd6LfY6ewcghGGSot.pdf"
       },
       {
         "label": "MP Mohamed Ibrahim's amendment to the report",
-        "url": "https://majlis.gov.mv/storage/action_files/1962/8CMKt21wfGn2qGHkAsZrmHWmHJej7bLPik6lMK3P.pdf",
-        "file": "tmp/docs/1962-mp-mohamed-ibrahims-amendment-to-the-report.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1962/8CMKt21wfGn2qGHkAsZrmHWmHJej7bLPik6lMK3P.pdf"
       },
       {
         "label": "Parliament rejected MP Mohamed Ibrahim's amendment to the report",
-        "url": "https://majlis.gov.mv/storage/action_files/1962/7R2PCfF84V6QTFZhkopwRwZ60Yhyz8IrBWHT5GCE.pdf",
-        "file": "tmp/docs/1962-parliament-rejected-mp-mohamed-ibrahims-amendment-to-the-report.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1962/7R2PCfF84V6QTFZhkopwRwZ60Yhyz8IrBWHT5GCE.pdf"
       },
       {
         "label": "Report passed at parliament",
-        "url": "https://majlis.gov.mv/storage/action_files/1962/nZ2rHk8EJ369g05asu1JqW9FMocG8Sn0vnYFy6PZ.pdf",
-        "file": "tmp/docs/1962-report-passed-at-parliament.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1962/nZ2rHk8EJ369g05asu1JqW9FMocG8Sn0vnYFy6PZ.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1962",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1961",
@@ -344,12 +418,11 @@
     "documents": [
       {
         "label": "Question & Answer",
-        "url": "https://majlis.gov.mv/storage/action_files/1961/JBz0TfhDQwQb6gS7VLbP5IY2aWCeoSVC1zqlJTHE.pdf",
-        "file": "tmp/docs/1961-question-answer.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1961/JBz0TfhDQwQb6gS7VLbP5IY2aWCeoSVC1zqlJTHE.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1961",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1960",
@@ -374,12 +447,11 @@
     "documents": [
       {
         "label": "Question & Answer",
-        "url": "https://majlis.gov.mv/storage/action_files/1960/tFV5G86HqdceogI0WzuId46ZiSx6aqH6CpFPDJtw.pdf",
-        "file": "tmp/docs/1960-question-answer.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1960/tFV5G86HqdceogI0WzuId46ZiSx6aqH6CpFPDJtw.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1960",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1959",
@@ -428,17 +500,15 @@
     "documents": [
       {
         "label": "Resolution",
-        "url": "https://majlis.gov.mv/storage/action_files/1959/48srs3ld4zVAJ7H9kirg4aiBl5atXOKhvuppkjyS.pdf",
-        "file": "tmp/docs/1959-resolution.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1959/48srs3ld4zVAJ7H9kirg4aiBl5atXOKhvuppkjyS.pdf"
       },
       {
         "label": "Resolution rejected by vote",
-        "url": "https://majlis.gov.mv/storage/action_files/1959/kMeM9qwIbWDUNS2muTJKaykjwKSLflfun2FVzI7j.pdf",
-        "file": "tmp/docs/1959-resolution-rejected-by-vote.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1959/kMeM9qwIbWDUNS2muTJKaykjwKSLflfun2FVzI7j.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1959",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1957",
@@ -463,22 +533,19 @@
     "documents": [
       {
         "label": "Motion",
-        "url": "https://majlis.gov.mv/storage/action_files/1957/q4ztTH0uuwqeJZ0M8U9FdvcDwtOlDVIQ6s5Tf1gO.pdf",
-        "file": "tmp/docs/1957-motion.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1957/q4ztTH0uuwqeJZ0M8U9FdvcDwtOlDVIQ6s5Tf1gO.pdf"
       },
       {
         "label": "Committee Report",
-        "url": "https://majlis.gov.mv/storage/action_files/1957/iGdYLD74Ex9zsxB5Mqttm0FamovYSNbDBahPxhhr.pdf",
-        "file": "tmp/docs/1957-committee-report.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1957/iGdYLD74Ex9zsxB5Mqttm0FamovYSNbDBahPxhhr.pdf"
       },
       {
         "label": "Report passed at parliament",
-        "url": "https://majlis.gov.mv/storage/action_files/1957/7kRfmTZQtlYmxFndgWmJOjjwLcIrqBXXREXUWuAF.pdf",
-        "file": "tmp/docs/1957-report-passed-at-parliament.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1957/7kRfmTZQtlYmxFndgWmJOjjwLcIrqBXXREXUWuAF.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1957",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1956",
@@ -515,7 +582,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1956",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1955",
@@ -540,13 +607,11 @@
     "documents": [
       {
         "label": "Motion",
-        "url": "https://majlis.gov.mv/storage/action_files/1955/mwKJoeEUGMlX29uWaN60Hsj1OIS85yFItJMd8SkG.pdf",
-        "file": "tmp/docs/1955-motion.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1955/mwKJoeEUGMlX29uWaN60Hsj1OIS85yFItJMd8SkG.pdf"
       },
       {
         "label": "Committee Report",
-        "url": "https://majlis.gov.mv/storage/action_files/1955/tTbJzgdrfROChRaz0QaFWqcBDTY8g4lOVRXRR03y.pdf",
-        "file": "tmp/docs/1955-committee-report.pdf"
+        "url": "https://majlis.gov.mv/storage/action_files/1955/tTbJzgdrfROChRaz0QaFWqcBDTY8g4lOVRXRR03y.pdf"
       },
       {
         "label": "Parliament passed Hon. Ahmed Shafneez as Deputy Commissioner General of Taxation",
@@ -554,7 +619,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1955",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1954",
@@ -591,7 +656,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1954",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1953",
@@ -624,7 +689,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1953",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1950",
@@ -653,7 +718,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1950",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1949",
@@ -682,7 +747,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1949",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1948",
@@ -719,7 +784,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1948",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1947",
@@ -748,7 +813,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1947",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1946",
@@ -781,7 +846,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1946",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1945",
@@ -814,7 +879,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1945",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1943",
@@ -851,7 +916,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1943",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1942",
@@ -884,7 +949,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1942",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1941",
@@ -921,7 +986,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1941",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1940",
@@ -958,7 +1023,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1940",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1938",
@@ -987,7 +1052,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1938",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1937",
@@ -1020,7 +1085,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1937",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1936",
@@ -1053,7 +1118,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1936",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1933",
@@ -1086,7 +1151,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1933",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1932",
@@ -1123,7 +1188,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1932",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1931",
@@ -1156,7 +1221,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1931",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1930",
@@ -1189,7 +1254,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1930",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1928",
@@ -1230,7 +1295,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1928",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1927",
@@ -1263,7 +1328,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1927",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1926",
@@ -1296,7 +1361,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1926",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1925",
@@ -1325,7 +1390,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1925",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1924",
@@ -1354,7 +1419,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1924",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1923",
@@ -1383,7 +1448,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1923",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1921",
@@ -1416,7 +1481,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1921",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1920",
@@ -1449,7 +1514,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1920",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1919",
@@ -1482,7 +1547,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1919",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1917",
@@ -1515,7 +1580,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1917",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1916",
@@ -1548,7 +1613,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1916",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1915",
@@ -1581,7 +1646,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1915",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1914",
@@ -1647,7 +1712,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1914",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1911",
@@ -1680,7 +1745,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1911",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1910",
@@ -1717,7 +1782,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1910",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1909",
@@ -1750,7 +1815,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1909",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1908",
@@ -1787,7 +1852,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1908",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1907",
@@ -1820,7 +1885,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1907",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1906",
@@ -1853,7 +1918,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1906",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1905",
@@ -1886,7 +1951,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1905",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1904",
@@ -1919,7 +1984,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1904",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1903",
@@ -1952,7 +2017,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1903",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1902",
@@ -2027,7 +2092,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1902",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1901",
@@ -2064,7 +2129,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1901",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1900",
@@ -2097,7 +2162,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1900",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1898",
@@ -2134,7 +2199,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1898",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1897",
@@ -2167,7 +2232,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1897",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1896",
@@ -2200,7 +2265,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1896",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1895",
@@ -2233,7 +2298,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1895",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1894",
@@ -2270,7 +2335,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1894",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1893",
@@ -2303,7 +2368,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1893",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1892",
@@ -2340,7 +2405,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1892",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1891",
@@ -2373,7 +2438,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1891",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1890",
@@ -2406,7 +2471,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1890",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1889",
@@ -2439,7 +2504,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1889",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1886",
@@ -2476,7 +2541,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1886",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1885",
@@ -2513,7 +2578,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1885",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1884",
@@ -2550,7 +2615,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1884",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1883",
@@ -2587,7 +2652,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1883",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1882",
@@ -2640,7 +2705,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1882",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1879",
@@ -2692,7 +2757,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1879",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1878",
@@ -2727,7 +2792,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1878",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1877",
@@ -2756,7 +2821,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1877",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1876",
@@ -2785,7 +2850,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1876",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1875",
@@ -2814,7 +2879,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1875",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1874",
@@ -2855,7 +2920,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1874",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1869",
@@ -2888,7 +2953,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1869",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1868",
@@ -2944,7 +3009,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1868",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1867",
@@ -2977,7 +3042,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1867",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1866",
@@ -3010,7 +3075,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1866",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1865",
@@ -3043,7 +3108,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1865",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1864",
@@ -3080,7 +3145,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1864",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1863",
@@ -3113,7 +3178,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1863",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1862",
@@ -3146,7 +3211,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1862",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1860",
@@ -3179,7 +3244,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1860",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1858",
@@ -3220,7 +3285,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1858",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1857",
@@ -3301,7 +3366,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1857",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1856",
@@ -3334,7 +3399,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1856",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1855",
@@ -3367,7 +3432,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1855",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1854",
@@ -3437,7 +3502,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1854",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1852",
@@ -3470,7 +3535,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1852",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1851",
@@ -3503,7 +3568,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1851",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1850",
@@ -3532,7 +3597,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1850",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1849",
@@ -3569,7 +3634,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1849",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1848",
@@ -3618,7 +3683,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1848",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1847",
@@ -3679,7 +3744,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1847",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1844",
@@ -3716,7 +3781,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1844",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1843",
@@ -3753,7 +3818,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1843",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1842",
@@ -3798,7 +3863,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1842",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1841",
@@ -3835,7 +3900,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1841",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1840",
@@ -3872,7 +3937,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1840",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1839",
@@ -3909,7 +3974,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1839",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1833",
@@ -3946,7 +4011,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1833",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1829",
@@ -3983,7 +4048,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1829",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1826",
@@ -4016,7 +4081,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1826",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1825",
@@ -4053,7 +4118,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1825",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1824",
@@ -4090,7 +4155,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1824",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1821",
@@ -4119,7 +4184,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1821",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1820",
@@ -4156,7 +4221,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1820",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1819",
@@ -4189,7 +4254,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1819",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1818",
@@ -4222,7 +4287,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1818",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1817",
@@ -4255,7 +4320,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1817",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1815",
@@ -4312,7 +4377,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1815",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1813",
@@ -4369,7 +4434,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1813",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1812",
@@ -4410,7 +4475,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1812",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1811",
@@ -4439,7 +4504,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1811",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1810",
@@ -4468,7 +4533,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1810",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1809",
@@ -4497,7 +4562,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1809",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1808",
@@ -4526,7 +4591,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1808",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1804",
@@ -4563,7 +4628,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1804",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1802",
@@ -4615,7 +4680,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1802",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1801",
@@ -4652,7 +4717,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1801",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1800",
@@ -4681,7 +4746,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1800",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1799",
@@ -4710,7 +4775,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1799",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1798",
@@ -4739,7 +4804,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1798",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1796",
@@ -4772,7 +4837,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1796",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1795",
@@ -4805,7 +4870,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1795",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1794",
@@ -4838,7 +4903,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1794",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1793",
@@ -4871,7 +4936,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1793",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1792",
@@ -4904,7 +4969,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1792",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1791",
@@ -4937,7 +5002,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1791",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1790",
@@ -4974,7 +5039,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1790",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1789",
@@ -5007,7 +5072,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1789",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1788",
@@ -5040,7 +5105,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1788",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1787",
@@ -5115,7 +5180,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1787",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1786",
@@ -5148,7 +5213,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1786",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1785",
@@ -5181,7 +5246,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1785",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1784",
@@ -5233,7 +5298,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1784",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1782",
@@ -5266,7 +5331,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1782",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1781",
@@ -5299,7 +5364,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1781",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1780",
@@ -5332,7 +5397,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1780",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1779",
@@ -5389,7 +5454,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1779",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1778",
@@ -5426,7 +5491,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1778",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1777",
@@ -5459,7 +5524,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1777",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1776",
@@ -5492,7 +5557,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1776",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1775",
@@ -5537,7 +5602,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1775",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1773",
@@ -5566,7 +5631,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1773",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1772",
@@ -5595,7 +5660,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1772",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1770",
@@ -5624,7 +5689,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1770",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1769",
@@ -5653,7 +5718,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1769",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1768",
@@ -5682,7 +5747,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1768",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1767",
@@ -5706,7 +5771,7 @@
     "sittings": [],
     "documents": [],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1767",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1766",
@@ -5759,7 +5824,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1766",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1765",
@@ -5792,7 +5857,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1765",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1764",
@@ -5829,7 +5894,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1764",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1761",
@@ -5858,7 +5923,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1761",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1760",
@@ -5887,7 +5952,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1760",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1759",
@@ -5916,7 +5981,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1759",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1758",
@@ -5945,7 +6010,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1758",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1757",
@@ -5974,7 +6039,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1757",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1755",
@@ -6011,7 +6076,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1755",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1754",
@@ -6048,7 +6113,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1754",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1753",
@@ -6093,7 +6158,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1753",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1752",
@@ -6142,7 +6207,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1752",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1751",
@@ -6183,7 +6248,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1751",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1750",
@@ -6216,7 +6281,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1750",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1748",
@@ -6329,7 +6394,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1748",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1747",
@@ -6366,7 +6431,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1747",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1746",
@@ -6407,7 +6472,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1746",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1744",
@@ -6440,7 +6505,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1744",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1743",
@@ -6477,7 +6542,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1743",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1740",
@@ -6522,7 +6587,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1740",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1739",
@@ -6555,7 +6620,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1739",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1738",
@@ -6592,7 +6657,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1738",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1737",
@@ -6621,7 +6686,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1737",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1736",
@@ -6658,7 +6723,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1736",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1735",
@@ -6691,7 +6756,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1735",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1734",
@@ -6724,7 +6789,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1734",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1731",
@@ -6761,7 +6826,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1731",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1730",
@@ -6810,7 +6875,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1730",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1726",
@@ -6871,7 +6936,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1726",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1723",
@@ -6927,7 +6992,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1723",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1713",
@@ -6964,7 +7029,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1713",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1711",
@@ -6997,7 +7062,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1711",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1710",
@@ -7034,7 +7099,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1710",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1709",
@@ -7067,7 +7132,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1709",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1708",
@@ -7100,7 +7165,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1708",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1706",
@@ -7133,7 +7198,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1706",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1705",
@@ -7166,7 +7231,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1705",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1702",
@@ -7199,7 +7264,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1702",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1701",
@@ -7228,7 +7293,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1701",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1700",
@@ -7261,7 +7326,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1700",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1699",
@@ -7294,7 +7359,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1699",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1696",
@@ -7343,7 +7408,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1696",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1695",
@@ -7376,7 +7441,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1695",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1694",
@@ -7446,7 +7511,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1694",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1693",
@@ -7479,7 +7544,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1693",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1692",
@@ -7544,7 +7609,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1692",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1691",
@@ -7577,7 +7642,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1691",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1690",
@@ -7618,7 +7683,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1690",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1689",
@@ -7655,7 +7720,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1689",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1688",
@@ -7692,7 +7757,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1688",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1687",
@@ -7729,7 +7794,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1687",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1686",
@@ -7762,7 +7827,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1686",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1685",
@@ -7795,7 +7860,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1685",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1683",
@@ -7828,7 +7893,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1683",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1682",
@@ -7865,7 +7930,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1682",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1681",
@@ -7898,7 +7963,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1681",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1680",
@@ -7931,7 +7996,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1680",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1678",
@@ -7964,7 +8029,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1678",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1677",
@@ -7997,7 +8062,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1677",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1676",
@@ -8030,7 +8095,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1676",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1675",
@@ -8063,7 +8128,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1675",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1674",
@@ -8096,7 +8161,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1674",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1673",
@@ -8133,7 +8198,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1673",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1672",
@@ -8170,7 +8235,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1672",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1671",
@@ -8203,7 +8268,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1671",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1669",
@@ -8240,7 +8305,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1669",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1668",
@@ -8269,7 +8334,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1668",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1667",
@@ -8298,7 +8363,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1667",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1666",
@@ -8331,7 +8396,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1666",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1665",
@@ -8364,7 +8429,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1665",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1663",
@@ -8397,7 +8462,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1663",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1662",
@@ -8430,7 +8495,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1662",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1661",
@@ -8487,7 +8552,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1661",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1660",
@@ -8524,7 +8589,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1660",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1659",
@@ -8573,7 +8638,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1659",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1658",
@@ -8606,7 +8671,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1658",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1657",
@@ -8639,7 +8704,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1657",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1655",
@@ -8672,7 +8737,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1655",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1654",
@@ -8705,7 +8770,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1654",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1653",
@@ -8738,7 +8803,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1653",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1652",
@@ -8783,7 +8848,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1652",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1651",
@@ -8820,7 +8885,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1651",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1650",
@@ -8857,7 +8922,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1650",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1649",
@@ -8894,7 +8959,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1649",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1648",
@@ -8931,7 +8996,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1648",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1647",
@@ -8983,7 +9048,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1647",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1646",
@@ -9020,7 +9085,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1646",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1645",
@@ -9057,7 +9122,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1645",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1642",
@@ -9086,7 +9151,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1642",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1641",
@@ -9127,7 +9192,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1641",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1639",
@@ -9164,7 +9229,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1639",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1638",
@@ -9193,7 +9258,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1638",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1637",
@@ -9222,7 +9287,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1637",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1636",
@@ -9251,7 +9316,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1636",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1635",
@@ -9284,7 +9349,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1635",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1634",
@@ -9317,7 +9382,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1634",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1633",
@@ -9354,7 +9419,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1633",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1632",
@@ -9383,7 +9448,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1632",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1631",
@@ -9412,7 +9477,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1631",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1630",
@@ -9441,7 +9506,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1630",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1629",
@@ -9470,7 +9535,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1629",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1627",
@@ -9511,7 +9576,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1627",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1626",
@@ -9548,7 +9613,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1626",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1625",
@@ -9577,7 +9642,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1625",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1624",
@@ -9606,7 +9671,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1624",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1623",
@@ -9635,7 +9700,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1623",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1622",
@@ -9668,7 +9733,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1622",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1621",
@@ -9705,7 +9770,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1621",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1620",
@@ -9742,7 +9807,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1620",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1618",
@@ -9791,7 +9856,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1618",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1617",
@@ -9820,7 +9885,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1617",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1616",
@@ -9861,7 +9926,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1616",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1615",
@@ -9898,7 +9963,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1615",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1614",
@@ -9935,7 +10000,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1614",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1613",
@@ -9972,7 +10037,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1613",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1612",
@@ -10001,7 +10066,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1612",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1611",
@@ -10038,7 +10103,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1611",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1610",
@@ -10079,7 +10144,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1610",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1609",
@@ -10116,7 +10181,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1609",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1608",
@@ -10153,7 +10218,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1608",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1607",
@@ -10190,7 +10255,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1607",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1606",
@@ -10223,7 +10288,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1606",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1605",
@@ -10260,7 +10325,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1605",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1603",
@@ -10301,7 +10366,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1603",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1602",
@@ -10338,7 +10403,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1602",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1601",
@@ -10375,7 +10440,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1601",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1600",
@@ -10408,7 +10473,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1600",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1598",
@@ -10449,7 +10514,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1598",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1595",
@@ -10498,7 +10563,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1595",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1594",
@@ -10535,7 +10600,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1594",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1593",
@@ -10576,7 +10641,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1593",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1592",
@@ -10621,7 +10686,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1592",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1591",
@@ -10654,7 +10719,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1591",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1590",
@@ -10687,7 +10752,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1590",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1589",
@@ -10720,7 +10785,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1589",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1588",
@@ -10753,7 +10818,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1588",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1586",
@@ -10790,7 +10855,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1586",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1585",
@@ -10827,7 +10892,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1585",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1582",
@@ -10860,7 +10925,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1582",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1581",
@@ -10912,7 +10977,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1581",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1578",
@@ -10941,7 +11006,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1578",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1577",
@@ -10974,7 +11039,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1577",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1576",
@@ -11007,7 +11072,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1576",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1575",
@@ -11044,7 +11109,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1575",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1574",
@@ -11081,7 +11146,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1574",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1573",
@@ -11118,7 +11183,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1573",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1570",
@@ -11147,7 +11212,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1570",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1568",
@@ -11188,7 +11253,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1568",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1567",
@@ -11221,7 +11286,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1567",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1566",
@@ -11250,7 +11315,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1566",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1565",
@@ -11302,7 +11367,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1565",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1564",
@@ -11335,7 +11400,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1564",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1562",
@@ -11380,7 +11445,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1562",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1561",
@@ -11413,7 +11478,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1561",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1560",
@@ -11446,7 +11511,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1560",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1558",
@@ -11475,7 +11540,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1558",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1557",
@@ -11508,7 +11573,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1557",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1554",
@@ -11541,7 +11606,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1554",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1553",
@@ -11586,7 +11651,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1553",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1552",
@@ -11623,7 +11688,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1552",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1551",
@@ -11656,7 +11721,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1551",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1549",
@@ -11717,7 +11782,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1549",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1548",
@@ -11750,7 +11815,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1548",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1547",
@@ -11783,7 +11848,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1547",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1545",
@@ -11820,7 +11885,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1545",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1544",
@@ -11853,7 +11918,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1544",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1543",
@@ -11886,7 +11951,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1543",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1542",
@@ -11919,7 +11984,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1542",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1541",
@@ -11956,7 +12021,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1541",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1540",
@@ -11993,7 +12058,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1540",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1539",
@@ -12030,7 +12095,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1539",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1538",
@@ -12075,7 +12140,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1538",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1534",
@@ -12112,7 +12177,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1534",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1532",
@@ -12145,7 +12210,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1532",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1531",
@@ -12178,7 +12243,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1531",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1530",
@@ -12211,7 +12276,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1530",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1529",
@@ -12244,7 +12309,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1529",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1528",
@@ -12277,7 +12342,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1528",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1527",
@@ -12310,7 +12375,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1527",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1526",
@@ -12343,7 +12408,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1526",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1524",
@@ -12380,7 +12445,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1524",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1523",
@@ -12413,7 +12478,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1523",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1521",
@@ -12442,7 +12507,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1521",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1520",
@@ -12475,7 +12540,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1520",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1515",
@@ -12508,7 +12573,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1515",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1512",
@@ -12541,7 +12606,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1512",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1511",
@@ -12574,7 +12639,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1511",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1510",
@@ -12607,7 +12672,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1510",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1509",
@@ -12640,7 +12705,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1509",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1507",
@@ -12673,7 +12738,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1507",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1506",
@@ -12706,7 +12771,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1506",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1503",
@@ -12747,7 +12812,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1503",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1502",
@@ -12784,7 +12849,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1502",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1500",
@@ -12821,7 +12886,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1500",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1499",
@@ -12854,7 +12919,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1499",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1498",
@@ -12887,7 +12952,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1498",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1497",
@@ -12920,7 +12985,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1497",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1495",
@@ -12957,7 +13022,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1495",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1494",
@@ -12990,7 +13055,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1494",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1493",
@@ -13023,7 +13088,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1493",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1492",
@@ -13060,7 +13125,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1492",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1491",
@@ -13093,7 +13158,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1491",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1490",
@@ -13126,7 +13191,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1490",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1487",
@@ -13159,7 +13224,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1487",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1484",
@@ -13196,7 +13261,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1484",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1482",
@@ -13233,7 +13298,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1482",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1481",
@@ -13270,7 +13335,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1481",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1479",
@@ -13327,7 +13392,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1479",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1476",
@@ -13356,7 +13421,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1476",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1475",
@@ -13389,7 +13454,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1475",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1472",
@@ -13430,7 +13495,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1472",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1471",
@@ -13463,7 +13528,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1471",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1470",
@@ -13504,7 +13569,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1470",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1468",
@@ -13537,7 +13602,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1468",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1467",
@@ -13570,7 +13635,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1467",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1466",
@@ -13615,7 +13680,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1466",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1465",
@@ -13648,7 +13713,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1465",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1464",
@@ -13681,7 +13746,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1464",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1463",
@@ -13714,7 +13779,7 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1463",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "1462",
@@ -13743,6 +13808,6 @@
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/parliament-work/1462",
-    "fetchedAt": "2026-11-01"
+    "fetchedAt": "2026-11-09"
   }
 ]
