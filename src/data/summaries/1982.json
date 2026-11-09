@@ -1,0 +1,22 @@
+{
+  "workId": "1982",
+  "titleDv": "ނަމާއި އަބުރު ރައްކާތެރިކުރުމުގެ ޙައްޤުގެ ބިލު",
+  "summary": "This government bill creates a new law on the right to protect one's name and reputation under Article 33 of the Constitution. It makes defamation a civil wrong (not a crime): saying, publishing or spreading a false statement about an identifiable person or organisation, on purpose or without reasonable care, that harms how others see them. True statements and honest opinions based on true facts are not defamation. It lists protected situations, such as speeches inside Parliament and court proceedings, sets up an out-of-court process for apologies, corrections and compensation, and lets courts award damages of up to MVR 500,000. It would also repeal the existing defamation compensation regulation under the General Regulations Act (Law No. 6/2008).",
+  "whyItMatters": "Anyone who posts, writes, broadcasts or says something false about a person or company, including on social media, could be sued and ordered to apologise, take the content down and pay up to MVR 500,000 in compensation. Government institutions and independent commissions cannot bring defamation cases under this law.",
+  "keyProvisions": [
+    "Articles 4 and 12 apply the law to individuals, companies, registered media and online platforms, and to statements made abroad that are available in the Maldives. Online authors, publishers and people who share defamatory content, plus editors and website owners of online papers, can be held liable; internet service providers cannot.",
+    "Articles 9 to 11 define defamation as a false statement, made public to a third party and pointing to the person (by name, photo, or clear reference), that lowers their standing or causes them harm. Articles 13 to 16 exclude true statements and honest opinions clearly presented as opinion and based on true facts, and allow consent as a defence.",
+    "Articles 18 to 20 give full protection to what MPs say in sittings and committee meetings (but not outside them), to broadcasts and reports of Parliament, and to statements in court and tribunal proceedings. Articles 21 to 25 give conditional protection, if made in good faith and not with bad intent, to faithful reports of official investigations, government statements, public meetings, public registers and public company documents.",
+    "Articles 26 to 31 set an optional out-of-court route: the person defamed can send a written notice giving at least 7 days to respond, and the accused side can offer a correction, apology, takedown or compensation. An accepted offer must be signed and notarised, and then blocks a later court case on the same matter except to enforce the deal.",
+    "Articles 32 to 35 let only the person defamed (or someone acting for a child or person without legal capacity) sue, within 1 year, with courts to decide within 6 months. Printers, sellers and distributors can also be sued, and publishers if the author is unknown. Government institutions and independent commissions and state offices cannot sue.",
+    "Articles 36 to 45 let courts order apologies, corrections, takedowns and damages. Material loss is capped at MVR 500,000, and non-material harm to reputation is set between MVR 50,000 and MVR 500,000, with a lower amount possible if the defendant tried to settle. The Attorney General's Office must make regulations within 30 days, and the law takes effect 30 days after it is published in the Government Gazette."
+  ],
+  "whoIsAffected": "Social media users, journalists, newspapers, broadcasters, website owners, MPs and anyone whose reputation is harmed by false statements, including companies.",
+  "statedReasons": "The government says the bill gives legal protection to the constitutional right to name and reputation, balances it with freedom of expression, and sets out what counts as defamation, the exceptions and privileges, and how apologies, compensation and court claims work.",
+  "sourceDoc": "Bill",
+  "pagesRead": 43,
+  "pagesTotal": 43,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-09"
+}

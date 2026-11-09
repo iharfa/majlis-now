@@ -11,6 +11,10 @@
   <url><loc>https://majlis-now.vercel.app/search</loc></url>
   <url><loc>https://majlis-now.vercel.app/insights</loc></url>
   <url><loc>https://majlis-now.vercel.app/business</loc></url>
+  <url><loc>https://majlis-now.vercel.app/bills/bill-1984</loc></url>
+  <url><loc>https://majlis-now.vercel.app/bills/bill-1983</loc></url>
+  <url><loc>https://majlis-now.vercel.app/bills/bill-1982</loc></url>
+  <url><loc>https://majlis-now.vercel.app/bills/bill-1981</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1969</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1968</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1967</loc></url>
@@ -131,6 +135,9 @@
   <url><loc>https://majlis-now.vercel.app/bills/bill-1474</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1473</loc></url>
   <url><loc>https://majlis-now.vercel.app/bills/bill-1469</loc></url>
+  <url><loc>https://majlis-now.vercel.app/sittings/sitting-1085</loc></url>
+  <url><loc>https://majlis-now.vercel.app/sittings/sitting-1084</loc></url>
+  <url><loc>https://majlis-now.vercel.app/sittings/sitting-1083</loc></url>
   <url><loc>https://majlis-now.vercel.app/sittings/sitting-1081</loc></url>
   <url><loc>https://majlis-now.vercel.app/sittings/sitting-1079</loc></url>
   <url><loc>https://majlis-now.vercel.app/sittings/sitting-1078</loc></url>
@@ -486,6 +493,7 @@
   <url><loc>https://majlis-now.vercel.app/committees/cmt-152</loc></url>
   <url><loc>https://majlis-now.vercel.app/committees/cmt-153</loc></url>
   <url><loc>https://majlis-now.vercel.app/committees/cmt-154</loc></url>
+  <url><loc>https://majlis-now.vercel.app/committees/cmt-155</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1968-acceptance</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1967-acceptance</loc></url>
   <url><loc>https://majlis-now.vercel.app/votes/vote-1966-acceptance</loc></url>
