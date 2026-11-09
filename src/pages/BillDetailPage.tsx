@@ -1,4 +1,4 @@
-import { Link, useParams } from 'react-router-dom'
+import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { Container } from '@/components/ui/Container'
 import { BillTimeline } from '@/components/bills/BillTimeline'
 import { StatusPill } from '@/components/ui/StatusPill'
@@ -13,11 +13,13 @@ import { daysBetween, daysSince, formatDate } from '@/utils/format'
 import finalTextIds from '@/data/billtexts.json'
 import docTextsJson from '@/data/doctexts.json'
 import { DocText } from '@/components/ui/DocText'
+import { BilingualDocText } from '@/components/ui/BilingualDocText'
 
-const docTexts = docTextsJson as Array<{ key: string; workId: string; label: string; pages: number }>
+const docTexts = docTextsJson as Array<{ key: string; workId: string; label: string; pages: number; en?: boolean }>
 
 export function BillDetailPage() {
   const { id } = useParams()
+  const [params] = useSearchParams()
   const bill = id ? billById(id) : undefined
   if (!bill) return <NotFoundPage />
 
@@ -171,6 +173,8 @@ export function BillDetailPage() {
 
           {(finalTextIds as string[]).includes(workId) ? (
             <DocText url={`/billtexts/${workId}.json`} title="Full text as passed" source="final bill" />
+          ) : docTexts.some((d) => d.key === `${workId}-bill` && d.en) ? (
+            <BilingualDocText docKey={`${workId}-bill`} title="Full text as introduced: Dhivehi and English" source="bill" find={params.get('find') ?? ''} page={Number(params.get('page')) || 0} />
           ) : docTexts.some((d) => d.key === `${workId}-bill`) ? (
             <DocText url={`/doctexts/${workId}-bill.json`} title="Full text as introduced" source="bill" />
           ) : null}

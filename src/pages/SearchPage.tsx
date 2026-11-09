@@ -2,7 +2,8 @@ import { useMemo, useState, useEffect } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { Container } from '@/components/ui/Container'
 import { Icon } from '@/components/ui/Icon'
-import { search, type SearchHit } from '@/data'
+import { search, billById, type SearchHit } from '@/data'
+import { loadBillTexts, searchBillTexts, highlight, type BillText } from '@/data/fulltext'
 import { cn } from '@/utils/cn'
 
 const TABS = [
@@ -34,6 +35,12 @@ export function SearchPage() {
   }, [q, setParams])
 
   const hits = useMemo(() => search(q), [q])
+  const [texts, setTexts] = useState<BillText[]>([])
+  useEffect(() => {
+    if (q.trim().length >= 3) loadBillTexts().then(setTexts)
+  }, [q])
+  const textHits = useMemo(() => searchBillTexts(texts, q), [texts, q])
+  const showText = tab === 'all' || tab === 'bill'
   const filtered = tab === 'all' ? hits : hits.filter((h) => h.type === tab)
 
   return (
@@ -72,7 +79,7 @@ export function SearchPage() {
 
       {!q && <p className="text-on-surface-variant py-10 text-center">Start typing to search bills, MPs, votes, committees, sittings and themes.</p>}
 
-      {q && filtered.length === 0 && (
+      {q && filtered.length === 0 && !(showText && textHits.length) && (
         <p className="text-on-surface-variant py-10 text-center">No results for “{q}”.</p>
       )}
 
@@ -97,6 +104,33 @@ export function SearchPage() {
           )
         })}
       </div>
+
+      {showText && textHits.length > 0 && (
+        <section className="mt-8">
+          <h2 className="font-headline-md text-headline-md mb-1">In the text of bills</h2>
+          <p className="text-label-sm text-outline mb-3">Searches the AI English translations of bill texts. Check the official PDF for anything that matters.</p>
+          <div className="space-y-3">
+            {textHits.slice(0, 50).map((h) => (
+              <Link
+                key={`${h.workId}-${h.page}`}
+                to={`/bills/bill-${h.workId}?find=${encodeURIComponent(q.trim())}&page=${h.page}`}
+                className="flex items-start gap-4 bg-white rounded-xl border border-outline-variant/30 p-4 hover:shadow-md transition-all"
+              >
+                <span className="w-10 h-10 rounded-lg bg-surface-container flex items-center justify-center text-primary shrink-0">
+                  <Icon name="article" />
+                </span>
+                <div className="min-w-0 flex-1">
+                  <p className="font-label-bold text-on-surface truncate">{billById(`bill-${h.workId}`)?.title ?? `Bill ${h.workId}`}</p>
+                  <p className="text-label-sm text-outline mb-1">Page {h.page}</p>
+                  <p className="text-body-md text-on-surface-variant">{highlight(h.snippet, q.trim().toLowerCase())}</p>
+                </div>
+                <Icon name="arrow_forward" className="text-primary self-center" />
+              </Link>
+            ))}
+          </div>
+          {textHits.length > 50 && <p className="text-label-sm text-outline mt-3">Showing 50 of {textHits.length} pages. Refine your search to narrow it down.</p>}
+        </section>
+      )}
     </Container>
   )
 }

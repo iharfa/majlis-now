@@ -18,6 +18,7 @@ def is_treaty_page(text):
 q = json.load(open(os.path.join("tmp", "fulltext_queue.json"), encoding="utf-8"))
 os.makedirs(os.path.join("public", "doctexts"), exist_ok=True)
 index = []
+search = []  # English bill texts for full-text search (public/billsearch.json)
 for d in q:
     paths = [os.path.join(d["dir"], f"p{i:0{d['fileDigits']}d}.txt") for i in range(1, d["pages"] + 1)]
     if not all(os.path.exists(p) for p in paths):
@@ -40,6 +41,9 @@ for d in q:
                    "unreadable": sum(p.count("[unclear]") for p in pages_en), "model": "claude-opus-5-5",
                    "method": "Translated by Claude from the Dhivehi transcription", "generatedAt": "2026-10-21"},
                   open(os.path.join("public", "doctexts", f"{d['key']}.en.json"), "w", encoding="utf-8", newline="\n"), ensure_ascii=False)
+        if d["key"].endswith("-bill"):
+            search.append({"workId": d["workId"], "pages": pages_en})
     index.append({"key": d["key"], "workId": d["workId"], "label": d["label"], "pages": d["pages"], "en": has_en})
 json.dump(index, open(os.path.join("src", "data", "doctexts.json"), "w", encoding="utf-8", newline="\n"), ensure_ascii=False)
+json.dump(search, open(os.path.join("public", "billsearch.json"), "w", encoding="utf-8", newline="\n"), ensure_ascii=False)
 print(f"{len(index)} of {len(q)} documents assembled")
