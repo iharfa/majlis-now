@@ -1,0 +1,22 @@
+{
+  "workId": "1984",
+  "titleDv": "ރިއަލް އެސްޓޭޓް ވިޔަފާރީގެ ބިލު",
+  "summary": "This government bill creates a new Real Estate Business Act. It sets up a Property Regulatory Authority under the housing ministry. The Authority would license developers, brokers and valuers, register agents, register every real estate project, and keep the official registers of freehold and leasehold property. It also sets rules for selling flats before they are built, with buyers' money held in escrow, and it lets the President declare large 'Integrated Real Estate Zones' run by a master developer, where properties can be sold to foreigners on 99-year leases. It repeals Chapter 7 (strata development) of the Condominium Act (Law No. 33/2021). Some pages on zone service charges are hard to read, so a few details there are uncertain.",
+  "whyItMatters": "Anyone buying a flat from a developer would get a registered sale agreement, escrow protection for money paid before the building is finished, and a right to compensation for delays. Developers, brokers, agents and valuers would need licences, could face fines, and property sales would only be valid once registered with the Authority.",
+  "keyProvisions": [
+    "Articles 35 to 40 set up the Property Regulatory Authority under the ministry, led by a board appointed by the President for 5-year terms. Board members cannot hold shares or posts in real estate companies. Under Articles 42 to 44, a transfer of property is valid only once registered, and the buyer pays the Authority a 3% registration fee on the higher of market value or sale price.",
+    "Article 48 bans advertising, booking or selling units in a project before it is registered with the Authority. Article 54 caps a booking fee or advance at 10% of the price. Article 51 requires a registered sale and purchase agreement setting out the price, payment schedule, handover date, refunds and penalties.",
+    "Article 56 makes developers put money from off-plan buyers into an escrow account at a bank chosen by the Authority. It is released in stages as building work progresses, and 5% is held back until one year after the units are registered to buyers. Escrow and project-account money does not count as the developer's assets if it goes bankrupt or is wound up. Articles 58 and 59 require compensation for late completion and refunds when buyers withdraw.",
+    "Chapter 7 (Articles 69 to 75) lets owners of residential land, including government-allocated plots, partner with a developer under a registered development agreement. The landowner must get some units free of charge. Leaseholds on such plots must be for 25 to 99 years, and neighbouring plots can be combined into one project.",
+    "Chapter 8 (Articles 76 to 109) lets the President, on ministry advice, declare zones of at least 200 hectares, needing at least USD 1 billion of investment, leased to a master developer for at least 99 years. Units in zones carry a 4% lease registration fee and are exempt from capital gains and non-resident withholding tax. Goods and services in zones are taxed at the tourism GST rate. Buying in a zone gives no right to citizenship, and one nationality may hold no more than 25% of residential units or buildings. Importing, selling or using alcohol and gambling items is not allowed in zones (Article 77).",
+    "Article 110 says only companies or partnerships registered in the Maldives can get developer licences. Brokers, agents and valuers must be at least 21 and must not have a fraud or theft conviction in the last 5 years. Brokers and agents may not hold clients' money and must do anti-money-laundering checks. Article 150 sets fines of 10% to 30% of the project value for developers, MVR 100,000 to 1,000,000 for brokers and MVR 50,000 to 500,000 for agents. Complaints go to the Authority, then to its review committee, then to court within 30 days."
+  ],
+  "whoIsAffected": "People buying flats or leaseholds, owners of residential plots, real estate developers, brokers, agents and valuers, banks acting as escrow agents, and foreign buyers in the new zones.",
+  "statedReasons": "The government says the bill develops the real estate sector sustainably under a transparent and accountable system. It sets rules for registering developers, protects people who buy units in real estate projects, and creates a system to monitor everyone in the business.",
+  "sourceDoc": "Bill",
+  "pagesRead": 153,
+  "pagesTotal": 153,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-09"
+}
