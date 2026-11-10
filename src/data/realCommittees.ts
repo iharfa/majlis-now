@@ -483,12 +483,12 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "documents": [
       {
         "label": "Government Oversight Committee's Attendance report up to 31st August 2026 (20th Majlis)",
-        "url": "https://majlis.gov.mv/storage/committee_files/124/cifCxWbihFxowBtre5VKOgSzIojEFCSJqbwo0LRt.xlsx",
+        "url": "https://majlis.gov.mv/storage/committee_files/124/baMn0TOSCaBNqHLW6eT50npqBNXR5PAUnGcCglqt.xlsx",
         "file": "tmp/docs/cmt-124-1.pdf"
       },
       {
         "label": "Government Oversight Committee's Attendance report up to 31st August 2026 (20th Majlis)",
-        "url": "https://majlis.gov.mv/storage/committee_files/124/JxdSy0nvmq0Aq0a3NU2Ge4VjJIve70FTtXXE6My6.pdf",
+        "url": "https://majlis.gov.mv/storage/committee_files/124/FMYMPEsXE7djVpkqPpbvPAABxOuJLPinUvn12uo6.pdf",
         "file": "tmp/docs/cmt-124-2.pdf"
       }
     ],
