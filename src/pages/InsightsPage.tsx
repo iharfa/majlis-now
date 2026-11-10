@@ -56,7 +56,7 @@ function Bar({ label, value, max, sub, to }: { label: React.ReactNode; value: nu
 function AttendanceChart() {
   const pts = attendanceTrend
   if (pts.length < 2) return null
-  const W = 720, H = 200, PL = 36, PR = 12, PT = 12, PB = 28
+  const W = 720, H = 220, PL = 36, PR = 12, PT = 22, PB = 40
   const max = Math.max(...pts.map((p) => p.present), 93)
   const x = (i: number) => PL + (i / (pts.length - 1)) * (W - PL - PR)
   const y = (v: number) => PT + (1 - v / max) * (H - PT - PB)
@@ -73,12 +73,20 @@ function AttendanceChart() {
             <text x={PL - 6} y={y(v) + 4} textAnchor="end" className="fill-outline" fontSize={11}>{v}</text>
           </g>
         ))}
-        {termStarts.map((i) => (
-          <g key={i}>
-            <line x1={x(i)} x2={x(i)} y1={PT} y2={H - PB} className="stroke-outline-variant/60" strokeDasharray="3 3" strokeWidth={1} />
-            <text x={x(i) + 3} y={H - PB + 14} className="fill-outline" fontSize={10}>{pts[i].term?.replace(' Term', '').replace(' Sitting', '')}</text>
-          </g>
-        ))}
+        {termStarts.map((i, k) => {
+          // Special sittings start right beside regular terms, so they get their own label row;
+          // the year is shown only on the first regular term of each year.
+          const [year, ...rest] = (pts[i].term ?? '').replace(' Term', '').replace(' Sitting', '').split(' ')
+          const special = rest.join(' ') === 'Special'
+          const prevYear = termStarts.slice(0, k).reverse().map((j) => pts[j].term ?? '').find((t) => !t.includes('Special'))?.split(' ')[0]
+          const label = special ? 'Special' : year === prevYear ? rest.join(' ') : `${year} ${rest.join(' ')}`
+          return (
+            <g key={i}>
+              <line x1={x(i)} x2={x(i)} y1={PT} y2={H - PB + (special ? 16 : 0)} className="stroke-outline-variant/60" strokeDasharray="3 3" strokeWidth={1} />
+              <text x={x(i) + 3} y={H - PB + (special ? 28 : 14)} className={special ? 'fill-outline/80 italic' : 'fill-outline'} fontSize={10}>{label}</text>
+            </g>
+          )
+        })}
         <path d={d} fill="none" className="stroke-primary" strokeWidth={2} strokeLinejoin="round" />
         {pts.map((p, i) => (
           <circle key={p.id} cx={x(i)} cy={y(p.present)} r={8} fill="transparent" className="hover:fill-primary/15">
@@ -90,7 +98,7 @@ function AttendanceChart() {
           return (
             <g key={p.id}>
               <circle cx={x(i)} cy={y(p.present)} r={4} className="fill-primary stroke-white" strokeWidth={2} />
-              <text x={x(i)} y={y(p.present) + (p === hi ? -8 : 16)} textAnchor="middle" className="fill-on-surface" fontSize={11} fontWeight={700}>{p.present}</text>
+              <text x={x(i) + (i === 0 ? 7 : 0)} y={y(p.present) + (p === hi ? -8 : 16)} textAnchor={i === 0 ? 'start' : 'middle'} className="fill-on-surface" fontSize={11} fontWeight={700}>{p.present}</text>
             </g>
           )
         })}
