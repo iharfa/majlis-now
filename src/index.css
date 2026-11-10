@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Faruma for Thaana only; Latin glyphs fall through to the next font in each stack. */
+/* DAM Madheeh for Thaana only; Latin glyphs fall through to the next font in each stack. */
 @font-face {
-  font-family: 'Faruma';
-  src: local('Faruma'), url('/fonts/Faruma.woff') format('woff');
+  font-family: 'DAM_Madheeh';
+  src: local('DAM_Madheeh'), url('/fonts/DAM_Madheeh.woff') format('woff');
   unicode-range: U+0780-07BF, U+060C, U+061B, U+061F, U+FDF2;
   font-display: swap;
 }
@@ -17,7 +17,7 @@
   body {
     background-color: #fcf8ff; /* background */
     color: #1b1b23; /* on-surface */
-    font-family: 'Faruma', 'Inter', 'Noto Sans Thaana', sans-serif;
+    font-family: 'DAM_Madheeh', 'Inter', 'Noto Sans Thaana', sans-serif;
     -webkit-font-smoothing: antialiased;
   }
   h1,
@@ -25,7 +25,7 @@
   h3,
   h4,
   h5 {
-    font-family: 'Faruma', 'Montserrat', sans-serif;
+    font-family: 'DAM_Madheeh', 'Montserrat', sans-serif;
   }
 }
 

@@ -41,7 +41,8 @@ export function BilingualDocText({ docKey, title, source, find = '', page = 0 }:
   useEffect(() => {
     if (!find || jumped.current || !loaded || !target) return
     jumped.current = true
-    goTo(target)
+    // Wait for the Thaana webfont: its swap reflows the pages and would leave the jump off target.
+    document.fonts.ready.then(() => goTo(target))
   }, [find, loaded, target])
 
   return (
