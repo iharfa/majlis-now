@@ -70,16 +70,19 @@ def parse_rollcall(pdf_path):
             constituency = None
             result = None
             has_id = False
+            name = []
             for xc, t in row:
                 if xc < id_max and re.fullmatch(r"\d+", t):
                     has_id = True
+                elif id_max <= xc < con_lo:
+                    name.append(t)
                 elif con_lo <= xc < con_hi:
                     constituency = t
                 elif xc >= res_lo:
                     result = t
             # accept rows that look like a member line with a known result
             if result in RESULTS and (constituency or has_id):
-                rows_out.append({"constituency": constituency or "", "result": result})
+                rows_out.append({"constituency": constituency or "", "name": " ".join(name), "result": result})
     return {"rows": rows_out, "summary": summary, "date": date}
 
 if __name__ == "__main__":

@@ -109,7 +109,8 @@ const RAW: Row[] = [
   ['Ahmed Azaan Marzooq', 'Central Hithadhoo', 'Addu City', 'pnc', 'qWe4pJV10K9uMKWBK7PiYiqfxohNrjSZxfV03SQo', '231'],
   ['Ibrahim Nazil', 'South Hithadhoo', 'Addu City', 'mdp', 'AuqET4joR0k0pLAIr3fm57iboHcedGkP6H62u912', '229', 'Minority Leader'],
   ['Abdul Rahman', 'Addu Meedhoo', 'Addu City', 'ind', 'QrSAHOyjySGGyj0QXjfMnrbFOVxhvThdLGQvATfh', '226'],
-  // Former member — seat since vacated; included so earlier roll-call votes map.
+  ['Abdulla Sodig', 'North Hithadhoo', 'Addu City', 'mdp', 'Ce8JC8dShv0xFtSCqJjSun451JQA9HwhqfptnwJw', '268'],
+  // Former member — earlier holder of North Hithadhoo; kept so his roll-call votes map.
   ['Mohamed Sinan', 'North Hithadhoo', 'Addu City', 'pnc', 'T3kVS5yDDQwPmSBy6TOj1gdSz7o0C4LsLdJkKynR', '233'],
 ]
 
@@ -130,7 +131,9 @@ function initials(name: string): string {
 }
 
 // --- Build constituencies (one per row, unique) -----------------------------
-export const constituencies: Constituency[] = RAW.map(([, con, atoll]) => ({
+export const constituencies: Constituency[] = RAW.filter(
+  ([, con], i) => RAW.findIndex(([, c]) => c === con) === i, // a seat can have several holders
+).map(([, con, atoll]) => ({
   id: slug(con),
   name: con,
   atoll,

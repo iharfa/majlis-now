@@ -16,7 +16,9 @@ import type {
 import { mps } from './roster'
 import { REAL_ROLLCALLS, type RealRollcall } from './realRollcalls'
 
-const mpByConstituency = new Map(mps.map((m) => [m.constituencyId, m]))
+// Current holder per seat; rows for seats with several holders carry an explicit mpId.
+const mpByConstituency = new Map(mps.filter((m) => m.active).map((m) => [m.constituencyId, m]))
+const mpByIdLocal = new Map(mps.map((m) => [m.id, m]))
 
 const src = (id: string, label: string, url: string, date: string): SourceDocument => ({
   id,
@@ -29,7 +31,7 @@ const src = (id: string, label: string, url: string, date: string): SourceDocume
 function buildVote(rc: RealRollcall): Vote {
   const voteId = `vote-${rc.id}`
   const mpVotes: MPVote[] = rc.rows.flatMap((row) => {
-    const mp = mpByConstituency.get(row.constituencyId)
+    const mp = row.mpId ? mpByIdLocal.get(row.mpId) : mpByConstituency.get(row.constituencyId)
     if (!mp) return []
     return [
       {
