@@ -54,7 +54,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/115",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "116",
@@ -92,18 +92,18 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "works": 0,
     "documents": [
       {
-        "label": "Petition Committee's Attendance report up to 31st August 2026 (20th Majlis)",
-        "url": "https://majlis.gov.mv/storage/committee_files/116/zSnI6snWZJNqalt83DxD6wz4Y7jnHxRGXUhAv5u0.xlsx",
+        "label": "Petition Committee's Attendance report up to 31st October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/116/Kp5I7rkIJonNByLR9XVSQ75I6HZAtQgr6aFUpola.xlsx",
         "file": "tmp/docs/cmt-116-1.pdf"
       },
       {
-        "label": "Petition Committee's Attendance report up to 31st August 2026 (20th Majlis)",
-        "url": "https://majlis.gov.mv/storage/committee_files/116/yBlkY1Ark5QKJYM8rkuu29MmXlE83Hlth9jQKJdI.pdf",
+        "label": "Petition Committee's Attendance report up to 31st October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/116/4QT3gqgxSEJyn4HHzEFnj018glaoNjguQl4w6W9j.pdf",
         "file": "tmp/docs/cmt-116-2.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/116",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "117",
@@ -150,7 +150,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/117",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "118",
@@ -194,7 +194,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/118",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "119",
@@ -243,7 +243,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/119",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "120",
@@ -297,7 +297,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/120",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "121",
@@ -333,18 +333,18 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "works": 0,
     "documents": [
       {
-        "label": "Committee on Social Affairs' Attendance report up to July 2026 (20th Majlis)",
-        "url": "https://majlis.gov.mv/storage/committee_files/121/27jhnvrk3DnS4llQAoTm8KrR01PXZJqbw8plqqhF.xlsx",
+        "label": "Committee on Social Affairs' Attendance report up to October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/121/vEPdJdfPjeOU8AD8M5I7Ttf7d2XeBnVG6bIVPLNl.xlsx",
         "file": "tmp/docs/cmt-121-1.pdf"
       },
       {
-        "label": "Committee on Social Affairs' Attendance report up to July 2026 (20th Majlis)",
-        "url": "https://majlis.gov.mv/storage/committee_files/121/vYgtRiN25Fypd00k8OJXDHt8vHcyEfZPCuTMjkaC.pdf",
+        "label": "Committee on Social Affairs' Attendance report up to October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/121/zC5nzFAPWqDGq1EiCb1zOCCTpMP4RAnwDYIRtryO.pdf",
         "file": "tmp/docs/cmt-121-2.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/121",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "122",
@@ -394,7 +394,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/122",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "123",
@@ -446,7 +446,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/123",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "124",
@@ -482,18 +482,18 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "works": 0,
     "documents": [
       {
-        "label": "Government Oversight Committee's Attendance report up to 31st August 2026 (20th Majlis)",
+        "label": "Government Oversight Committee's Attendance report up to 31st October 2026 (20th Majlis)",
         "url": "https://majlis.gov.mv/storage/committee_files/124/baMn0TOSCaBNqHLW6eT50npqBNXR5PAUnGcCglqt.xlsx",
         "file": "tmp/docs/cmt-124-1.pdf"
       },
       {
-        "label": "Government Oversight Committee's Attendance report up to 31st August 2026 (20th Majlis)",
+        "label": "Government Oversight Committee's Attendance report up to 31st October 2026 (20th Majlis)",
         "url": "https://majlis.gov.mv/storage/committee_files/124/FMYMPEsXE7djVpkqPpbvPAABxOuJLPinUvn12uo6.pdf",
         "file": "tmp/docs/cmt-124-2.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/124",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "125",
@@ -542,7 +542,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/125",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "126",
@@ -577,18 +577,18 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "works": 0,
     "documents": [
       {
-        "label": "Foreign Relations Committee's Attendance report up to 31st August 2026 (20th Majlis)",
-        "url": "https://majlis.gov.mv/storage/committee_files/126/PoV8wu5bnxJDYmM2TsGwlPaOaKDn7eLjoAOkodZe.xlsx",
+        "label": "Foreign Relations Committee's Attendance report up to 31st October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/126/jL3rMzqYbnmGEGHnB9rGPlR3xyXOUjCUtxdSW2iF.pdf",
         "file": "tmp/docs/cmt-126-1.pdf"
       },
       {
-        "label": "Foreign Relations Committee's Attendance report up to 31st August 2026 (20th Majlis)",
-        "url": "https://majlis.gov.mv/storage/committee_files/126/yNQi3gpNkiBlpLl5Wf4iy5cS9QL2ORqLgZY67yFg.pdf",
+        "label": "Foreign Relations Committee's Attendance report up to 31st October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/126/ALHAZERPcyZvjuYW13JiRZza5DPmIthF7tmuQcqN.xlsx",
         "file": "tmp/docs/cmt-126-2.pdf"
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/126",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "127",
@@ -635,7 +635,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/127",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "128",
@@ -689,7 +689,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/128",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "129",
@@ -737,7 +737,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/129",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "130",
@@ -787,7 +787,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/130",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "131",
@@ -834,7 +834,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/131",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "132",
@@ -858,11 +858,11 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     ],
     "formerMemberIds": [],
     "meetingDates": [
+      "09 Nov 2026",
       "27 Oct 2026",
       "21 Oct 2026",
       "20 Oct 2026",
-      "19 Oct 2026",
-      "13 Oct 2026"
+      "19 Oct 2026"
     ],
     "works": 0,
     "documents": [
@@ -878,7 +878,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/132",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "133",
@@ -918,7 +918,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/133",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "134",
@@ -958,7 +958,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/134",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "135",
@@ -991,7 +991,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/135",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "136",
@@ -1026,7 +1026,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/136",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "137",
@@ -1063,7 +1063,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/137",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "138",
@@ -1110,7 +1110,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/138",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "139",
@@ -1143,7 +1143,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/139",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "140",
@@ -1198,7 +1198,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/140",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "141",
@@ -1326,7 +1326,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/141",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "142",
@@ -1363,7 +1363,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/142",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "143",
@@ -1396,7 +1396,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/143",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "144",
@@ -1432,7 +1432,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/144",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "145",
@@ -1469,7 +1469,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/145",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "146",
@@ -1510,11 +1510,10 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "237"
     ],
     "meetingDates": [
+      "10 Nov 2026",
       "09 Nov 2026",
       "05 Nov 2026",
-      "04 Nov 2026",
-      "19 Nov 2025",
-      "16 Nov 2025"
+      "04 Nov 2026"
     ],
     "works": 0,
     "documents": [
@@ -1530,7 +1529,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/146",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "147",
@@ -1582,7 +1581,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/147",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "149",
@@ -1622,7 +1621,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/149",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "150",
@@ -1661,7 +1660,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/150",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "151",
@@ -1710,9 +1709,20 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "14 Jul 2025"
     ],
     "works": 0,
-    "documents": [],
+    "documents": [
+      {
+        "label": "Joint Committee of Committee on National Development And Heritage and Committee on Social Affairs - Up to 2026 November",
+        "url": "https://majlis.gov.mv/storage/committee_files/151/aHBTAZPaTkt6DoBqDpkjDTaPPOElI77eTnhX78mc.pdf",
+        "file": "tmp/docs/cmt-151-1.pdf"
+      },
+      {
+        "label": "Committee on National Development And Heritage and Committee on Social Affairs - Up to 2026 November",
+        "url": "https://majlis.gov.mv/storage/committee_files/151/Rg7E0sFCkmfuLzouQ1ErV7MV1k62THpvhjclRXgq.xlsx",
+        "file": "tmp/docs/cmt-151-2.pdf"
+      }
+    ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/151",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "152",
@@ -1745,7 +1755,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/152",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "153",
@@ -1784,7 +1794,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/153",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "154",
@@ -1822,7 +1832,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       }
     ],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/154",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   },
   {
     "id": "155",
@@ -1862,6 +1872,6 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "works": 0,
     "documents": [],
     "url": "https://majlis.gov.mv/en/20-parliament/committee/155",
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-15"
   }
 ]
