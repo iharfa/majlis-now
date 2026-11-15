@@ -94,9 +94,9 @@ def build():
             heading = seg[0][1][3:] if seg and seg[0][1].startswith("## ") else None
             body = [t for _, t in (seg[1:] if heading else seg)]
             m = by_con.get(norm(s.get("constituency"))) if s.get("constituency") else None
-            if not m and s["role"] in ("member", "chair", "minister"):
-                m = by_name.get(norm(s.get("name")))  # ministers who are also MPs (e.g. Hassan Zareer, Mathiveri)
-            alt = by_name.get(norm(s.get("name")))
+            if not m and s["role"] in ("member", "chair"):
+                m = by_name.get(norm(s.get("name")))  # never for ministers: MPs can't be ministers, a shared name is a different person
+            alt = by_name.get(norm(s.get("name"))) if s["role"] in ("member", "chair") else None
             if m and alt and alt["id"] != m["id"] and norm(s.get("name")) not in dup:  # e.g. Funadhoo vs Fonadhoo misread: name says one MP, seat says another
                 problems.append(f"{sid} speech {n}: name {s.get('name')} is {alt['constituency']} but seat given as {s.get('constituency')}")
             if s["role"] in ("member", "chair") and not m:
