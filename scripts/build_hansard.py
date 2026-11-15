@@ -62,6 +62,7 @@ def build():
     mps = roster()
     by_con = {norm(m["constituency"]): m for m in mps}
     by_name = {norm(m["name"]): m for m in mps}
+    dup = {k for k in by_name if sum(norm(m["name"]) == k for m in mps) > 1}  # shared names (two Ibrahim Didis, two Mohamed Ibrahims)
     sittings = {s["id"]: s for s in json.load(open("src/data/sittings.json", encoding="utf-8"))}
     os.makedirs("public/hansard", exist_ok=True)
     index, problems = [], []
@@ -93,8 +94,11 @@ def build():
             heading = seg[0][1][3:] if seg and seg[0][1].startswith("## ") else None
             body = [t for _, t in (seg[1:] if heading else seg)]
             m = by_con.get(norm(s.get("constituency"))) if s.get("constituency") else None
-            if not m and s["role"] in ("member", "chair"):
-                m = by_name.get(norm(s.get("name")))
+            if not m and s["role"] in ("member", "chair", "minister"):
+                m = by_name.get(norm(s.get("name")))  # ministers who are also MPs (e.g. Hassan Zareer, Mathiveri)
+            alt = by_name.get(norm(s.get("name")))
+            if m and alt and alt["id"] != m["id"] and norm(s.get("name")) not in dup:  # e.g. Funadhoo vs Fonadhoo misread: name says one MP, seat says another
+                problems.append(f"{sid} speech {n}: name {s.get('name')} is {alt['constituency']} but seat given as {s.get('constituency')}")
             if s["role"] in ("member", "chair") and not m:
                 problems.append(f"{sid} speech {n}: unmatched {s.get('name')} / {s.get('constituency')}")
             # item: the one in progress when this speech starts, or one announced inside it
