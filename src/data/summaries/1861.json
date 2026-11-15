@@ -1,0 +1,21 @@
+{
+  "workId": "1861",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޤާނޫނުއަސާސީއަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This constitutional amendment would rewrite Articles 230 and 231, which cover local councils. The new Article 230(a) would give the President the power to create administrative divisions and island, atoll and city councils as set by law. Atoll councils would be made up of an atoll council president plus the presidents of the island councils in that atoll. Council presidents and city mayors would be elected by secret ballot by local residents. The new setup would start at the next council elections.",
+  "whyItMatters": "It would change how island, atoll and city councils are formed and who sits on them. That affects how much say island communities have over their own local government.",
+  "keyProvisions": [
+    "Replaces Article 230(a): the power to create administrative divisions and island, atoll and city councils, as set by law, would rest with the President.",
+    "Replaces Article 231(a)(3): an atoll council would consist of the atoll council president plus the island council presidents of that atoll.",
+    "Replaces Article 231(b): presidents of island and atoll councils, and mayors of city councils, would be elected by secret ballot of the people of that area.",
+    "Councils under the amended articles would be formed at the next council elections after the change takes effect, and the current councils would continue until then.",
+    "The government must send the Majlis any law changes needed to hold these elections within 1 month of the amendment taking effect."
+  ],
+  "whoIsAffected": "Island, atoll and city councils and their members, and voters in every local council area.",
+  "statedReasons": "The reasons section describes the decentralised council system set up after the 2010 law. It also refers to the 8th constitutional amendment and a public vote held under Article 262. On that basis it argues that the council structure should be changed. Parts of this section were hard to read in the scan.",
+  "sourceDoc": "Bill",
+  "pagesRead": 5,
+  "pagesTotal": 5,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

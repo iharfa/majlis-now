@@ -1,0 +1,298 @@
+{
+ "sittingId": "1063",
+ "date": "2026-08-16",
+ "title": "24th Sitting of Second session of 2026",
+ "presiding": "Deputy Speaker Ahmed Saleem (Eydhafushi)",
+ "attendance": {
+  "present": 33,
+  "onLeave": 6,
+  "officialTravel": 2
+ },
+ "summary": "The sitting opened at 09:00 under the Deputy Speaker with routine business: attendance, the agenda, and chair announcements on committee membership and report deadlines. The President's nominee for the Human Rights Commission and his proposed ambassador to the UK were sent to committees. The government's bill to amend the Goods and Services Tax Act, which would extend GST to sales made through foreign booking platforms and tour operators, had its first reading and then its preliminary debate. Fifteen members spoke; most supported the aim, several asked for more consultation with the tourism industry before passage, and the debate was still going when this part ends. No votes were taken in this part. This part opens mid-debate on the Goods and Services Tax Act amendment bill, which would make foreign online booking platforms pay tax on Maldivian stays. Members from both sides spoke in favour, and MDP's Dr. Ahmed Shamheed said his party backs it while pressing the government on the falling rufiyaa. The Majlis then began a debate on Dr. Shamheed's resolution to suspend the sale of permanent residence to foreigners and publish the agreements; it was cut short by a recess and not resumed, with several points of order raised. After the recess it heard a Finance Committee report on the Higher Education Ministry's 2022 audit, and with 73 of 93 members present it accepted the tax bill 70-1 and approved the report 71-0. The first speaker's header is in the previous part, so that turn is not counted here.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting (Hamd and Salawat)",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "33 present, 6 on leave, 2 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda (Agenda No. 2026/2/24)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Chair announcement: change to Economic Committee membership",
+   "outcome": "Ismail Nizar (North Feydhoo) replaces Mohamed Mamdooh (Funadhoo) as the PNC member of the Economic Committee"
+  },
+  {
+   "n": "4.2",
+   "title": "Chair announcement: committee report deadlines (Rule 174)",
+   "outcome": "Economic Committee due 18 Aug 2026 on the Tax Administration Act (Law 2010/3), the uninhabited islands lease bill and the Fisheries Act (Law 2019/14) amendment bill"
+  },
+  {
+   "n": "5.1",
+   "title": "President's nomination of a Human Rights Commission member (two names submitted)",
+   "outcome": "sent to the Human Rights and Gender Committee"
+  },
+  {
+   "n": "5.2",
+   "title": "President's nomination of an ambassador to the United Kingdom",
+   "outcome": "sent to the Foreign Relations Committee"
+  },
+  {
+   "n": "6.1",
+   "title": "First reading: bill to amend the Goods and Services Tax Act (Law 2011/10)",
+   "outcome": "first reading read by the sponsor, North Kulhudhuffushi member",
+   "workId": "1939"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on the GST Act amendment bill",
+   "outcome": "15 members spoke; recess 10:30 to 11:01; debate continuing at end of this part, no decision",
+   "workId": "1939"
+  },
+  {
+   "n": "",
+   "title": "Goods and Services Tax Act (2011/10) amendment bill, proposed by Mohamed Dawoodh (debate continued from part 1)",
+   "outcome": "debate closed when no more members wished to speak; later accepted 70-1 and sent to the Committee of the Whole House"
+  },
+  {
+   "n": "8.1",
+   "title": "Resolution by Dr. Ahmed Shamheed to suspend the sale of permanent residence to foreigners under a residence programme and disclose the agreements to the Majlis",
+   "outcome": "debate under way before the recess; not resumed in this part"
+  },
+  {
+   "n": "9.1",
+   "title": "Finance Committee report on the Ministry of Higher Education's 2022 audit report",
+   "outcome": "debated; later approved 71-0"
+  },
+  {
+   "n": "10.1",
+   "title": "Votes on matters ready for decision",
+   "outcome": "2 votes taken; both passed"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 9,
+   "positions": [
+    "Supported the amendments in general as completing the tax system, but said industry should be consulted so bills are changed accordingly.",
+    "Argued dollar shortage stems from government spending and management, citing SOEs receiving USD 650 million last year against 447 million for all other businesses.",
+    "Proposed a special committee to study the dollar shortage and exchange-rate fall.",
+    "On the tax bill, said MDP supports it but is worried the government has no serious plan for the weakening rufiyaa, and disputed that platforms pay no tax."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 3,
+   "positions": [
+    "Supported the bill, noting MDP members also backed it, and said it keeps tourism revenue from going to foreign operators.",
+    "Said committees will hear resort owners and other stakeholders before any decision, answering consultation concerns.",
+    "Argued the dollar-conversion law brought hundreds of millions of dollars into banks and was not harmful; speech continues into part 2.",
+    "Raised a point of order objecting to a suggestion that PNC members were paid to pass the bill; the chair accepted it and said no member takes bribes."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 2,
+   "positions": [
+    "Said the bill is not a rate increase but widens tax to foreign parties earning from Maldivian resources.",
+    "Argued foreign platforms and agents earn heavily from Maldivian islands with little benefit to citizens.",
+    "Asked that committees debate it quickly so the amendments can pass sooner.",
+    "Presented the Finance Committee report on the Higher Education Ministry's 2022 audit: overdue loans not pursued, unresolved past recommendations, and the committee's recommendations to fix them."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 2,
+   "positions": [
+    "Backed the tax bill, saying large booking-platform earnings leave the country, and asked the committee to keep amending it and consult industry.",
+    "Raised a point of order that Dr. Shamheed's remarks misdescribed the constitution's protection of Islam; the chair did not accept it as a point of order."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Introduced the bill: GST would apply to goods and services sold through offshore booking platforms, foreign tour operators and travel agents (destination principle).",
+    "Said tourism revenue should stay in the Maldivian economy and this is a base-widening change, not a rate rise.",
+    "Traced past tourism GST rates: 3.5% in 2011, 6% in 2012, then 8% general and 16% tourism from 2023."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying the existing 8% GST is unchanged and the new tax falls on outside parties using Maldivian resources.",
+    "Said the state needs more revenue to deliver services such as hospitals, schools, harbours and power houses on every island.",
+    "Said new laws, such as the dollar-conversion law, are often not enforced, and urged action on enforcement."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Said he does not oppose the law but the bill was rushed, with no consultation with the tourism industry or time to weigh platforms and treaties.",
+    "Warned that international platforms such as Booking.com and Agoda could redirect guests elsewhere, hurting resorts and guesthouses with low occupancy.",
+    "Called for direct international flights to regional airports and more support for fisheries and agriculture."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill fully, saying it addresses a 15-year gap in taxing foreign platforms that no government had acted on.",
+    "Cited dollar sales figures (36.9 million in 2023, 81.2 million so far in 2026) and said local small businesses buy dollars.",
+    "Asked committee stage to weigh stakeholders and how online airline ticket sellers would be treated."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying benefits from tourism should reach Maldivians and the state.",
+    "Said small Maldivian travel operators were hurt when big online booking systems took money abroad.",
+    "Said Maldivians could build their own booking engines once such platforms are taxed."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill but said it arrived the night before, with stakeholders not consulted and key provisions unclear.",
+    "Asked for clarity on who must register, the GST threshold and record-keeping, and warned small businesses face penalties if rules are unclear.",
+    "Asked for an economic study before passage and said taxes alone will not solve the dollar shortage."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it adds no tax burden on citizens and closes revenue leakage from online bookings.",
+    "Used an example of a USD 400 room booked online where tax reaches the Maldives on a lower amount, and compared with Singapore, Australia, EU and Malaysia.",
+    "Listed benefits: more budget revenue, less leakage, fair competition for local firms, and clearer data for tourism policy."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill but said enforcement will be hard; online platforms must be registered and made to pay business profit and withholding taxes.",
+    "Estimated it could add about MVR 2 billion a year and doubted room rates would change much.",
+    "Urged enforcement agencies to apply existing laws and treat all businesses equally."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying foreign platforms earning in Maldivian territory should pay tax like others.",
+    "Said the amendment is a good change and hoped it passes as soon as possible."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Said reforms are needed but the bill was not backed by major study and industry had not been consulted.",
+    "Warned the changes could hurt small and medium businesses and could push the dollar rate sharply higher.",
+    "Asked for more time and committee changes, with stakeholder consultation, rather than passing it as written."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendments as consistent with international destination-based and digital taxation practice.",
+    "Said foreign operators with no permanent presence earn from Maldivian resorts, and some local businesses use overseas companies to avoid tax.",
+    "Called for reinstating the remittance tax on foreign workers and reviewing the pension law."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Said the bill makes large changes (articles 48, 51, 54 and others) but leaves unclear who pays more, how much revenue it adds and what citizens gain.",
+    "Argued revenue is rising, so the dollar problem reflects government mismanagement and spending, not too little tax.",
+    "Said he saw no major benefit for citizens and could not estimate the effect on tourism or the state."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the Goods and Services Tax amendment, saying tourism is a major tax source and foreign booking platforms should pay tax on Maldivian stays."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the tax bill as a way to put Maldivian and international booking platforms on equal footing, and urged consultation with industry on further changes."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order saying claims that Maldivian land had been sold were false and unconstitutional; the chair accepted it as a point of order."
+   ]
+  }
+ ],
+ "decisions": [
+  "Ismail Nizar (North Feydhoo) was placed on the Economic Committee in place of Mohamed Mamdooh (Funadhoo).",
+  "Economic Committee reports on three bills were announced as due 18 August 2026.",
+  "The Human Rights Commission nomination was sent to the Human Rights and Gender Committee under Rule 131(n).",
+  "The ambassador-to-UK nomination was sent to the Foreign Relations Committee under Rule 124(v).",
+  "The GST Act (2011/10) amendment bill received its first reading and preliminary debate began; no vote in this part.",
+  "Debate on the Goods and Services Tax Act amendment bill was closed because no further member wished to speak.",
+  "The Goods and Services Tax Act amendment bill was accepted 70-1 and sent to the Committee of the Whole House for study.",
+  "The Finance Committee report on the Ministry of Higher Education's 2022 audit was approved 71-0.",
+  "The sitting was closed; the next sitting is set for Monday 17 August 2026 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the Goods and Services Tax Act (2011/10) amendment bill (73 present of 93)",
+   "yes": 70,
+   "no": 1,
+   "abstain": 0
+  },
+  {
+   "what": "Approving the Finance Committee report on the Ministry of Higher Education's 2022 audit (73 present of 93)",
+   "yes": 71,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 74,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

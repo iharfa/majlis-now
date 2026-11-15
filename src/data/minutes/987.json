@@ -1,0 +1,229 @@
+{
+ "sittingId": "987",
+ "date": "2025-10-14",
+ "title": "6th Sitting of third session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 29,
+  "onLeave": 2,
+  "officialTravel": 17
+ },
+ "summary": "The sitting ran from 09:01 to 11:07. The Minister of Economic Development and Trade, Mohamed Saeed, answered members' questions on the UK trade agreement, national debt, money printing and support for private business; MDP and PNC members clashed over how the answers were given and whether questions were on topic. The President's letter on joining the UN Convention against Cybercrime was sent to the Foreign Relations Committee, and debate on the government's Human Organ Transplant Bill began but was put off to another day. After a break, the Majlis passed the Finance Committee's report on the Auditor General's Office 2026 budget (MVR 134.3 million) by 51 votes to none.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "29 present, 2 on leave, 17 on official travel (as read at the start)"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Change to committee membership: Ibrahim Didi (Kolamaafushi) replaces Hussain Nasih (Central Henveyru) on the independent institutions committee",
+   "outcome": "announced by the chair, effective 13 October 2025"
+  },
+  {
+   "n": "5.1",
+   "title": "Questions to the Minister of Economic Development and Trade, Mohamed Saeed",
+   "outcome": "debated; minister answered on the UK free trade agreement, debt, money printing and private-sector support; time ran out"
+  },
+  {
+   "n": "6.1",
+   "title": "President's letter seeking Majlis approval to join the UN Convention against Cybercrime",
+   "outcome": "letter read; sent to the Foreign Relations Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "Human Organ Transplant Bill (government bill, sponsored by South Feydhoo member Ibrahim Didi): preliminary debate",
+   "outcome": "debated; further debate deferred to another day"
+  },
+  {
+   "n": "8.1",
+   "title": "Finance Committee report on the Auditor General's Office 2026 budget",
+   "outcome": "debated"
+  },
+  {
+   "n": "9",
+   "title": "Vote on matters left for the voting period",
+   "outcome": "report passed 51-0; 2026 Auditor General's Office budget approved"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Saeed (Minister of Economic Development and Trade)",
+   "constituency": "",
+   "turns": 16,
+   "positions": [
+    "Said no UK trade agreement start date had been confirmed and defended the government's trade, tariff and debt record.",
+    "Cited steps for private business: dollar rule changes, more ATMs, business council meetings and cheaper loans.",
+    "Said answering questions unrelated to the day's topic was at his discretion."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 4,
+   "positions": [
+    "Repeatedly asked whether UK trade talks continue or were signed, and about the promised cut in grouper prices."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 3,
+   "positions": [
+    "Asked about the UK free trade agreement, the development bank and international banking progress.",
+    "In the bill debate, said the committee stage should have wide consultation and criticised how ministers answer questions in the Majlis."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Asked about debt growth, whether money could be printed via the Monetary Authority, and the UK trade deal.",
+    "Raised a point of order on the minister's answer.",
+    "On the Auditor General budget, asked for special audits and cited about MVR 2 billion lost in customs duty."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 2,
+   "positions": [
+    "Asked why the country is struggling if the previous government printed so much money.",
+    "Called the transplant bill important and urged committee to consult health bodies and outside experts."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked how state projects going to state companies, not private firms, affects the economy.",
+    "Raised a point of order saying his question had not been answered."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether the UK trade agreement is stalled, what price change it brings for fish, and the status of PayPal services."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Asked how SME bank loans were given under the MDP and why 46 percent defaulted.",
+    "On the Auditor General budget, said the Finance Committee reviewed the reports carefully and the audits were not politically coloured."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the transplant bill but wanted wider consultation and rules for citizens treated abroad.",
+    "On the Auditor General budget, said the rise reflects the office building and wider price increases."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Asked how much loss the state suffered from police station projects run by the Economic Ministry."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said tariff-cutting work was done in the previous Majlis and asked about the fall in the dollar rate."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what benefit ordinary people have seen from the UK trade deal and whether any commodity prices have fallen."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Asked when small businesses would get cheaper loans and about visa incentives for apartment buyers."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Welcomed the ATM rollout and asked about other policies to grow the economy."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the Human Organ Transplant Bill as setting standards, donor protections and a regulatory council."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the transplant bill and said it protects donors and curbs organ trading."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the transplant bill and asked that religious guidance be considered at committee stage."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the Finance Committee report: MVR 134.3 million budget for the Auditor General's Office, up from MVR 114 million."
+   ]
+  }
+ ],
+ "decisions": [
+  "Ibrahim Didi (Kolamaafushi) named to the independent institutions committee in place of Hussain Nasih.",
+  "President's letter on the UN Convention against Cybercrime sent to the Foreign Relations Committee.",
+  "Debate on the Human Organ Transplant Bill deferred to another day.",
+  "Finance Committee report on the Auditor General's Office 2026 budget passed.",
+  "Next sitting set for Wednesday 15 October 2025 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Finance Committee report on the Auditor General's Office 2026 budget",
+   "yes": 51,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 47,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

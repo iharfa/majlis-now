@@ -1,0 +1,334 @@
+{
+ "sittingId": "940",
+ "date": "2025-04-30",
+ "title": "25th Sitting of first Session of 2025",
+ "presiding": "Ahmed Nazim (Deputy Speaker, Dhiggaru)",
+ "attendance": {
+  "present": 36,
+  "onLeave": 3,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened at 09:02 with 36 members present. Two written questions from the Central Hithadhoo member to the Minister of Higher Education, about late stipend and tuition payments and slow replies to students' emails and letters, were answered in writing and published unchanged. The President's nominee for Deputy Governor of the Maldives Monetary Authority was sent to the Finance Committee. Most of the rest was the preliminary debate on a bill to amend the Tobacco Control Act (Law 15/2010) to ban tobacco for anyone born on or after 1 January 2007: nearly all speakers backed the aim, with several raising enforcement and clause-wording concerns and a few criticising the timing, and the debate was still running when this part ends. The part opens at the end of Meekail Ahmed Nasym's speech on the bill to amend the Tobacco Control Law, which then had four more speakers: three backed it, one asked for more consultation and wider health measures. After the debate closed, members voted to accept the bill (61-1), send it to a temporary committee (63-2) and approve the committee's seven members (63-3). The House then continued the debate on the government's first Housing bill, where six members spoke, and it was left unfinished. It also approved Mohamed Mujthaz as Deputy Chair of the Civil Service Commission (64-0). The next sitting is Monday 5 May 2025 at 9:00. The text layer is garbled in places but the vote tables are clear.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "36 present, 3 on leave, 1 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "none"
+  },
+  {
+   "n": "5.1",
+   "title": "Written question to the Minister of Higher Education, Labour and Skills Development on late stipend and tuition-fee payments to students (Central Hithadhoo member)",
+   "outcome": "minister's written answer read out and ordered published without change"
+  },
+  {
+   "n": "5.2",
+   "title": "Written question to the Minister of Higher Education, Labour and Skills Development on slow replies to students' emails and letters (Central Hithadhoo member)",
+   "outcome": "minister's written answer read out and ordered published without change"
+  },
+  {
+   "n": "6.1",
+   "title": "President's letter nominating Aishath Asna Hamdhee as Deputy Governor of the Maldives Monetary Authority",
+   "outcome": "sent to the Finance Committee under rule 120"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on the bill to amend the Tobacco Control Act, Law 15/2010 (government bill sponsored by the Kinbidhoo member; generational ban for those born on or after 1 January 2007)",
+   "outcome": "debated; Majority Leader and others proposed a committee; debate continuing when this part ends"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill to amend the Tobacco Control Law (Law 15/2010), submitted by Ali Ashrag: debate closed and votes taken",
+   "outcome": "accepted 61-1; sent to a temporary committee 63-2; committee members approved 63-3"
+  },
+  {
+   "n": "8.1",
+   "title": "Government's Housing bill (sponsor Asma Rasheed): debate continued",
+   "outcome": "debated by six members; unfinished, carried over"
+  },
+  {
+   "n": "9.1",
+   "title": "Independent Institutions Committee report on the President's nominee for Civil Service Commission Deputy Chair",
+   "outcome": "report presented, one supporting speaker; Mohamed Mujthaz approved 64-0"
+  },
+  {
+   "n": "10",
+   "title": "Items for the day's votes",
+   "outcome": "four votes taken (tobacco bill x3, Civil Service Commission nominee)"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 5,
+   "positions": [
+    "Supported the bill as a health step for young people, said other countries are studying generational bans, and criticised opposition objections.",
+    "Asked to propose sending the bill to a committee.",
+    "On the Housing bill: thanked the government and said the bill sets housing standards, and that improvements can be made at committee stage.",
+    "Supported the Civil Service Commission committee report."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 3,
+   "positions": [
+    "Asked the minister why students' stipend and tuition payments abroad are late, and later why replies to students' emails and letters are slow.",
+    "In the bill debate, backed the aim but warned that New Zealand dropped a similar law, urged a plan to enforce it, and suggested a black market could grow."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Supported a tobacco-free society but said the law has had more amendments than enforcement and asked for an enforcement plan.",
+    "Said awareness spending is not visible while taxes rise, and that existing bans on smoking in public places and vaping are not enforced."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the bill, said health spending on tobacco-related illness is very large, noted enforcement problems, and called for all parties to work on it in committee.",
+    "Called it the first Housing bill in Maldivian history; asked committee to consider long waits, renting-out rules and incentives for atoll housing projects."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 2,
+   "positions": [
+    "Supported the bill as a way to shield young people from harm and credited the President for acting on it.",
+    "Backed the Housing bill as a government pledge, saying lasting relief needs regional development so island residents need not move to Malé."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Backed the amendment, citing 2020 cancer figures and the aim of a generation born from 2007 never smoking, and said smokers would not lose Aasandha cover.",
+    "Supported the motion on who should sit on the temporary committee."
+   ]
+  },
+  {
+   "name": "Ali Ashrag",
+   "constituency": "Kinbidhoo",
+   "turns": 1,
+   "positions": [
+    "Introduced the bill: no tobacco use or sale to anyone born from 1 January 2007, to protect health and build a smoke-free generation, and asked members to improve and pass it."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said he backs tobacco control but argued higher cigarette prices have fuelled smuggling and corruption; urged returning to the old price and fixing Hanimaadhoo's power outages."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill overall but flagged unclear age wording (18 versus 21), customs fines for companies, and a conflict between clauses on travellers' imports and packet labelling, for committee review."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment and a temporary committee, said government bills are tabled through a sponsoring member, and said no parent would oppose keeping children from tobacco."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, citing WHO figures on tobacco deaths, the health cost of tobacco-related disease and England's age limits, as protection for the next generation."
+   ]
+  },
+  {
+   "name": "Mohamed Shamin Habeeb",
+   "constituency": "Kurendhoo",
+   "turns": 1,
+   "positions": [
+    "Fully backed the generational ban but worried about enforcement, vaping in resorts, black markets and small devices, and asked committee to make the rules workable."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the aims but said sudden penalties could criminalise traders and citizens, called for awareness programmes, and said he would not vote for the amendment as drafted."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Backed the ban as protecting future generations, argued leaders must act rather than leave harmful habits alone, and raised other risks such as energy drinks."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, said enforcement and the clause on importing tobacco-making machinery need committee study, and noted threats the sponsor received on social media."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendments but said many clauses need detailed committee study, and said threats against the sponsor should not be accepted."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill and asked that committee pass it quickly, saying young people moving to drugs usually start with cigarettes."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, cited what the health insurance scheme spends on smoking-related illness, and said laws only work if enforced."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Agreed tobacco should be reduced but criticised repeated sudden amendments and said the government lacks a planned policy; the text ends mid-speech."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Fully backed the tobacco amendment and thanked its sponsor, saying keeping school-age children away from smoking is a duty and urging it go to committee soon."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it would make selling to and use by those born from 1 January 2007 an offence, and hoped committee study would improve it."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Agreed tobacco is harmful but objected that such bills arrive suddenly without wide consultation; urged broader measures (food prices, water, air, fuel quality) before supporting it."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the committee report recommending Mohamed Mujthaz as Civil Service Commission Deputy Chair, a name already approved by the House for the commission."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the Housing bill (9 chapters, 82 articles); wanted clear definitions of social and commercial housing and joint registration of flats for couples."
+   ]
+  },
+  {
+   "name": "Asadhulla Shihab",
+   "constituency": "Gemanafushi",
+   "turns": 1,
+   "positions": [
+    "Thanked the sponsor; said the lack of adequate housing underlies many social problems and the bill would help families in crowded homes."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Credited the President's housing record as minister and mayor, and said the bill follows his campaign pledge, contrasting it with earlier governments."
+   ]
+  }
+ ],
+ "decisions": [
+  "The minister's written answers to both questions were ordered published in the sitting's record without change.",
+  "The President's nominee for Deputy Governor of the Maldives Monetary Authority was sent to the Finance Committee.",
+  "The sitting took a break from 10:30 to 11:03 during the tobacco bill debate.",
+  "The bill to amend the Tobacco Control Law (15/2010) was accepted by the House (61 yes, 1 no).",
+  "The tobacco bill was sent to a temporary committee for study (63 yes, 2 no).",
+  "The seven proposed committee members (Mohamed Musthafa, Munthazim Ibrahim, Ibrahim Hussain, Mohamed Mamdooh, Hussain Hameed, Mohamed Abbas, Mohamed Ibrahim) were approved (63 yes, 3 no).",
+  "Debate on the government's Housing bill was not finished and continues at a later sitting.",
+  "Mohamed Mujthaz was approved as Deputy Chair of the Civil Service Commission (64 yes, 0 no).",
+  "The next sitting was set for Monday 5 May 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the bill to amend the Tobacco Control Law (15/2010)",
+   "yes": 61,
+   "no": 1,
+   "abstain": 0
+  },
+  {
+   "what": "Send the tobacco bill to a temporary committee",
+   "yes": 63,
+   "no": 2,
+   "abstain": 0
+  },
+  {
+   "what": "Approve the members of the tobacco bill temporary committee",
+   "yes": 63,
+   "no": 3,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Mohamed Mujthaz as Civil Service Commission Deputy Chair",
+   "yes": 64,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 89,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

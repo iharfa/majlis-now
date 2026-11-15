@@ -1,0 +1,20 @@
+{
+  "workId": "1505",
+  "titleDv": "ގާނޫނު ނަންބަރު 10/2010 (ލޯކަލް ކައުންސިލްތަކުގެ އިންތިޚާބުގެ ގާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill, presented by the Kaashidhoo MP, amends the Local Council Elections Act (Law 10/2010). It changes how by-elections for empty local council seats are scheduled: instead of being held separately each time a seat falls vacant, they would be held twice a year. The gap between two by-elections cannot be longer than 183 days or shorter than 120 days. It also removes the fixed 15-day deadline for the Elections Commission to announce that nominations are open, leaving that period to be set in regulations. The bill goes alongside a separate amendment to the Decentralization Act (Law 7/2010).",
+  "whyItMatters": "Residents of a council area with an empty seat could wait up to about six months for a by-election instead of having one within the current 60-day window, and the Elections Commission would run vacancy elections in two batches a year.",
+  "keyProvisions": [
+    "Clause 1 rewrites Article 9(c): when a council seat falls vacant, the Elections Commission must publicly announce that nominations are open for the by-election held under the new Article 26-1, within a period set in regulations made under the Act. The current text requires this within 15 days of the seat becoming vacant.",
+    "Clause 2 adds Article 26-1(a): unless the Decentralization Act (Law 7/2010) says otherwise, by-elections to fill vacant council seats under Articles 15(c), 29(c) or 45(c) of that Act are held 2 times a year.",
+    "New Article 26-1(b): the time between two such by-elections must not be longer than 183 days or shorter than 120 days.",
+    "Clause 3: the amendment takes effect from the day it is passed, ratified and published in the government gazette."
+  ],
+  "whoIsAffected": "Voters and candidates in local council areas with vacant seats, sitting councils, and the Elections Commission.",
+  "statedReasons": "The note says the government is bringing the bill to match an amendment to the Decentralization Act that replaces the current 60-day limit for council by-elections with a limit of at most 183 days from the notice that a seat is vacant. It says the main change is holding by-elections twice a year, no more than 183 and no less than 120 days apart.",
+  "sourceDoc": "Bill",
+  "pagesRead": 5,
+  "pagesTotal": 5,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

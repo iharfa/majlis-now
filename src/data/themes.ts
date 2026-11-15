@@ -1,6 +1,7 @@
 import type { IssueTheme } from '@/types'
 
-// The ten issue themes from the brief. `accent` is a color token used for chips.
+// The ten issue themes. `accent` is a color token used for chips. Bills/votes are
+// assigned to a theme by title keywords in src/data/realData.ts.
 export const themes: IssueTheme[] = [
   {
     id: 'governance',
@@ -8,9 +9,6 @@ export const themes: IssueTheme[] = [
     description: 'Oversight of the executive, public records, and how decisions are made.',
     icon: 'account_balance',
     accent: 'primary',
-    activeBillCount: 3,
-    recentVoteCount: 4,
-    latestSignalId: 'sig-anti-corruption-stall',
     publicImpact: 'Affects how the public can scrutinise government decisions.',
   },
   {
@@ -19,9 +17,6 @@ export const themes: IssueTheme[] = [
     description: 'Budgets, sovereign debt, audits, and spending oversight.',
     icon: 'payments',
     accent: 'tertiary',
-    activeBillCount: 2,
-    recentVoteCount: 3,
-    latestSignalId: 'sig-finance-fast',
     publicImpact: 'Affects public spending oversight and national debt.',
   },
   {
@@ -30,8 +25,6 @@ export const themes: IssueTheme[] = [
     description: 'Land allocation, housing schemes, and urban planning.',
     icon: 'apartment',
     accent: 'secondary',
-    activeBillCount: 1,
-    recentVoteCount: 1,
     publicImpact: 'Affects who gets housing and how land is allocated.',
   },
   {
@@ -40,9 +33,6 @@ export const themes: IssueTheme[] = [
     description: 'Coastal protection, waste, fisheries, and climate resilience.',
     icon: 'eco',
     accent: 'secondary',
-    activeBillCount: 2,
-    recentVoteCount: 2,
-    latestSignalId: 'sig-fisheries-quiet',
     publicImpact: 'Affects reefs, waste management, and livelihoods.',
   },
   {
@@ -51,8 +41,6 @@ export const themes: IssueTheme[] = [
     description: 'Courts, policing powers, and fundamental rights.',
     icon: 'gavel',
     accent: 'primary',
-    activeBillCount: 1,
-    recentVoteCount: 2,
     publicImpact: 'Affects rights, due process, and police powers.',
   },
   {
@@ -61,8 +49,6 @@ export const themes: IssueTheme[] = [
     description: 'Powers and funding of island and city councils.',
     icon: 'hub',
     accent: 'tertiary',
-    activeBillCount: 1,
-    recentVoteCount: 1,
     publicImpact: 'Affects how much say local councils have.',
   },
   {
@@ -71,8 +57,6 @@ export const themes: IssueTheme[] = [
     description: 'Hospitals, schools, and social protection.',
     icon: 'health_and_safety',
     accent: 'secondary',
-    activeBillCount: 2,
-    recentVoteCount: 1,
     publicImpact: 'Affects access to health, schooling, and support.',
   },
   {
@@ -81,9 +65,6 @@ export const themes: IssueTheme[] = [
     description: 'Employment, tourism policy, and economic growth.',
     icon: 'trending_up',
     accent: 'tertiary',
-    activeBillCount: 2,
-    recentVoteCount: 2,
-    latestSignalId: 'sig-tourism-ready',
     publicImpact: 'Affects jobs, wages, and the tourism economy.',
   },
   {
@@ -92,9 +73,6 @@ export const themes: IssueTheme[] = [
     description: 'Press freedom, online expression, and data.',
     icon: 'campaign',
     accent: 'primary',
-    activeBillCount: 1,
-    recentVoteCount: 1,
-    latestSignalId: 'sig-online-speech-amendment',
     publicImpact: 'Affects what people can say and publish.',
   },
   {
@@ -103,8 +81,6 @@ export const themes: IssueTheme[] = [
     description: 'Defence, borders, and immigration policy.',
     icon: 'security',
     accent: 'primary',
-    activeBillCount: 1,
-    recentVoteCount: 1,
     publicImpact: 'Affects borders, defence, and migrant workers.',
   },
 ]

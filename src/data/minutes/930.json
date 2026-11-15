@@ -1,0 +1,160 @@
+{
+ "sittingId": "930",
+ "date": "2025-03-18",
+ "title": "16th Sitting of first Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo)",
+ "attendance": {
+  "present": 35,
+  "onLeave": 10,
+  "officialTravel": 1
+ },
+ "summary": "The Majlis sent the President's Supreme Court nominee to the Judiciary Committee, heard the first reading of a resolution on government spending against the 2025 budget, and took two committee reports. The ministry-restructuring report drew no speakers. A debate on a Rules of Procedure change to shorten committee deadlines turned into a sharp exchange between government and opposition members, including over the separation of powers. Both reports were then approved by 50 votes to 0.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened at 10:31"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "announced by the chair: 35 present, 10 on leave, 1 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda (no. 2025/1/16)",
+   "outcome": "announced"
+  },
+  {
+   "n": "5.1",
+   "title": "President's nomination of Ustaz Hussain Shaheed as Supreme Court judge",
+   "outcome": "letter read out; sent to the Judiciary Committee for review"
+  },
+  {
+   "n": "6.1",
+   "title": "Resolution by Dr Ahmed Shamheed on government and Maldives Monetary Authority actions against the passed 2025 budget",
+   "outcome": "first reading only"
+  },
+  {
+   "n": "7.1",
+   "title": "Government Accountability Committee report on the President's changes to ministry portfolios (Housing, Finance, Climate Change/Tourism)",
+   "outcome": "no member spoke; passed 50-0"
+  },
+  {
+   "n": "7.2",
+   "title": "General Committee report on Ahmed Naseer's amendment to the Majlis Rules of Procedure (art. 180)",
+   "outcome": "debated; passed 50-0"
+  },
+  {
+   "n": "8",
+   "title": "Votes on items on the agenda",
+   "outcome": "both committee reports approved, 50 yes, none against"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 4,
+   "positions": [
+    "Thanked the committee but said ministers are not actually being summoned, citing Ramadan and a newspaper report.",
+    "Argued the Majlis now works under the President's control and that it passes laws on request.",
+    "Raised a point of order calling a claim made about him untrue."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 4,
+   "positions": [
+    "Said the Kendhoo member's claims were untrue and that the amendment came from a committee MDP members also voted for.",
+    "Accused opposition members of spreading false claims and urged them to stop actions he said harm the economy.",
+    "Explained the amendment shortens committee deadlines and thanked the Vaikaradhoo member for backing it."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 3,
+   "positions": [
+    "Supported the report, calling it a historic decision that brings ministers' accountability closer to people's feelings.",
+    "Thanked Inguraidhoo's member for a correction and criticised opposition members for shouting on the floor."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Called the amendment important and useful for speeding committee work and giving services to citizens sooner.",
+    "Raised a point of order on the period for summoning ministers, saying it was not changed."
+   ]
+  },
+  {
+   "name": "Adam Zahir",
+   "constituency": "Felidhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the committee report recommending the Majlis approve the President's changes to ministry portfolios; the committee's members present agreed unanimously."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the General Committee report backing the Rules amendment, saying it would speed up committee work and make committees more transparent."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Point of order: the presidency and the Majlis are separate branches; one does not control the other."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, saying delays in summoning ministers frustrate the public, and criticised opposition conduct and past governments' record."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Said his MDP colleagues supported the report, and complained of getting no reply to a written question to the Defence Minister on Indian troops."
+   ]
+  }
+ ],
+ "decisions": [
+  "President's Supreme Court nominee Hussain Shaheed referred to the Judiciary Committee for review.",
+  "First reading held for Dr Ahmed Shamheed's resolution on government and MMA actions against the 2025 budget.",
+  "Ministry restructuring changes approved 50-0.",
+  "Amendment to the Majlis Rules of Procedure (Ahmed Naseer) approved 50-0.",
+  "Next sitting set for 19 March 2025 at 10:30."
+ ],
+ "votes": [
+  {
+   "what": "Approve the President's changes to ministry portfolios (Construction, Housing and Infrastructure; Finance and Planning; Tourism and Environment)",
+   "yes": 50,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Ahmed Naseer's amendment to the Majlis Rules of Procedure as recommended by the General Committee",
+   "yes": 50,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 30,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

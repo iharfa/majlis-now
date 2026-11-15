@@ -1,0 +1,15 @@
+{
+  "workId": "1965",
+  "summary": "Each year the Auditor General's Office sends its budget straight to Parliament, and the Public Accounts Committee checks it before Parliament votes on it. This report covers the Office's proposed 2027 budget of MVR 133.6 million. That is MVR 90.1 million to run the Office and buy equipment, plus MVR 43.5 million to finish its new headquarters in Hulhumalé. The committee met twice in October 2026 and the members present agreed unanimously to recommend the full amount.",
+  "keyPoints": [
+    "Total MVR 133,590,265 for 2027, about 1% less than the revised 2026 budget of MVR 134.3 million",
+    "Running costs drop 4% to MVR 85.9 million, mainly because staff pay was budgeted lower to fit the Finance Ministry's spending cap; equipment rises 38% to MVR 4.2 million",
+    "The budget includes 14 new audit staff (about MVR 3.5 million in pay and pension) and MVR 700,000 for their laptops and desks; it is linked to a new audit quality review department set up in 2026",
+    "The committee asked the Finance Ministry for its view in writing, but no reply came before the deadline",
+    "The attached 2027 work plan lists 394 audits, including audits of fuel, electricity and staple food subsidies, the RTL ferry network, the disability allowance, tourism islands that were leased but never developed, island housing projects and MTCC procurement"
+  ],
+  "outcome": "Committee recommends Parliament approve MVR 133,590,265; report submitted to Parliament for a decision",
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-20"
+}

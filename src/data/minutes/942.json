@@ -1,0 +1,293 @@
+{
+ "sittingId": "942",
+ "date": "2025-05-06",
+ "title": "27th Sitting of first Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 39,
+  "onLeave": 4,
+  "officialTravel": 2
+ },
+ "summary": "The sitting opened at 09:01 with 39 members present, and the Speaker announced a Finance Committee deadline on the President's nomination for Deputy Governor of the Maldives Monetary Authority. Most of the sitting was question time for Defence Minister Mohamed Ghassan Maumoon: members asked about agreements with India (the minister said confidentiality clauses stop disclosure), Indian personnel, the helicopters and Dornier aircraft, drones, fire and rescue services, sea ambulances and the 2021 bomb attack. A motion to debate Bandaara Media's alleged breaches of the Public Service Media Act was not accepted (12 yes, 45 no), and the Civil Aviation Bill debate began with one speaker before the Speaker ended the sitting early so committees could meet. The next sitting was set for 7 May at 09:00, and Parliament breaks for a two-week recess from 15 May.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "39 present, 4 on leave, 2 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda (agenda 1/2025/27)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee deadline under Rule 174: Finance Committee, President's nomination of a Deputy Governor of the Maldives Monetary Authority",
+   "outcome": "deadline announced (7 May 2025)"
+  },
+  {
+   "n": "5.1",
+   "title": "Questions to the Minister of Defence from the Vaikaradhoo member Hussain Ziyad, on agreements between the Maldives and India that have not been made public",
+   "outcome": "questions and follow-ups answered by the minister; time ran out"
+  },
+  {
+   "n": "5.2",
+   "title": "Questions to the Minister of Defence from the Vaikaradhoo member Hussain Ziyad, on Indian military personnel and equipment in the Maldives",
+   "outcome": "questions and follow-ups answered by the minister; time ran out"
+  },
+  {
+   "n": "6.1",
+   "title": "Motion under Rule 201 by North Galolhu member Mohamed Ibrahim: Bandaara Media repeatedly breaching the Public Service Media Act (Law 9/2015), to bring it to the government's attention",
+   "outcome": "not accepted for debate, 12 yes - 45 no (29 needed)"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on the Civil Aviation Bill (government bill, sponsored by Central Hulhumale' member Abdulla Shazeem)",
+   "outcome": "debate started with one speaker; sitting ended early, debate to continue"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Ghassan Maumoon",
+   "constituency": "",
+   "turns": 42,
+   "positions": [
+    "As Minister of Defence, said confidentiality clauses in agreements with India stop them being published, and that foreign troops stationed in the Maldives have been withdrawn.",
+    "Said the helicopters and Dornier aircraft are run by civilians under the Maldives National Defence Force, with no spy equipment, and that fire and rescue service expansion is under way.",
+    "Said no new inquiry into the 2021 bomb attack was under way at the ministry because a Parliament committee had already examined it."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 6,
+   "positions": [
+    "Asked why agreements signed with India have not been made public, what changes were made, who signed them and how many helicopter flights were flown after the deal expired.",
+    "Asked how many Indian troops have left, what weapons they carried, and whether the helicopters and Dornier count as military equipment.",
+    "Asked what has been done to strengthen fire-fighting systems while tankers and drones are being bought, noting Male' fires rely on airport vehicles."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 4,
+   "positions": [
+    "Asked whether the helicopter agreement for Addu City that predated November 2023 is still being applied and whether it risks independence.",
+    "Asked whether the two Indian helicopters, Dornier and fast boat are military assets, who owns them and who operates them.",
+    "Asked about reports of a drone station in Addu City and whether residents and the airport were consulted."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 4,
+   "positions": [
+    "Questioned spending about 150 million dollars on drones, missiles and tankers while medicine shortages, debt and public needs persist.",
+    "Asked how the National Defence Force confirms no spy equipment is on the platforms and who controlled them before November 2023.",
+    "Asked whether the fire service can fight blazes and evacuate residents in Hulhumale' high-rises, and whether equipment spending would be better directed there."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 3,
+   "positions": [
+    "Asked whether the people operating the helicopter and Dornier are Hindustan Aeronautics staff, and what is being done about foreign vessels entering Maldivian waters.",
+    "Asked whether foreign aircraft in the country harm independence, and how the term military is defined.",
+    "Asked whether fishing boats that help find lost vessels could be given incentives, since they lose a day's fishing."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 3,
+   "positions": [
+    "Asked whether the agreement on the helicopters was changed and whether fuel bought through State Trading Organization for the defence force was switched to a private company.",
+    "Asked whether a research device agreement with a Chinese institute could allow spying and why it was permitted.",
+    "Said sea ambulances placed in the north are far from his island and asked about faster patient transfers."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether the Uthuru Thilafalhu harbour agreement with India had been changed.",
+    "Asked when the high-level committee last met and when it would meet next, saying he knew of no meeting this year."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 2,
+   "positions": [
+    "Asked how many Maldivian pilots have been trained to fly the helicopters and Dornier, and whether a study of the military spending plan was shared with Parliament.",
+    "Asked whether there is a plan to fight fires in the growing number of tall buildings in his constituency."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Asked whether boats could be required to carry satellite phones and insurance to cut the cost of searches for lost vessels.",
+    "Moved that Bandaara Media's repeated breaches of the Public Service Media Act be brought to the government's attention."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 2,
+   "positions": [
+    "Asked whether a master plan exists to protect the exclusive economic zone and how many years it covers.",
+    "Asked whether soldiers can be posted near their families when serving at military bases in different areas."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Asked whether the minister agrees with the previous MDP-era defence minister's description of the soldiers.",
+    "Asked about a security breach linked to the 2021 bomb attack on former President Nasheed and whether anything points to planning."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether any new investigation into the 2021 bomb attack is under way and welcomed the strengthening of the defence forces.",
+    "Called the Civil Aviation Bill important, urged opposition MPs to join the debate and said it should be sent to committee."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said the opposition has long asked for the agreements to be disclosed and asked the minister how he views the confidentiality explanation."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked whether rules exist limiting what former defence ministers may do after leaving office, citing regional security meetings."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Praised the Defence Ministry's progress on sea, land and air capability and asked the minister to detail the changes made."
+   ]
+  },
+  {
+   "name": "Ahmed Zahir",
+   "constituency": "Maduvvari",
+   "turns": 1,
+   "positions": [
+    "Asked when work will start on a fire and rescue building in Raa Atoll Meedhoo, where land was handed to the defence force in 2007."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Said Parliament is one of the three branches and asked why the minister had not appeared in the chamber for questioning requested in February."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the opposition criticises the drones and asked how many operations have used them and how useful they are in finding missing vessels."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Asked whether agreements with India harmed sovereignty and whether details could be disclosed, referring to the previous government's deals."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Asked how often reports of illegal fishing reach the Defence Ministry now that drones are in use, referring to the 2010 border-watching arrangements."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how many patients per year are flown by helicopter and whether the helicopters are still needed for air ambulance."
+   ]
+  },
+  {
+   "name": "Ibrahim Naufal",
+   "constituency": "Mulaku",
+   "turns": 1,
+   "positions": [
+    "Asked whether there is a long-term plan for a fire and rescue unit in Meemu Atoll, which has none."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Asked whether the 2021 bomb attack would be re-investigated, given allegations raised by MDP members about the then government."
+   ]
+  },
+  {
+   "name": "Ali Ashrag",
+   "constituency": "Kinbidhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when a fire and rescue service will be set up in Thaa Atoll, noting heavy industrial work at Hirilandhoo."
+   ]
+  },
+  {
+   "name": "Abdulla Shazeem",
+   "constituency": "Central Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Introduced the Civil Aviation Bill, which sets registration, licensing, safety and security rules and would replace Law 2/2001."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Finance Committee's deadline on the Monetary Authority deputy governor nomination was announced as 7 May 2025.",
+  "The motion on Bandaara Media was not accepted for debate (12 yes, 45 no, 0 abstain; 29 votes needed).",
+  "The Civil Aviation Bill's preliminary debate began and was left unfinished when the Speaker ended the sitting early.",
+  "The next sitting was set for 7 May 2025 at 09:00; Parliament takes a two-week recess from 15 May and resumes on 1 June."
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate the Rule 201 motion on Bandaara Media breaching the Public Service Media Act",
+   "yes": 12,
+   "no": 45,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 51,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

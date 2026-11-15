@@ -1,0 +1,263 @@
+{
+ "sittingId": "974",
+ "date": "2025-08-12",
+ "title": "24th Sitting of second session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 38,
+  "onLeave": 5,
+  "officialTravel": 3
+ },
+ "summary": "The sitting opened at 09:02 with 38 members present. The Speaker announced he would propose extending the second session to 21 August. Most of the morning was question time with the Minister of Islamic Affairs, Dr Mohamed Shaheem Ali Saeed, where members asked about Hajj quotas and waiting lists, how helpers are chosen, Hajj Corporation business plans, mosque repairs and unfinished mosque and Islamic centre projects. Members then debated the new Zakat Bill (a government bill) at its first stage and the Judiciary Committee report on an amendment to the Attorney General's Office Act. After a short break the Majlis voted to extend the session to 21 August (59-10) and passed the Attorney General's Office amendment bill (65-4). The minutes text is partly garbled, so some speaker gists are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "38 present, 5 on leave, 3 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Announcement from the chair: extending the second session to 21 August",
+   "outcome": "Speaker said a vote on the extension would be taken at vote time"
+  },
+  {
+   "n": "5.1",
+   "title": "Question to the Minister of Islamic Affairs from the Vaikaradhoo member on how many people went to Hajj from the 2025 payment list, with follow-up questions from 14 members",
+   "outcome": "minister answered; question time ended"
+  },
+  {
+   "n": "6.1",
+   "title": "Speaker's table: President's letter nominating two members to the Human Rights Commission of the Maldives",
+   "outcome": "letter read out; sent to the Human Rights and Gender Committee under Rule 131(n)"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on the Zakat Bill (government bill, sponsored by Vilifushi member Hassan Waheed)",
+   "outcome": "debated by 3 members; no vote in this sitting"
+  },
+  {
+   "n": "8.1",
+   "title": "Judiciary Committee report on the bill to amend the Attorney General's Office Act (Law 2025/8), sponsored by Central Fuvahmulah member Ali Fazad",
+   "outcome": "debated by 5 members; bill passed 65-4"
+  },
+  {
+   "n": "9",
+   "title": "Vote time: extension of the second session",
+   "outcome": "passed 59-10"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Mohamed Shaheem Ali Saeed",
+   "constituency": "",
+   "turns": 17,
+   "positions": [
+    "As Minister of Islamic Affairs, said Hajj quota places follow the Hajj Corporation's published rules and waiting list, not particular people, and that people aged 75 and over will be prioritised from the next Hajj.",
+    "Said the helper team follows Saudi rules, and that a suspended pilgrimage group has been referred to police for investigation.",
+    "Said Hajj Corporation business ventures aim to improve services, that waqf buildings will fund mosque repairs, and that the Dhiddhoo Islamic Centre should finish this month."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 3,
+   "positions": [
+    "Said some people go to Hajj repeatedly while others wait on the list, and asked by what rule this happens.",
+    "Was cut short by the Speaker after twice trying to continue past the allowed time."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked how many people went to Hajj from the 2025 waiting list, and whether Hajj Corporation leaders' families get places from the 1,000 quota.",
+    "Asked whether any system lets the public know which people can go in a given year, and whether there is a policy for choosing helpers."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 2,
+   "positions": [
+    "Asked whether the Hajj list will be made public to avoid corruption, and whether the Hajj Corporation MD's family went as helpers.",
+    "On the Attorney General's Office bill, questioned the Attorney General's role, citing the Supreme Court judges' removal, and asked whether the bill would stop such conduct."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked the minister about the 2024 action plan commitments on raising money to repair mosques and how many mosques have been repaired.",
+    "On the committee report, said the bill's amendments were mostly administrative, and objected to rushing bills through by extending the session."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Said many helpers appear to be relatives of Hajj Corporation staff, and asked the minister to answer plainly and to stop any theft.",
+    "On the Attorney General's Office bill, said the Attorney General has not answered a question under Article 98 within the required 14 days."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 2,
+   "positions": [
+    "Asked whether special Hajj places are given to ill people and how islands are served by Islamic outreach policy.",
+    "Supported the Zakat Bill, saying zakat is the third pillar of Islam and the bill brings structure, a fund and benefits for society."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 2,
+   "positions": [
+    "Presented the Judiciary Committee report: the bill was reviewed, the Attorney General's Office clarified points, and it was approved unanimously on 10 August.",
+    "Rejected the claim that the Attorney General influences the judiciary, and said changing a law before it takes effect is common practice."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said he hears many complaints about confusion over the Hajj list, and asked why the Hajj Corporation enters the tourism business when it also receives state budget money."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Asked when the long-stalled mosque in Fuvahmulah will be finished, and whether there is a plan to let older and frail pilgrims perform Hajj."
+   ]
+  },
+  {
+   "name": "Mohamed Niushad",
+   "constituency": "Keyodhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why people who paid in 2022 were moved from the 2026 list to 2027, and raised the question of getting a place through improper means."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether doctors and mission staff fall within the 1,000 quota, why those who paid in 2021 and 2022 were moved down, and about the hotel plan in Makkah-Madinah."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Raised concern about photos of relatives of Hajj Corporation leaders at Hajj, and asked how long the Makkah hotel is held outside the Hajj season."
+   ]
+  },
+  {
+   "name": "Ahmed Zahir",
+   "constituency": "Maduvvari",
+   "turns": 1,
+   "positions": [
+    "Asked whether the minister knows of a travel agency taking money from people for Umrah trips and not delivering, and whether a smoother arrangement can be made."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when the Islamic Centre being built in Dhiddhoo will be finished and opened after long delays."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about reports of a Hajj Corporation hotel plan in Mafushi, and whether the President's view matches the Corporation's decisions."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how many people who paid for Hajj still have not gone, and whether the 150 places for the President's office and the Corporation's 50 could be reduced."
+   ]
+  },
+  {
+   "name": "Hassan Waheed",
+   "constituency": "Vilifushi",
+   "turns": 1,
+   "positions": [
+    "Introduced the Zakat Bill: it sets a legal framework for collecting and spending zakat, with six chapters covering the council, types of zakat and a zakat fund."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the Zakat Bill as a basic Islamic duty to be backed by law, and said it should reduce the gap between rich and poor."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Thanked the government and the bill's sponsor, said zakat is a duty, and called for it to be set in a lasting legal framework."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Defended extending the session, saying amendments to laws are normal and committees consult stakeholders, and that large bills should not be rushed."
+   ]
+  }
+ ],
+ "decisions": [
+  "Second session of the Majlis extended to 21 August 2025 (59 for, 10 against).",
+  "Bill to amend the Attorney General's Office Act (Law 2025/8) passed after Judiciary Committee report (65 for, 4 against).",
+  "President's letter nominating two Human Rights Commission members sent to the Human Rights and Gender Committee.",
+  "Zakat Bill debated at its first stage; no vote taken."
+ ],
+ "votes": [
+  {
+   "what": "Extending the second session to 21 August 2025 (93 members, 70 present, 35 needed)",
+   "yes": 59,
+   "no": 10,
+   "abstain": 0
+  },
+  {
+   "what": "Judiciary Committee report and passage of the bill to amend the Attorney General's Office Act, Law 2025/8 (70 present, 35 needed)",
+   "yes": 65,
+   "no": 4,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 50,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

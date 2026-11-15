@@ -1,0 +1,22 @@
+{
+  "workId": "1508",
+  "titleDv": "އިންޝުއަރަންސްގެ ބިލު",
+  "summary": "This is a new, stand-alone law (not an amendment) that would become the Insurance Act, setting out how insurance business is licensed, run and supervised in the Maldives. It has 87 articles in 13 chapters and names the Maldives Monetary Authority (set up under Law 6/81) as the regulator. Only licensed companies could sell insurance, and insurance brokers, and agents if the Authority requires it, would also need a licence. The bill sets minimum capital, solvency, reserve and reporting rules, creates a dispute resolution committee for policyholders, lets the Authority take control of or wind up failing insurers, and sets fines for breaking the law. A few pages, mainly Articles 29 to 34 on life policies, subrogation and premium refunds, are partly illegible, so some details there are uncertain.",
+  "whyItMatters": "Anyone who buys insurance would get a regulator-run complaints committee, deadlines for claim payments and protection for their personal data, and state bodies could not force people to use one particular insurer. Insurers and brokers would face higher capital requirements, regular audits and inspections, and fines of up to MVR 5 million.",
+  "keyProvisions": [
+    "No one may carry out, advertise or solicit insurance business in the Maldives without a licence from the Authority, and only licensed firms may use words like \"insurance\" or \"takaful\" in their name (Article 5). Licences go only to companies registered under the Companies Act (Law 7/2023), cannot be transferred, and must be decided within 3 months of a complete application (Articles 6 and 9).",
+    "Insurers must hold at least MVR 50 million in capital for general insurance and MVR 30 million for long-term insurance, keep a solvency margin and a statutory deposit set by the Authority, and keep shareholders' money apart from policyholders' money (Articles 18 to 22). Anyone buying 10% or more of an insurer, or taking a stake past 20%, 33% or 50%, needs the Authority's approval first (Articles 17 and 87).",
+    "The Authority sets deadlines for paying claims, and insurers that pay late owe liquidated damages (Article 32). Insurers and intermediaries must keep customer information confidential except with consent or under a court or legal order (Articles 35 and 36), and an insurer is responsible for losses its agents cause to customers (Article 37).",
+    "Government offices, financial institutions and state-owned companies may not require anyone to buy a policy from a particular insurer, and anyone who recommends a specific insurer must tell the customer about any commission they receive. Breaking this rule carries a fine of MVR 5,000 to 1 million (Article 57).",
+    "The Authority must set up a dispute resolution committee for policyholder complaints. Contracts cannot bar a policyholder from using it, and after 30 days of failed talks the policyholder may take the dispute there. Its decisions bind insurers, though an insurer may seek a review (Articles 58 to 60).",
+    "The Authority may take control of an insurer, appoint an administrator or appoint a receiver to wind it up (Articles 61 to 69). Fines include MVR 100,000 to 5 million for unlicensed insurance business or for dishonest claims (Articles 70 and 71) and up to MVR 100,000 a day for continuing breaches (Article 72). Existing licensed insurers and brokers have 2 years to comply (Article 78), and decisions of the Authority can be challenged in court within 30 days (Article 84)."
+  ],
+  "whoIsAffected": "Insurance companies, insurance brokers and agents, policyholders and people making claims, auditors and actuaries working for insurers, and the Maldives Monetary Authority.",
+  "statedReasons": "The government says the bill would set a legal basis for running insurance business in a sound and safe way in the Maldives, including rules for licensing insurance companies and intermediaries and for regulating and supervising them.",
+  "sourceDoc": "Bill",
+  "pagesRead": 96,
+  "pagesTotal": 96,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

@@ -1,0 +1,22 @@
+{
+  "workId": "1537",
+  "titleDv": "ޤާނޫނު ނަންބަރު 29/2016 (ދިވެހިރާއްޖޭގެ އެއަރޕޯޓުތަކުން ދިވެހިރާއްޖެއިން ބޭރަށް ފުރާ ފަސިންޖަރުންގެ އަތުން ޓެކްސްއާއި ފީ ނެގުމާބެހޭ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Act on Taxes and Fees Collected from Passengers Departing the Maldives from its Airports (Law No. 29/2016). It raises the departure tax and the airport development fee, both charged in US dollars per passenger by travel class, from 1 December 2024. Maldivians in economy class keep paying 12 dollars, while foreigners in economy go from 30 to 50 dollars, and business, first class and private-jet charges double or more for everyone. It also rewrites the rule on refunding wrongly collected taxes and fees and updates what the Ministry's regulations must cover.",
+  "whyItMatters": "Every foreign passenger, and every Maldivian flying business, first class or by private jet, pays more of each charge when leaving the country. The government estimates MVR 1,572.3 million in extra revenue in 2025.",
+  "keyProvisions": [
+    "Clause 1 rewrites Article 2-1(a) (departure tax) with two tables: rates from 1 January 2022 to 30 November 2024, and new rates from 1 December 2024. Clause 2 repeals Article 2-1(b).",
+    "From 1 December 2024 each charge is: economy 12 dollars for Maldivians and 50 for foreigners (was 30); business 120 (was 60); first class 240 (was 90); private jet 480 (was 120).",
+    "Clauses 3 and 4 amend Article 3(a)(2) and add Article 3(a)(3), applying the same old and new tables to the airport development fee.",
+    "Clause 5 rewrites Article 8-1: tax or fee taken without authority, from someone exempt, or above the right amount must be refunded to the passenger before the related return is due to the Ministry, or else paid to the Minister; refunded money already paid to the Minister can be reclaimed through the return.",
+    "Clauses 6 and 7 rewrite Article 13(a) so the Ministry's regulations must set airline and airport-operator reporting rules, travel-class criteria and transitional rules for rate changes, and repeal Article 13(b).",
+    "Regulations must be updated and published in the Gazette within 30 days, and the amendments take effect once published in the Gazette."
+  ],
+  "whoIsAffected": "Passengers flying out of the Maldives (especially foreigners and premium-class travellers), airlines and airport operators that collect the charges, and the Ministry that administers them.",
+  "statedReasons": "The government says the bill raises some of the taxes and fees collected from departing passengers under Law 29/2016; the cost note adds that this is to raise state tax revenue and improve fiscal and debt sustainability.",
+  "sourceDoc": "Bill",
+  "pagesRead": 14,
+  "pagesTotal": 14,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

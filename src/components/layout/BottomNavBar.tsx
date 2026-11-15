@@ -7,12 +7,12 @@ const NAV = [
   { to: '/bills', label: 'Bills', icon: 'description' },
   { to: '/mps', label: 'MPs', icon: 'groups' },
   { to: '/votes', label: 'Votes', icon: 'how_to_vote' },
-  { to: '/issues', label: 'Issues', icon: 'topic' },
+  { to: '/sittings', label: 'Sittings', icon: 'event' },
 ]
 
 export function BottomNavBar() {
   return (
-    <nav className="md:hidden fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-4 py-2 pb-safe bg-surface-container shadow-[0_-4px_20px_rgba(0,0,0,0.05)] rounded-t-xl">
+    <nav aria-label="Primary" className="md:hidden fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-4 py-2 pb-safe bg-surface-container shadow-[0_-4px_20px_rgba(0,0,0,0.05)] rounded-t-xl">
       {NAV.map((item) => (
         <NavLink key={item.to} to={item.to} end={item.end} className="flex-1">
           {({ isActive }) => (

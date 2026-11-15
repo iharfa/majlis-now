@@ -1,0 +1,304 @@
+{
+ "sittingId": "1045",
+ "date": "2026-06-30",
+ "title": "8th Sitting of second session of 2026",
+ "presiding": "Abdul Raheem Abdulla (Speaker); Ahmed Saleem (Deputy Speaker) chaired part of the digital transformation debate",
+ "attendance": {
+  "present": 26,
+  "onLeave": 9,
+  "officialTravel": 4
+ },
+ "summary": "The sitting opened at 09:00 on 30 June 2026, marked International Day of Parliaments, and began with questions to the Minister of Tourism and Civil Aviation on wide-body aircraft, domestic airports and resort projects. Members then continued debating the government's Maldives 2.0 digital transformation bill, with government-side members in favour and MDP members raising concerns about oversight, data security and priorities; the debate paused for a recess with no vote. After the recess the house heard committee reports, voted 54-2 to approve the President's changes to ministry names and duties, and began the vote on the Elections Commission president. This final part of the sitting covers the vote on appointing Alfaadhil Mohamed Shakeel as President of the Elections Commission. Of 61 members present, 59 took part: 51 voted in favour and 8 against, above the 30 needed, so the appointment was approved. The chair then announced the next sitting for 1 July 2026 at 9:00 am and the sitting closed.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayers",
+   "outcome": "sitting opened by the Speaker at 09:00"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members at the sitting",
+   "outcome": "attendance announced: 26 present, 9 on leave, 4 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair: International Day of Parliaments and student visitors",
+   "outcome": "announced; students and teachers from three schools welcomed in the gallery"
+  },
+  {
+   "n": "5.1",
+   "title": "Questions to the Minister of Tourism and Civil Aviation on wide-body aircraft, airline finances, domestic airports and resort projects",
+   "outcome": "13 members questioned the minister, who answered; question time ended"
+  },
+  {
+   "n": "6.1",
+   "title": "President's letter nominating Zayna Abdulla as banking-sector member of the Privatization and Corporatization Board (Law 3/2013)",
+   "outcome": "letter read out; referred to the State Owned Enterprises Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "Continued debate on the government's Maldives 2.0 digital transformation bill (sponsored by the Gadhdhoo member)",
+   "outcome": "debated by 10 members; paused for recess, no vote in this part"
+  },
+  {
+   "n": "8.1",
+   "title": "Government Accountability Committee report on the President's changes to ministry names and duties (Constitution art. 116(a))",
+   "outcome": "report presented; no member asked to speak; sent to the vote"
+  },
+  {
+   "n": "8.2",
+   "title": "Independent Institutions Committee report on appointing Alfaadhil Mohamed Shakeel as President of the Elections Commission",
+   "outcome": "debated by two members; sent to the vote (result in part 2)"
+  },
+  {
+   "n": "9",
+   "title": "Votes on the committee reports",
+   "outcome": "ministry changes passed 54-2; Elections Commission vote began at the end of this part"
+  },
+  {
+   "n": "Vote",
+   "title": "Vote on appointing Alfaadhil Mohamed Shakeel as President of the Elections Commission",
+   "outcome": "passed 51-8; 30 needed"
+  },
+  {
+   "n": "Close",
+   "title": "Announcement of next sitting and close of sitting",
+   "outcome": "next sitting set for 1 July 2026 at 9:00 am; sitting adjourned"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Ameen",
+   "constituency": "",
+   "turns": 15,
+   "positions": [
+    "As Minister of Tourism and Civil Aviation, said wide-body flights carried about 67,000 passengers in 16 months and were used for charters and emergencies.",
+    "Said scheduled flights run to China and Australia, a second wide-body aircraft search is nearly done, and Island Aviation moved to budget-support status.",
+    "Declined to give lease details or answer on RTL, saying it falls under another ministry; said Kela and Vashafaru Thundu announcements were due within weeks."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Asked what progress wide-body aircraft have brought, which routes they fly and when flights to places beyond China and India would start.",
+    "Asked whether Island Aviation's move to budget-support company status was caused by the wide-body aircraft."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Asked what is being done to strengthen the national airline and make domestic flights stronger and cheaper.",
+    "Said he backs digital transformation in principle but questioned the government's intent, alleging misuse of funds in state digital companies and citing unfinished water, sewerage and health services."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Asked what criteria decide where regional airports are placed and why an announced airport has been delayed.",
+    "Said the bill's main weakness is oversight: biometric, health and banking data would sit in one place under one minister's powers, so independent oversight is needed."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether Addu's airport could host scheduled flights on wide-body aircraft or other routes, given Sri Lankan flights operate there.",
+    "Said the bill adds no new service, that digital banking limits remain, and that older people may be left behind without proper infrastructure."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 2,
+   "positions": [
+    "Backed the bill, saying it merges many separate government portals and cuts software spending, and cited housing applicants no longer queuing.",
+    "Asked that committee stage gather expert advice so the bills benefit citizens most."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Said the bill mostly gives legal force to existing services, questioned the cost and whether ministers can run it, and raised risks of one portal holding all data.",
+    "Opposed appointing the Elections Commission president nominee, saying the nominee's past roles weaken confidence in an independent commission."
+   ]
+  },
+  {
+   "name": "Abdulla Sodig",
+   "constituency": "North Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Backed the bill, saying existing digital services lack legal force and it should pass with the cyber security, digital identity and data protection bills.",
+    "Said committee review should examine the new agency acting as both implementer and regulator, and AI oversight."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked for the latest updates on the Addu Hankede project, the integrated tourism development project and the Shangri-La resort."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked for an update on the President's special pledge to Thinadhoo residents about the Kaadedhdhoo airport."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Asked the monthly lease and maintenance cost of the wide-body aircraft and when northern RTL flight cancellations from technical faults would end."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Asked when work would start on the planned resort in Kela lagoon and when the Vashafaru Thundu work would be finished."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the government plans to extend Maldivian's operations to all domestic airports and by when."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether a direct Gan to Makkah Umrah flight on 10 July is confirmed, and for an update on the long-closed Saudi Palm resort."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Asked what policies the government has to protect the tourism industry from global shocks such as the Middle East war."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Asked about high school-holiday fares to Kochi and the long-closed Villivaru resort in Kaafu Atoll."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why Hanimaadhoo airport is not used for larger aircraft or international flights, given its development."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, tracing state digitisation since 1996 and arguing digital governance cuts costs and corruption, while urging AI laws and help for older citizens."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, saying it brings all state and citizen data into one cloud platform so people no longer repeat the same information to different offices."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill as a modernising step that ends paper forms and travel to offices, and rejected opposition doubts about the government's intent."
+   ]
+  },
+  {
+   "name": "Ahmed Xamyr",
+   "constituency": "Central Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Backed the bills, calling them about citizens' autonomy, national security and cutting repeated paperwork, and stressed the cyber security and digital identity bills."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the Government Accountability Committee report on the President's changes to ministry names and duties, recommending the house approve them."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the Independent Institutions Committee report approving Alfaadhil Mohamed Shakeel for Elections Commission president by committee majority, without a further interview."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the report, saying the nominee has prior Elections Commission experience, and rejected opposition criticism by citing past opposition-era conduct towards courts and elections."
+   ]
+  }
+ ],
+ "decisions": [
+  "The People's Majlis approved the President's changes to the names and duties of several ministries (54 yes, 2 no).",
+  "The President's nomination of Zayna Abdulla to the Privatization and Corporatization Board was referred to the State Owned Enterprises Committee.",
+  "Debate on the Maldives 2.0 digital transformation bill continued but paused for a recess without a vote.",
+  "The Independent Institutions Committee report on the Elections Commission president went to the vote, which began at the end of this part.",
+  "Alfaadhil Mohamed Shakeel (ID 13449) was approved by the People's Majlis as President of the Elections Commission.",
+  "Next sitting announced for Wednesday 1 July 2026 at 9:00 am."
+ ],
+ "votes": [
+  {
+   "what": "Approval of the President's changes to ministry names and duties (93 members in total, 60 present, 56 voted, 29 needed to pass)",
+   "yes": 54,
+   "no": 2,
+   "abstain": 0
+  },
+  {
+   "what": "Appointment of Alfaadhil Mohamed Shakeel as President of the Elections Commission (93 members in total, 61 present, 59 voted, 30 needed to pass)",
+   "yes": 51,
+   "no": 8,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 55,
+ "parts": 2,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

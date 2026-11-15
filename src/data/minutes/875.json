@@ -1,0 +1,387 @@
+{
+ "sittingId": "875",
+ "date": "2024-08-19",
+ "title": "30th sitting of the 20th Majlis",
+ "presiding": "Ahmed Nazim (Deputy Speaker)",
+ "attendance": {
+  "present": 46,
+  "onLeave": 4,
+  "officialTravel": 4
+ },
+ "summary": "The sitting opened at 9:01 with announcements, including a condolence for a long-serving former Majlis official and news of a Majlis delegation to China. An urgent motion against allowing longline fishing for large yellowfin tuna was not accepted for debate (11 yes, 47 no, 1 abstain). Most of the sitting was the preliminary debate on the government's Urban Development Bill, where PNC members backed it while MDP and MDA members questioned island services and land allocation. The House then received two committee reports and began committee-stage business on a Tourism Act amendment on resort lease extensions. This part finishes the committee-stage debate on the amendment to the Tourism Act, where members argued that lease extensions for resort investors should come with equal protection and better job opportunities for Maldivian staff. The Security Services Committee report on the Employment Act amendment bill and four Finance Committee audit reports (Prosecutor General's Office, Civil Aviation Authority, Human Rights Commission, National Integrity Commission) were presented, with only the Human Rights Commission audit report drawing comment, mostly about how old the audited years are. After a recess, members voted on everything: all the audit reports and the Tax Appeal Tribunal report from the Judiciary Committee passed, both floor amendments to the Tourism Act bill passed, and both the Tourism Act amendment bill and the Employment Act amendment bill passed. The Deputy Speaker then closed the sitting, with the next one set for Tuesday 20 August 2024 at 9:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "sitting opened with prayer"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "46 present, 4 on leave, 4 on official travel announced"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the agenda of the day",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Chair's announcements (condolence, delegation to China, committee deadlines)",
+   "outcome": "announced"
+  },
+  {
+   "n": "4 (urgent matter)",
+   "title": "Urgent motion on government decision to allow longline fishing for large yellowfin tuna",
+   "outcome": "not accepted for debate (11 yes, 47 no, 1 abstain; 30 needed)"
+  },
+  {
+   "n": "5.1",
+   "title": "First reading of bill to amend the Criminal Procedure Act (Law 2016/12), sponsored by North Galolhu member",
+   "outcome": "first reading held"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate on the Urban Development Bill (government bill, sponsored by Vilingili member)",
+   "outcome": "debated by 12 members; sponsor introduced the bill"
+  },
+  {
+   "n": "7.1",
+   "title": "Finance Committee report on the 2014 and 2015 audit reports of the Maldives Environmental Management Project",
+   "outcome": "report presented; no member sought to speak; vote at voting time"
+  },
+  {
+   "n": "7.2",
+   "title": "Judiciary Committee report on the Tax Appeal Tribunal complaint",
+   "outcome": "report presented and debated; vote at voting time"
+  },
+  {
+   "n": "7.3",
+   "title": "Whole-House Committee report on the bill amending the Tourism Act (Law 99/2), sponsored by Dhangethi member",
+   "outcome": "committee passed bill as submitted by consensus; two amendments filed; debate under way"
+  },
+  {
+   "n": "",
+   "title": "Amendment to the Tourism Act (Law 2/99): committee-stage debate continued",
+   "outcome": "debated by 4 members; voted later, bill passed 76-0"
+  },
+  {
+   "n": "7.4",
+   "title": "Amendment to the Employment Act (Law 2/2008): Security Services Committee report",
+   "outcome": "report presented, no debate; bill later passed 65-10"
+  },
+  {
+   "n": "7.5",
+   "title": "Prosecutor General's Office audit reports 2013-2021: Finance Committee report",
+   "outcome": "presented, no debate; later passed 75-0"
+  },
+  {
+   "n": "7.6",
+   "title": "Maldives Civil Aviation Authority audit reports 2014-2023: Finance Committee report",
+   "outcome": "presented, no debate; later passed 76-0"
+  },
+  {
+   "n": "7.7",
+   "title": "Human Rights Commission of the Maldives audit reports 2018-2022: Finance Committee report",
+   "outcome": "debated by 2 members; later passed 76-0"
+  },
+  {
+   "n": "7.8",
+   "title": "National Integrity Commission audit reports 2019-2022: Finance Committee report",
+   "outcome": "presented, no debate; later passed 76-0"
+  },
+  {
+   "n": "8",
+   "title": "Votes on the day's reports, bills and amendments (after recess)",
+   "outcome": "10 votes held, all passed"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 5,
+   "positions": [
+    "Presented the Finance Committee report on the Maldives Environmental Management Project audits; found no issues and recommended the House accept it.",
+    "Presented the Finance Committee reports on the Prosecutor General's Office, Civil Aviation Authority, Human Rights Commission and National Integrity Commission audits, saying the committee found no issues in them.",
+    "On the National Integrity Commission reports, said it is regrettable that reports pile up from past years and that the committee will keep working to clear them."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 3,
+   "positions": [
+    "Moved the urgent matter against the cabinet decision to allow longline fishing for large yellowfin tuna, citing harm to marine life, tourism and small fishers.",
+    "In the bill debate, argued the Urban Development Bill focuses on Malé and urged finishing island projects first.",
+    "Said lease extensions should be balanced by equal protection for Maldivian resort workers, whose contracts last one or two years, as for investors with 50-year leases."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 3,
+   "positions": [
+    "Called the bill important but said island health, education and youth facilities, including in Velidhoo, must be improved first.",
+    "Opposed free allocation of reclaimed land in Malé and criticised the consolidation policy.",
+    "Backed equal rights for resort staff, said the Tourism Ministry should act against resorts that mistreat workers, and raised no objection to the bill.",
+    "Questioned the value of committees reviewing audit reports that cover 7 to 9 years back and asked what the Majlis has achieved on them."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 3,
+   "positions": [
+    "Said the Majlis should investigate reports more thoroughly and that his own review found misuse of public funds not shown in them.",
+    "Said audit reports of overseas missions on his desk need the Chair's attention.",
+    "Raised concern that the halal tourism segment, a very large global industry, is not included in the bill and asked the committee stage to consider adding it."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 3,
+   "positions": [
+    "Said young Maldivians still mostly get low-level resort jobs and hoped the bill opens management roles.",
+    "Seconded the first floor amendment on lease extension.",
+    "Seconded the second floor amendment on lease extension."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 2,
+   "positions": [
+    "Backed the bill, saying a legal framework helps places develop and could curb irregularities caused by its absence.",
+    "On the Tourism Act amendment, began by saying tourism is the main economic earner and laws should give Maldivians more benefit."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 2,
+   "positions": [
+    "Said audit and other reports receive too little scrutiny and cited about 1,500 unreviewed reports inherited by this Majlis.",
+    "Noted the cost of running the Majlis and that no MDP member was present for the report debate."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 2,
+   "positions": [
+    "Proposed two floor amendments to the Tourism Act bill allowing leases to be extended by 49 more years once the required fee is paid."
+   ]
+  },
+  {
+   "name": "Azim Abdul Azeez",
+   "constituency": "Vilingili",
+   "turns": 1,
+   "positions": [
+    "Introduced the Urban Development Bill: seven chapters on defining and managing urban areas, zoning, complaints and general rules.",
+    "Said it sets planning rules for developing urban areas and spreading services beyond Malé."
+   ]
+  },
+  {
+   "name": "Munthazim Ibrahim",
+   "constituency": "Kaashidhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill as vital for an island nation, saying development centres can deliver services and ease budget deficits.",
+    "Asked the committee to study it closely so it does not undermine the decentralisation law."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Welcomed a long-awaited legal basis for designating areas to develop, saying Malé residents bear the cost of its absence.",
+    "Said the bill would stop ad hoc plot allocation and called for public consultation."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying about 190 inhabited islands strain the budget because every island needs ports, health centres and schools.",
+    "Hoped the committee would invite stakeholders to improve it."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the bill could end the long-running concentration of services in Malé and bring health, education and jobs to defined regions.",
+    "Hoped designation of areas avoids repeating costly reclamation."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Said the bill helps coordinate roads, utilities and infrastructure and prioritises residents' health and safety.",
+    "Noted it protects the environment, and asked for quick passage after committee input."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Welcomed the bill but said past decentralisation created cities without matching services, so Malé stays crowded.",
+    "Urged planning that respects the island character and improves island schools and facilities."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said urban centres need jobs, schools and health services to attract people, and a law alone will not deliver them.",
+    "Questioned the 85,000 housing unit plan and government spending priorities."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Backed the bill and said past governments lacked a fiscal framework, which hurt public finances.",
+    "Said Malé residents should receive plots and the government will provide them from reclaimed land."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, saying the 85,000 flats claim is false and citing 1,000 flats planned for Addu City.",
+    "Criticised past MDP-era spending on island water and sewerage projects, and criticised the urgent motion as using House time."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the Judiciary Committee report on the Tax Appeal Tribunal, noting unequal bench selection and many cases unresolved within 180 days.",
+    "Said the committee recommends referring corruption allegations to the Anti-Corruption Commission and advising the President to remove four tribunal officials."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the Security Services Committee report on the Employment Act amendment bill, passed by committee majority on 13 August 2024."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Said the Finance Committee does important work, that committees include all political parties, and thanked the committee chair and members."
+   ]
+  }
+ ],
+ "decisions": [
+  "Urgent motion on longline fishing for large yellowfin tuna was not accepted for debate (11 yes, 47 no, 1 abstain).",
+  "Bill to amend the Criminal Procedure Act (Law 2016/12) received its first reading.",
+  "Preliminary debate on the Urban Development Bill was held; the vote to proceed was not in this part.",
+  "Finance Committee report on the Maldives Environmental Management Project audits and Judiciary Committee report on the Tax Appeal Tribunal were presented, with votes left for voting time.",
+  "Whole-House Committee passed the Tourism Act (Law 99/2) amendment bill as submitted by consensus; two amendments were filed for the voting stage.",
+  "The Tourism Act amendment bill passed with the Majlis's two floor amendments (76 yes, 0 no).",
+  "First Tourism Act floor amendment (lease extension of up to 49 years) passed 68-5 with 1 abstention.",
+  "Second Tourism Act floor amendment (same extension, in a second section) passed 70-5.",
+  "The Employment Act amendment bill passed 65-10.",
+  "The Maldives Environmental Management Project 2014-2015 audit report was accepted by the Majlis (72-0).",
+  "The Judiciary Committee report on the Tax Appeal Tribunal matter passed 63-10.",
+  "The Finance Committee reports on the Prosecutor General's Office (75-0), Civil Aviation Authority, Human Rights Commission and National Integrity Commission (each 76-0) all passed.",
+  "Sitting closed; the next sitting is set for Tuesday 20 August 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Urgent matter: government decision to allow longline fishing for large yellowfin tuna (whether to debate it; 30 needed)",
+   "yes": 11,
+   "no": 47,
+   "abstain": 1
+  },
+  {
+   "what": "Morning recorded vote on a motion titled 'Kulli massala ah bahuskurumah' (MP Mauroof Zakir), roll call at 9:16",
+   "yes": 11,
+   "no": 47,
+   "abstain": 1
+  },
+  {
+   "what": "Maldives Environmental Management Project 2014-2015 audit report (Finance Committee report)",
+   "yes": 72,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Tax Appeal Tribunal matter (Judiciary Committee report)",
+   "yes": 63,
+   "no": 10,
+   "abstain": 0
+  },
+  {
+   "what": "Tourism Act amendment bill: first floor amendment (Abdul Sattar Mohamed)",
+   "yes": 68,
+   "no": 5,
+   "abstain": 1
+  },
+  {
+   "what": "Tourism Act amendment bill: second floor amendment (Abdul Sattar Mohamed)",
+   "yes": 70,
+   "no": 5,
+   "abstain": 0
+  },
+  {
+   "what": "Tourism Act amendment bill: passing the report with the Majlis's amendments",
+   "yes": 76,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Employment Act amendment bill (Security Services Committee report)",
+   "yes": 65,
+   "no": 10,
+   "abstain": 0
+  },
+  {
+   "what": "Prosecutor General's Office audit reports 2013-2021 (Finance Committee report)",
+   "yes": 75,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Maldives Civil Aviation Authority audit reports 2014-2023 (Finance Committee report)",
+   "yes": 76,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Human Rights Commission of the Maldives audit reports 2018-2022 (Finance Committee report)",
+   "yes": 76,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "National Integrity Commission audit reports 2019-2022 (Finance Committee report)",
+   "yes": 76,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 99,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

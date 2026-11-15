@@ -1,0 +1,21 @@
+{
+  "workId": "1968",
+  "titleDv": "ޤާނޫނު ނަންބަރު 3/2010 (ޓެކްސް ހިންގުމާބެހޭ އިދާރީ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Tax Administration Act (Law 3/2010). Today, a taxpayer who disputes a tax bill set by the tax authority (MIRA) under Article 39 must pay 25% of the disputed amount before appealing to the Tax Appeal Tribunal. The bill raises this to 50%. For some kinds of transactions, listed by article in the Income Tax Act and the GST Act, the taxpayer would have to pay 100% of the disputed amount before appealing. Fines and interest are left out of these percentages.",
+  "whyItMatters": "A business or person who wants to challenge a tax bill at the Tribunal would have to pay more of the disputed tax upfront, and all of it in the listed cases.",
+  "keyProvisions": [
+    "Article 44 is amended so that the amount payable before an appeal goes from 25% to 50% of the disputed tax set by MIRA. The bill's comparison table shows both figures.",
+    "A new Article 44 sub-clause requires 100% of the disputed amount to be paid before an appeal about tax linked to four kinds of transactions: those described in Articles 66 and 67 of the Income Tax Act (Law 25/2019), certain transactions under the GST Act (Law 10/2011), and those described in Article 19 item (5) of the GST Act.",
+    "The existing rule is kept and moved to its own sub-clause: if MIRA's decision only reduces a loss carried forward under the Income Tax Act, no payment is needed to appeal it.",
+    "The 50% and 100% figures are worked out on the disputed tax only, without fines or interest.",
+    "Regulations under the Act must be changed or made within 90 days of the amendment taking effect and published in the Government Gazette. The amendment takes effect once it is passed, ratified and published in the Gazette."
+  ],
+  "whoIsAffected": "Businesses and individuals who dispute a tax amount set by MIRA and want to appeal to the Tax Appeal Tribunal.",
+  "statedReasons": "The government says the bill sets out the cases where a taxpayer who disputes a tax amount set by MIRA must first pay 100% of that disputed amount before appealing to the Tax Appeal Tribunal.",
+  "sourceDoc": "Bill",
+  "pagesRead": 10,
+  "pagesTotal": 10,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-20"
+}

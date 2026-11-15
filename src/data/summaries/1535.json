@@ -1,0 +1,21 @@
+{
+  "workId": "1535",
+  "titleDv": "ޤާނޫނު ނަންބަރު 10/2011 (މުދަލާއި ޚިދުމަތުގެ އަގުން ޓެކްސް ނެގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Goods and Services Tax Act (Law No. 10/2011). It changes the GST rate charged on goods and services in the tourism sector, set in Article 15(c). The current 16% rate, which has applied since 1 January 2023, would end on 31 May 2025. From 1 June 2025 the tourism GST rate would rise to 17%. GST regulations would have to be updated within 30 days of the law taking effect.",
+  "whyItMatters": "Tourism businesses such as resorts, hotels and guesthouses would charge one percentage point more GST on their goods and services from 1 June 2025. The government's cost note estimates this would bring in about MVR 201.9 million extra in 2025, rising to MVR 538.4 million in 2027.",
+  "keyProvisions": [
+    "Clause 1 rewrites Article 15(c)(5) so that the 16% tourism GST rate applies from 1 January 2023 up to 31 May 2025.",
+    "Clause 2 adds a new Article 15(c)(6) setting the tourism GST rate at 17% from 1 June 2025.",
+    "Clause 3 requires the regulations made under the GST Act to be amended to match, and published in the Government Gazette, within 30 days of this law taking effect.",
+    "Clause 4 says the law takes effect once it is passed, ratified and published in the Government Gazette.",
+    "The attached cost assessment says the bill needs no extra state spending and estimates extra tourism GST income of MVR 201.9 million in 2025, MVR 330.8 million in 2026 and MVR 538.4 million in 2027."
+  ],
+  "whoIsAffected": "Tourism businesses that charge tourism GST, the tourists who pay it, and the state budget.",
+  "statedReasons": "The government says the bill raises the tax rate on goods and services in the tourism sector under the GST Act. The cost assessment adds that the aim is to support fiscal and debt sustainability and increase the state's foreign currency income.",
+  "sourceDoc": "Bill",
+  "pagesRead": 7,
+  "pagesTotal": 7,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

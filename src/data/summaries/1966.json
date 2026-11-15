@@ -1,0 +1,21 @@
+{
+  "workId": "1966",
+  "titleDv": "ޤާނޫނު ނަންބަރު 25/2019 (އިންކަމް ޓެކްސް ނެގުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Income Tax Act (Law No. 25/2019), changing the rules in Article 71 that limit how much interest a taxpayer can deduct from taxable income. It lowers the 'interest capacity', the most interest that can be deducted in a period, from 30% to 25% of the taxpayer's tax-EBITDA. It also removes the clauses that let interest over the limit be carried forward and deducted in later years. The changes would apply from the 2027 tax year, and the law would take effect on 1 January 2027.",
+  "whyItMatters": "Businesses that borrow heavily could deduct less of their interest costs, so some would pay more income tax. The government's estimate expects state revenue to rise.",
+  "keyProvisions": [
+    "Article 71(b)(2): interest capacity becomes 25% of tax-EBITDA for the period, down from 30% in the current law.",
+    "Removes Article 71(c), which lets interest that could not be deducted under 71(a) be deducted in later periods, within that period's interest capacity.",
+    "Removes Article 71(d), which limits that carry-forward to 10 years, and 71(e), which sets the order in which carried-forward and current interest are deducted. Also removes the related definition in 71(b)(3).",
+    "Clause 6 says the Article 71 changes apply to the 2027 tax year and later tax years. Clause 7 says the law takes effect on 1 January 2027.",
+    "The attached fiscal note puts the extra income tax at 496,300,302 (the page read does not show a currency). It is based on data from the Maldives Inland Revenue Authority, and the note says the revenue effect would show about 12 months after the start date."
+  ],
+  "whoIsAffected": "Companies and other taxpayers that deduct interest on loans under the Income Tax Act, and the state budget.",
+  "statedReasons": "The government says the bill changes the Income Tax Act's rules on deducting interest paid by taxpayers.",
+  "sourceDoc": "Bill",
+  "pagesRead": 8,
+  "pagesTotal": 8,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-20"
+}

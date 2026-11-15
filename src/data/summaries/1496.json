@@ -1,0 +1,22 @@
+{
+  "workId": "1496",
+  "titleDv": "ޤާނޫނު ނަންބަރު 5/2019 (ދިވެހިރާއްޖޭގެ ޤާނޫނީ ވަކާލާތުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Legal Profession Act (Law 5/2019) to change who sits on the executive committee of the Bar Council of Maldives. It removes the Attorney General, who currently sits on the committee because of their post, and raises the number of lawyers elected to the committee from 6 to 7. It rewrites the rules on electing members by secret ballot of licensed lawyers, on how a seat becomes vacant, and on removing a member. Elections for the new committee would have to be held within 60 days of the law taking effect. The bill also rewrites Article 72(b), but that part is hard to read.",
+  "whyItMatters": "The lawyers' governing body would be run by a committee elected entirely by lawyers, with no government official sitting on it because of their post.",
+  "keyProvisions": [
+    "Article 6(b)(3), which puts the Attorney General on the Bar Council's executive committee, is deleted. Article 6(d), which describes that seat, is rewritten to say committee members are elected by secret ballot of lawyers licensed in the Maldives.",
+    "Articles 6(b)(4) and 10 change the number of lawyers elected to the committee from 6 to 7, and Article 11(a) is updated to match.",
+    "Article 13 is rewritten to list when an elected member's seat becomes vacant: end of term, resignation, removal under the law, death or being unable to do the job, or no longer meeting a membership condition.",
+    "Article 16(a) is rewritten so the process to remove an elected member starts with a request from at least 100 lawyers. The rest of the procedure is partly hard to read.",
+    "Article 72(b) is rewritten into two numbered exceptions to Article 72(a), one of which mentions Maldivian diplomatic missions abroad. The scan is too unclear to give the details.",
+    "The new committee members must be elected within 60 days of the law taking effect. The law takes effect once it is passed, ratified and published in the Government Gazette."
+  ],
+  "whoIsAffected": "Lawyers licensed in the Maldives, the Bar Council of Maldives, and the Attorney General's office.",
+  "statedReasons": "The government says the Attorney General should not sit on the Bar Council's executive committee because of their post, so the committee's make-up needs to change and the Bar Council should be able to run its own affairs fully.",
+  "sourceDoc": "Bill",
+  "pagesRead": 11,
+  "pagesTotal": 11,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

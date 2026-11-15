@@ -1,0 +1,79 @@
+{
+  "committeeId": "136",
+  "period": "2024-07-31 to 2024-11-27",
+  "meetings": 2,
+  "codes": {
+    "P": "present",
+    "@": "attended in another capacity; counted under officialTravel (the sheet counts it as attended, O+@+P)",
+    "S": "salaam (on leave / excused)",
+    "L": "leave",
+    "O": "official duty / travel (counted under officialTravel)",
+    "-": "absent without leave (counted in the sheet's eligible total and in its non-attendance group S+L+-)",
+    "N": "not a member / not included at that meeting (excluded from the sheet's totals; not counted here)",
+    "©": "not included (excluded from the sheet's totals; never occurs in these sheets)"
+  },
+  "members": [
+    {
+      "mpId": "mp-240",
+      "name": "Ahmed Nazim",
+      "constituency": "Dhiggaru",
+      "present": 1,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 2
+    },
+    {
+      "mpId": "mp-253",
+      "name": "Ali Ashrag",
+      "constituency": "Kinbidhoo",
+      "present": 2,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 2
+    },
+    {
+      "mpId": "mp-260",
+      "name": "Ahmed Shakir",
+      "constituency": "Maavashu",
+      "present": 2,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 2
+    },
+    {
+      "mpId": "mp-256",
+      "name": "Mohamed Ali",
+      "constituency": "Gadhdhoo",
+      "present": 2,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 2
+    }
+  ],
+  "meetingsList": [
+    {
+      "date": "2024-07-31",
+      "n": 1,
+      "present": 3,
+      "total": 4
+    },
+    {
+      "date": "2024-11-27",
+      "n": 2,
+      "present": 4,
+      "total": 4
+    }
+  ],
+  "sourceDocs": [
+    "https://majlis.gov.mv/storage/committee_files/136/8zdINusmhwGufpSnh8aWqjhQo8PB6elaTS69XOmU.pdf"
+  ],
+  "pagesRead": 1,
+  "pagesTotal": 1,
+  "confidence": "High",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-06"
+}

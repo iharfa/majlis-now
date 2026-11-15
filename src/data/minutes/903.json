@@ -1,0 +1,103 @@
+{
+ "sittingId": "903",
+ "date": "2024-11-20",
+ "title": "52nd sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 86,
+  "onLeave": 1,
+  "officialTravel": 0
+ },
+ "summary": "A short sitting (17:33 to 17:53) devoted to the Whole House Committee's report on the bill amending the Constitution, submitted on behalf of the government by Mohamed Shahid (Hulhudhoo). Two members spoke on the report, then an amendment to clause 2 proposed by Meekail Ahmed Nasym was put to a vote and rejected 13-77. The bill was then voted on as passed by the committee and passed 78-13, above the 70 votes needed, and the sitting was adjourned to Sunday 24 November 2024.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers",
+   "outcome": "Speaker opened the sitting"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "86 members present when announced; 1 member on leave; none on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "No further announcements"
+  },
+  {
+   "n": "5.1",
+   "title": "Whole House Committee report on the bill to amend the Constitution of the Republic of Maldives (government bill, submitted by Mohamed Shahid, Hulhudhoo)",
+   "outcome": "debated; amendment to clause 2 rejected 13-77; bill passed 78-13"
+  },
+  {
+   "n": "6",
+   "title": "Voting on the amendment and on the bill",
+   "outcome": "amendment rejected 13-77; bill passed 78-13 with 70 needed"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Thanked members who spoke on the amendments and said the bill had wide support from members across parties, including the MDP."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment to the Constitution, noting members had consulted widely at committee stage, and asked for a quick vote."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Proposed an amendment to clause 2 of the bill, rewriting the circumstances in which an MP loses their seat."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Seconded the amendment proposed by Meekail Ahmed Nasym."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Whole House Committee's report on the Constitution amendment bill was presented to the Majlis.",
+  "The proposed amendment to clause 2 was not passed (13 yes, 77 no).",
+  "The Constitution amendment bill, as passed by the Whole House Committee, passed the Majlis (78 yes, 13 no).",
+  "The next sitting was set for Sunday 24 November 2024 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Amendment to clause 2 of the Constitution amendment bill, proposed by Meekail Ahmed Nasym",
+   "yes": 13,
+   "no": 77,
+   "abstain": 0
+  },
+  {
+   "what": "Constitution amendment bill as passed by the Whole House Committee (third reading; 70 votes needed)",
+   "yes": 78,
+   "no": 13,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 15,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

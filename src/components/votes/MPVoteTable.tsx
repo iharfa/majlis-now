@@ -68,6 +68,7 @@ export function MPVoteTable({ vote }: { vote: Vote }) {
               setPage(0)
             }}
             placeholder="Search MP or constituency…"
+            aria-label="Search MPs in this vote"
             className="w-full bg-white border border-outline-variant rounded-full pl-10 pr-4 py-2 focus:ring-2 focus:ring-primary focus:border-primary outline-none"
           />
           <Icon name="search" className="absolute left-3 top-2.5 text-on-surface-variant" />

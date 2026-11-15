@@ -1,0 +1,20 @@
+{
+  "workId": "1838",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/2008 (ވަޒީފާއާބެހޭ ޤާނޫނު) އަށް ...... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill adds two rules on service charge in tourism businesses to Article 52 of the Employment Act. Employers could no longer change the currency of the service charge owed to staff, for example by converting it to rufiyaa. Staff would have to be paid their share in the currency it was collected in. Staff who directly serve guests could not be treated differently when service charge is shared because of their type of job arrangement.",
+  "whyItMatters": "Resort and other tourism workers could get their full service charge share in the currency it was collected in, often US dollars, which may be worth more to them.",
+  "keyProvisions": [
+    "New Article 52(b)(3): employers must not change the currency of service charge money owed to staff (for example, converting it to rufiyaa)",
+    "New Article 52(b)(3): service charge must be paid to staff in the currency in which it was collected",
+    "New Article 52(b)(4): staff in tourism businesses who directly serve customers must not be treated differently in receiving service charge because of their type of job arrangement",
+    "The amendment takes effect once ratified and published in the Government Gazette"
+  ],
+  "whoIsAffected": "Employees and employers in the tourism industry, especially resorts that collect service charge in foreign currency.",
+  "statedReasons": "The bill notes the law already requires a service charge of at least 10%, shared equally among staff, but says some businesses change its currency or hold part of it back, so staff do not get the full amount. It aims to make sure tourism workers get all of it.",
+  "sourceDoc": "Bill",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

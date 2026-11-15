@@ -22,8 +22,14 @@ export function IssueThemeCard({ theme }: { theme: IssueTheme }) {
       </h3>
       <p className="mt-1 text-sm text-on-surface-variant line-clamp-2">{theme.publicImpact}</p>
       <div className="mt-4 flex items-center gap-4 text-label-sm text-outline">
-        <span><span className="font-label-bold text-on-surface">{billCount}</span> bills</span>
-        <span><span className="font-label-bold text-on-surface">{voteCount}</span> votes</span>
+        {billCount === 0 && voteCount === 0 ? (
+          <span>No bills recorded yet</span>
+        ) : (
+          <>
+            <span><span className="font-label-bold text-on-surface">{billCount}</span> bill{billCount === 1 ? '' : 's'}</span>
+            <span><span className="font-label-bold text-on-surface">{voteCount}</span> vote{voteCount === 1 ? '' : 's'}</span>
+          </>
+        )}
       </div>
     </Link>
   )

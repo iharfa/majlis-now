@@ -1,0 +1,22 @@
+{
+  "workId": "1489",
+  "titleDv": "ޤާނޫނު ނަންބަރު 2/2015 (ޖިނާއީ މައްސަލަތަކުގައި ޤާނޫނީ އެހީތެރިކަން ބަދަލުކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Mutual Legal Assistance in Criminal Matters Act (Law 2/2015) so the Maldives can exchange electronic evidence with other countries in criminal cases. It adds a new part on electronic evidence after Article 14, made up of new Articles 14-1 to 14-8. Foreign countries, foreign agencies, international agencies and 24/7 networks could ask the Prosecutor General to quickly preserve computer data, disclose traffic data, give access to stored data, collect traffic data in real time and intercept content data. Maldivian investigators could also, in limited cases, access data stored abroad without the other country's permission. The bill also sets up a round-the-clock contact point within the Maldives Police Service.",
+  "whyItMatters": "Data held on computers, phones and internet networks in the Maldives could be preserved, handed over or monitored in real time at the request of foreign authorities investigating crimes. Such requests would go through the Prosecutor General and the court orders and procedures of the Criminal Procedure Code (Law 12/2016).",
+  "keyProvisions": [
+    "Adds item (10) to Article 3(a) so the measures in Chapter 4 count as legal assistance under the law, and splits the chapter into a Part One on general principles and a new Part Two on electronic evidence.",
+    "Article 14-1 lets the Prosecutor General share information from a Maldivian investigation with a foreign country or agency without being asked. Investigators may access data stored abroad without that country's permission if they have lawful consent from the person able to disclose it, or in emergencies involving a serious threat to life or safety or major economic harm, but only where normal assistance procedures would obstruct the case. The other country must be told afterwards, and the Prosecutor General must set out the procedure in regulations.",
+    "Article 14-2 allows a foreign country or agency to ask for computer data held in the Maldives to be preserved quickly before a formal request. Data must be kept for at least 60 days and until a decision is made on the formal request.",
+    "Article 14-3 requires the Maldives to quickly disclose enough traffic data to identify a service provider in a third country that helped transmit a communication, even without a specific request.",
+    "Articles 14-4, 14-5 and 14-6 set rules for requests to search, seize or disclose stored data, to collect traffic data in real time and to intercept or record content data. The Prosecutor General or a law-enforcement agency he names must obtain the needed orders under the Criminal Procedure Code (Law 12/2016), and the results are shared with the requesting party. Article 14-4 lists what a request must contain, such as the crime, the device and the data sought.",
+    "Article 14-7 requires a 24/7 contact point in the Maldives Police Service to help with data preservation, collecting electronic evidence, legal information, locating suspects and technical advice. Article 14-8 takes definitions such as 'computer system' and 'content data' from the Penal Code (Law 9/2014), and 'traffic data' and 'service provider' from the Criminal Procedure Code; the changes take effect when published in the Government Gazette."
+  ],
+  "whoIsAffected": "The Prosecutor General's Office, the Maldives Police Service, foreign law-enforcement agencies, telecom and internet providers holding data, and people under criminal investigation whose data is sought.",
+  "statedReasons": "The government says cybercrime is increasing in the Maldives and criminals increasingly use technology, so the law needs procedures for exchanging legal assistance with other countries on electronic evidence and for setting up a 24/7 network.",
+  "sourceDoc": "Bill",
+  "pagesRead": 13,
+  "pagesTotal": 13,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

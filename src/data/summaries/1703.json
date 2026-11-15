@@ -1,0 +1,22 @@
+{
+  "workId": "1703",
+  "titleDv": "ޤާނޫނު ނަންބަރު 13/2010 (ދިވެހިރާއްޖޭގެ ފަނޑިޔާރުންގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Judges Act (Law No. 13/2010) in 31 sections. It rewrites the rules on judges' independence and security, and adds a new chapter that writes a full code of conduct for judges into the law, replacing the shorter list in Article 32. It sets out how the Judicial Service Commission (JSC) can transfer a judge to another court or assign one temporarily, and how it grades judges' performance. It also tightens limits on judges doing business and makes judges file financial statements when they start, every year, and when they leave. The bill ends with a table comparing the current law with each proposed change.",
+  "whyItMatters": "The changes decide how judges must behave, how they can be moved between courts, how their work is graded, and when a poor grade can lead to removal. They also set what former judges can do as lawyers and what money and property judges must disclose.",
+  "keyProvisions": [
+    "Articles 4 and 7 are rewritten: no person or institution may influence a judge's work, state bodies must protect judges' independence and help the courts, and judges must act in and out of court in a way that keeps public trust. Article 13 makes judges' security a duty of the state's security services, with the defence force covering Supreme Court judges and the police covering other judges based on a risk assessment.",
+    "A new chapter (Articles 40-1 to 40-7) sets a code of conduct on independence, impartiality, integrity, ethics, equality and competence. It lists when a judge must step away from a case (for example a family member's financial interest or past work as a lawyer in it) and bars judges from taking gifts or loans, joining political activity, or doing legal work outside court.",
+    "Article 44 bars sitting judges from other state jobs, private employment or contract work, acting as a lawyer, or running or working in a law firm. Article 45 bars judges from doing business or renting or buying state property, and counts holding more than 5% of a listed public company's shares as doing business.",
+    "Article 50 lets the JSC transfer a judge to another court of the same level, based on advice from the judicial administration body after consulting the chief judges of both courts; the judge must be told and may respond. Article 51 lets the JSC assign a judge to another court's cases temporarily for at most 1 year.",
+    "Articles 58, 59 and 62 change performance rules: a judge must tell the chief judge and the JSC if a case has no judgment after 1 year (up from 6 months), and the JSC grades judges at least every 2 years on capability, quality of work and integrity. A 'not capable' grade can lead the JSC to send the judge to Parliament for removal, while two top grades in a row can bring a pay increment or priority for promotion.",
+    "Article 30-1 bars a former judge, for 2 years, from appearing as a lawyer in any court where they sat in their last 3 years, and never in a case they handled. Judges who resign while Parliament is considering their removal lose retirement benefits, voluntary retirement is no longer tied to age 55, and Article 68 requires judges to file financial statements (including spouse and dependants) within 3 months of starting, every year, and within 3 months of leaving."
+  ],
+  "whoIsAffected": "Judges at all levels, former judges working as lawyers, candidates for magistrate posts, the Judicial Service Commission, and the police and defence force who protect judges.",
+  "statedReasons": "The government says judges' code of conduct is not set in law, and that it wants to detail rules on performance evaluation, transfers and temporary assignments, business and financial dealings, and financial statements, based on experience of running the judiciary under the current law.",
+  "sourceDoc": "Bill",
+  "pagesRead": 89,
+  "pagesTotal": 89,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

@@ -1,0 +1,244 @@
+{
+ "sittingId": "1069",
+ "date": "2026-10-06",
+ "title": "2nd Sitting of third session of 2026",
+ "presiding": "Deputy Speaker Ahmed Saleem",
+ "attendance": {
+  "present": 30,
+  "onLeave": 3,
+  "officialTravel": 12
+ },
+ "summary": "The sitting opened at 09:01 with the agenda announced and no announcements from the chair. Most of the morning went on the preliminary debate of the government's bill on property obtained through crime, which would let the state recover unlawfully gained assets and create an asset management authority. Seventeen members spoke; PNC members backed it, while some MDP members said they support the aim but questioned enforcement and the wide powers it gives. After a break (10:29 to 11:01) the preliminary debate on an amendment to the Criminal Procedure Act began, with three members speaking by the end of this part. The text is partly garbled, so some gists are approximate. This part finishes the debate on the bill amending the Criminal Procedure Act (Act 12/2016) that removes articles 192 to 197, which deal with property obtained through crime. The member for South Hulhumale' argues that the Anti-Corruption Commission is not trusted, that politicians have grown rich unlawfully, and that no institution is stopping theft, and the chair asks him to keep to the bill. The chair then says that, so committees can get on with their large workload, the sitting is adjourned, and the next sitting is set for Wednesday 7 October 2026 at 9:00. The text layer is garbled in places, so some of the speech is hard to follow.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened at 09:01"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "30 present, 3 on leave, 12 on official travel announced"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the agenda (agenda no. 2026/3/2)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair",
+   "outcome": "none today"
+  },
+  {
+   "n": "5.1",
+   "title": "Preliminary debate on the government's bill on property obtained through crime (sponsor: Ali Fazad, Central Fuvahmulah)",
+   "outcome": "debated, 17 members spoke before the mid-sitting break; no vote recorded in this part"
+  },
+  {
+   "n": "5.2",
+   "title": "Preliminary debate on the bill amending the Criminal Procedure Act, Law 12/2016 (sponsor: Mohamed Mamdooh, Funadhoo)",
+   "outcome": "debate under way; 3 members spoke by the end of this part"
+  },
+  {
+   "n": "",
+   "title": "Bill to amend the Criminal Procedure Act (Act 12/2016), removing articles 192-197 on property obtained through crime (debate continued)",
+   "outcome": "debated; no vote in this part"
+  },
+  {
+   "n": "",
+   "title": "Chair adjourns the sitting to give committees time to work, and announces the next sitting",
+   "outcome": "sitting closed; next sitting Wednesday 7 October 2026 at 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 2,
+   "positions": [
+    "On the property bill: thanked the government, said it is acting against corruption and criticised the earlier asset recovery commission.",
+    "As sponsor of the Criminal Procedure Act amendment: said it clarifies evidence disclosure and lets courts protect sensitive information and witnesses."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Raised a concern that the amendment repeals articles 192 to 197 of the procedure law while the property bill is pending.",
+    "Argued laws are applied unevenly and that new laws mean little without equal enforcement.",
+    "Said no institution has stopped theft in the Maldives, that the Anti-Corruption Commission is not trusted, and that politicians have grown rich unlawfully.",
+    "Said members know of people who took the property of a late relative's children, and that this is not raised more often in the Majlis."
+   ]
+  },
+  {
+   "name": "Ali Fazad",
+   "constituency": "Central Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Presented the bill: a 133-article bill setting rules to seize and forfeit property gained through crime and creating an asset management authority.",
+    "Said it also covers cooperation with other countries; asked members to study it closely in committee."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, citing the MMPRC case and public money lost, and said ending illicit wealth is needed for the country to progress.",
+    "Suggested moving to digital currency so money flows can be traced."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and said everyone should be able to explain how they got their wealth, including past and present officials.",
+    "Urged opposition members to back it or send better amendments rather than criticise."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Said he does not object to recovering unlawful wealth but argued laws need independent courts and institutions to be enforced.",
+    "Raised concerns about judicial appointments and investor confidence."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, saying past corruption cases returned little money to the state and the law can deter such crimes.",
+    "Cited the MMPRC case as an example of unrecovered funds."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill, saying it brings the Maldives in line with international anti-money-laundering and asset recovery standards.",
+    "Said it is not a political weapon because courts oversee seizure; asked for committee study."
+   ]
+  },
+  {
+   "name": "Ali Ashrag",
+   "constituency": "Kinbidhoo",
+   "turns": 1,
+   "positions": [
+    "Said the bill gives the legal basis to take back wealth from crime such as drugs and corruption.",
+    "Said the earlier Asset Recovery Commission cost public money and recovered nothing."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Said he supports the aim but questioned the motive behind the debate and cited Constitution article 40 on property rights.",
+    "Raised concern about the bill's provisions allowing seizure without a conviction and about executive control of institutions."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, citing Umrah-package fraud, drugs and online scams, where victims lose out and offenders face light penalties.",
+    "Urged quick passage and a move to digital currency."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and said Constitution article 40 does not block laws on forfeiting property gained unlawfully.",
+    "Traced asset recovery from the 1988 UN convention and FATF, saying it adds civil recovery beside criminal punishment."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Backed the bill and said politicians' sources of wealth should be examined.",
+    "Criticised past MDP-era decisions, such as the Kosovo recognition and agreements with Israel."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said the bill completes a long-awaited constitutional duty and lets authorities check accounts and assets held in others' names.",
+    "Said it can help address foreigners running businesses under locals' names."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and criticised officials who gained wealth while ordinary people go without.",
+    "Said existing laws are not enforced quickly enough and asked that the new law reach everyone, including politicians."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Welcomed a bill on unlawful wealth but asked whether the current government will enforce it, alleging it is stealing state money.",
+    "Said words, actions and intentions must match and wrongdoers must face punishment."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill, saying similar laws work in other countries.",
+    "Criticised MDP-era corruption, said political leaders should not shield wrongdoers and asked for committee study."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Said he supports recovering crime proceeds but worried that articles 22, 74 and 75 allow property to be taken when guilt is unproven.",
+    "Questioned whether the criminal justice system can carry the load, citing recent cases."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Thanked the sponsor and said the amendments address court rulings that blocked protecting evidence and witnesses' identity in intelligence cases.",
+    "Noted Constitution article 51 on the accused's rights; asked committee to check the balance."
+   ]
+  }
+ ],
+ "decisions": [
+  "Agenda 2026/3/2 announced by the chair; the chair had no announcements.",
+  "Preliminary debate on the property-obtained-through-crime bill held with 17 members speaking; no vote or referral is recorded in this part.",
+  "Sitting paused for a break from 10:29 to 11:01.",
+  "Preliminary debate on the Criminal Procedure Act amendment opened after the break and continues beyond this part.",
+  "The chair reminded the speaking member to keep to the bill under debate.",
+  "The chair adjourned the sitting so that committees could carry out their work.",
+  "The next Majlis sitting was set for Wednesday 7 October 2026 at 9:00."
+ ],
+ "votes": [],
+ "pagesTotal": 44,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-14"
+}

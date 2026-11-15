@@ -1,0 +1,59 @@
+{
+  "sittingId": "845",
+  "date": "2024-06-03",
+  "title": "2nd sitting of the 20th Majlis",
+  "agendaNo": "އޖ/2/2024",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/2/2024).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "From the Speaker's desk: the President's submission under Article 129(d) of the Constitution seeking Parliament's consent for three persons appointed to the Cabinet on 29 January 2024 under Article 129(a).",
+      "kind": "other"
+    },
+    {
+      "n": 5,
+      "text": "From the Speaker's desk: choosing a Member of Parliament to sit on the Judicial Service Commission, under Article 158(b) of the Constitution and section 3(5) of the Judicial Service Commission Act (Law No. 10/2008).",
+      "kind": "other"
+    },
+    {
+      "n": 5,
+      "text": "From the Speaker's desk: electing members to Parliament's standing committees under Rule 130(a) of the Majlis Standing Orders.",
+      "kind": "other"
+    },
+    {
+      "n": 6,
+      "text": "Voting on items from the day's business that have reached the voting stage.",
+      "kind": "vote"
+    },
+    {
+      "n": 7,
+      "text": "Any other business.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The sitting was scheduled to start the confirmation of three Cabinet ministers, pick an MP for the Judicial Service Commission, and elect members to standing committees.",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

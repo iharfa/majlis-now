@@ -1,0 +1,59 @@
+{
+  "sittingId": "889",
+  "date": "2024-10-24",
+  "title": "40th sitting of the 20th Majlis",
+  "agendaNo": "އޖ/40/2024",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/40/2024).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "From the Speaker's desk: presentation of the proposed Supplementary Budget for 2024, under Article 96 of the Constitution and the Public Finance Act (Law No. 3/2006).",
+      "kind": "other"
+    },
+    {
+      "n": 5,
+      "text": "Proceeding with work on the proposed 2024 Supplementary Budget.",
+      "kind": "other"
+    },
+    {
+      "n": 6,
+      "text": "Judiciary Committee report on the President's nominees to fill four vacant seats on the Tax Appeal Tribunal.",
+      "kind": "report"
+    },
+    {
+      "n": 7,
+      "text": "Voting on items from the day's business that have reached the voting stage.",
+      "kind": "vote"
+    },
+    {
+      "n": 8,
+      "text": "Any other business.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The late-morning sitting received the government's 2024 supplementary budget and took up a Judiciary Committee report on four Tax Appeal Tribunal appointments.",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

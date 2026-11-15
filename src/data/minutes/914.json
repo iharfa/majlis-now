@@ -1,0 +1,87 @@
+{
+ "sittingId": "914",
+ "date": "2025-01-20",
+ "title": "Third special sitting of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 53,
+  "onLeave": 8,
+  "officialTravel": 1
+ },
+ "summary": "This short special sitting, held outside the regular term, ran from 16:00 to 16:18 and had one main item: a committee report on appointing two members to the Anti-Corruption Commission. The Independent Institutions Committee reported that the two nominees sent by the President had both scored above 75% from committee members and that no complaints were received about them. After brief debate, members voted by open ballot to approve Ahmed Nashid and Abdulla Nashid, each passing 68-0. The next sitting was set for 6 February 2025 at 09:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "53 present, 8 on leave, 1 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Independent Institutions Committee report on the President's nominees for two Anti-Corruption Commission member seats (Anti-Corruption Commission Act 13/2008, Article 4(a))",
+   "outcome": "debated; both nominees approved 68-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "As committee chair, presented the report on the two Anti-Corruption Commission nominees and how the committee vetted them.",
+    "Said no complaints were received about the nominees and both scored 75% or more from committee members."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Said independent institutions get large budgets, staff and offices yet public trust in them keeps falling.",
+    "Argued the Majlis should set up institutions the public can trust and said recent events involving the home affairs ministry were not properly examined."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the committee report and said the nominees appear to have the experience and ability to do the job.",
+    "Said the government will not obstruct the commission and that it can investigate corruption in state-owned companies."
+   ]
+  }
+ ],
+ "decisions": [
+  "Ahmed Nashid approved by the Majlis as a member of the Anti-Corruption Commission, 68-0.",
+  "Abdulla Nashid (R. Alifushi/Fasaana) approved by the Majlis as a member of the Anti-Corruption Commission, 68-0.",
+  "Next sitting set for 6 February 2025 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Appointment of Ahmed Nashid (M. Goldenmoon) to the Anti-Corruption Commission",
+   "yes": 68,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appointment of Abdulla Nashid (R. Alifushi/Fasaana) to the Anti-Corruption Commission",
+   "yes": 68,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 14,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

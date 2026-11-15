@@ -1,0 +1,74 @@
+{
+  "sittingId": "994",
+  "date": "2025-10-29",
+  "title": "13th Sitting of third session of 2025",
+  "agendaNo": "އޖ/13/3/2025",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/13/3/2025).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "Written question from Galolhu North MP Mohamed Ibrahim to the Minister of Construction, Housing and Infrastructure, Dr Abdulla Muththalib: when will the harbour project at AA. Bodufolhudhoo start as requested by residents, and when is it expected to be completed?",
+      "kind": "question"
+    },
+    {
+      "n": 5,
+      "text": "Written question from Galolhu North MP Mohamed Ibrahim to the Minister of Tourism and Environment, Thoriq Ibrahim: what were the acquisition costs of the islands and lagoons leased for tourism between 1 July 2023 and 30 July 2025?",
+      "kind": "question"
+    },
+    {
+      "n": 5,
+      "text": "Written question from Maavah MP Ahmed Shakir to the Minister of Foreign Affairs, Dr Abdulla Khaleel: requesting copies of the 11 memoranda of understanding signed between the Maldives and China on 2 September 2025.",
+      "kind": "question"
+    },
+    {
+      "n": 6,
+      "text": "First reading of the Bill amending Law No. 11/2022 (Evidence Act), submitted on behalf of the government by Bilehdhoo MP Ahmed Aslam.",
+      "kind": "bill"
+    },
+    {
+      "n": 7,
+      "text": "Unfinished business: continuation of the debate on the resolution submitted by Kendhoo MP Mauroof Zakir to determine members' view on the government delaying flat handovers to many of the 4,000 beneficiaries of the Gedhoruveriya scheme, leaving reclamation at Gulhifalhu, Giraavarufalhu and Hulhumalé Phase 3 under the first Binveriya scheme unfinished, and ignoring the rights of applicants for Hulhumalé flats and Uthuru Thilafalhu land under the second Gedhoruveriya/Binveriya scheme while prioritising the Ras Malé project, costing thousands of Maldivians their right to housing.",
+      "kind": "resolution"
+    },
+    {
+      "n": 8,
+      "text": "Report of the Human Rights and Gender Committee on its review of the President's nominee for membership of the Human Rights Commission of the Maldives, submitted under Article 190(b) of the Constitution and Article 5 of Law No. 6/2006 (Human Rights Commission Act).",
+      "kind": "report"
+    },
+    {
+      "n": 9,
+      "text": "Voting on items from the day's business that have reached the voting stage.",
+      "kind": "vote"
+    },
+    {
+      "n": 10,
+      "text": "Any other business.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The sitting was scheduled to take three written ministerial questions, introduce the Evidence Act amendment bill, continue the housing resolution debate, and consider a committee report on a Human Rights Commission nominee.",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

@@ -1,0 +1,141 @@
+{
+ "sittingId": "893",
+ "date": "2024-10-31",
+ "title": "44th sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": null,
+  "onLeave": 4,
+  "officialTravel": 1
+ },
+ "summary": "Finance Minister Moosa Zameer presented the 2025 state budget to the Majlis, focusing on housing, the deficit, tax changes and a shift to direct subsidies. Members then took up four Whole Committee reports on bills amending the Export Import, GST, Tourism and airport departure tax laws; a few members objected to the rushed schedule and to the airport tax rise, and all four bills passed. The attendance headcount is garbled in the text layer, so it is left blank.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "4 on leave, 1 on official travel; present count unreadable"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee deadlines under rule 174: Sovereign Development Fund, State Debt, Fiscal Responsibility and Insurance bills",
+   "outcome": "Finance Committee deadline set for 30 November 2024"
+  },
+  {
+   "n": "5.1",
+   "title": "Submission of the proposed 2025 state budget",
+   "outcome": "presented by the Finance Minister; budget committees (Finance and Economic) to continue the review"
+  },
+  {
+   "n": "6.1",
+   "title": "Whole Committee report on the bill amending the Export Import Act (31/79)",
+   "outcome": "no debaters; third reading, passed 71-8"
+  },
+  {
+   "n": "6.2",
+   "title": "Whole Committee report on the bill amending the GST Act (10/2011)",
+   "outcome": "no debaters; third reading, passed 70-8"
+  },
+  {
+   "n": "6.3",
+   "title": "Whole Committee report on the bill amending the Tourism Act (2/99)",
+   "outcome": "no debaters; third reading, passed 71-8"
+  },
+  {
+   "n": "6.4",
+   "title": "Whole Committee report on the bill amending the airport departure passenger tax and fee Act (29/2016)",
+   "outcome": "debated by 4 members; passed 71-8"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Questioned why the sitting was moving fast and said members had no chance to question the budget details.",
+    "Said committee concerns on the airport tax went unanswered and no study of its effect on tourist numbers was shared."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 2,
+   "positions": [
+    "Noted the tax bills together with the budget and hoped new northern and southern airports would still lift tourism."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Said regional tourism needs to grow and warned that the airport tax increase could hurt tourist arrivals and regional airports."
+   ]
+  },
+  {
+   "name": "Moosa Zameer",
+   "constituency": "",
+   "turns": 1,
+   "positions": [
+    "As Finance Minister, presented the 2025 budget: housing loans, deficit reduction, tax changes and direct subsidies instead of company subsidies."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Cited the Majlis rules on when the budget debate starts, responding to objections about the schedule."
+   ]
+  }
+ ],
+ "decisions": [
+  "Export Import Act (31/79) amendment bill passed, 71 yes to 8 no.",
+  "GST Act (10/2011) amendment bill passed, 70 yes to 8 no.",
+  "Tourism Act (2/99) amendment bill passed, 71 yes to 8 no.",
+  "Airport departure passenger tax and fee Act (29/2016) amendment bill passed, 71 yes to 8 no.",
+  "Finance Committee deadline for four bills set at 30 November 2024.",
+  "Next sitting set for Monday 4 November 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Export Import Act (31/79) amendment bill, Whole Committee report",
+   "yes": 71,
+   "no": 8,
+   "abstain": 0
+  },
+  {
+   "what": "GST Act (10/2011) amendment bill, Whole Committee report",
+   "yes": 70,
+   "no": 8,
+   "abstain": 0
+  },
+  {
+   "what": "Tourism Act (2/99) amendment bill, Whole Committee report",
+   "yes": 71,
+   "no": 8,
+   "abstain": 0
+  },
+  {
+   "what": "Airport departure passenger tax and fee Act (29/2016) amendment bill, Whole Committee report",
+   "yes": 71,
+   "no": 8,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 34,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

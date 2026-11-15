@@ -1,0 +1,320 @@
+{
+ "sittingId": "1066",
+ "date": "2026-08-23",
+ "title": "27th Sitting of second session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo)",
+ "attendance": {
+  "present": 30,
+  "onLeave": 8,
+  "officialTravel": 5
+ },
+ "summary": "The sitting opened at 09:00 under the Speaker with routine business: attendance, the agenda, committee membership changes, a lapsed written question, and a presidential nomination for Information Commissioner sent to committee. Most of the part was taken by debate on two citizen petitions about the amendment to the decentralisation law: one asking for the amendment to be withdrawn and one asking for it to be passed as it stands, with opposition and government-side members arguing over council land powers and the new e-petition rules. After a recess (10:29 to 11:00) the House began the Whole-House Committee report on the bill amending the Goods and Services Tax Act and opened a report on the Income Tax Act amendment as the part ends. The text is garbled in places, so some titles, names and the attendance figures may be misread. The second half of the sitting began mid-debate on the committee report for the Income Tax Act amendment bill (Law 2019/25), with five members speaking on whether raising taxes helps or harms the economy and how the government should spend its revenue. Members then voted on three amendments to the Goods and Services Tax Act amendment bill (Law 2011/10) concerning inbound tourism agency services, the meaning of 'service', and tax-office access to provider information; all three passed, as did the bill itself and the Income Tax bill. The chair closed the sitting and set the next one for Monday 24 August 2026 at 9:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting (prayer)",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "30 present, 8 on leave, 5 on official travel (figures as read from garbled text)"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Chair announcement: change to Petitions Committee membership",
+   "outcome": "Funadhoo member Mohamed Mamdooh and Vilifushi member Hassan Waheed named to replace two PNC members, effective 22 August 2026"
+  },
+  {
+   "n": "5.1",
+   "title": "Written question by Kendhoo member Mauroof Zakir to the Minister of Youth Empowerment, Sports and Fitness",
+   "outcome": "not asked, as the member was absent; chair said no second opportunity can be given under the questioning law"
+  },
+  {
+   "n": "6.1",
+   "title": "Presidential nomination for Information Commissioner (term of the current commissioner ends 6 September 2026)",
+   "outcome": "letter read; sent to the independent institutions committee"
+  },
+  {
+   "n": "6.2",
+   "title": "Petition calling for the amendment to the Decentralisation Act (Law 2010/7) to be withdrawn",
+   "outcome": "debated (8 speeches plus a point of order); debate only to hear members' views, no vote"
+  },
+  {
+   "n": "6.3",
+   "title": "Petition calling for the amendment to the Decentralisation Act to be passed as it stands",
+   "outcome": "debated (8 speeches); debate only to hear members' views, no vote"
+  },
+  {
+   "n": "7.1",
+   "title": "Whole-House Committee report on the bill amending the Goods and Services Tax Act (Law 2011/10), sponsored by Mohamed Dawoodh",
+   "outcome": "debated (3 speeches); vote set for vote time"
+  },
+  {
+   "n": "7.2",
+   "title": "Whole-House Committee report on the bill amending the Income Tax Act (Law 2019/25), sponsored by Hassan Zareer (title partly garbled)",
+   "outcome": "report introduced as this part ends; debate follows in the next part"
+  },
+  {
+   "n": "",
+   "title": "Debate on committee report on the Income Tax Act (Law 2019/25) amendment bill",
+   "outcome": "debated; no amendments received; one hour of debate time shared by parties"
+  },
+  {
+   "n": "",
+   "title": "Third reading of the Income Tax Act (Law 2019/25) amendment bill",
+   "outcome": "read out, then put to a vote (see item 8)"
+  },
+  {
+   "n": "8",
+   "title": "Voting on matters ready for a vote",
+   "outcome": "all passed"
+  },
+  {
+   "n": "8.1",
+   "title": "Goods and Services Tax Act (Law 2011/10) amendment bill: three amendments and final bill",
+   "outcome": "amendments passed 50-2, 53-2, 53-2; bill passed 54-2 with the amendments"
+  },
+  {
+   "n": "8.2",
+   "title": "Income Tax Act (Law 2019/25) amendment bill, final vote",
+   "outcome": "passed 54-2"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 4,
+   "positions": [
+    "Raised a point of order objecting to what he called false accusations against PNC members.",
+    "Welcomed the first e-petition debates and said the amendments take no powers from councils, only let government projects proceed.",
+    "On the tax bill, said the amendments are good and bring in revenue from foreign operators who avoid the tax net.",
+    "Said the income tax amendments create fairer competition between Maldivian contractors and large foreign contractors."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Broadly supported the tax bill but worried it is technical and was passed in committee without enough consultation with affected parties.",
+    "Said it is not good to politicise every bill like this one.",
+    "Said the 2019 income tax law was good and does not oppose raising the rate, but wants island-level development spending detailed in the budget book.",
+    "Welcomed the repayment of 500 million dollars of debt and said he will support the bills."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 3,
+   "positions": [
+    "Proposed amendment adding agency booking services for inbound tourism products to the GST bill clause on taxable tourism services.",
+    "Proposed amendment clarifying that money is not counted as a 'service' under the GST law.",
+    "Proposed amendment letting the tax authority ask inbound tourism providers for information on other registered parties."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 2,
+   "positions": [
+    "Said the petition system was meant for citizens, and criticised the sudden rules change as opening a path for a government-aligned counter-petition."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 2,
+   "positions": [
+    "Called the day historic as the first citizen petition debated, and said the government works on public concerns.",
+    "Explained the e-petition portal and its signature thresholds, and said councils run by the opposition obstruct projects."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Called the day historic, said the rules were changed to counter the first petition, and that signatures may be swayed by job fears."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 2,
+   "positions": [
+    "Seconded the first and second GST bill amendments proposed by Ibrahim Naseem."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the rules change opened petitions to more people, and that claims it was made for PNC were misleading."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Fully backed the withdrawal petition, opposing government taking council land without council say, and gave Addu City land examples."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Said the petition debate had become a contest between two parties and that council land should not be taken without council input."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Said the amendments aim to strengthen links between central government and councils, and that opposition members should also be heard."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the amendment strengthens ties between the central government and councils and lets Cabinet decide on land for development projects."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Argued the constitution makes the Maldives a unitary state, so councils are not separate governments and powers flow from the central government."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Welcomed the petition process and backed the petition asking for the amendment to be passed as it stands."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Welcomed the petition chance and said some councils block projects and blame the government for gaps in services."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Said the opposing petition drew only about two thousand signatures, and that councils should not be used to stall government projects."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Thanked those behind the e-petition system, called the petition a sign of public will, and supported passing the amendments quickly."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Criticised the rules change timing and the constitutional change to Article 73, and questioned claims that councils block development."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Argued more taxes risk driving away tourists and investors and raising prices, and that the government should cut wasteful spending first.",
+    "Said he will not support any tax bill in the Majlis."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Said government revenue and costs have both grown and that debate should state the figures plainly.",
+    "Raised dollars paid as service charges to foreign tourism workers ending up in the black market, and called for action on how state companies like MACL pay salaries in dollars."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Seconded the third GST bill amendment proposed by Ibrahim Naseem."
+   ]
+  }
+ ],
+ "decisions": [
+  "Mohamed Mamdooh and Hassan Waheed named to the Petitions Committee in place of two PNC members.",
+  "Mauroof Zakir's written question lapsed because he was absent, with no second opportunity.",
+  "The Information Commissioner nomination was sent to the independent institutions committee.",
+  "Both petitions on the Decentralisation Act amendment were debated, with no vote taken.",
+  "Votes on the Goods and Services Tax Act amendment bill were left for vote time.",
+  "First amendment to the GST amendment bill (inbound tourism agency services) passed.",
+  "Second amendment (money not counted as a service) passed.",
+  "Third amendment (tax authority access to provider information) passed.",
+  "Goods and Services Tax Act amendment bill passed with the Majlis amendments.",
+  "Income Tax Act amendment bill (Law 2019/25) passed after committee study.",
+  "Next sitting set for Monday 24 August 2026 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "GST bill, first amendment (Ibrahim Naseem)",
+   "yes": 50,
+   "no": 2,
+   "abstain": 0
+  },
+  {
+   "what": "GST bill, second amendment (Ibrahim Naseem)",
+   "yes": 53,
+   "no": 2,
+   "abstain": 0
+  },
+  {
+   "what": "GST bill, third amendment (Ibrahim Naseem)",
+   "yes": 53,
+   "no": 2,
+   "abstain": 0
+  },
+  {
+   "what": "Goods and Services Tax Act (Law 2011/10) amendment bill, as amended",
+   "yes": 54,
+   "no": 2,
+   "abstain": 0
+  },
+  {
+   "what": "Income Tax Act (Law 2019/25) amendment bill",
+   "yes": 54,
+   "no": 2,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 73,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

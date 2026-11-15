@@ -1,0 +1,22 @@
+{
+  "workId": "1823",
+  "titleDv": "ޤާނޫނު ނަންބަރު 9/2009 (ރައީސުލްޖުމްހޫރިއްޔާކަން ކޮށްފައިވާ މީހަކަށް ދޭންޖެހޭ ރައްކާތެރިކަމާއި އިނާޔަތްތަކުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Former Presidents Protection and Benefit Act (Act No. 9/2009). It scraps Article 8, which lets a former president get up to MVR 175,000 a month from the state to run an office. It extends the law to former vice presidents who completed a full five-year term, giving them MVR 25,000 a month and state-paid medical care in the Maldives and abroad. It also pauses a one-term former president's allowance while they hold another state post or serve a second term, and drops the duty to provide security to a former president while they live abroad.",
+  "whyItMatters": "The Finance Ministry's attached estimate says the changes would cut spending on these benefits from a budgeted MVR 19.7 million to MVR 10.2 million in 2026, a saving of about MVR 9.5 to 10.6 million a year.",
+  "keyProvisions": [
+    "Clause 4 repeals Article 8, removing the state payment of up to MVR 175,000 a month for a former president's office, staff and related costs.",
+    "Clause 5 adds Article 8-1: a former vice president gets MVR 25,000 a month and state-paid medical care at home and abroad, with the monthly payment paused while they hold any elected or appointed state post.",
+    "Clause 2 rewrites Article 3(c) so a one-term former president's financial allowance is paused while they serve a second term as president or hold another state post.",
+    "Clause 3 adds Article 5(b) and (c): Maldives National Defence Force protection does not have to be given to a former president while they live abroad, but must be arranged when they visit the Maldives.",
+    "Clauses 6 and 7 extend Article 9(a) (the government's power to change benefits in an economic crisis, after consulting Parliament) to all beneficiaries, and extend Article 10's loss of all benefits for a crime proven to be committed in office to vice presidents.",
+    "Clause 8 adds Article 13(e) defining a former vice president as someone who completed the vice president's term in a five-year presidential term, and clause 9 says the law takes effect when published in the Government Gazette."
+  ],
+  "whoIsAffected": "Former presidents and former vice presidents of the Maldives and their spouses, the MNDF that protects them, and the state budget that pays their benefits.",
+  "statedReasons": "The government says the bill reviews some benefits given to former presidents under Act No. 9/2009, gives benefits to people who have served as vice president, and makes the related amendments to the law.",
+  "sourceDoc": "Bill",
+  "pagesRead": 13,
+  "pagesTotal": 13,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

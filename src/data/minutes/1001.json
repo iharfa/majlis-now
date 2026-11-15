@@ -1,0 +1,184 @@
+{
+ "sittingId": "1001",
+ "date": "2025-11-16",
+ "title": "19th Sitting of third session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 33,
+  "onLeave": 4,
+  "officialTravel": 4
+ },
+ "summary": "The sitting opened at 09:04 with 33 members present. The Speaker said an urgent question from the North Galolhu member about water quality in Fuvahmulah would not be taken up because it did not meet the Rules of Procedure, and three government-sponsored bills (constitution amendment, Decentralisation Act and Local Councils Elections Act amendments) had their first readings announced. Members then began debating the MVR 64.2 billion state budget for 2026: supporters pointed to island projects, health, education and fisheries plans, while critics questioned rising debt, borrowing needed to fund the deficit and the lack of project detail. Debate was still under way when this part ends, with no vote taken; the Speaker said he aimed to conclude the budget debate the next day. This part continues the debate on the government's proposed 2026 state budget. A member's speech that began in the previous part ends with comments on the economy, card spending limits and customs revenue, then the member for Kendhoo speaks and criticises the budget for lacking project detail, raising borrowing and public-sector costs, and including nothing for his constituency. With no other members present to speak and midday prayer time near, the Speaker closed the sitting and said the budget debate would continue at the next sitting on Monday 17 November 2025 at 9:00. The text layer is garbled in places, so some figures could not be read reliably and are not repeated here.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "33 present, 4 on leave, 4 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair (urgent question on Fuvahmulah water quality, Rule 192)",
+   "outcome": "Speaker said the question did not meet the conditions of Rule 197 and would not be presented"
+  },
+  {
+   "n": "5.1",
+   "title": "Bill to amend the Constitution of the Republic of Maldives (government bill, sponsored by Baarashu member Ibrahim Shujau)",
+   "outcome": "first reading announced",
+   "workId": "1805"
+  },
+  {
+   "n": "5.2",
+   "title": "Bill to amend the Decentralisation Act, Law 7/2010 (government bill, sponsored by Inguraidhoo member Ibrahim Falah)",
+   "outcome": "first reading announced",
+   "workId": "1806"
+  },
+  {
+   "n": "5.3",
+   "title": "Bill to amend the Local Councils Elections Act, Law 10/2010 (government bill, sponsored by North Fuvahmulah member Hamad Abdulla)",
+   "outcome": "first reading announced",
+   "workId": "1807"
+  },
+  {
+   "n": "6.1",
+   "title": "Debate on the proposed 2026 State Budget (Rule 235)",
+   "outcome": "debated; Speaker said 16 members had spoken before this sitting and aimed to finish the debate the next day; continues into part 2"
+  },
+  {
+   "n": "",
+   "title": "Debate on the proposed 2026 state budget (continued)",
+   "outcome": "debated; no vote in this part"
+  },
+  {
+   "n": "",
+   "title": "Speaker closes the sitting and announces the next one",
+   "outcome": "sitting closed; budget debate to continue Monday 17 November 2025 at 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 2,
+   "positions": [
+    "Backed the 2026 budget, saying it funds projects across islands and record spending on education and health.",
+    "Criticised the previous government's borrowing record and urged all members, including the opposition, to vote for the budget."
+   ]
+  },
+  {
+   "name": "Ali Fazad",
+   "constituency": "Central Fuvahmulah",
+   "turns": 2,
+   "positions": [
+    "Responded to the previous speaker, arguing that earlier budgets were financed by printing money and left unpaid bills, and citing projected lower inflation.",
+    "Said cost-cutting goes beyond staff numbers, pointing to lower fuel and card subsidies, targeted aid and savings from the decentralisation bill.",
+    "Described progress in Fuvahmulah on the harbour, hospital scans and roads, and urged moving the town-centre power station; his turn continues into part 2."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Said he saw little need for lengthy debate as the budget enjoys public support, and expects it to fund completion of ongoing island projects.",
+    "Rejected opposition claims that the budget is unrealistic, citing harbour and school works planned for his Noonu Atoll constituency."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Questioned the size of the MVR 64 billion budget and the debt and borrowing figures in the budget book, asking for clearer detail.",
+    "Said his island and nearby ones in Haa Dhaalu receive few or no projects, and that housing and similar promises remain unfulfilled."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Said the budget should be judged against past debt, citing the large foreign debt repayments due in 2026 and the country's credit rating.",
+    "Cited allocations of about MVR 8.8 billion for health and 5.6 billion for education, plus ATMs and police stations spreading to all islands."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Said the budget gives little detail on the PSIP project list and that stalled classroom, harbour, and water and sewerage projects on Shaviyani islands have not progressed.",
+    "Questioned the planned electricity bill discount and said flights to Hanimaadhoo and Funadhoo were cancelled, leaving residents without reliable transport."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the budget, noting about MVR 64 billion in spending against roughly MVR 41 billion in revenue, and urged investment in fisheries and agriculture.",
+    "Described projects for Dhaalu Atoll islands, including Maaenboodhoo, Kudahuvadhoo harbour work, housing loans and an 80-unit apartment project."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the budget, saying it directs about MVR 8 billion to development projects and expects revenue to grow about 6 percent.",
+    "Said 2026 brings the largest debt repayments in the country's history, around 600 million dollars, and called for targeted subsidies and technology to run government efficiently."
+   ]
+  },
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 1,
+   "positions": [
+    "Supported the budget, noting about MVR 31.3 billion in tax revenue and the need for ministries to implement projects.",
+    "Raised Madaveli's land shortage, harbour, classroom and water and sewerage needs, and called for Parliament to monitor spending against the budget."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Said government debt is projected to near MVR 160 billion by year end and the budget relies on heavy borrowing and money printing.",
+    "Argued recurrent spending is growing faster than revenue, which could push up the dollar rate and prices, and cited the lower credit rating.",
+    "Said the budget lacks spending detail and that promised housing for Hulhumale' residents has no allocation."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Said the 2026 budget gives no project-by-project detail and no clear policy, and that the 2025 budget did not deliver what was promised on housing and development.",
+    "Raised concerns about higher borrowing, more public-sector and political posts, defence spending and printing money, and the effect on the rufiyaa and living costs.",
+    "Said no project was included for any island in Kendhoo constituency and that he would not vote for the budget."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Speaker ruled that the North Galolhu member's urgent question on Fuvahmulah water quality would not be presented, as Rule 197(k) conditions were not met.",
+  "First readings were announced for the Constitution amendment bill, the Decentralisation Act (7/2010) amendment bill and the Local Councils Elections Act (10/2010) amendment bill.",
+  "The Speaker said he aimed to conclude the 2026 budget debate the next day and recessed the sitting between 10:26 and 11:01.",
+  "The Speaker closed the sitting because no further members were present to speak and prayer time was near.",
+  "The next Majlis sitting was set for Monday 17 November 2025 at 9:00, with the budget debate to continue."
+ ],
+ "votes": [],
+ "pagesTotal": 49,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

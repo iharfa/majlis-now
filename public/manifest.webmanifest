@@ -1,0 +1,10 @@
+{
+  "name": "Majlis Now",
+  "short_name": "Majlis Now",
+  "description": "A CSO-led parliamentary oversight tool built for youth, demystifying what happens in the Maldives Parliament.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcf8ff",
+  "theme_color": "#4648d4",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

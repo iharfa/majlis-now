@@ -1,0 +1,180 @@
+{
+ "sittingId": "1015",
+ "date": "2026-02-10",
+ "title": "2nd Sitting of First session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo); the Deputy Speaker presided from 10:07 (named in the minutes as Ahmed Nazim; the roster lists the Deputy Speaker as Ahmed Saleem, Eydhafushi)",
+ "attendance": {
+  "present": null,
+  "onLeave": 0,
+  "officialTravel": 1
+ },
+ "summary": "After the usual opening items, the Majlis sent the President's nominee for the Elections Commission to the Independent Institutions Committee, sent two ambassador nominations to the Foreign Relations Committee, and gave first readings to three bills. The main business was the committee report on the government-sponsored constitutional amendment bill, which would hold the presidential and parliamentary elections together. Opposition MDP members protested, five were named by the chair and left, and the sitting paused twice while the debate continued with eight members taking the floor. The bill then passed 72 to 1, with 70 votes needed. The printed text is partly garbled, so attendance at the start is left blank.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers",
+   "outcome": "Sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "Chair read out the figures; no member on leave, 1 on official travel; the count of members present is garbled in the text"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda (agenda no. 2026/1/2)",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Approval of minutes of earlier sittings (2025/3/25 to 2025/3/28)",
+   "outcome": "Accepted by the chair as no member had submitted amendments"
+  },
+  {
+   "n": "5",
+   "title": "Announcements from the chair: committee membership changes and committee deadline",
+   "outcome": "Membership swaps in the Ethics, Judiciary and Independent Institutions committees announced; Independent Institutions Committee deadline of 28 Feb 2026 noted for the Pension Act amendment bill",
+   "workId": "1831"
+  },
+  {
+   "n": "6.1",
+   "title": "President's letter nominating a member of the Elections Commission (term of Dr. Mohamed Zahir ends 21 Feb 2026)",
+   "outcome": "Referred to the Independent Institutions Committee"
+  },
+  {
+   "n": "6.2",
+   "title": "President's letter on appointing a non-resident ambassador to the Republic of Serbia",
+   "outcome": "Referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "6.3",
+   "title": "President's letter on appointing a non-resident ambassador to the Republic of Malta",
+   "outcome": "Referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "National Service Bill (government bill, member for South Kulhudhuffushi)",
+   "outcome": "First reading",
+   "workId": "1836"
+  },
+  {
+   "n": "7.2",
+   "title": "Bill to amend the Employment Act (No. 2/2008) (government bill, member for Madaveli)",
+   "outcome": "First reading",
+   "workId": "1837"
+  },
+  {
+   "n": "7.3",
+   "title": "Bill to amend the Employment Act (No. 2/2008) (member for Kendhoo)",
+   "outcome": "First reading",
+   "workId": "1838"
+  },
+  {
+   "n": "8.1",
+   "title": "Independent Institutions Committee report on the bill to amend the Constitution (election alignment)",
+   "outcome": "Report presented; no amendments submitted; debated by 8 members; sitting paused 09:46 to 10:07 and 10:18 to 11:00",
+   "workId": "1832"
+  },
+  {
+   "n": "9",
+   "title": "Vote on the bill to amend the Constitution",
+   "outcome": "Passed 72-1 (70 needed)",
+   "workId": "1832"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 4,
+   "positions": [
+    "Said constitutional amendments need a two-thirds vote and the committee consulted every party; criticised the opposition protest at the start of the sitting.",
+    "Argued that holding both elections together would cut state spending and shorten the current Majlis term by about six months.",
+    "Said, in his view, the opposition's main concern was six months of lost MP pay, and urged members to back the bill."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 4,
+   "positions": [
+    "Raised a point of order that a speaker had used wrong names for ministers.",
+    "Backed the report and said amending the constitution is within the Majlis's powers; said opposition protests are not new.",
+    "Said no drafting record shows the gap between the two elections was meant as an accountability check."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 3,
+   "positions": [
+    "Argued the amendment changes the whole system and asked why it was being pursued during recess, calling it an attempt to take the 2028 election.",
+    "Disputed the cost-saving claim by pointing to spending on political appointments and travel; the chair told him to withdraw insulting language about the Majlis."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order asking whether the Majlis should lengthen or shorten its own term; the chair replied the constitution gives it power to amend.",
+    "Said the public had not been given clear explanations and urged voters to say no in the public vote."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Said voters want both elections held together to save money and end constant campaigning, citing public discussion in the media.",
+    "Said objections from the opposition were about losing six months of MP pay and that he would back the bill."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the committee report: the committee consulted political parties, the Elections Commission and the public, then approved the bill by majority on 9 February."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Called the bill a deceptive plan backed by the President, argued it weakens voters' power over office-holders, and urged members and voters to say no."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that a member who had already spoken should not get a second turn; the chair said turns follow the order in the portal."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of earlier sittings (2025/3/25 to 2025/3/28) accepted without amendment.",
+  "Committee membership changes announced for the Ethics, Judiciary and Independent Institutions committees.",
+  "Elections Commission nomination sent to the Independent Institutions Committee.",
+  "Ambassador nominations for Serbia and Malta sent to the Foreign Relations Committee.",
+  "National Service Bill and two Employment Act amendment bills received first readings.",
+  "Chair named five MDP members during the debate and the sitting paused while they left the chamber.",
+  "Bill to amend the Constitution passed 72 to 1 (70 votes needed); next sitting set for 11 February 2026 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Bill to amend the Constitution (aligning presidential and parliamentary elections), sponsored by Ibrahim Falah",
+   "yes": 72,
+   "no": 1,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 32,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

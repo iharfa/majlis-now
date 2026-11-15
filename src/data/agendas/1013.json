@@ -1,0 +1,34 @@
+{
+  "sittingId": "1013",
+  "date": "2026-02-05",
+  "title": "1st Sitting of First session of 2026",
+  "agendaNo": "އޖ/1/1/2026",
+  "items": [
+    {
+      "n": 1,
+      "text": "The Speaker of the Majlis opens the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "The Speaker invites the President to deliver the Presidential Address that the President must present to the Majlis under Article 84 of the Constitution.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "President Dr Mohamed Muizzu delivers the Presidential Address.",
+      "kind": "other"
+    },
+    {
+      "n": 4,
+      "text": "The Speaker closes the sitting.",
+      "kind": "procedural"
+    }
+  ],
+  "summary": "The first sitting of the year was a ceremonial opening at which President Dr Mohamed Muizzu delivered the annual Presidential Address.",
+  "pagesRead": 1,
+  "pagesTotal": 1,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

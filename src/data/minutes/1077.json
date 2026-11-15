@@ -1,0 +1,256 @@
+{
+ "sittingId": "1077",
+ "date": "2026-10-26",
+ "title": "9th Sitting of third session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 37,
+  "onLeave": 3,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened with committee deadlines announced and an urgent-matter request from the Kendhoo MP turned down for not meeting the rules. A government bill amending the Education Act got its first reading. Most of this part was the first-round debate on a government bill amending the GST Act, which scraps a recently introduced GST on imported tourism products and booking services and gives MIRA stronger powers against tax avoidance; government MPs backed it and MDP MPs said the government keeps reversing its own tax policies, and the debate was closed. The House then continued debating an MDP resolution calling for the Eagle Hills Rasmale agreement to be made public. This part finishes the debate on a resolution by the South Galolhu member asking the government to disclose the full details of its Rasmalé agreement with Eagle Hills and seeking MPs' views. Opposition (MDP) members called for disclosure and a referendum, while one member argued the project would bring investment and tax revenue; the resolution was then rejected 10-45. The Privileges and Conduct Committee report on the arrest of the Kendhoo MP at a December 2025 fishermen's protest was debated and passed 46-10, and a bill amending the Goods and Services Tax Act was accepted 43-0 and sent to the whole-house committee. The Vaikaradhoo member was repeatedly asked by the chair to keep to the committee report; some of his remarks are fragmented in the text.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance",
+   "outcome": "37 present, 3 on leave, 1 on official travel"
+  },
+  {
+   "n": "4.1",
+   "title": "Speaker's announcements: committee deadlines and an urgent-matter request",
+   "outcome": "deadlines set; Kendhoo MP's urgent matter not accepted"
+  },
+  {
+   "n": "5.1",
+   "title": "First reading: bill amending the Education Act (Law 24/2020), submitted by Hura MP Dr. Anaara Naeem for the government",
+   "outcome": "first reading"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate: bill amending the Goods and Services Tax Act (Law 10/2011), submitted by Kolamaafushi MP Ibrahim Didi for the government",
+   "outcome": "debated; debate concluded"
+  },
+  {
+   "n": "7.1",
+   "title": "Resolution by South Galolhu MP Meekail Ahmed Nasym calling for disclosure of all details of the government's Rasmale agreement with Eagle Hills",
+   "outcome": "debate continued (unfinished business)"
+  },
+  {
+   "n": "7.1",
+   "title": "Resolution calling for disclosure of all details of the government's Rasmalé agreement with Eagle Hills and seeking MPs' views on it",
+   "outcome": "debate concluded; rejected 10-45"
+  },
+  {
+   "n": "8.1",
+   "title": "Privileges and Conduct Committee report on the arrest of Kendhoo MP Mauroof Zakir during the 11 December 2025 fishermen's protest",
+   "outcome": "debated; report passed 46-10"
+  },
+  {
+   "n": "9",
+   "title": "Votes: bill to amend the Goods and Services Tax Act (Law 2011/10), submitted by the Kolamaafushi member on behalf of the government",
+   "outcome": "accepted 43-0; sent to the whole-house committee"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 10,
+   "positions": [
+    "Said tax law stability builds business trust and asked how revenue reaches citizens",
+    "Supported scrapping the newly introduced tax but said members overlooked that point",
+    "Said the constitution allows a referendum and the government should ask the public on Rasmalé.",
+    "Said promised projects such as a business centre and monorail have produced no results in three years, citing stalled local works."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 3,
+   "positions": [
+    "Supported the amendment as serving citizens and businesses",
+    "Said MDP members criticising tax changes ignore how many changes the 2018-2023 government made, including GST rises"
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 3,
+   "positions": [
+    "Fully supported the GST amendment, saying every government amends this law often",
+    "Accepted a point of order and said MPs should not label one another",
+    "Supported the Eagle Hills Rasmale project, saying it brings major investment and MDP opposition lacks substance"
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Questioned government finances and the Speaker's salary increase during the GST debate",
+    "Called for a referendum and public say before the government proceeds with the Eagle Hills project",
+    "Opposed the Rasmalé project, saying land would be handed to foreigners without guarantees of returns for public money spent on reclamation.",
+    "Said the related 'pearl visa' residency programme and township plans should be halted."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 2,
+   "positions": [
+    "Said contradictory government policies, not critics, are harming investment; noted the bill reverses changes passed earlier this year",
+    "Criticised salary increases for the Speaker and ministers during an economic crisis",
+    "Said concerns centre on the investor and on undisclosed commercial terms that may not protect state benefits.",
+    "Called on the government to halt the project and hold a referendum before the planned 11 November signing."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order on the number of MDP members, accepted by the chair (13)",
+    "Said the bill reverses a tax law the government claimed was needed, citing a revenue shortfall of about MVR 1.6 billion"
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Presented GST amendment: stop GST on imported tourism products and agency/booking services from 1 Oct 2026, refund amounts collected",
+    "Said it gives MIRA power to void transactions made only to avoid tax and closes legal loopholes",
+    "Said regulations must be gazetted within 90 days"
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill; said the previous MDP government raised GST in 2023 due to its debts, while this government has not raised taxes on ordinary people"
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Said repeated tax amendments reflect contradictory government policy and have not benefited citizens",
+    "Called for a referendum law to be passed"
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment as making tax rules easier for citizens and businesses"
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendments as helping small businesses; said large investments like Eagle Hills are needed to grow the economy"
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Said the bill undoes a tax passed despite warnings from tourism stakeholders, without consultation or a plan"
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Criticised introducing then scrapping a destination tax, and questioned government spending and cost of living"
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Strongly supported the GST amendment and criticised MDP positions"
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Argued the project would bring large foreign investment and about two billion dollars a year in tax revenue.",
+    "Said giving out reclaimed plots alone, without investment or bank lending capacity, will not develop the country."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Asked what the state gains from the Rasmalé deal and why no performance guarantee or key terms have been disclosed."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the committee report finding police and security forces acted within legal limits in arresting the Kendhoo MP.",
+    "Said members should act within the privileges and conduct rules set for them."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the committee report and said MPs should set an example in conduct.",
+    "Asked the government to weigh public benefit when bringing new projects."
+   ]
+  }
+ ],
+ "decisions": [
+  "Bill on privileges of diplomatic missions, consular posts and international organisations: Foreign Relations Committee deadline 20 November 2026",
+  "Resolution on high electricity and water costs for small and medium businesses outside Malé: Environment and Climate Change Committee deadline 30 November 2026",
+  "Urgent matter submitted by Kendhoo MP Mauroof Zakir not accepted as it did not meet Standing Orders article 192 conditions",
+  "First reading of the Education Act (24/2020) amendment bill",
+  "Preliminary debate on the GST Act (10/2011) amendment bill concluded",
+  "Debate on the Eagle Hills Rasmale disclosure resolution resumed as unfinished business",
+  "Resolution on disclosing the Rasmalé–Eagle Hills agreement rejected (10 for, 45 against).",
+  "Privileges and Conduct Committee report on the Kendhoo MP's arrest passed (46 for, 10 against).",
+  "GST Act (2011/10) amendment bill accepted (43-0) and sent to the whole-house committee under Standing Order 106.",
+  "Next sitting announced for Tuesday 27 October 2026 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the bill amending the Goods and Services Tax Act (2011/10)",
+   "yes": 43,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the resolution on disclosing the Rasmalé–Eagle Hills agreement",
+   "yes": 10,
+   "no": 45,
+   "abstain": 0
+  },
+  {
+   "what": "Pass the Privileges and Conduct Committee report on the Kendhoo MP's arrest",
+   "yes": 46,
+   "no": 10,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 72,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-opus-5-5",
+ "generatedAt": "2026-11-01"
+}

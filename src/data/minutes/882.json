@@ -1,0 +1,121 @@
+{
+ "sittingId": "882",
+ "date": "2024-09-17",
+ "title": "Third special sitting of 2024",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 86,
+  "onLeave": null,
+  "officialTravel": 0
+ },
+ "summary": "At this special sitting held outside the regular session, the Majlis received the Economic Committee's report on the bill to amend the Companies Act (Law 7/2023); no member asked to debate it and it later passed 85-0. The Judiciary Committee reported that Abbas Shareef met the legal requirements and scored above the pass mark in his interview, so it recommended him as Prosecutor General. Three members then spoke on the appointment, raising long pre-trial detention, the short tenures of past Prosecutors General and trust in the justice system, and the Majlis approved him 85-0. The Speaker announced the next sitting for 7 October 2024.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer",
+   "outcome": "held"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "86 present at the vote; chair noted no member on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda 20/2024/Special Session 3 announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair",
+   "outcome": "no additional announcements"
+  },
+  {
+   "n": "5.1",
+   "title": "Economic Committee report on the bill to amend the Companies Act (Law 7/2023)",
+   "outcome": "report presented; no members asked to debate; set for third reading and vote"
+  },
+  {
+   "n": "5.2",
+   "title": "Judiciary Committee report on appointing Abbas Shareef as Prosecutor General",
+   "outcome": "debated; committee recommended the appointment"
+  },
+  {
+   "n": "6.1",
+   "title": "Vote on passing the bill to amend the Companies Act (Law 7/2023)",
+   "outcome": "passed 85-0"
+  },
+  {
+   "n": "6.2",
+   "title": "Vote on appointing Abbas Shareef (Hoyelors, Male') as Prosecutor General",
+   "outcome": "approved 85-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ali Fazad",
+   "constituency": "Central Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Presented the Economic Committee report on the Companies Act amendment, which changes procedures for special general meetings and director vacancies."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the Judiciary Committee report: the nominee met the legal requirements, no public complaints were filed, and he scored 93.91% in the interview."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Said the justice sector is vital; raised the cost and hardship of long detention until trial and the need for fairness in prosecutions."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Argued that no Prosecutor General has completed a term since 2009 and that trust in the office and the justice system needs restoring."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Praised the committee's thorough review and expressed confidence the nominee would handle pending cases and corruption matters."
+   ]
+  }
+ ],
+ "decisions": [
+  "The bill to amend the Companies Act (Law 7/2023) passed the Majlis.",
+  "Abbas Shareef was approved by the Majlis as Prosecutor General.",
+  "The business set for the special sittings outside the session was completed.",
+  "The next sitting was set for Monday 7 October 2024, the first of the third session."
+ ],
+ "votes": [
+  {
+   "what": "Passing the bill to amend the Companies Act (Law 7/2023)",
+   "yes": 85,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appointing Abbas Shareef as Prosecutor General",
+   "yes": 85,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 17,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

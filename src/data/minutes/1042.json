@@ -1,0 +1,374 @@
+{
+ "sittingId": "1042",
+ "date": "2026-06-24",
+ "title": "6th Sitting of second session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 31,
+  "onLeave": 6,
+  "officialTravel": 2
+ },
+ "summary": "The 6th sitting of the second session of 2026 opened at 09:01 with 31 members present. The first part was question time for Education Minister Dr. Ismail Shafeeu, mostly about a teachers' union named after Iskandhar School, school building delays and student scholarships. The chamber then began the first debate on the government's bill to amend the Export Import Act, which sets new duty rates on cigarettes, where PNC members backed the bill and MDP members questioned the policy reversal, with several points of order and a break from 10:30 to 11:00. The text is partly garbled and this part ends mid-debate, so the outcome is in part 2. The Majlis continued the preliminary debate on the government's bill to amend the Export Import Act, which lowers the duty on cigarettes after an earlier increase. PNC members said later studies show people who quit vaping did not return to cigarettes, so the duty can come down; MDP members said they had warned about the original increase, and the exchanges included several points of order and sharp comments about past governments. After the recess the bill was accepted 49-0 and sent to a committee of the whole House, and the Majlis unanimously approved three presidential nominees: an ambassador to Indonesia, a Finance Minister and a Privatization and Corporatization Board chair. The chair also named several MDP members and asked them to leave the chamber after repeatedly asking them to follow the Rules of Procedure.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "31 present, 6 on leave, 2 on official travel announced"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the agenda (agenda no. 2026/2/6)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Chair's announcement of committee report deadlines under Rule 174",
+   "outcome": "Judiciary Committee given 15 July 2026 for five bills (Penal Code, Courts Act and Evidence Act amendments)"
+  },
+  {
+   "n": "5.1",
+   "title": "Question time: Kendhoo MP Mauroof Zakir's question to the Minister of Education, Higher Education and Skills Development on the legal basis for refusing a union named after Iskandhar School, plus supplementary questions",
+   "outcome": "minister answered; eleven other members asked questions; time ran out"
+  },
+  {
+   "n": "6.1",
+   "title": "First debate on the bill to amend the Export Import Act (Law 31/79), submitted for the government by Komandoo MP Mohamed Ibrahim",
+   "outcome": "debated; break from 10:30 to 11:00, debate continued and not concluded in this part",
+   "workId": "1887"
+  },
+  {
+   "n": "6.1",
+   "title": "Government bill to amend the Export Import Act of the Maldives (No. 79/31), sponsored by Komandoo's Mohamed Ibrahim: preliminary debate (continued)",
+   "outcome": "debated; accepted 49-0 and sent to a committee of the whole House for study",
+   "workId": "1887"
+  },
+  {
+   "n": "8.1",
+   "title": "Foreign Relations Committee report on appointing Dr. Mariyam Shabeena Ahmed (Ruffushi) as non-resident ambassador to Indonesia",
+   "outcome": "no members signed up to debate; approved 49-0"
+  },
+  {
+   "n": "8.2",
+   "title": "Government Oversight Committee report on the President's nominee for Minister of Finance and Public Enterprises, Hassan Zareer",
+   "outcome": "debated; consent approved 49-0"
+  },
+  {
+   "n": "8.3",
+   "title": "State Owned Enterprises Committee report on the President's nominee for chair of the Privatization and Corporatization Board, Mohamed Nizar",
+   "outcome": "no members signed up to debate; approved 49-0"
+  },
+  {
+   "n": "9",
+   "title": "Votes on the bill and the three committee reports",
+   "outcome": "all four passed 49-0 with 50 members present"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Ismail Shafeeu",
+   "constituency": "",
+   "turns": 14,
+   "positions": [
+    "As Education Minister, said unions are allowed but the rules bar names that could be mistaken for a government or school body, so a union cannot use a school's name.",
+    "Said the Cool School project is installing air conditioning and replacing old wiring, and that scholarship applications are being processed (282 received, about 71% complete).",
+    "Said no teacher or principal has been disciplined for political views, and that he answers questions linked to the one submitted at his discretion."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 13,
+   "positions": [
+    "On the bill, said the duty rise aimed to stop vaping, that later studies show vapers did not move to cigarettes, and that the change is not a revenue move.",
+    "Spent much of his turns criticising MDP's record in government and was repeatedly told by the chair to keep to the bill.",
+    "On the Finance Minister nominee, backed the appointment citing his revenue authority experience, and rejected claims of politically motivated dismissals."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 7,
+   "positions": [
+    "Asked under which law school principals refused the Iskandhar Workers Union, and later asked how a teachers' union could be named if school names are barred.",
+    "In the bill debate, argued the government was reversing its earlier cigarette price rise and said it was the first country to cut the price on a WHO recommendation, which another member disputed.",
+    "Voiced concern about staff being dismissed from ministries and state companies after the election, and the Finance Ministry's role in it.",
+    "Said that if the nominee backs those dismissals, he cannot support the appointment."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 5,
+   "positions": [
+    "Said customs-recorded cigarette imports fell from 338 million in 2024 to 76 million in 2025, so the earlier duty change missed its goal.",
+    "Argued the China free trade agreement and tax changes did not deliver promised revenue, and said a 900 million dollar loan repayment came from reserves, which Baarashu MP Ibrahim Shujau disputed."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 4,
+   "positions": [
+    "Asked about long-delayed school hall and classroom work in Naivaadhoo and Hanimaadhoo.",
+    "In the bill debate, supported the amendment and argued the earlier price rise fuelled a smuggling market; the chair asked him to keep to the bill."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 4,
+   "positions": [
+    "Asked whether teachers were dismissed for their views under the MDP government.",
+    "In the bill debate, supported the amendment and said a quit-smoking number and free Aasandha treatment already exist.",
+    "Raised two points of order that the Hulhumale' South MP gave misleading figures on debt repayment."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 3,
+   "positions": [
+    "Asked about delays at the Vaikaradhoo school and other island school works in his constituency.",
+    "In the bill debate, said repeated policy reversals have costs and urged wider consultation, while saying he was not opposing the bill."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 3,
+   "positions": [
+    "Asked when the electricity problem at a school in Addu Hulhudhoomeedhoo, where children sit in heat, will be fixed.",
+    "Backed the duty cut but disagreed that the original increase rested on adequate study.",
+    "Argued the vape ban created a black market and that legal, taxed and regulated vape sales would be a better answer."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 3,
+   "positions": [
+    "Supported the bill, saying the vape ban followed WHO guidance and its effect on cigarette use is now studied.",
+    "Raised a point of order that claims about resort service charge and loan repayment were misleading, which the chair did not accept.",
+    "Defended the vape ban and duty rise as a study-based decision to protect children, and praised the President's judgment.",
+    "Said the duty is being cut now because follow-up studies show former vapers did not go back to cigarettes."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 3,
+   "positions": [
+    "Said the bill reverses the Export Import Act amendment passed in November 2024, and argued the Majlis should not simply praise the President.",
+    "Was asked by the chair to stay on the bill and was later named among members told to leave the chamber."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 3,
+   "positions": [
+    "Said duty amendments are not new, that earlier MDP governments also changed tax laws, and that the vape ban aimed to protect children.",
+    "Rejected opposition claims of theft, citing repayment of large loans and moving fruit and vegetables into the essential food category.",
+    "As rapporteur of the State Owned Enterprises Committee, presented its report: information gathered from state bodies, a public complaints window, and a score of 82.17% for nominee Mohamed Nizar."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 2,
+   "positions": [
+    "Argued the government was reversing a change it made two years earlier, questioned the health case for it, and called for consultation before such policy changes.",
+    "Raised a point of order during Falah's remarks; the chair did not accept it as a point of order."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the bill and said the government's anti-tobacco work, including the vape ban, is planned and shows results.",
+    "Argued that earlier changes to the law were made with study and that the debate repeats earlier arguments."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kandithemu",
+   "turns": 2,
+   "positions": [
+    "Said he does not oppose the amendment, but that MDP made the same points when the duty was raised and a supermajority passed it anyway.",
+    "Argued the earlier increase cut customs revenue and pushed young people towards fake products, and that the vape ban could not be enforced."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Asked when work will start on the Feydhoo school hall and classrooms announced during the President's visit."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Asked why Maldives has not set up a streamlined early childhood development system as in other countries."
+   ]
+  },
+  {
+   "name": "Mohamed Niushad",
+   "constituency": "Keyodhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the minister would form a union to push stalled ministry projects, and when work will start on Keyodhoo school's building."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked how many principals were moved for political reasons under the previous MDP government and what is being done for areas short of teachers."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what effect principals' union activity and political activism has on students, and whether teachers were told about it."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Asked about delays to the multi-purpose hall planned at Huraa and about plans to strengthen links with teachers' associations."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Asked why students abroad on government funding have trouble getting payments sent."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "Komandoo",
+   "turns": 1,
+   "positions": [
+    "Presented the bill: duty on cigarettes set at 4 rufiyaa per stick plus 30% ad valorem, and nicotine gum and patches made duty-free, to cut smoking and support quitting."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that the minister never said cigarette prices were cut on a WHO recommendation, which the chair accepted."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that the Majlis's work is to amend laws and that speeches calling it a rubber stamp harm its dignity, which the chair accepted."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Said the debate should be non-partisan and the state's job is to protect citizens' health, noting cigarettes are linked to cancer.",
+    "Said the duty change is not about raising revenue and that the Majlis, not the presidency, decides the bill."
+   ]
+  },
+  {
+   "name": "Asma Rasheed",
+   "constituency": "Central Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said the Majlis can amend or reject any government bill, and urged the opposition not to mislead the public.",
+    "Said high cigarette prices strain households, noted smoking is a long-standing habit, and thanked the government for acting."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment and thanked its sponsor, saying it follows a year of review of the earlier increase.",
+    "Said the opposition had announced it would reverse such measures if in government, and recalled allegations made in the 19th Majlis."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Presented the Foreign Relations Committee report: Dr. Mariyam Shabeena Ahmed met the requirements and the committee approved her unanimously on 22 June 2026."
+   ]
+  },
+  {
+   "name": "Adam Zahir",
+   "constituency": "Felidhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the Government Oversight Committee report: nominee Hassan Zareer met the Constitution's requirements, agreed unanimously by members at the meeting."
+   ]
+  }
+ ],
+ "decisions": [
+  "The chair announced a 15 July 2026 deadline for Judiciary Committee reports on five bills amending the Penal Code, Courts Act and Evidence Act.",
+  "The chair accepted points of order from North Feydhoo and North Mahchangolhi, and did not accept those from Baarashu and West Maafannu.",
+  "Question time to the Education Minister ended at the time limit.",
+  "The chair called a break from 10:30 to 11:00 in the debate on the Export Import Act amendment, which was not concluded in this part.",
+  "The bill to amend the Export Import Act (No. 79/31) was accepted for consideration and sent to a committee of the whole House for study.",
+  "The Majlis approved Dr. Mariyam Shabeena Ahmed as non-resident ambassador to the Republic of Indonesia.",
+  "The Majlis approved Hassan Zareer as Minister of Finance and Public Enterprises.",
+  "The Majlis approved Mohamed Nizar as chair of the Privatization and Corporatization Board.",
+  "The chair named nine members (including Ibrahim Nazil, Ameen Faisal and Mauroof Zakir) and asked them to leave the chamber after repeated requests to follow the Rules of Procedure.",
+  "The next sitting was set for Monday 29 June 2026 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the Export Import Act (79/31) amendment bill for consideration",
+   "yes": 49,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Committee report on Dr. Mariyam Shabeena Ahmed as ambassador to Indonesia",
+   "yes": 49,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Consent for Hassan Zareer as Minister of Finance and Public Enterprises",
+   "yes": 49,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Consent for Mohamed Nizar as chair of the Privatization and Corporatization Board",
+   "yes": 49,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 100,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,22 @@
+{
+  "workId": "1805",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޤާނޫނުއަސާސީއަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Constitution of the Maldives in two areas. First, it adds new paragraphs to Article 73 so that a Majlis member expelled from the political party they represent loses their seat only if most voters in their constituency back removal in a public vote. Second, it changes Articles 230 and 231 to remove atoll councils from the Constitution, so the President's power to create councils would cover island and city councils only, and island council presidents would no longer sit on atoll councils. New council members under these rules would be elected at the next regular local council election, and existing atoll, island and city council members would stay in office until then.",
+  "whyItMatters": "An MP expelled from their party could keep their seat unless their constituents vote to remove them, and atoll councils would no longer have a basis in the Constitution, which changes how local government is organised across the atolls.",
+  "keyProvisions": [
+    "Clause 1 adds Article 73(ޅ): if an MP is expelled from the party they represent, as set out in law, they lose their seat only if a majority of those voting in a public vote in their constituency support removal.",
+    "Clause 1 also adds Article 73(ކ): if that vote does not reach a majority, the MP stays on as a member not attached to any party, and loses the seat if they later join a political party during that Majlis term.",
+    "Clause 2 rewrites Article 230(ނ) so the President's power to create offices, posts and councils for decentralised administration names island councils and city councils, and no longer atoll councils.",
+    "Clauses 3 and 4 delete Article 231(ހ)(3), which made island council presidents members of the atoll council, and rewrite Article 231(ނ) so the secret-ballot election rule covers island council presidents and city mayors, with atoll council presidents removed.",
+    "Clause 5 says councils under the amended Articles 230 and 231 are elected at the next regular local council election held when current council terms end, and that sitting atoll, island and city council members stay in office until the newly elected members take up their posts.",
+    "Clause 6 says the amendment takes effect when it is passed, ratified and published in the Government Gazette."
+  ],
+  "whoIsAffected": "Majlis members and the parties and voters behind their seats, plus atoll, island and city councils and the people they serve.",
+  "statedReasons": "The government says the bill sets out in the Constitution how an MP expelled from the party they represent is removed from the Majlis, and removes atoll councils from the Constitution as part of strengthening the decentralised system.",
+  "sourceDoc": "Bill",
+  "pagesRead": 7,
+  "pagesTotal": 7,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

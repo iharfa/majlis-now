@@ -1,0 +1,230 @@
+{
+ "sittingId": "1009",
+ "date": "2025-12-01",
+ "title": "27th Sitting of third session of 2025",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 28,
+  "onLeave": 3,
+  "officialTravel": 7
+ },
+ "summary": "The 27th sitting of the third session of 2025 met on 1 December 2025 from 09:01 to 11:15, with a recess from 10:31 to 11:00. The Speaker announced a committee seat change, committee meeting notices and a Judicial Service Commission request on removing a judge, which was sent to the Judiciary Committee. Members debated an MDP resolution on unequal treatment in the justice system, which was then voted down, and the chamber heard committee reports on environmental fines, a rules change on petitions, and two finance-related bills, all of which passed. The text layer is partly garbled, so speaker summaries are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened by the Speaker"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "28 present, 3 on leave, 7 on official travel as read out"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda (agenda no. 2025/3/27)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Change to committee membership (Social Committee)",
+   "outcome": "Mohamed Ali (Dhuvaafaru) named to the PNC seat held by Asma Rasheed, from 28 October 2025"
+  },
+  {
+   "n": "4.2",
+   "title": "Committee meeting notices under Rule 174, including the Foreign Relations Committee on an ambassador to Japan",
+   "outcome": "announced; Foreign Relations Committee to take up the President's ambassador appointment on 4 December 2025"
+  },
+  {
+   "n": "5.1",
+   "title": "Judicial Service Commission request to the Majlis on removing a judge from office",
+   "outcome": "letter read out; sent to the Judiciary Committee for study"
+  },
+  {
+   "n": "5.2",
+   "title": "Proposal to amend the Majlis rules of procedure (Rules 23 and 30)",
+   "outcome": "sent to the General Committee for study"
+  },
+  {
+   "n": "6.1",
+   "title": "Resolution by Meekail Ahmed Nasym on discrimination among citizens in the exercise of the power to establish justice",
+   "outcome": "debated; not carried (10 yes, 56 no)"
+  },
+  {
+   "n": "7.1",
+   "title": "Environment and Climate Change Committee report on fines imposed on parties for harm to the environment",
+   "outcome": "report presented; passed 67-0"
+  },
+  {
+   "n": "7.2",
+   "title": "General Committee report on amending Chapter 51 (petitions) of the Majlis rules to add electronic petitions",
+   "outcome": "debated; passed 57-9"
+  },
+  {
+   "n": "7.3",
+   "title": "Finance Committee report on the bill amending the Fiscal Responsibility Act (Law 2024/30)",
+   "outcome": "report presented; bill passed 58-9"
+  },
+  {
+   "n": "7.4",
+   "title": "Finance Committee report on the bill amending the law on protection and benefits for former Presidents (Law 2009/9)",
+   "outcome": "debated; bill passed 68-0"
+  },
+  {
+   "n": "8",
+   "title": "Votes on the day's pending business",
+   "outcome": "five votes taken after the recess"
+  },
+  {
+   "n": "9",
+   "title": "Closing and next sitting",
+   "outcome": "next sitting set for Wednesday 3 December 2025 at 09:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 4,
+   "positions": [
+    "Backed the resolution, saying unequal justice erodes public trust, and urged the President to seek a change to the Judicial Service Commission's makeup.",
+    "On the petition rules, asked whether the aim is to limit petitions and argued thresholds should reflect the size of each group.",
+    "On former Presidents' benefits, said large payouts are hard to justify while basic services and stipends for students abroad lag."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 3,
+   "positions": [
+    "Presented the Environment Committee report on environmental fines, noting large fines for boats hitting reefs and some unpaid or repeated cases.",
+    "Presented the Finance Committee report on the Fiscal Responsibility Act amendment, which extends deadlines for the first fiscal charter and regulations.",
+    "Presented the Finance Committee report on former Presidents' benefits, saying the committee changes save over MVR 10 million."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Backed the resolution, saying government influence over the courts is visible and citing removals of Supreme Court judges.",
+    "On the petition rules, said the signature thresholds would make it harder for small islands to submit petitions."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Opposed the resolution, saying earlier MDP governments also pressured courts and left court problems unresolved.",
+    "Presented the General Committee report adding electronic petitions, saying all committee members agreed on it."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 2,
+   "positions": [
+    "Said the resolution only seeks the Majlis's view on unequal treatment, citing short detention for small debts against slow cases involving large sums.",
+    "Replied to critics, saying the debate drifted to the proposer instead of the issue, and urged the Majlis to act."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order over remarks about the President and a member; the Speaker ruled the matter did not qualify as one.",
+    "Supported the committee report on former Presidents' and vice presidents' benefits, noting the opposition also backed the changes."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Argued the resolution is not a fix for unequal justice, saying the poor have long faced harsher treatment in court than the wealthy."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Defended the independence of the justice system and police powers with traffic-fine and vehicle-import examples, and questioned the resolution's premise."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Said the resolution is vaguely worded and that the government is working to speed up court cases, including slow loan-recovery cases."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the resolution, citing a case where a major drug suspect left after a small fee, and called for changing the Judicial Service Commission's makeup."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Said he saw little to support in the resolution but wanted his view recorded, and noted the promise to change the Judicial Service Commission was unmet."
+   ]
+  }
+ ],
+ "decisions": [
+  "Mohamed Ali (Dhuvaafaru) joined the Social Committee in place of Asma Rasheed as the PNC representative.",
+  "The Judicial Service Commission's request on removing a judge was sent to the Judiciary Committee for study.",
+  "A proposal to amend the Majlis rules (Rules 23 and 30) was sent to the General Committee.",
+  "The resolution on discrimination in the justice system was not carried (10 yes, 56 no).",
+  "The Environment and Climate Change Committee report on environmental fines was passed (67-0).",
+  "The amendment to Chapter 51 of the Majlis rules on petitions was passed (57-9).",
+  "The bill amending the Fiscal Responsibility Act (Law 2024/30) was passed (58-9).",
+  "The bill amending the law on benefits for former Presidents (Law 2009/9) was passed (68-0).",
+  "The next sitting was set for 3 December 2025 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Resolution by Meekail Ahmed Nasym on discrimination in the exercise of the power to establish justice (not carried)",
+   "yes": 10,
+   "no": 56,
+   "abstain": 0
+  },
+  {
+   "what": "Environment and Climate Change Committee report on fines imposed for environmental harm",
+   "yes": 67,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "General Committee report on amending Chapter 51 (petitions) of the Majlis rules",
+   "yes": 57,
+   "no": 9,
+   "abstain": 0
+  },
+  {
+   "what": "Bill amending the Fiscal Responsibility Act (Law 2024/30), Finance Committee report",
+   "yes": 58,
+   "no": 9,
+   "abstain": 0
+  },
+  {
+   "what": "Bill amending the law on protection and benefits for former Presidents (Law 2009/9), Finance Committee report",
+   "yes": 68,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 59,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

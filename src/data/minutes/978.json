@@ -1,0 +1,404 @@
+{
+ "sittingId": "978",
+ "date": "2025-08-27",
+ "title": "Fourth special sitting of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 36,
+  "onLeave": 7,
+  "officialTravel": 1
+ },
+ "summary": "This out-of-session special sitting was called at the request of 36 members. Members first debated the President's returned amendment to the Thalassaemia Control Act, with the majority moving it to committee for refinement and the opposition criticising the Majlis for acting on the President's direction; the chair closed the debate and set the vote for voting time. Debate then resumed on the Maldives Media and Broadcasting Regulation Bill, where several members opposed it as media control and others backed regulation, until a recess at 10:31 and a break in the text mid-speech. The part opens with the end of one member's speech on the Media and Broadcasting Regulation Bill, then members debated three committee reports on presidential nominees: one Human Rights Commission member, three Civil Service Commission members and members of the Inland Revenue Authority board. Debate on the nominations was heated, with opposition members questioning how independent the process is and ruling-party members defending the committee interviews and marks. After a one-hour break, the Media Bill debate resumed and the sponsor gave closing remarks. The sitting then moved to votes, where a thalassemia bill was sent to committee and the nominees voted on in this part were approved. Some lines of the minutes are garbled, so a few details are approximate. This final part of the fourth special sitting of 2025 (held outside the regular term) covers the last two votes of the day. Members approved the appointment of Al-Usthaz Ahmed Ali as a board member of the Maldives Inland Revenue Authority (57 in favour, none against). They then voted to accept the Maldives Media and Broadcasting Regulation Bill, proposed by the member for Thulhaadhoo, and sent it to the Independent Institutions Committee. The chair noted that all out-of-term business requested had been finished, so no further sittings follow, and closed the sitting.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers",
+   "outcome": "sitting opened (started 09:01)"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "36 present, 7 on leave, 1 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Chair's announcement on the special out-of-session sitting",
+   "outcome": "announced it was called at the request of 36 members; five matters listed (returned thalassaemia bill, appointments to MIRA board, Civil Service Commission and Human Rights Commission, media bill debate)"
+  },
+  {
+   "n": "5.1",
+   "title": "Bill to amend the Thalassaemia Control Act (Law 4/2012), returned by the President for reconsideration",
+   "outcome": "debated; proposal to send to committee for further work; chair ended debate, vote set for voting time"
+  },
+  {
+   "n": "6.1",
+   "title": "Maldives Media and Broadcasting Regulation Bill (continued debate)",
+   "outcome": "debated; recess 10:31-11:00; debate still ongoing at end of this part"
+  },
+  {
+   "n": "6",
+   "title": "Maldives Media and Broadcasting Regulation Bill (unfinished business, debate resumed after the break)",
+   "outcome": "debate closed after the sponsor's closing remarks; put to a vote later in the day"
+  },
+  {
+   "n": "7.1",
+   "title": "Human Rights and Gender Committee report on the nominee for the Human Rights Commission of the Maldives",
+   "outcome": "debated; Ahmed Maqsoom later approved 58-0"
+  },
+  {
+   "n": "7.2",
+   "title": "Independent Institutions Committee report on three nominees for the Civil Service Commission",
+   "outcome": "debated; Deeba Moosa approved 60-0, Hussain Faiz 54-0, Mohamed Nishah 52-4"
+  },
+  {
+   "n": "7.3",
+   "title": "Economic Committee report on nominees for the Maldives Inland Revenue Authority board",
+   "outcome": "debated; Mohamed Imthinan Saudullah 60-0, Hushaam Waheed 59-0 and Ismail Hamdhoon 59-0 approved; vote on Ahmed Ali concluded in the next part"
+  },
+  {
+   "n": "Voting",
+   "title": "Thalassemia Control Act amendment bill returned by the President for reconsideration",
+   "outcome": "motion to send it to the relevant committee passed 60-0 (sent to the Social Committee)"
+  },
+  {
+   "n": "",
+   "title": "Appointment of Al-Usthaz Ahmed Ali as a Maldives Inland Revenue Authority board member (vote result)",
+   "outcome": "passed 57-0"
+  },
+  {
+   "n": "10",
+   "title": "Maldives Media and Broadcasting Regulation Bill: vote on accepting the bill for consideration",
+   "outcome": "passed 49-12; sent to the Independent Institutions Committee"
+  },
+  {
+   "n": "",
+   "title": "Closing of out-of-term sittings",
+   "outcome": "all requested business completed; sitting adjourned"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 10,
+   "positions": [
+    "Said the constitution gives the President the right to return bills and the Majlis a choice of responses, and welcomed further amendments.",
+    "On the media bill, said he does not support it, citing fines for journalists and urging the proposer to withdraw it.",
+    "Supported the Human Rights Commission and Civil Service Commission reports but urged members to vote free of any party direction.",
+    "Questioned what independent commissions achieve and alleged members were pressed to vote a certain way; the chair rejected one remark as out of order."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 7,
+   "positions": [
+    "Noted the President's reasons for returning the thalassaemia bill and proposed sending it to the relevant committee to be refined further.",
+    "Defended the nomination process as thorough, saying committee interviews and published marks show candidates are chosen on merit.",
+    "Argued party strength in the Majlis decides committee seats and that the opposition was debating politics instead of the reports.",
+    "Supported accepting the media bill, saying concerns can be fixed at committee stage, and rejected claims it threatens journalists."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 7,
+   "positions": [
+    "Said the return shows the Majlis now acts as the President's Majlis, and questioned why members who voted for the bill now call it incomplete.",
+    "Questioned whether the Civil Service Commission has become politicised, citing the suspension of an atoll council official on its instruction.",
+    "Alleged members are pushed to vote certain ways on individual bills; the chair ruled the wording out of order.",
+    "Said his party would repeal the media bill once government changes."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 3,
+   "positions": [
+    "Argued the Majlis is reduced to a rubber stamp when the President returns bills it has already passed.",
+    "Said ministers have not been summoned despite questions filed, citing the 14-day notice rule.",
+    "Questioned whether there was a real issue before the chamber to debate."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 3,
+   "positions": [
+    "Raised a point of order saying members work freely without pressure and that claims otherwise are untrue.",
+    "Said returning bills has happened under earlier governments and the constitution allows sending a bill to committee to improve it.",
+    "Raised a point of order that a ruling-party majority is not a problem because members work together as a team."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 3,
+   "positions": [
+    "Said the thalassaemia bill was earlier passed as complete and criticised the President's return of it.",
+    "On the media bill, urged its proposer to withdraw it, saying presidentially appointed commission members would mean control over media.",
+    "Argued the bill's commission members would sit under the President's influence."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 3,
+   "positions": [
+    "Opposed the media bill as a way to shut down media under the name of a commission, citing concerns about appointments and penalties for past acts.",
+    "Supported the committee report and said sending several nominee names rather than one is the better approach.",
+    "Said bills sent to the President's office come back quickly, and asked that ministers be brought to the Majlis.",
+    "Raised unfinished projects in Vaikaradhoo, including a school, while welcoming an ATM at his island."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 3,
+   "positions": [
+    "As sponsor, said spreading obscene content is not permitted in Islam and no one had consulted him before the debate.",
+    "Urged members to vote for the bill in line with the Constitution."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Said a returned bill sent for a second look shows democracy maturing and the purpose is to improve it for thalassaemia patients.",
+    "Said all members share responsibility, and that speech and writing should stay within Islamic limits."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 2,
+   "positions": [
+    "Backed merging the Media Council and the Broadcasting Commission and said media should be strengthened with a clear regulator.",
+    "Said the bill can be amended and argued false and unregistered online pages escape regulation."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Said free speech is vital and that the bill should not proceed without consulting media, asking for consultation before committee stage.",
+    "Said the live-broadcast interviews and the marks later published raised doubts, and asked the public to compare the two."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 2,
+   "positions": [
+    "Raised points of order objecting to a claim that members had taken a false oath."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Said the aim is lasting support for thalassaemia patients and supported the proposal to refer the bill to committee."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the proposed amendments and thanked the President for returning the bill, saying good amendments should be accepted from anyone."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Backed sending the bill to committee and defended the Majlis against claims that it acts only on the President's instruction."
+   ]
+  },
+  {
+   "name": "Asma Rasheed",
+   "constituency": "Central Maafannu",
+   "turns": 1,
+   "positions": [
+    "As chair of the committee that reviewed the bill, said it was carefully considered and urged members not to politicise thalassaemia children's care."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Said the constitution lets the President return a bill and that the Majlis should not be portrayed as powerless when it acts on it."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Said freedom of the press under the constitution must operate within Islamic principles, and noted Maldives rose in the press freedom index under the current government."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Opposed the bill, saying print media self-regulates elsewhere, and criticised broad terms such as national security and an ethics code written into law."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying regulating and controlling media are different, and that every freedom has limits, citing social media content aimed at children."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said media should operate within limits but raised concerns over powers to suspend outlets and the national-security wording, and urged wider consultation with media."
+   ]
+  },
+  {
+   "name": "Ibrahim Naufal",
+   "constituency": "Mulaku",
+   "turns": 1,
+   "positions": [
+    "Cited constitution articles 27, 28 and 33 and said press freedom must be balanced with people's right to protect their name and reputation."
+   ]
+  },
+  {
+   "name": "Fathimath Sauda",
+   "constituency": "Nilandhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the Human Rights and Gender Committee report on the three nominees for the Human Rights Commission, all of whom scored above 75% in interviews."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the Independent Institutions Committee report on three Civil Service Commission nominees, noting one complaint had been received about a candidate."
+   ]
+  },
+  {
+   "name": "Ali Fazad",
+   "constituency": "Central Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Presented the Economic Committee report on nominees for the Inland Revenue Authority board; 8 of the 14 interviewed scored above 75%."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Argued journalists have lost independence and public trust, and that the media bill should be accepted and amended at committee stage."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Urged members to reject the media bill, saying it adds new offences and could harm young people and the public."
+   ]
+  }
+ ],
+ "decisions": [
+  "Chair closed the debate on the returned Thalassaemia Control Act amendment bill and said the vote would be held at voting time.",
+  "Sitting recessed from 10:31 to 11:00 during the media bill debate.",
+  "Debate on the Human Rights Commission, Civil Service Commission and Inland Revenue Authority nominee reports was closed and the nominees were put to the voting session.",
+  "The Media and Broadcasting Regulation Bill debate was closed after the sponsor spoke; it was put to a vote later in the day.",
+  "The thalassemia bill returned by the President was sent to the relevant committee (Social Committee) for further work.",
+  "Ahmed Maqsoom was approved as a member of the Human Rights Commission of the Maldives.",
+  "Deeba Moosa, Hussain Faiz and Mohamed Nishah were approved as members of the Civil Service Commission.",
+  "Mohamed Imthinan Saudullah, Hushaam Waheed and Ismail Hamdhoon were approved as members of the Inland Revenue Authority board.",
+  "Ahmed Ali was approved as a member of the Maldives Inland Revenue Authority board.",
+  "The Maldives Media and Broadcasting Regulation Bill was accepted for consideration and sent to the Independent Institutions Committee under rule 106(r).",
+  "The chair announced that no further out-of-term sittings will be held under this request and adjourned the sitting."
+ ],
+ "votes": [
+  {
+   "what": "Send the returned Thalassemia Control Act amendment bill to committee",
+   "yes": 60,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Ahmed Maqsoom to the Human Rights Commission",
+   "yes": 58,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Deeba Moosa to the Civil Service Commission",
+   "yes": 60,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Hussain Faiz to the Civil Service Commission",
+   "yes": 54,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Mohamed Nishah to the Civil Service Commission",
+   "yes": 52,
+   "no": 4,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Mohamed Imthinan Saudullah to the Inland Revenue Authority board",
+   "yes": 60,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Hushaam Waheed to the Inland Revenue Authority board",
+   "yes": 59,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Ismail Hamdhoon to the Inland Revenue Authority board",
+   "yes": 59,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appointment of Ahmed Ali as Maldives Inland Revenue Authority board member",
+   "yes": 57,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accepting the Maldives Media and Broadcasting Regulation Bill (proposed by Abdul Hannan Aboobakuru, Thulhaadhoo)",
+   "yes": 49,
+   "no": 12,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 124,
+ "parts": 3,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

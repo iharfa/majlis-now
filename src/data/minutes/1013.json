@@ -1,0 +1,78 @@
+{
+ "sittingId": "1013",
+ "date": "2026-02-05",
+ "title": "1st Sitting of First session of 2026",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 87,
+  "onLeave": null,
+  "officialTravel": null
+ },
+ "summary": "The first sitting of the first session of 2026 opened on 5 February 2026 with 87 members present. The Speaker announced the agenda and invited the President to give the constitutional state address; three members who did not follow the Speaker's request to respect the rules were taken out of the chamber first. This part covers the opening and most of President Dr. Mohamed Muizzu's address, which reviews the government's year on Islamic affairs, heritage, defence, foreign policy, the economy and debt, small businesses, tourism, transport, fisheries, education and health. The address is cut off at the end of this part and no votes were taken; the text is partly garbled in places. This part is the second half of the President's address to the Majlis at the opening of the new session; no member debated and nothing was voted on. The President reported on and promised work in health care, housing, policing and drug enforcement, youth, prisons, local councils, digital government, anti-corruption bills, the media, and a 20-year national development plan. The Speaker then thanked the President on behalf of the House and adjourned the sitting until Monday 9 February 2026 at 9:00. The text layer is garbled in places, so some figures in the speech could not be read reliably and are not repeated here.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "sitting opened by the Speaker"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "87 members reported present"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda (agenda no. 2026/1/1)",
+   "outcome": "agenda announced by the Speaker"
+  },
+  {
+   "n": "4",
+   "title": "Request to the President to deliver the state address under Article 84 of the Constitution",
+   "outcome": "President invited to speak; three members removed from the chamber beforehand"
+  },
+  {
+   "n": "5",
+   "title": "State address by President Dr. Mohamed Muizzu",
+   "outcome": "delivered; continues beyond this part"
+  },
+  {
+   "n": "",
+   "title": "President's address to the Majlis (continued): health, housing, safety, youth, decentralisation, digital government, anti-corruption bills, media and national development plan",
+   "outcome": "address delivered; no debate or vote"
+  },
+  {
+   "n": "",
+   "title": "Speaker's thanks to the President and closing remarks",
+   "outcome": "thanks recorded; sitting closed"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Mohamed Muizzu",
+   "constituency": "",
+   "turns": 2,
+   "positions": [
+    "Reviewed work on mosques, Hajj, the new zakat law and national heritage, and said policy will follow Islamic principles.",
+    "Said the economy and debt were left in a weak state; described measures on the budget deficit, reserves and repaying the April sukuk from the Sovereign Development Fund.",
+    "Announced plans on the sea area given up in the past, an Office of Maldives Territories, and a resort-profit-sharing scheme for citizens.",
+    "Reported government progress and plans on health services, including a thalassemia centre, mental health support, IVF funding, essential medicines and hiring health workers."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Speaker named three members (Meekail Ahmed Nasym, Hussain Ziyad, Abdul Gafoor Moosa) after repeated requests to respect the Majlis rules, and they were taken out of the chamber.",
+  "President announced the government will treat the sea area it earlier gave up as part of the Exclusive Economic Zone and send a constitutional amendment on sea areas to the Majlis.",
+  "President announced an Office of Maldives Territories will be set up and a commission of inquiry will be created under Article 115 of the Constitution.",
+  "President announced that from 5 February 2027 only Maldivians can work as cashiers in the country.",
+  "President announced 2026 as the Year of Entrepreneurship and 2027 as Visit Maldives Year.",
+  "President announced the Addu atoll will be the first zone offering tax-free and other incentives to small and medium businesses from 1 January 2027.",
+  "The next Majlis sitting was set for Monday 9 February 2026 at 9:00.",
+  "The sitting was closed after the Speaker thanked the President for the address."
+ ],
+ "votes": [],
+ "pagesTotal": 66,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,368 @@
+{
+ "sittingId": "1057",
+ "date": "2026-08-03",
+ "title": "18th Sitting of Second session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo)",
+ "attendance": {
+  "present": 31,
+  "onLeave": 3,
+  "officialTravel": 1
+ },
+ "summary": "The 18th sitting opened at 09:00 under the Speaker with routine business: attendance, the agenda, and chair announcements of committee deadlines on a renewable-energy envoy matter, a waste-management bill and several Penal Code, Courts and Evidence bills. Most of this part was question time with the Minister of Infrastructure, Housing and Urban Development, Dr Abdulla Muthalib, who was asked about stalled water and sewerage projects, roads, land reclamation and housing on dozens of islands; he said projects stopped under the previous government were being restarted and some moved to MWSC, but gave few firm dates. The House then began the preliminary debate on the government's Bill on Leasing Uninhabited Islands and Lagoons, and the part ends mid-debate with no vote. The text is readable but garbled in places. This part opens mid-speech, with a member (name header is in part 1) backing a bill on leasing uninhabited islands and reefs, with minimum lease prices and environmental checks. After a 30-minute recess the House finished debate on the government's bill amending the Utility Regulatory Authority Act, then debated the Finance Committee's report on the audit of hiring, promotions and pay at Fenaka Corporation, where PNC members and MDP members traded blame over past and present hiring. The bill was accepted for study (56 in favour, 1 abstaining; 58 of 93 members present) and sent to the Environment and Climate Change Committee, and the Fenaka report was passed 56-0.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting (prayer)",
+   "outcome": "sitting opened (09:00)"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "31 present, 3 on leave, 1 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda (No. 2026/2/18)",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Chair announcement: committee deadlines under Rule 174 (IRENA representative matter, Waste Management Act amendment bill, Penal Code, Courts Act and Evidence Act amendment bills)",
+   "outcome": "deadlines announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Question to the Minister of Infrastructure, Housing and Urban Development from Mauroof Zakir (Kendhoo) on the delayed B. Kihaadhoo water and sewerage project",
+   "outcome": "answered by the minister, followed by about 16 follow-up questions on water, sewerage, roads, reclamation and housing; time ran out"
+  },
+  {
+   "n": "5.2",
+   "title": "Question to the Minister of Infrastructure, Housing and Urban Development from Mauroof Zakir (Kendhoo) on the delayed B. Kudarikilu water and sewerage project",
+   "outcome": "answered (works about 10% done, target Oct 2027), followed by about 18 follow-up questions; time ran out"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate on the Bill on Leasing Uninhabited Islands and Lagoons (government bill sponsored by Saudulla Hilmy)",
+   "outcome": "debate under way, sponsor and two members spoke, continues in the next part",
+   "workId": "1913"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill amending the Utility Regulatory Authority Act (No. 26/2020), government bill sponsored by the member for Vilufushi: continued debate",
+   "outcome": "debated; accepted 56 in favour, 0 against, 1 abstaining; sent to Environment and Climate Change Committee",
+   "workId": "1912"
+  },
+  {
+   "n": "8.1",
+   "title": "Finance Committee report on the special audit of recruitment, promotions, salaries and benefits at Fenaka Corporation Limited",
+   "outcome": "debated; report passed 56-0"
+  },
+  {
+   "n": "9",
+   "title": "Votes on matters ready for decision",
+   "outcome": "bill accepted 56-0 (1 abstaining); Fenaka audit report passed 56-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Abdulla Muthalib",
+   "constituency": "",
+   "turns": 36,
+   "positions": [
+    "Said projects stalled under the previous government and that Fenaka subcontracting forced terminations, with some works moved to MWSC or private contractors.",
+    "Gave Kudarikilu as MVR 61 million with practical works about 10% done and a target of October 2027; said most island works must finish by end 2027.",
+    "On housing, cited 4,000 units with Bank of Maldives, 1,000 with private developers and 5,000 more for Hulhumale; said high fuel prices and limited funds slow roads and dredging."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 4,
+   "positions": [
+    "Asked when water and sewerage will be finished on B. Kihaadhoo and B. Kudarikilu, noting the President's six-month promise has passed without visible works.",
+    "Disputed the minister's claim that work stopped in 2023 and asked whether delays come from unpaid contractors or contractors who took advances."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 3,
+   "positions": [
+    "Asked why Ameenee Magu's surface deteriorated and how advance payments to Fenaka's subcontractors will be recovered.",
+    "Asked when land reclamation will start at L. Fonadhoo, noting the housing project there is moving.",
+    "Backed the report, said mass hiring in state companies grew from MDP party rivalries, and that this government inherited a heavily indebted Fenaka it has been paying down."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 3,
+   "positions": [
+    "Asked for an update on the Addu bridge work and the land the Hulhudhoo council was asked to provide.",
+    "Asked why the 100 housing units promised for Hulhudhoo were left off the ministry's recent announcement.",
+    "Said the audit shows why people worry about Fenaka's water and power services, and called for action against those responsible for its condition."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 3,
+   "positions": [
+    "Asked for a timeline for moving Rathmandhoo residents to Thulusdhoo.",
+    "Asked what the minister can do about Vaadhoo's nearly finished water and sewerage project, where the contractor keeps one person on site.",
+    "Said past election-linked hiring left Fenaka's island power houses overstaffed, and that paying unproductive staff drains the budget and the dollar, so state companies must be right-sized."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked why Addu Link Road went to a company with doubtful capacity and when water and sewerage will start in Addu tourism zones.",
+    "Asked when water, sewerage and roads will start on reclaimed land in Maradhoo and at the Feydhoo tourism zone."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 2,
+   "positions": [
+    "Asked how many islands still lack water and sewerage, whether all will be served by 2027, and when Kunahandhoo's work ends.",
+    "Asked when Thoddoo's roads finish, when Rasdhoo's road starts, and the timeline for Ukulhas western beach protection."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when Maaungoodhoo's sewerage, contracted in 2019, will finish and what the delay has cost the state.",
+    "Presented the Finance Committee report on the Auditor General's Fenaka audit: staff numbers grew far faster than services, and hiring, promotions and pay broke company rules; recommended job analysis, advertised posts and recovering overpayments."
+   ]
+  },
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 2,
+   "positions": [
+    "Asked why Madaveli's housing project has not started, why the dredger keeps stopping, and when Hoadedhdhoo's erosion works begin.",
+    "Repeated the Hoadedhdhoo erosion question and asked why Madaveli's sewerage, already contracted, is still delayed."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Asked about the outcome of talks on speeding up water and sewerage at Bileffahi and Noomaraa.",
+    "Asked how the ministry will address island erosion linked to the Bileffahi airport reclamation and Kanditheemu dredging."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether stalled projects since 2020 stem from too many projects or excess loans and whether the ministry will study it.",
+    "Presented the Bill on Leasing Uninhabited Islands and Lagoons, a 75-article bill repealing Law 20/98 with rules to be set within 30 days."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Asked for a completion date for Sh. Narudhoo water and sewerage, which the last government did not build and this one has now had seven years on."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Asked the minister to name those who received Fenaka subcontracts against financial rules and whether any legal action is under way."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when Holhudhoo's water service will begin, as the project is reported close to fully complete."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why Meedhoo harbour and reclamation works have stalled and when work on phase two of the Hulhumeedhoo road will start."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what more the ministry can do to speed up water and sewerage works on Fulhadhoo and Fehendhoo, and when they finish."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when the Maaenboodhoo water system, handed to a contractor linked to an earlier MDP member, will be completed."
+   ]
+  },
+  {
+   "name": "Abdulla Sodig",
+   "constituency": "North Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when water and sewerage will reach Hithadhoo's newly developing area, including its hospitals and tourism zone, and other Addu tourism areas."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Asked whether Kelaa and Fillaadhoo sewerage contractors have been paid and what the government's plan is to finish the work."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when a lasting fix for Manadhoo's sewerage will begin and whether the previous government did any work on it."
+   ]
+  },
+  {
+   "name": "Ahmed Xamyr",
+   "constituency": "Central Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Asked how the government plans to improve Male' roads given the vehicle annual fee income, and about land used by the Jamaluddin school."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether Male' outer road work is prioritised over atoll needs and when Vaikaradhoo school repair will be done."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Asked about Rathafandhoo beach protection, progress on Fiyoree road, and Faresmaathodaa reclamation and road works."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how the nearly complete 75% housing units at Dhidhdhoo will be handed to those who need them."
+   ]
+  },
+  {
+   "name": "Ali Ashrag",
+   "constituency": "Kinbidhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when Th. Omadhoo and Kandoodhoo water and sewerage works will finish and for the latest update."
+   ]
+  },
+  {
+   "name": "Asadhulla Shihab",
+   "constituency": "Gemanafushi",
+   "turns": 1,
+   "positions": [
+    "Asked when Dhevvadhoo's sewerage and harbour works will restart, given materials already shipped and a long stall."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Asked whether Male' residents will get the housing relief promised by the President."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the leasing bill as a needed replacement for the old law, arguing clear rules help islands be used for tourism, industry and agriculture."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying the 1998 law reflects an older economy and the new 75-article law is a better base for development."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it makes the Authority's board and decision procedures clearer, and argued the country should move toward solar and waste-to-oil rather than diesel."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "As a committee member, said the hiring findings were unsurprising, cited the share of staff hired without advertisement, and doubted the committee's recommendations would change the practice."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the report but said Fenaka expanded earlier to employ Maldivians, and that many projects stalled and cost more after the change of government, citing Addu examples."
+   ]
+  }
+ ],
+ "decisions": [
+  "The chair announced committee deadlines under Rule 174 for the IRENA representative matter and for the Waste Management, Penal Code, Courts and Evidence Act amendment bills.",
+  "Question time on the Kihaadhoo and Kudarikilu questions ended when the allotted time ran out.",
+  "The preliminary debate on the Bill on Leasing Uninhabited Islands and Lagoons began, with about four hours of total debate time split across the parties.",
+  "The sitting paused from 10:30 to 11:01 and resumed with the Speaker presiding.",
+  "No further member asked to speak on the Utility Regulatory Authority Act bill, so its debate was closed.",
+  "The bill amending the Utility Regulatory Authority Act (26/2020) was accepted (56 in favour, 1 abstaining) and sent to the Environment and Climate Change Committee under rule 106.",
+  "The Finance Committee report on the Fenaka audit was passed (56-0); no amendments had been received.",
+  "The next sitting was set for Tuesday 4 August 2026 at 09:00, and the chair closed this sitting."
+ ],
+ "votes": [
+  {
+   "what": "Accept the bill amending the Utility Regulatory Authority Act (26/2020) for committee study",
+   "yes": 56,
+   "no": 0,
+   "abstain": 1
+  },
+  {
+   "what": "Pass the Finance Committee report on the special audit of Fenaka Corporation's recruitment, promotions, salaries and benefits",
+   "yes": 56,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 77,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,245 @@
+{
+ "sittingId": "1036",
+ "date": "2026-06-15",
+ "title": "2nd Sitting of second session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 45,
+  "onLeave": 6,
+  "officialTravel": 3
+ },
+ "summary": "The Majlis swore in Abdulla Sodig, who won the North Hithadhoo by-election, announced a committee seat change, and sent several presidential nominations to committees. Members debated the government's Cyber Security Bill, which was accepted 66-0 and sent to the Information and Communication Technology Committee. Debate on the Personal Data Protection Bill began but was put off to another day. The Majlis then approved ambassador nominations for the UAE (57-10) and Qatar (57-9).",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "opened with prayer"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "45 present, 6 on leave, 3 on official travel at the start"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Approval of minutes of sittings 15 to 20 of the first session of 2026",
+   "outcome": "accepted, no amendments proposed"
+  },
+  {
+   "n": "5.1",
+   "title": "Change to the Housing committee membership",
+   "outcome": "Husnee Mubarik (Manadhoo) replaces Ibrahim Falah (Inguraidhoo) for the PNC from 1 June"
+  },
+  {
+   "n": "5.2",
+   "title": "Revised list of members who may preside over sittings",
+   "outcome": "list redrawn after the Deputy Speaker's election and announced"
+  },
+  {
+   "n": "5.3",
+   "title": "Oath of Abdulla Sodig, member for North Hithadhoo after the 6 June by-election",
+   "outcome": "member sworn in and welcomed"
+  },
+  {
+   "n": "6.1",
+   "title": "President's non-resident ambassador nominations (Indonesia, Mauritania and Kenya, South Africa, Czech Republic, and Malaysia)",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "6.2",
+   "title": "President's reallocation of ministry work areas",
+   "outcome": "referred to the Government Oversight Committee"
+  },
+  {
+   "n": "6.3",
+   "title": "Nomination of Mohamed Shakeel to the Elections Commission",
+   "outcome": "referred to the Independent Institutions Committee"
+  },
+  {
+   "n": "6.4",
+   "title": "Nomination of Hassan Zareer as Minister of Finance and Public Enterprises",
+   "outcome": "referred to the Government Oversight Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "Motion on retirement benefits for former police and military personnel",
+   "outcome": "withdrawn by the sponsoring member; concluded"
+  },
+  {
+   "n": "8.1",
+   "title": "Resolution on improving councillors' salaries (South Galolhu member)",
+   "outcome": "first reading read"
+  },
+  {
+   "n": "8.2",
+   "title": "Maldives 2.0 Digital Transformation Bill (government bill)",
+   "outcome": "first reading read"
+  },
+  {
+   "n": "8.3",
+   "title": "Digital Identity Bill (government bill)",
+   "outcome": "first reading read"
+  },
+  {
+   "n": "9.1",
+   "title": "Cyber Security Bill",
+   "outcome": "debate finished; accepted 66-0; sent to the Information and Communication Technology Committee"
+  },
+  {
+   "n": "9.2",
+   "title": "Personal Data Protection Bill",
+   "outcome": "debate begun and put off to another day"
+  },
+  {
+   "n": "10.1",
+   "title": "Foreign Relations Committee report on ambassadors to the UAE and Qatar",
+   "outcome": "debated; UAE nominee passed 57-10, Qatar nominee passed 57-9"
+  },
+  {
+   "n": "11",
+   "title": "Votes",
+   "outcome": "three votes taken: Cyber Security Bill, UAE ambassador, Qatar ambassador"
+  },
+  {
+   "n": "12",
+   "title": "Close of the sitting",
+   "outcome": "next sitting set for 17 June 2026 at 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 4,
+   "positions": [
+    "Thanked the sponsor of the Personal Data Protection Bill but questioned who will enforce it, citing alleged misuse of Vaikaradhoo residents' data.",
+    "Asked why ministers are removed and later posted abroad, and said he could not back the ambassador nominations without an explanation."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Welcomed the new North Hithadhoo member and spoke about his party before the chair asked him to return to the bill.",
+    "Said the law is important but needs capacity, experts and infrastructure to work; proposed changes at committee stage."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Congratulated the new member and supported the Cyber Security Bill, urging independent institutions staffed by trustworthy people.",
+    "On the Personal Data Protection Bill, asked how data held in the Majlis is protected and called for strong rules and penalties."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Said the Cyber Security Bill gives wide powers to one security body, personal data safeguards are weak, and the Majlis role needs defining."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, citing cyber-attacks on businesses and the lack of a law to punish offenders; said personal data is released only by court order."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as important, said people already trust banks with their data, and urged committee work and highlighting its benefits."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Called it a good bill but wanted businesses and legal experts consulted and penalties against misuse of data, including by government bodies."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, saying cyber security is now a basic need, and listed protection of personal data, protection from ransomware and action against offenders."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said the bill fits the President's plan for round-the-clock digital government alongside the Digital Transformation and Digital Identity bills, and supported it."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Presented the Foreign Relations Committee report: it passed unanimously on 11 June, finding the UAE and Qatar nominees suitable and recommending approval."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the report, saying both nominees are capable and ambassadors can help bring economic projects and links with Qatar and Abu Dhabi."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of sittings 15 to 20 of the first session of 2026 were accepted without amendment.",
+  "Husnee Mubarik (Manadhoo) replaces Ibrahim Falah (Inguraidhoo) on the Housing committee for the PNC.",
+  "Abdulla Sodig was sworn in as member for North Hithadhoo.",
+  "Non-resident ambassador nominations were referred to the Foreign Relations Committee.",
+  "The reallocation of ministry work areas and the Finance Minister nomination were referred to the Government Oversight Committee.",
+  "The Elections Commission nomination was referred to the Independent Institutions Committee.",
+  "The retirement-benefits motion for former police and military personnel was withdrawn by its sponsor.",
+  "The Cyber Security Bill was accepted and sent to the Information and Communication Technology Committee.",
+  "Debate on the Personal Data Protection Bill was put off to another day.",
+  "The Majlis approved Tariq Ibrahim as ambassador to the UAE and Adam Shareef Umar as ambassador to Qatar.",
+  "The next sitting was set for 17 June 2026 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the Cyber Security Bill (sponsor: Hussain Nasih, Central Henveyru)",
+   "yes": 66,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Tariq Ibrahim as ambassador to the United Arab Emirates",
+   "yes": 57,
+   "no": 10,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Adam Shareef Umar as ambassador to the State of Qatar",
+   "yes": 57,
+   "no": 9,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 45,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

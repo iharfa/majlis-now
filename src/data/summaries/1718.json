@@ -1,0 +1,22 @@
+{
+  "workId": "1718",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2009 (ދިވެހިރާއްޖޭގެ ޕެންޝަނާބެހޭ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Maldives Pension Act (Law No. 8/2009) to change how the State pays 'other state pensions', meaning pensions and benefits paid from the State budget when someone leaves government service. It makes the Pension Office the single body that pays out all of these pensions, with the Ministry of Finance sending it the money each month. Other state pensions paid by various offices under other laws would end when the change takes effect, except those under the Armed Forces Act and the Police Act, while people who had already retired would keep what they were getting. Anyone receiving a basic pension or another state pension would have it paused while they hold an elected state post or a government job. Future pensions of this kind would be set by the Ministry of Finance based on policies the National Pay Commission must publish within 3 months.",
+  "whyItMatters": "It would end special retirement pensions and extra benefits that various state offices pay under their own laws for people who retire in future, and the government estimated it would save about MVR 1.5 billion over 10 years.",
+  "keyProvisions": [
+    "Articles 3 and 6 gain new points making it the Pension Office's job to pay out other state pensions and to set the rules it follows when doing so.",
+    "A new Article 11(r) pauses a person's basic pension while they are elected to a state post or appointed to a government job.",
+    "New Article 32-1 says the Pension Office will pay all other state pensions, with the Ministry of Finance transferring the money monthly under an agreement between the two.",
+    "New Article 32-2 ends other state pensions and extra retirement benefits paid by state offices under other laws, except those under the Armed Forces Act (Law No. 1/2008) and the Police Act (Law No. 5/2008), and keeps the financial benefits the Judges Act (Law No. 13/2010) gives judges who leave with honour. It also pauses such a pension while the person holds a state post or job.",
+    "New Article 32-3 says people who retired before the change keep receiving their other state pension as before, paid by the Pension Office in a way the Ministry of Finance decides. New Article 32-4 says the Ministry of Finance will set future pensions and benefits based on policies the National Pay Commission must publish within 3 months.",
+    "Article 33's definition of 'other state pension' is widened to cover all pensions and benefits paid from the State budget when someone leaves a job for any reason, under this Act or any other law or regulation. The bill takes effect when published in the Government Gazette."
+  ],
+  "whoIsAffected": "Future retirees from state offices that pay their own special pensions, current pensioners who take up a state post or government job, the Pension Office, the Ministry of Finance and the National Pay Commission.",
+  "statedReasons": "The government says it wants public money spent responsibly and pensions and benefits for departing state employees kept affordable for the budget, by having the Pension Office pay all other state pensions and stopping those paid under other laws. The cost note estimates about MVR 322.7 million a year in current spending is affected and about MVR 1.5 billion in savings over 10 years.",
+  "sourceDoc": "Bill",
+  "pagesRead": 9,
+  "pagesTotal": 9,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

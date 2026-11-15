@@ -1,0 +1,360 @@
+{
+ "sittingId": "975",
+ "date": "2025-08-13",
+ "title": "25th Sitting of second session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla; Deputy Speaker Ahmed Nazim presided after the recess",
+ "attendance": {
+  "present": 41,
+  "onLeave": 5,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened at 09:01 with 41 members present. In question time, 13 members questioned Foreign Minister Dr Abdulla Khaleel on a Saudi investor's meeting with the President, relations with India, China and Arab and Islamic states, Palestine, a sea-area dispute and SAARC; the Speaker named the South Galolhu member and asked him to leave the chamber after a dispute over a point of order. The Speaker sent a Rules of Procedure amendment on electronic petitions to the General Committee, and after a 30-minute recess members continued the first-reading debate on the government's Zakat Bill, with most backing it while some raised concerns about new institutions, liability protection and how it interacts with taxes. The debate was still under way when this part ends, with no vote taken. This part continues the first-reading debate on the government's Zakat Bill, sponsored by the member for Vilifushi, Hassan Waheed. A speech from the previous part finishes by asking how zakat should be collected and audited, then six more members speak, most of them supporting the bill and asking for detailed changes at committee stage, including on the powers given to the minister, the zakat authority's board and the size of penalties. The bill's sponsor closed the debate, and after a recess the Majlis voted 72 in favour and none against to accept it, sending it to the Social Affairs Committee for review. The next sitting was set for Monday 18 August 2025 at 9:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "41 present, 5 on leave, 1 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Questions to the Minister of Foreign Affairs, Dr Abdulla Khaleel (question from the South Galolhu member, with follow-up questions from other members)",
+   "outcome": "debated; Minister answered 13 times; question time ran out"
+  },
+  {
+   "n": "6.1",
+   "title": "Chair's table: proposed amendment to the Rules of Procedure to introduce electronic petitions",
+   "outcome": "sent to the General Committee for study"
+  },
+  {
+   "n": "7.1",
+   "title": "Continued first-reading debate on the Zakat Bill (government bill sponsored by the Vilufushi member Hassan Waheed)",
+   "outcome": "debated; recess 10:30 to 11:01; debate continues into part 2"
+  },
+  {
+   "n": "",
+   "title": "Zakat Bill (first-reading debate, continued)",
+   "outcome": "debated; sponsor closed the debate"
+  },
+  {
+   "n": "8",
+   "title": "Vote on accepting the Zakat Bill",
+   "outcome": "accepted 72-0; sent to the Social Affairs Committee for review"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Abdulla Khaleel",
+   "constituency": "",
+   "turns": 13,
+   "positions": [
+    "Said the visitor came on a private business trip, the President chooses who attends meetings, and ties with Saudi Arabia are growing stronger.",
+    "Said the Maldives backs a two-state solution with East Jerusalem as capital, and that the Israeli passport ban did not harm ties with Arab and Islamic states, citing more tourist arrivals.",
+    "Said foreign policy puts Maldivians first, and that the loss of sea area traced to a 2022 letter from the previous government to Mauritius, now under review with outside lawyers."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 3,
+   "positions": [
+    "Asked whether the visitor who met the President was truly a Saudi royal family member and why the Saudi embassy did not attend.",
+    "Pressed the Minister on whether the government handled it wrongly, since news of the meeting was removed from the President's Office website.",
+    "Raised a point of order saying his question had not been answered; the Speaker ruled the question answered and later asked him to leave the chamber."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked how the ban on Israeli passports entering the Maldives affected the country's standing with Arab and Islamic nations and abroad.",
+    "On the Zakat Bill: backed it as overdue, noting about MVR 100 million a year flows into the zakat fund and needs written rules and a Shari'ah advisory committee."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked why photos and details of the Saudi visitor's meeting were removed from the President's Office website, and whether the Minister had worn an India Out T-shirt.",
+    "Raised a point of order asking when and who had fished in the sea area the Minister described; the Speaker did not accept it as a point of order."
+   ]
+  },
+  {
+   "name": "Hassan Waheed",
+   "constituency": "Vilifushi",
+   "turns": 2,
+   "positions": [
+    "Asked for the latest on the sea-area dispute in the south of the Maldives and the government's current stand.",
+    "As sponsor, said the bill sets up a zakat system from the President down to local councils to help collect and distribute zakat.",
+    "Said some members had misread the bill, and asked the committee to refine it so it passes soon."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when SAARC activities and the next SAARC summit will resume, given the group has been inactive.",
+    "On the Zakat Bill: welcomed it as the first zakat bill in Maldivian history and said it would raise awareness of zakat on wealth."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked whether an official visit to China by the President is planned and how far along any such invitation is."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the Maldives backs a two-state solution and whether that means the border from before 1967."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Asked why, in his view, ties between the Maldives and Arab and Islamic nations weakened under governments since 2008."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether an official visit by the President to India has been arranged, following the Indian Prime Minister's visit for Independence Day."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order saying the Minister's account about the India Out T-shirt was untrue, since videos of it are public; the Speaker did not accept it."
+   ]
+  },
+  {
+   "name": "Ismail Shafeeu",
+   "constituency": "Isdhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what principles the government's foreign policy is built on."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Asked whether proper due diligence was done on the Saudi visitor's investment and when resort works in Laamu Atoll are due to start."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Asked whether the Minister accepts that opposition-era actions against India were wrong, which wording in a past letter gave up sea area, and which agreements will be disclosed."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying zakat has so far run under regulations rather than a law.",
+    "Said traders worry about paying both tax and zakat and urged the committee to settle how the two interact."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, saying about MVR 100 million a year goes into the zakat fund and needs rules and a law to manage it.",
+    "Noted zakat-funded higher-education scholarships are due to be handed out on 16 August and urged quick committee work."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Said he backs a zakat law but opposes the clause protecting council and authority members for decisions made in good faith.",
+    "Cited 2024 figures: MVR 116.5 million received, MVR 43.6 million to the poor and needy, and said claims of misuse hurt public trust."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill, noting its six chapters and that earlier governments did not manage to pass one.",
+    "Said zakat funds had been spent unevenly in the past, citing medical-treatment spending around the 2019 elections and a complaint to the anti-corruption body."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Welcomed the bill but said public trust in how zakat is spent is low and the public needs clearer information on who must pay.",
+    "Questioned whether so many new bodies and jobs are needed, and said some Arabic terms in the bill are unclear."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Argued the bill mainly creates new institutions and powers for the Islamic Ministry when MIRA already collects tax and could collect zakat.",
+    "Said an existing top Islamic fatwa body makes a new Shari'ah advisory committee unnecessary, and suggested the Director General should have five years in tax or accounting."
+   ]
+  },
+  {
+   "name": "Ali Ashrag",
+   "constituency": "Kinbidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying zakat is obligatory and more than MVR 100 million was collected last year.",
+    "Credited the Zakat House set up in 2023 and said digital payment options have raised collection."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Said opposition members also backed the bill's aims and that fears of double taxation on business are answered by Article 39.",
+    "Cited about MVR 100 million a year in zakat, with MVR 43 million to the poor and MVR 10 million for medical care in 2024, and urged members to support the bill."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Said Maldivians are aware of Fitr zakat but less of zakat on wealth, and asked for it to be taught in school.",
+    "Said the penalties in Article 49 are too light and should be stronger."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying a clear legal system would give payers confidence in how zakat is managed and raise the number of people paying zakat on wealth.",
+    "Said people pay Fitr zakat readily but less so zakat on wealth, and called for more awareness work."
+   ]
+  },
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 1,
+   "positions": [
+    "Said the bill is needed and described its six chapters, covering Fitr zakat, zakat on wealth, the fund and complaints.",
+    "Welcomed the Zakat House and a national-level council and asked for the committee to pass it quickly."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Welcomed the bill but said companies already pay corporate and income tax, so zakat on wealth should not become a second charge on them.",
+    "Suggested taking 2.5 percent of taxable profit as zakat and passing it to the Islamic Ministry, after consulting scholars. His speech continues into part 2."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as needed now, but asked that the zakat body be kept out of commercial business and that the minister's powers and the penalty clauses be reviewed at committee.",
+    "Asked how the bill would resolve any difference between the Sharia advisor's advice and the Islamic fatwa council's advice."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said the bill had been awaited for years, pointed to zakat laws in other Muslim countries, and cited the constitution as a basis for the law.",
+    "Said many large companies do not pay the zakat owed, and that a law and a permanent zakat office are needed; urged quick passage."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it sets out how zakat is collected, safeguarded and distributed, and disagreed with members who opposed it.",
+    "Hoped committee consultation with all concerned parties would strengthen the bill."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, recalled that zakat offices and programmes existed in earlier decades, and said a law would let zakat be organised properly."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying the zakat authority, council and local council roles would benefit people in need as zakat collected grows each year.",
+    "Hoped committee discussion would improve the bill so it becomes law quickly."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and argued that zakat is a religious matter rather than a party-political one.",
+    "Rejected opposition arguments about cost and about the Arabic terms in the bill; asked that it pass as soon as possible."
+   ]
+  }
+ ],
+ "decisions": [
+  "The proposed amendment to the Rules of Procedure to introduce electronic petitions was sent to the General Committee for study; the chair said the petition portal is due to launch at the end of August.",
+  "The Speaker named the South Galolhu member under the Rules and asked him to leave the chamber.",
+  "Question time to the Foreign Minister ended when the time limit was reached.",
+  "The Majlis accepted the Zakat Bill (sponsored by Hassan Waheed, Vilifushi) at first reading, 72 votes to 0.",
+  "Under Rule 106(r) the bill was sent to the Social Affairs Committee for review.",
+  "The Majlis recessed from 11:51 to 13:00 before the vote, then closed the sitting.",
+  "The next sitting was set for Monday 18 August 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the Zakat Bill (Hassan Waheed, Vilifushi) at first reading",
+   "yes": 72,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 64,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

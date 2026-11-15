@@ -1,0 +1,248 @@
+{
+ "sittingId": "892",
+ "date": "2024-10-30",
+ "title": "43rd sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 61,
+  "onLeave": 4,
+  "officialTravel": 2
+ },
+ "summary": "The sitting opened with 61 members present. Eleven members questioned the Minister of Fisheries and Ocean Resources on ice plants, cold storage, fish aggregating devices, mariculture, fish prices and the Addu fisheries complex, and the chair ended question time at the 30-minute limit. An urgent motion on plot handovers under the Binveriya scheme was put to a vote on whether to debate it and was not accepted (10 for, 46 against). The first reading of a Political Parties Act amendment was read, and preliminary debate began on a government bill amending the Elections Commission Act, then paused for a recess.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening and prayer",
+   "outcome": "Chair opened the sitting"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "61 present, 4 on leave, 2 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcing the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Passing the minutes (nos. 2024/36 to 2024/38 of the 20th Majlis)",
+   "outcome": "Accepted by the chair, no amendments submitted"
+  },
+  {
+   "n": "5",
+   "title": "Announcements from the chair",
+   "outcome": "Committee report deadlines announced (tobacco control bill 7 Nov 2024, higher education bill 30 Nov 2024); Committee of the Whole Majlis set for 11:00 to send four bills to a sub-committee"
+  },
+  {
+   "n": "6.1",
+   "title": "Questions to the Minister of Fisheries and Ocean Resources, Ahmed Shiyam",
+   "outcome": "Eleven members asked questions; minister answered; ended at the 30-minute limit"
+  },
+  {
+   "n": "urgent",
+   "title": "Urgent matter (Rule 192): delays handing over plots and flats under the Binveriya and Gedhoruveriya schemes (Meekail Ahmed Nasym)",
+   "outcome": "Not accepted for debate, 10 for, 46 against"
+  },
+  {
+   "n": "7.1",
+   "title": "First reading of the bill to amend the Political Parties Act (Law no. 4/2013), government bill",
+   "outcome": "First reading read out"
+  },
+  {
+   "n": "8.1",
+   "title": "Preliminary debate on the bill to amend the Elections Commission Act (Law no. 8/2008), sponsored by Abdulla Shareef (Kelaa) for the government",
+   "outcome": "Debated by seven members, paused at the recess; no vote in this part"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ahmed Shiyam",
+   "constituency": "",
+   "turns": 12,
+   "positions": [
+    "Minister of Fisheries: said capacity at fish facilities is the industry's biggest gap and gave timelines for the Addu complex expansion, cold storage and ice plants.",
+    "Said the 48-hour payment pledge to fishermen will be met, and that a backlog is being paid down through MIFCO.",
+    "Said FAD and ice plant repairs are under way and that mariculture is being opened up with simpler rules for investors."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when work to expand the Addu fisheries complex would start.",
+    "Said fishermen are still not paid within 48 hours as pledged when the fish price was cut, and asked when payment will begin."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 2,
+   "positions": [
+    "Asked about the faulty Hoarafushi ice plant, easier fishing arrangements at Ihavandhoo and how many home-based fish factories were finished.",
+    "In debate, supported the Elections Commission amendment, saying no commission since 2008 has had members the President did not nominate and the Majlis only approves."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked how far the Thulhaadhoo ice plant can serve its users and when the broken fish aggregating device north of the island would be replaced."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when northern fishermen will get a better price for small fish and whether fishing in international waters is planned.",
+    "In debate, supported the amendment, saying commissions cost the state heavily and the Elections Commission head must work responsibly."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about the MVR 250 million backlog owed to fishermen, whether storage holds fish and whether fishermen will be paid, citing MIFCO salary costs."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the Thinadhoo cold storage is being sold to outside parties, as rumoured, and what can be done about fishermen's unpaid loans."
+   ]
+  },
+  {
+   "name": "Mohamed Alsan Ahmed",
+   "constituency": "South Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when the Thinadhoo cold storage will be finished so fishermen of the island and atoll can use it."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Asked what has been done so far on mariculture and when the results would show."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Asked for an update on the Kulhudhuffushi ice plant, stalled since 2020, and on cold storage and fish processing."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when fish aggregating device work near Makunudhoo would start and whether an ice plant is planned there."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how the Addu fisheries complex upgrade and processing plant are progressing and what jobs they would bring."
+   ]
+  },
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 1,
+   "positions": [
+    "Raised a procedural point asking why question time ended while 27 members still wished to question the minister; the chair declined to change the time limit."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Presented an urgent motion calling on the government to publish the permanent flats list and fix delays handing over plots under the Binveriya scheme."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Presented the Elections Commission Act amendment, saying it strengthens how the commission's president and deputy are chosen and ensures capable members."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed a presidential role in appointing the Elections Commission head and deputy, saying the commission has historically shown ties to ruling governments."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment as a way to bring independent commissions under one consistent, orderly process, and criticised the opposition's objections."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, saying voters gave the Majlis its supermajority to fix problems and the Majlis decides who is appointed."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, saying past appointees were always sent by the sitting President and the change makes the process faster and more orderly."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, citing a 2023 paper by the independent commissions and saying the opposition was absent protesting outside."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes nos. 2024/36 to 2024/38 were accepted without amendment.",
+  "Question time with the Minister of Fisheries ended at the 30-minute limit; the chair declined to extend it.",
+  "The urgent motion on plot handovers under the Binveriya scheme was not accepted for debate (10 for, 46 against, 57 present).",
+  "First reading of the Political Parties Act amendment bill (Law 4/2013) was read out.",
+  "Preliminary debate on the Elections Commission Act amendment bill began and paused at the recess.",
+  "Committee deadlines announced: tobacco control amendment bill by 7 Nov 2024 and higher education amendment bill by 30 Nov 2024.",
+  "The next sitting was set for Thursday 31 October 2024 at 10:00."
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate the urgent motion on plot handovers under the Binveriya scheme (Rule 192)",
+   "yes": 10,
+   "no": 46,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 41,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

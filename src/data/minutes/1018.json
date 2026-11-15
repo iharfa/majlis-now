@@ -1,0 +1,254 @@
+{
+ "sittingId": "1018",
+ "date": "2026-03-08",
+ "title": "5th Sitting of First session of 2026",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 34,
+  "onLeave": 1,
+  "officialTravel": 2
+ },
+ "summary": "The 5th sitting of the session opened at 10:30 on Sunday 8 March 2026, which was also International Women's Day, and the chair accepted the minutes of sittings 1 to 4. Four more non-resident ambassador nominations (Argentina, Cambodia and Vietnam, Greece, Bosnia and Herzegovina) went to the Foreign Relations Committee, and MPs continued debating the government's National Service Bill. The committee's reports on non-resident ambassadors to Serbia, Malta, Oman and Armenia were debated, with some MPs questioning embassy costs and the Middle East war, and each was approved 62-0 at the vote. The Employment Act amendment bill was also debated, and a proposal to lengthen mothers' childcare breaks from 30 to 45 minutes was rejected 7-49. The text was readable, but the leave count and some wording are uncertain because of dropped marks. This part covers the final stretch of the debate on the Employment Act (2008/2) amendment bill, which the government sponsored through the Madaveli member. A second amendment from the Thoddoo member would let the Cabinet exempt certain types of business from paying the employment quota fee, with exemptions starting from the following year. The House rejected that amendment 7-51, then passed the bill itself 62-0. The chair closed the sitting with Ramadan and Eid greetings. The presiding member is not named in this part, and the attendance figure (63 present of 93) comes from the vote tallies, not the attendance item.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of the sitting",
+   "outcome": "opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "34 present, 1 on leave, 2 on official travel reported by the chair"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Passing the minutes of sittings 1 to 4 (minutes no. 2026/1/1 to 2026/1/4)",
+   "outcome": "accepted as no amendments were submitted"
+  },
+  {
+   "n": "5.1",
+   "title": "Announcement of committee deadlines (National Development and Heritage Committee): civil aviation bill and amendments to the Civil Aviation Authority Act (2012/2) and Land Transport Act (2009/5)",
+   "outcome": "deadline of 30 April 2026 announced"
+  },
+  {
+   "n": "6.1",
+   "title": "President's nominations of non-resident ambassadors: Dr Ali Naseer Mohamed (Argentina), Mariyam Midufa Naeem (Cambodia and Vietnam), Hassan Adam (Greece)",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "6.2",
+   "title": "President's nomination of Aishath Shan Shakir as non-resident ambassador to Bosnia and Herzegovina",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "Unfinished business: continued debate on the National Service Bill (government bill, submitted by Faruhath Mohamed)",
+   "outcome": "debated; still open at the end of this part"
+  },
+  {
+   "n": "8.1",
+   "title": "Foreign Relations Committee report on the non-resident ambassador to Serbia and Malta (Aminath Shabeena)",
+   "outcome": "debated; approved 62-0 for Serbia and 62-0 for Malta"
+  },
+  {
+   "n": "8.2",
+   "title": "Foreign Relations Committee report on the non-resident ambassador to Oman (Ahmed Sareer)",
+   "outcome": "debated; approved 62-0"
+  },
+  {
+   "n": "8.3",
+   "title": "Foreign Relations Committee report on the non-resident ambassador to Armenia (Mohamed Hussain Shareef)",
+   "outcome": "debated; approved 62-0"
+  },
+  {
+   "n": "8.4",
+   "title": "National Development and Heritage Committee report on the bill amending the Employment Act (2/2008)",
+   "outcome": "debated; third reading announced for the vote hour; one amendment rejected 7-49"
+  },
+  {
+   "n": "9",
+   "title": "Voting on items ready for a vote",
+   "outcome": "ambassador nominations approved 62-0 each; amendment on childcare break rejected"
+  },
+  {
+   "n": "",
+   "title": "Second amendment (Thoddoo member) to the Bill amending the Employment Act (Law 2008/2), allowing Cabinet to exempt certain business types from the quota fee",
+   "outcome": "proposed and seconded; not passed 7-51",
+   "workId": "2008/2"
+  },
+  {
+   "n": "",
+   "title": "Bill to amend the Employment Act (Law 2008/2), sponsored by the government through the Madaveli member, as reviewed by the National Development and Heritage Committee",
+   "outcome": "passed 62-0",
+   "workId": "2008/2"
+  },
+  {
+   "n": "",
+   "title": "Closing of the sitting and Ramadan greetings from the chair",
+   "outcome": "sitting ended"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 7,
+   "positions": [
+    "Backed the National Service Bill and the committee reports on ambassadors, saying nominees are qualified and costs are being cut.",
+    "Presented the committee report on the Employment Act amendment bill and rebutted opposition criticism of how the committee worked."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 4,
+   "positions": [
+    "Presented the Foreign Relations Committee reports on ambassadors to Serbia and Malta, Oman and Armenia, noting the nominees met the legal requirements.",
+    "Backed the National Service Bill as a way to give youth skills and responsibility."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 4,
+   "positions": [
+    "Backed the Oman nominee but urged the government to prepare for price rises and tourism losses from the Middle East war.",
+    "Raised concern that the Employment Act changes cut public-holiday overtime and widen foreign worker quotas.",
+    "Seconded the amendment to extend childcare breaks.",
+    "Seconded the Thoddoo member's amendment."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 4,
+   "positions": [
+    "Said the 2008 Employment Act was an MDP law, backed the amendments overall, and proposed a 45-minute childcare break instead of 30.",
+    "Said fees such as worker quotas should be set through parliament.",
+    "Proposed an amendment letting Cabinet exempt employers in certain business types from the quota fee, with each exemption taking effect from the next year with the state budget."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 3,
+   "positions": [
+    "Supported the Employment Act amendments, saying childcare time now runs two years and conditions improve.",
+    "Criticised MDP attendance and statements, and argued the government has put foreign worker matters in order."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 2,
+   "positions": [
+    "Supported the National Service Bill as training that prepares young people, especially girls, for work.",
+    "Supported the Employment Act amendments, saying the childcare break helps mothers and urging more day care centres."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the Serbia and Malta report but questioned about 54 million rufiyaa a month spent on embassies and urged savings elsewhere."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Said the National Service Bill mainly serves uniformed service and government messaging, and that Maldivians should instead be trained to take tourism jobs now held by foreigners."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Backed the bill as a fix for youth skills gaps, citing large foreign shares in tourism, nursing and teaching, and asked for refinement at committee stage."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying school leavers need practical skills, and asked that the programme be widened to a year with loan and job support."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "On the Armenia report, said the foreign ministry's monthly budget rose from 23 to 54 million rufiyaa and asked what embassies deliver."
+   ]
+  }
+ ],
+ "decisions": [
+  "The minutes of sittings 1 to 4 were accepted without amendment.",
+  "Four non-resident ambassador nominations (Argentina, Cambodia and Vietnam, Greece, Bosnia and Herzegovina) were sent to the Foreign Relations Committee.",
+  "Parliament approved the non-resident ambassador appointments to Serbia, Malta, Oman and Armenia, each by 62 votes to 0.",
+  "An amendment to give mothers two 45-minute childcare breaks a day (instead of 30) in the Employment Act amendment bill was rejected, 7 yes to 49 no.",
+  "The sitting paused from 12:00 to 13:01 and the third reading of the Employment Act amendment bill was set for the vote hour.",
+  "Second amendment to the Employment Act (2008/2) amendment bill not passed, 7 for and 51 against.",
+  "Bill to amend the Employment Act (2008/2) passed by the People's Majlis, 62 for and 0 against.",
+  "Sitting closed by the chair with Ramadan and Eid greetings."
+ ],
+ "votes": [
+  {
+   "what": "Approve Aminath Shabeena as non-resident ambassador to Serbia (93 members, 63 present, 32 needed)",
+   "yes": 62,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Aminath Shabeena as non-resident ambassador to Malta (93 members, 63 present, 32 needed)",
+   "yes": 62,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Ahmed Sareer as non-resident ambassador to Oman (93 members, 63 present, 32 needed)",
+   "yes": 62,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Mohamed Hussain Shareef as non-resident ambassador to Armenia (93 members, 63 present, 32 needed)",
+   "yes": 62,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Hussain Sameer's amendment on 45-minute childcare breaks in the Employment Act amendment bill (56 voting, 29 needed): not passed",
+   "yes": 7,
+   "no": 49,
+   "abstain": 0
+  },
+  {
+   "what": "Second amendment (Thoddoo member) to the Employment Act (2008/2) amendment bill",
+   "yes": 7,
+   "no": 51,
+   "abstain": 0
+  },
+  {
+   "what": "Pass the bill to amend the Employment Act (2008/2), as reviewed by the National Development and Heritage Committee",
+   "yes": 62,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 71,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

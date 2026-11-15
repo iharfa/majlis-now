@@ -1,0 +1,401 @@
+{
+ "sittingId": "849",
+ "date": "2024-06-25",
+ "title": "6th sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla; Deputy Speaker Ahmed Nazim took the chair part-way through the debate on item 5.1",
+ "attendance": {
+  "present": 56,
+  "onLeave": 2,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened with 56 members present. The Speaker announced that the General Committee had asked for one more month to finish drafting the Majlis rules of procedure, with a vote to come later in the sitting. Members then voted 74-0 to debate an urgent matter from the Maradhoo member about government-owned MIFCO's unpaid payments to fishermen; about 20 members spoke, with the opposition pressing for quick payment and government-side members calling the matter political or pointing to inherited debts. After a recess, preliminary debate began on the government's Sovereign Development Fund Bill, sponsored by the Central Fuvahmulah member, and every speaker heard so far backed it. The text for this part ends mid-speech, and parts of it are garbled, so some gists are approximate. Members finished the first debate on the government's Sovereign Development Fund Bill, a proposed law to put a national savings fund on a legal footing, with ten members speaking in this part (plus the end of a speech begun in part 1). Speakers broadly backed the bill and asked the committee to tighten it, for example by defining 'economic crisis', requiring Majlis approval for debt repayments from the fund, publishing audits and giving the Ministry of Economic Development a bigger role. After a recess, the Majlis voted 83-0 to accept the bill for consideration and sent it to the finance committee, and also voted 83-0 to give the General Committee until 26 July 2024 to finish drafting the Majlis rules. The text is partly garbled, so some speech content is summarised loosely.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers and start of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "56 present, 2 on leave, 1 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Chair's announcement: extra month requested to draft the Majlis rules of procedure",
+   "outcome": "General Committee asked for one more month; vote to be held later in the sitting"
+  },
+  {
+   "n": "Urgent",
+   "title": "Urgent matter (Rule 170): unpaid MIFCO payments to fishermen",
+   "outcome": "accepted for debate 74-0; debated for the one-hour limit, no decision on the substance"
+  },
+  {
+   "n": "5.1",
+   "title": "Sovereign Development Fund Bill (government bill): preliminary debate",
+   "outcome": "debate in progress at end of this part; all speakers so far in support"
+  },
+  {
+   "n": "5",
+   "title": "Preliminary debate on the Sovereign Development Fund Bill (continued)",
+   "outcome": "debated by ten members; debate closed before the 12:10 recess",
+   "workId": "1474"
+  },
+  {
+   "n": "6.1",
+   "title": "Votes on business ready for voting",
+   "outcome": "extension of General Committee deadline passed 83-0; bill accepted for consideration 83-0 and sent to finance committee"
+  },
+  {
+   "n": "7",
+   "title": "Any other business",
+   "outcome": "none; sitting adjourned until Wednesday 26 June 2024 at 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 2,
+   "positions": [
+    "Raised the urgent matter: MIFCO has not paid fishermen for fish bought, despite the pledge of payment within 48 hours.",
+    "Called on the government to pay now and asked that police and army not obstruct fishermen's protests."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Questioned why the urgent matter was raised now and not for earlier unpaid dues to others.",
+    "On the fund bill, said a legal framework is needed to protect state money."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 2,
+   "positions": [
+    "Criticised the previous government's record on the fishing industry and defended the current government's work.",
+    "Supported the Sovereign Development Fund Bill and thanked the sponsor."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 2,
+   "positions": [
+    "Said such urgent matters on fishermen may be the last of their kind as the government is acting.",
+    "Supported the fund bill, citing the need for a legal basis and the example of Abu Dhabi's fund."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Described the Addu fishermen's protest and questioned why the matter was raised as urgent now.",
+    "On the fund bill, said the MDP-era fund was drained and the new law gives safeguards."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Voiced concern that fishermen have been protesting for days without a response.",
+    "Called on the government to pay fishermen and other creditors promptly.",
+    "Supported moving fund rules from regulation into law but asked the committee to define 'economic crisis' in the bill.",
+    "Asked that debt repayments from the fund need Majlis approval and that audits be published."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 2,
+   "positions": [
+    "Recalled the previous government's promises to fishermen and said they were not delivered.",
+    "Said the government is committed to paying quickly.",
+    "Backed the bill as a way to secure the wellbeing of future generations.",
+    "Said an earlier fund of roughly US$100 million was left with about US$2 million and criticised the opposition's stance."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Said the matter is not a true urgent matter and noted the state's debts to other companies.",
+    "Supported the fund bill as a way to manage the fund under law and protect the state."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Said fishermen's payments are now a general national issue and recalled the 48-hour payment pledge.",
+    "Urged the government to settle the dues quickly."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Said the matter is not truly urgent as fishermen's problems have lasted years under every government.",
+    "Said the current government is working on it despite the debts it inherited."
+   ]
+  },
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 1,
+   "positions": [
+    "Said fishermen deserve payment but the funds the government inherited were already depleted.",
+    "Expressed confidence in the President's pledge to pay."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the problem recurs under every government and payments must stay within state finances.",
+    "Said the lasting fix is for fish to be bought and sold at market-linked prices."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Called the urgent matter politically motivated while accepting fishermen are owed money.",
+    "Said payment depends on the state's financial capacity."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Reported on his visit to Addu fishermen, who made three demands.",
+    "Said the minister told him payment would be settled early next week."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Said fish cannot be bought at a price above the world market and urged looking at the root of the problem.",
+    "Pointed to the large payments the state has already made in subsidies."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the opposition raised the matter for political reasons.",
+    "Described the government's work for fishermen and fish-processing capacity."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Thanked the Maradhoo member and said most of Addu's fishing population is protesting.",
+    "Said the 48-hour pledge has failed and challenged claims about the inherited stock and debts."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Said paying wages is a duty and fishermen have waited beyond 48 hours.",
+    "Asked the government to stop political spending and pay fishermen."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Said some members raise urgent matters for political purposes.",
+    "Said the fund the government inherited was in poor condition and debts must be mentioned too."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Said the opposition's government raised the fish price just before an election.",
+    "Said the current government has already paid much of the inherited debt to fishermen."
+   ]
+  },
+  {
+   "name": "Ali Fazad",
+   "constituency": "Central Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Introduced the Sovereign Development Fund Bill as a way to reduce state debt and build wealth for future generations.",
+    "Said the fund exists but lacks laws on its use, accounting and reporting."
+   ]
+  },
+  {
+   "name": "Munthazim Ibrahim",
+   "constituency": "Kaashidhoo",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill and thanked the sponsor.",
+    "Said the fund holds about 54 million dollars and aims for 100 million by year end."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as a way to manage state wealth and reduce debt.",
+    "Praised the government's stable economic policy and its approach to avoid printing money."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying the fund should be protected by law from misuse.",
+    "Said earlier funds were used improperly without legal limits."
+   ]
+  },
+  {
+   "name": "Ahmed Zahir",
+   "constituency": "Maduvvari",
+   "turns": 1,
+   "positions": [
+    "Said a sovereign fund matters to developing countries and gives investors trust and confidence.",
+    "Asked for the bill to go through committee stage quickly."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Backed the bill as a way to save for future generations and cushion the state budget, and criticised how the economy was run over the past five years."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Welcomed the bill and said earlier funds failed without a management mechanism.",
+    "Asked for a public annual report and set performance measures, and a bigger board role for the Ministry of Economic Development."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Called the bill important and said an earlier fund's balance had fallen from around US$100 million to about US$2 million.",
+    "Urged the committee to review it quickly so it can become law."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Thanked the President for the bill and backed it.",
+    "Hoped the committee would improve it and pass it quickly."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Welcomed the bill as a way to reduce debt and pass wealth to future generations.",
+    "Said the government has repaid large debts without printing money."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Said such funds exist in many countries and that earlier governments did not set one up.",
+    "Asked for the committee stage to move quickly with any amendments."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Backed the bill as leaving the state's wealth to future generations.",
+    "Hoped the committee would shape the most beneficial version and pass it quickly."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 1,
+   "positions": [
+    "Said his party's earlier version of the fund bill was removed from the Majlis last term and criticised that decision.",
+    "Described how the airport development fee and 10 percent of state company dividends would flow into the fund, and said it could be used only for loan repayment or declared crises."
+   ]
+  }
+ ],
+ "decisions": [
+  "Urgent matter on unpaid MIFCO payments to fishermen accepted for debate under Rule 170.",
+  "Sitting went into a recess of about 30 minutes during the debate on item 5.1.",
+  "The Majlis accepted the Sovereign Development Fund Bill for consideration (83 yes, 0 no).",
+  "The bill was sent to the finance committee under the Majlis rules of procedure.",
+  "The General Committee's deadline for drafting the 20th Majlis rules of procedure was extended by one month, to 26 July 2024.",
+  "Next sitting set for Wednesday 26 June 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the Maradhoo member's urgent matter on MIFCO fisher payments for debate",
+   "yes": 74,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Motion by Maradhoo MP Ahmed Didi (electronic record titled 'Kulli massala ah bahuskurumah'), 9:10",
+   "yes": 74,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Extend the General Committee's deadline for drafting the 20th Majlis rules of procedure to 26 July 2024",
+   "yes": 83,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the Sovereign Development Fund Bill for consideration",
+   "yes": 83,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 72,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

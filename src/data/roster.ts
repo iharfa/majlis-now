@@ -2,7 +2,7 @@ import type { Constituency, MP } from '@/types'
 
 // ---------------------------------------------------------------------------
 // REAL DATA — 20th People's Majlis roster.
-// Source: https://majlis.gov.mv/en/20-parliament/members (fetched 2026-06).
+// Source: https://majlis.gov.mv/en/20-parliament/members (verified 2026-10-06).
 //
 // Names, constituencies, parties, photos and profile links are taken from the
 // official site. Atoll groupings are derived (best-effort) for Find-your-MP;
@@ -10,7 +10,9 @@ import type { Constituency, MP } from '@/types'
 // are NOT published as open data, so those MP fields are intentionally omitted.
 // ---------------------------------------------------------------------------
 
-const PHOTO_BASE = 'https://majlis.gov.mv/storage/members/'
+// Photos are mirrored into public/photos/<id>.jpg by scripts/fetch_photos.py so
+// the site never hotlinks majlis.gov.mv at runtime. The hash column is kept so
+// the script knows what to fetch.
 const PROFILE_BASE = 'https://majlis.gov.mv/en/20-parliament/members/'
 
 // [ name, constituency, atoll, partyId, photoHash, profileId, leadershipRole? ]
@@ -109,15 +111,23 @@ const RAW: Row[] = [
   ['Ahmed Azaan Marzooq', 'Central Hithadhoo', 'Addu City', 'pnc', 'qWe4pJV10K9uMKWBK7PiYiqfxohNrjSZxfV03SQo', '231'],
   ['Ibrahim Nazil', 'South Hithadhoo', 'Addu City', 'mdp', 'AuqET4joR0k0pLAIr3fm57iboHcedGkP6H62u912', '229', 'Minority Leader'],
   ['Abdul Rahman', 'Addu Meedhoo', 'Addu City', 'ind', 'QrSAHOyjySGGyj0QXjfMnrbFOVxhvThdLGQvATfh', '226'],
-  ['Abdulla Sodig', 'North Hithadhoo', 'Addu City', 'mdp', 'Ce8JC8dShv0xFtSCqJjSun451JQA9HwhqfptnwJw', '268'],
-  // Former member — earlier holder of North Hithadhoo; kept so his roll-call votes map.
+  // North Hithadhoo changed hands in 2026: Sinan's seat was declared vacant on 12 Apr 2026
+  // (Supreme Court ruling, per the committee attendance sheets) and Abdulla Sodig won the
+  // by-election; he first appears on a roll call on 15 Jun 2026. Both rows are kept so
+  // every roll-call row maps to the member who actually held the seat on that date.
   ['Mohamed Sinan', 'North Hithadhoo', 'Addu City', 'pnc', 'T3kVS5yDDQwPmSBy6TOj1gdSz7o0C4LsLdJkKynR', '233'],
+  ['Abdulla Sodig', 'North Hithadhoo', 'Addu City', 'mdp', 'Ce8JC8dShv0xFtSCqJjSun451JQA9HwhqfptnwJw', '268'],
 ]
 
 // Members no longer sitting (shown with a "Former member" badge).
 const FORMER = new Set(['233'])
+/** Seat tenure bounds (inclusive ISO dates) where a constituency had more than one member. */
+export const TENURE: Record<string, { from?: string; until?: string }> = {
+  '233': { until: '2026-04-12' },
+  '268': { from: '2026-06-01' },
+}
 
-function slug(s: string): string {
+export function slug(s: string): string {
   return s
     .toLowerCase()
     .replace(/['’.]/g, '')
@@ -130,24 +140,22 @@ function initials(name: string): string {
   return ((parts[0]?.[0] ?? '') + (parts[1]?.[0] ?? '')).toUpperCase()
 }
 
-// --- Build constituencies (one per row, unique) -----------------------------
-export const constituencies: Constituency[] = RAW.filter(
-  ([, con], i) => RAW.findIndex(([, c]) => c === con) === i, // a seat can have several holders
-).map(([, con, atoll]) => ({
+// --- Build constituencies (one per seat, unique) ----------------------------
+export const constituencies: Constituency[] = RAW.map(([, con, atoll]) => ({
   id: slug(con),
   name: con,
   atoll,
   islands: [con.replace(/^(North|Central|South|West)\s+/, '')],
-}))
+})).filter((c, i, arr) => arr.findIndex((x) => x.id === c.id) === i)
 
 export const constituencyById = (id: string) => constituencies.find((c) => c.id === id)
 
 // --- Build MPs --------------------------------------------------------------
-export const mps: MP[] = RAW.map(([name, con, , partyId, photoHash, pid, role]) => ({
+export const mps: MP[] = RAW.map(([name, con, , partyId, , pid, role]) => ({
   id: `mp-${pid}`,
   name,
   initials: initials(name),
-  photoUrl: PHOTO_BASE + photoHash + '.jpg',
+  photoUrl: `/photos/${pid}.jpg`,
   profileUrl: PROFILE_BASE + pid,
   constituencyId: slug(con),
   partyId,
@@ -158,7 +166,7 @@ export const mps: MP[] = RAW.map(([name, con, , partyId, photoHash, pid, role]) 
       id: `src-mp-${pid}`,
       label: 'Official member profile — People’s Majlis',
       url: PROFILE_BASE + pid,
-      lastUpdated: '2026-06-12',
+      lastUpdated: '2026-10-06',
       kind: 'official',
     },
   ],

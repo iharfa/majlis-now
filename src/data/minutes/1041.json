@@ -1,0 +1,388 @@
+{
+ "sittingId": "1041",
+ "date": "2026-06-23",
+ "title": "5th Sitting of second session of 2026",
+ "presiding": "Abdul Raheem Abdulla (Speaker); Ahmed Thariq (Mahibadhoo) chaired part of item 7.1 before the recess",
+ "attendance": {
+  "present": 26,
+  "onLeave": 5,
+  "officialTravel": 1
+ },
+ "summary": "The sitting opened at 09:01. After routine business, most of the morning was question time for the Minister of Health, Family and Welfare, Qeela Ali, mostly about the planned mental health hospital, cancer care, medicine supply and delayed hospital and health centre projects across the islands. The minister gave timelines for some projects (for example Addu AEH works in August) and said she would send written answers to many others. A bill amending Law 46/78 had its first reading, and debate began on the government's Digital Identity Bill, which continues after a recess (10:31 to 11:00). The text is partly garbled, so some gists are approximate. The second half of the sitting continued the opening debate on the Digital Identity Bill. Members who supported it said the digital ID is voluntary and part of a package with the data protection and cyber security bills, while others raised concerns about concentrating citizens' data in one system and about oversight, and the chair asked for the debate to stay on the bill. The chair said the bill's debate would continue at a later sitting. The Majlis then approved Mohamed Shakeel as a member of the Elections Commission by 51 votes to 7, and adjourned to Wednesday 24 June 2026 at 9:00.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "26 present, 5 on leave, 1 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee deadlines announced by the chair under Rule 174 (Foreign Relations Committee on the President's non-resident ambassador appointments; ICT Committee on the Cyber Security Bill)",
+   "outcome": "announced: 1 July 2026 and 31 October 2026"
+  },
+  {
+   "n": "5.1",
+   "title": "Questions to the Minister of Health, Family and Welfare on the mental health hospital, put by the member for North Galolhu, with follow-up questions from other members",
+   "outcome": "answered; several questions deferred to written answers; time ran out before all members asked"
+  },
+  {
+   "n": "5.2",
+   "title": "Questions to the Minister of Health, Family and Welfare on the planned cancer hospital and cancer care, with follow-up questions",
+   "outcome": "answered; several questions deferred to written answers; question time closed"
+  },
+  {
+   "n": "6.1",
+   "title": "Bill to amend Law No. 46/78 (law on island residency status), sponsored by the member for North Galolhu",
+   "outcome": "first reading read"
+  },
+  {
+   "n": "7.1",
+   "title": "Digital Identity Bill (government bill, presented by the member for Alifushi): preliminary debate",
+   "outcome": "debate begun; recess 10:31 to 11:00; continues in next part"
+  },
+  {
+   "n": "7.1",
+   "title": "Opening debate on the Digital Identity Bill (submitted by Abdul Latheef Abdul Rahman, Alifushi)",
+   "outcome": "debated; not concluded, to continue at a later sitting"
+  },
+  {
+   "n": "8",
+   "title": "Independent Institutions Committee report on the nomination of Mohamed Shakeel to the Elections Commission",
+   "outcome": "report presented and debated; one member spoke in support"
+  },
+  {
+   "n": "9",
+   "title": "Vote on appointing Mohamed Shakeel to the Elections Commission",
+   "outcome": "passed 51-7"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Qeela Ali",
+   "constituency": "",
+   "turns": 37,
+   "positions": [
+    "As Health Minister, said the mental health hospital is planned in the Greater Male area because specialists and services are concentrated there, with land allocated in Hulhumale.",
+    "Gave dates for some projects and deferred many answers, saying she lacked details at hand and would reply in writing.",
+    "On cancer, said a 500-bed multi-specialty hospital is planned in Hulhumale and State Pharma takes over medicine supply from the STO from 1 July."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 6,
+   "positions": [
+    "Asked whether a proper new hospital is planned for Hulhumale, where many people live, and about full coverage for services in the meantime.",
+    "Repeated the question on raising Aasandha coverage at Treetop Hospital until a good public hospital is built.",
+    "Said a digital identity system must be independently overseen, not left to the minister's trust, and warned about holding all citizens' data in one database.",
+    "Questioned unexplained spending on a related system, citing about MVR 600 million in last year's budget."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 5,
+   "positions": [
+    "Asked where and why a separate mental health hospital is being built, and whether a study weighed siting it outside Male.",
+    "Asked how to cut IGMH mental health workload and fix patients' complaints about not getting their medicine regularly.",
+    "Asked for an update and dates on the cancer hospital and how the medicine supply problem will be solved.",
+    "Raised a point of order that his party's chairperson was democratically elected by the party, in response to a remark about the chair."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 3,
+   "positions": [
+    "Asked where mental health problems are most common, whether they are rising, and what is being done to stop them spreading.",
+    "Asked about the government's cancer strategy, how deaths will be reduced, and the shortage of a key cancer pain medicine.",
+    "On the Digital Identity Bill, welcomed digitisation but said public trust needs digital infrastructure and finances in place first."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Abdul Rahman",
+   "constituency": "Alifushi",
+   "turns": 3,
+   "positions": [
+    "Asked when work on the Alifushi hospital, where dug pits are causing hardship, will restart at speed.",
+    "Presented the Digital Identity Bill, saying it sets rules for a secure national identity system so people can verify themselves online without travelling to Male."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 3,
+   "positions": [
+    "Asked when the Rasdhoo hospital works will start and about stalled pits breeding mosquitoes.",
+    "Asked about Thoddoo's health care during the dengue rise and what is causing cancer to rise, given the government's Aasandha cancer spending.",
+    "Asked how seriously the ministry will treat unfinished excavations breeding mosquitoes across his constituency's islands."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 3,
+   "positions": [
+    "Raised a point of order saying claims that special economic zones had sold Maldivian territory were untrue and misleading to the public.",
+    "Supported the bill, saying digital ID is voluntary, people control and can delete their data, and it sits with the data protection and cyber security bills."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether the government puts the WHO or Maldivians' health first, after its decision on the WHO tobacco ruling.",
+    "Asked about rape evidence kits not reaching service providers, and why State Pharma's creation has not fixed medicine shortages for patients."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Asked whether any research has been done on rising mental health problems linked to schools, social media and rumours, and on awareness work.",
+    "On the Digital Identity Bill, welcomed it as a way to deliver services faster and more safely, and praised the President's reform efforts."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 2,
+   "positions": [
+    "Asked for an update on the promised 100-bed tertiary upgrade of Kulhudhuffushi hospital and on delayed specialist services.",
+    "Asked about the high number of referrals to Male from Kulhudhuffushi hospital and the timeline for the upgrade."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 2,
+   "positions": [
+    "Asked when work on the new Maafushi hospital building will start and when a physiotherapist will be available.",
+    "As committee rapporteur, presented the report finding Mohamed Shakeel meets the Elections Commission requirements after an interview, an average score of 89.50% and no public complaints."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 2,
+   "positions": [
+    "Supported the bill and urged quick passage, saying the national backbone and digital service were built up over several governments.",
+    "Argued the bill gives legal power and protects Maldivians' identity data, and asked for the related data transfer and personal security bills to pass too."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when the hospital being built in Thulhaadhoo will be finished and services start."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked when the Hoarafushi hospital will be completed, and when the mental health hospital work starts and which services it will include."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Asked about IGMH's capacity to hold restrained patients when it breaks down, and about reports that stabilising injections were unavailable there."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Asked when the Goidhoo and Kanditheemu health centre work will start, and whether moving the hospital to a larger island is being considered."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Asked about prevention plans as mental illness rises, and whether the Himmafushi health centre will be upgraded with more doctors."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Asked how soon residents of Mamendhoo will see its health services improve, noting a push for 24-hour service."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when practical work will begin on the bed hospital contract signed in Maradhoo in December 2025."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Asked when Kelaa health centre services will start, given the earlier contract was cancelled and work restarted."
+   ]
+  },
+  {
+   "name": "Asadhulla Shihab",
+   "constituency": "Gemanafushi",
+   "turns": 1,
+   "positions": [
+    "Asked whether the ministry has further plans to recruit therapists for children with autism, ADHD and other developmental conditions."
+   ]
+  },
+  {
+   "name": "Mohamed Niushad",
+   "constituency": "Keyodhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when Keyodhoo health centre construction will begin, and why small-island health centres are staffed largely by non-doctors."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked about the stalled upgrade of the Thimarafushi health centre to level four after the earlier contract was cancelled."
+   ]
+  },
+  {
+   "name": "Abdulla Sodig",
+   "constituency": "North Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how the ministry will ensure medicine and injections reach mental health patients at Addu AEH hospital, and when the building work starts."
+   ]
+  },
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 1,
+   "positions": [
+    "Said he had an appointment and chose not to ask his prepared questions."
+   ]
+  },
+  {
+   "name": "Ismail Shafeeu",
+   "constituency": "Isdhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when the Dhanbidhoo health centre extension will start and when the move to 24-hour service will take effect."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about adding physiotherapy at the Noonu atoll hospital, where equipment and an extension building have not progressed."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what research or information exists on why cancer is rising and which factors are driving it."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how far the upgrade of the Addu Hulhudhoo and Meedhoo health centre to a 30-bed hospital has progressed."
+   ]
+  },
+  {
+   "name": "Abdul Rahman",
+   "constituency": "Addu Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the minister knows the Aasandha cancer spending abroad, and why the state cannot keep a PET scan machine running at IGMH."
+   ]
+  },
+  {
+   "name": "Ahmed Zahir",
+   "constituency": "Maduvvari",
+   "turns": 1,
+   "positions": [
+    "Asked whether any study explains rising cancer cases and sudden deaths, and if not, how the minister views doing one."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when dialysis will start in Makunudhoo, and when the health centre extensions in Makunudhoo, Neykurendhoo and Kumundhoo will be finished."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "On the Digital Identity Bill, backed it as giving legal protection to the eFaas-based system and rejected the MDP's objections to it."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "On the Digital Identity Bill, said it turns today's eFaas into a national digital identity and argued data protections need to be set in law."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the committee's report, saying Mohamed Shakeel is well qualified and no long debate was needed."
+   ]
+  }
+ ],
+ "decisions": [
+  "The chair announced committee deadlines: 1 July 2026 for the Foreign Relations Committee on the non-resident ambassador appointments and 31 October 2026 for the ICT Committee on the Cyber Security Bill.",
+  "Question time for the Health Minister closed with some members who wished to ask not reached, and the chair thanked the minister.",
+  "The first reading of a bill amending Law No. 46/78 was read in the chamber.",
+  "Preliminary debate on the Digital Identity Bill opened, with four hours of debate time shared between parties and independents.",
+  "A recess was held from 10:31 to 11:00; the Speaker resumed the chair after it.",
+  "The chair decided not to close the Digital Identity Bill debate today; it continues at a later sitting.",
+  "The Majlis approved Mohamed Shakeel as a member of the Elections Commission.",
+  "The sitting was adjourned to Wednesday 24 June 2026 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Appointing Mohamed Shakeel to the Elections Commission (93 members in total, 60 present, 58 voted, 30 needed)",
+   "yes": 51,
+   "no": 7,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 69,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

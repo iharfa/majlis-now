@@ -1,0 +1,22 @@
+{
+  "workId": "1698",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2025 (ބަންޑާރަނައިބުގެ އޮފީހުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Attorney General's Office Act (Law No. 8/2025). It rewrites the office's list of duties as assisting the Attorney General, and drops the current duty of setting main criminal-case policies and passing them to the Prosecutor General. It adds ethics rules for the office's lawyers, renames the 'Administrative Service' staff group the 'Legal Support Service', and moves the setting of staff pay from the finance ministry to the National Pay Commission. It also repeals Article 26, which sets the office's own retirement rules. The bill's last 15 pages are a table comparing the current law with the proposed wording.",
+  "whyItMatters": "It changes what the government's own legal office is responsible for, how its lawyers must behave and how its staff are hired, paid and retired. This shapes the legal advice behind government decisions and the bills the government sends to Parliament.",
+  "keyProvisions": [
+    "A new Article 3(r) says that, unless the law says otherwise, the President's powers over ministries under Article 116 of the Constitution also apply to how the office is run.",
+    "Article 4 is rewritten so the office assists the Attorney General in: representing the state in courts, tribunals, arbitration and mediation in and outside the Maldives; giving the government legal advice on regulations, treaties, contracts and on bills before the President ratifies them; drafting government bills; human rights treaty reporting and monitoring; and publishing laws and raising public awareness of them. The President can add other duties.",
+    "Article 5(h) now requires the President's approval before the Attorney General's post structure for the office takes effect. Article 8(v) is repealed, and Article 14(h) says the President appoints the Deputy Attorney General.",
+    "A new Article 15-1 requires the office's lawyers to avoid conflicts of interest, act independently and without bias, not discriminate on grounds such as race, sex, age, disability or political views, and keep confidential information secret even after leaving the job. The Attorney General sets further conduct rules.",
+    "Articles 18 and 20 rename the 'Administrative Service' the 'Legal Support Service'; its staff are hired through open, interview-based recruitment under the employment regulation in Article 22. That regulation now also covers bonding staff who receive training and applies to all the office's employees.",
+    "Article 23 says the National Pay Commission sets salaries, allowances and retirement benefits under Law No. 11/2016 (State Wage Policy Act), instead of the finance ministry. Article 24 requires a general code of conduct for non-lawyer staff, Article 26 (retirement at 65, or earlier after 55 or 20 years' service) is repealed, and the changes take effect when published in the Government Gazette."
+  ],
+  "whoIsAffected": "Lawyers and other staff at the Attorney General's Office, and the government ministries and agencies that rely on its legal advice.",
+  "statedReasons": "The government says it wants to review the office's duties under Law No. 8/2025, set out in law the standards for how the office's lawyers do their work, and change some rules on staff pay and benefits.",
+  "sourceDoc": "Bill",
+  "pagesRead": 28,
+  "pagesTotal": 28,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

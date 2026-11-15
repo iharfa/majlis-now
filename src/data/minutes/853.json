@@ -1,0 +1,331 @@
+{
+ "sittingId": "853",
+ "date": "2024-07-02",
+ "title": "10th sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 61,
+  "onLeave": 1,
+  "officialTravel": 0
+ },
+ "summary": "The sitting opened with the usual prayer, attendance (61 members present) and the day's agenda. A government bill to amend the Copyright law had its first reading, and the Finance Committee's recommendation to dismiss Monetary Authority Governor Ali Hashim was read to the floor and passed to the Finance Committee for study. Most of the part was the preliminary debate on Ibrahim Shujau's resolution asking members for their views on the Majlis growing in size every five years; every speaker backed capping or reducing the number of seats, while disagreeing on cutting pay, allowances, insurance and term limits. The debate was still running when this part of the minutes ended, after a 30-minute recess (10:29 to 11:01). This part continues the debate on a motion by the Baarashu member, Ibrahim Shujau, asking the Majlis to take a position on stopping the number of MPs from rising every term (it is now 93). Most speakers supported capping or reducing the number, though they differed on how, including raising the people-per-seat figure in Article 71(a) from 5,000 to 10,000, and some also argued about MPs' pay and allowances. The sitting broke for a recess, resumed, and was adjourned with the debate unfinished to make room for committee work, to resume 3 July 2024 at 9:00. The first few paragraphs belong to a speaker whose header is in part 1, and the text is partly garbled by the PDF layer.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "61 present, 1 on leave, none on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcing the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Bill to amend the Copyright and Related Rights Act (Law 23/2010), submitted for the government by the Nilandhoo member",
+   "outcome": "first reading given"
+  },
+  {
+   "n": "5",
+   "title": "Announcements by the chair",
+   "outcome": "none that day"
+  },
+  {
+   "n": "6.1",
+   "title": "Finance Committee letter on advising the President to dismiss Monetary Authority Governor Ali Hashim (Law 6/81, article 6(c))",
+   "outcome": "committee's majority recommendation announced on the floor; chair sent the matter to the Finance Committee for study"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on a resolution by the Baarashu member seeking Majlis members' views on membership growing every five years",
+   "outcome": "debate under way; 4-hour allocation, no vote recorded in this part"
+  },
+  {
+   "n": "",
+   "title": "Motion to ask the Majlis's view on capping the growth in the number of MPs (constitutional amendment debate)",
+   "outcome": "debated; no vote taken in this part; sitting adjourned until 3 July 2024 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 3,
+   "positions": [
+    "Moved the resolution: seat numbers keep rising with population and cost; compared parliament sizes in India, US, China and Singapore.",
+    "Said MP pay is modest and benefits should be reviewed across all state institutions, including judges.",
+    "Questioned insurance continuing for life after MPs leave office."
+   ]
+  },
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order correcting the MP salary and allowance figures quoted.",
+    "Supported capping the Majlis but opposed a two-term limit and opposed cutting MP pay or benefits."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Said decentralised constituencies leave big populations in Male under-represented, citing North Hulhumale' growth, and called for fairer constituency rules.",
+    "Called it an important motion; wants wider debate and public views, and warned against cutting benefits for retired MPs who served the nation."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 2,
+   "positions": [
+    "Supported a cap and said MPs' pay is not large next to some state-company heads.",
+    "Urged the Majlis to debate how to cap MP numbers and also to discuss the former government's record."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution; projected the Majlis reaching 108 seats in 2029 and 115 in 2033 under current rules.",
+    "Argued for a fixed cap based on international formulas, with seats around 72 to 80."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution as a response to public concern about growth in MP numbers and costs."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Backed the resolution and said spending on MPs' pay and insurance has reached record levels.",
+    "Proposed raising the 5,000-voter threshold per seat to 7,000, bringing about 72 seats, and aligning MP pay with other institutions."
+   ]
+  },
+  {
+   "name": "Munthazim Ibrahim",
+   "constituency": "Kaashidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution; compared ratios of MPs to population in China and Singapore and called for a fixed limit."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported reducing the Majlis size and state spending, and praised the government's reform agenda."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported capping membership; said around 140 members by 2044 would be too many for the state to afford, including space needs."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported studying a cap, saying a fixed number per constituency is not fair; also asked for council numbers to be reviewed."
+   ]
+  },
+  {
+   "name": "Mohamed Nazim",
+   "constituency": "North Maafannu",
+   "turns": 1,
+   "positions": [
+    "Backed the resolution for his party (MNP); urged cutting council numbers too, and opposed cutting retired members' benefits."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported cutting the number of MPs; argued island councils could be much smaller and that MP pay is not excessive."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution; urged studying foreign models before choosing a cap and aligning election timing to save costs."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Supported capping the numbers but urged careful study and expert advice before amending the constitution."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Backed a limit on seats; asked for more women in the Majlis and for minimum education standards for members."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported a fixed ceiling on seats and said the number of councillors should also be reviewed."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution, asking that a cap be studied by experts and that any benefit cuts apply evenly across institutions."
+   ]
+  },
+  {
+   "name": "Fathimath Sauda",
+   "constituency": "Nilandhoo",
+   "turns": 1,
+   "positions": [
+    "Began her remarks on public demands about MP pay and post-term benefits; the speech continues beyond this part."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the motion; said Article 71(a) could change from 5,000 to 10,000 people per seat, and that MPs should serve a limited number of terms."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Fully supported the motion; wants the MP count fixed rather than rising with population, with wide public consultation and scientific debate."
+   ]
+  },
+  {
+   "name": "Ahmed Thariq",
+   "constituency": "Mahibadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion; discussed how Malé's growing population would add seats, and recalled the drafting committee's earlier debate on capping MP numbers."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Said MP numbers should be held steady, to keep small islands' voices heard, but doubted cutting MPs would fix state finances; he linked costs to the wider economy."
+   ]
+  },
+  {
+   "name": "Abdulla Rasheed",
+   "constituency": "Dhangethi",
+   "turns": 1,
+   "positions": [
+    "Strongly backed the motion, called it overdue, and asked for a firm limit set within a fixed time; contrasted MPs' pay with larger public-sector pay."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported capping the number at the current 93 but opposed cutting MPs' existing allowances; argued other state pay is higher."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Supported stopping the rise in MP numbers; argued the system needs a fixed number, and said the parliament, executive and judiciary are separate."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the motion; compared population-per-MP in several countries and proposed a technical team to study growth rates by atoll over five to six years."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Supported the motion; said a cap or limit on MP numbers is needed, and that Malé-area seats should be arranged to reflect where people live."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the debate drifted into blame for the previous government; favoured changing Article 71(a) and sending details to the committee stage."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Said moving from 5,000 to 10,000 or 15,000 people per seat would end the growth, and suggested referring the motion to a committee for study."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Agreed on cutting state spending but asked which constituencies would give up their representation; asked citizens to weigh in too."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion, linking rising MP numbers to state finances; also backed stricter eligibility conditions and aligning MP allowances with other state pay."
+   ]
+  }
+ ],
+ "decisions": [
+  "The government's bill to amend the Copyright and Related Rights Act received its first reading.",
+  "The Finance Committee's recommendation to dismiss the Monetary Authority Governor was announced and the matter sent to the Finance Committee for study.",
+  "Preliminary debate on the resolution on Majlis membership numbers began and had not concluded by the end of this part.",
+  "The Majlis adjourned the debate unfinished so committees could work; the sitting resumes on 3 July 2024 at 9:00."
+ ],
+ "votes": [],
+ "pagesTotal": 72,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

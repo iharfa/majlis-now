@@ -1,0 +1,296 @@
+{
+ "sittingId": "1062",
+ "date": "2026-08-12",
+ "title": "23rd Sitting of second session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo); Deputy Speaker Ahmed Saleem (Eydhafushi) took the chair for part of question time; Speaker presiding after the recess",
+ "attendance": {
+  "present": 27,
+  "onLeave": 6,
+  "officialTravel": 3
+ },
+ "summary": "The sitting opened at 09:01 with attendance, the agenda and chair announcements, including the Speaker's plan to put an extension of the second session to 20 August 2026 to a vote at vote time. Question time was a long run of questions to the Fisheries, Agriculture and Ocean Resources Minister, mostly on cut fish-aggregating buoys, delayed cold storages and ice plants, and fish prices. It began with a procedural dispute after the minister arrived late and the Velidhoo member said his two questions were already resolved. The government bill to amend the Foreign Currency Act (Law 2024/32) then had its first reading and preliminary debate began, with three members speaking in support before this part ends. The text is heavily garbled, so item numbers after 5.2 and some figures are uncertain. This part is the second half of the debate on the government's bill amending the Foreign Currency Act (32/2024), which changes who must convert foreign earnings into rufiyaa (for example a 20% conversion rule for tourism businesses in place of a flat 500 dollars per tourist). Government-aligned members said it would help businesses and ease pressure on the dollar rate, while MDP members said the dollar shortage and black-market rate show the policy is not working. After a recess and no further speakers, the House voted 58-0 to extend the second session to 20 August 2026 and 57-0 to accept the bill, which went to committee. The first speaker's name header sits in the previous part, so that turn is not listed.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting (prayer)",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "27 present, 6 on leave, 3 on official travel (as read from the garbled text)"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Chair announcement: extension of the second session and welcome to visiting students",
+   "outcome": "Speaker said he would put an extension of the session to 20 August 2026 to a vote at vote time; welcomed Zikra International College law and Sharia students in the gallery"
+  },
+  {
+   "n": "5.1",
+   "title": "Question to the Minister of Fisheries, Agriculture and Ocean Resources by Velidhoo member Mohamed Abbas (sports-fishing buoy off Velidhoo)",
+   "outcome": "asked; member and chair said the reason for the question had fallen away; minister then spoke"
+  },
+  {
+   "n": "5.2",
+   "title": "Question to the same minister by Velidhoo member Mohamed Abbas (Lhohi ice plant capacity)",
+   "outcome": "asked; procedural dispute over the minister's right to reply; minister then gave a general answer on ice plants and exports"
+  },
+  {
+   "n": "5",
+   "title": "Further questions to the minister from 16 other members (cut fish-aggregating buoys, cold storage and ice plant delays, fuel limits, fish prices, kanneli purchases, farmer losses)",
+   "outcome": "answered by the minister one by one; question time ended when the allotted time ran out"
+  },
+  {
+   "n": "6.1",
+   "title": "First reading of the government bill to amend the Foreign Currency Act (Law 2024/32), presented by Holhudhoo member Abdul Sattar Mohamed",
+   "outcome": "first reading read"
+  },
+  {
+   "n": "7.1",
+   "title": "Preliminary debate on the bill to amend the Foreign Currency Act (Law 2024/32)",
+   "outcome": "debate under way as this part ends (4 speeches incl. sponsor); recess 10:29 to 11:24; no vote in this part"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill amending the Foreign Currency Act (No. 32/2024), sponsored by the member for Holhudhoo: debate",
+   "outcome": "debated; accepted 57-0 and referred to committee for study",
+   "workId": "1935"
+  },
+  {
+   "n": "9",
+   "title": "Votes on matters ready for decision",
+   "outcome": "extension of the session passed 58-0; bill accepted 57-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ahmed Shiyam",
+   "constituency": "",
+   "turns": 21,
+   "positions": [
+    "As Fisheries, Agriculture and Ocean Resources Minister, said UK tariffs on Maldivian fish were removed and buyers now pay roughly 20 to 22 rufiyaa.",
+    "Said cold storages and ice plants (Felivaru, Thinadhoo, Hirilandhoo and others) are targeted for December, with delays blamed on procurement, financing and logistics.",
+    "Said cut fish-aggregating buoys will be reinstalled first, citing rough weather and some vessel damage, and that fuel limits were set after talking to fishers."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 4,
+   "positions": [
+    "Raised a point of order that the floor belonged to the minister once he arrived, and that the chair should let him answer.",
+    "Said the dollar rate has kept rising despite the government's large majority and earlier measures, and doubted another law change will alter it.",
+    "Argued laws need enforcement, citing the decentralisation law and council powers, and was asked by the chair to return to the bill."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 3,
+   "positions": [
+    "Asked when work would start on the promised sports-fishing buoy off Velidhoo, saying no practical work had begun this year.",
+    "Raised the Lhohi ice plant's capacity shortfall, asked when it would be fixed, and thanked the minister for his fisheries policy.",
+    "Told the chair both his questions were already resolved so there was no reason to pursue them.",
+    "Backed the amendments as suited to current conditions, saying they help large and small tourism businesses and guesthouses and could ease the dollar shortage."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when the cut Dharavandhoo-Kamadhoo buoy would be replaced, whether sand pumping harms baitfish, and if fishers' fuel limits can rise.",
+    "Asked about consultation on a kanneli buoy, the Hulhumale' kanneli factory update, and when buying at 80 to 100 rufiyaa would start."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Asked how much the government still owes fishers since November 2023 and what losses the sale of sea area near Addu may cause.",
+    "Spoke in favour of the Foreign Currency amendments as a way to bring foreign currency into the banking system and ease the dollar shortage."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when the cold storage being built at Thinadhoo would be finished and start serving.",
+    "Spoke strongly in favour of the Foreign Currency Act amendments in the preliminary debate."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how far the promised cold storage and fish factory work for the Addu fisheries complex had progressed, saying earlier government did nothing."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Asked when the Rasdhoo ice plant would be finished, and whether the sold sea area's fish stocks and compensation had been settled."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said only three of eight buoys around Addu remain, that letters to the minister got no reply, and asked when they would be replaced."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when cut buoys in northern Huvadhu would be replaced, when Kooddoo storage capacity would grow, and whether fuel limits could follow engine size."
+   ]
+  },
+  {
+   "name": "Mohamed Niushad",
+   "constituency": "Keyodhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when a sports-fishing buoy would be installed in Vaavu, and why fish prices have not improved despite large UK exports."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Said Addu City Council wrote in December 2025 about cut buoys with no reply, and asked for a date for the fix."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Asked for an update and the cause of delays on the Felivaru cold storage awarded in 2023, and why another northern island facility is idle."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Asked when the promised Kelaa canning factory would start, and when equipment for the palm disease problem would reach his constituency."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how far the promised Dhidhdhoo ice plant had progressed, saying the earlier MDP government left it undone."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Asked when a fish market service would reach North Hulhumale', when a buoy would be placed, and requested a swimming track."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Asked how much the government has paid fishers, what else has been done for them, and when the cut Fuvahmulah buoys would be replaced."
+   ]
+  },
+  {
+   "name": "Ali Ashrag",
+   "constituency": "Kinbidhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when the Hirilandhoo cold storage would start work, and what help farmers hit by bad weather would get."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Asked about a cut buoy near Kalhufushi, and for updates on the Veyvah ice plant and the Muli cold storage."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the government's amendments to the Foreign Currency Act: higher threshold for mandatory conversion, relief for Maldivian-owned businesses, and tourism-sector rules."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Backed the bill as part of a Maldivians-first policy, arguing it would help local businesses and ease the black-market dollar rate."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, explaining the A, B and C categories and the 20% conversion rule replacing 500 dollars per tourist, and said it would benefit businesses and ordinary people."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Said repeated amendments show the fiscal policy has failed, and asked what ordinary people gain when dollars are scarce and black-market rates are higher."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Speaker announced he would put an extension of the second session to 20 August 2026 to a vote at vote time (the vote falls outside this part).",
+  "Question time to the Fisheries, Agriculture and Ocean Resources Minister ended when the allotted time ran out.",
+  "The first reading was read for the government bill to amend the Foreign Currency Act (Law 2024/32).",
+  "The chair set party-by-party speaking times for the preliminary debate on that bill.",
+  "A recess ran from 10:29 to 11:24 during the preliminary debate.",
+  "The chair paused the sitting at 11:59 and resumed at 13:01; no member asked to speak further on the bill, so debate was closed.",
+  "The second session of the Majlis was extended to 20 August 2026 (58-0).",
+  "The Foreign Currency Act amendment bill was accepted (57-0) and sent to committee for study under rule 106.",
+  "The next sitting was set for Thursday 13 August 2026 at 09:00, and the chair closed this sitting."
+ ],
+ "votes": [
+  {
+   "what": "Extend the second session of the Majlis until 20 August 2026",
+   "yes": 58,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the bill amending the Foreign Currency Act (32/2024)",
+   "yes": 57,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 66,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

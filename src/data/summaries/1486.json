@@ -1,0 +1,22 @@
+{
+  "workId": "1486",
+  "titleDv": "ޤާނޫނު ނަންބަރު 9/2014 (ދިވެހިރާއްޖޭގެ ޤާނޫނުލްޢުޤޫބާތު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Penal Code (Law No. 9/2014) by adding a new chapter on computer and computer-related crimes, made up of Articles 240 to 250, after Chapter 230. It makes it a crime to get into a computer system without permission, intercept private data transmissions, interfere with data or systems, and make or sell hacking devices or tools. It also creates cyber violence offences covering child sexual abuse material, sextortion, sharing intimate images to cause harm, and cyberstalking, plus computer-related forgery, fraud and copyright infringement. Each offence is given a penalty class, with heavier classes when the target is a computer system linked to critical infrastructure such as water, electricity, transport, telecoms, banks or defence. The law would take effect once it is passed, ratified and published in the Government Gazette.",
+  "whyItMatters": "Hacking someone's account, posting their intimate photos without consent, threatening to leak images, or stalking them online would become specific crimes with set penalty classes. Police and prosecutors would have defined offences to charge in cybercrime cases.",
+  "keyProvisions": [
+    "Articles 240 to 244 make it a crime to access a computer, program or data without permission, to do so in order to commit another crime, to intercept non-public data transmissions, and to damage, delete, alter or block data or systems. Penalties range from a Class 1 misdemeanour to a Class 3 felony, with heavier classes when critical infrastructure systems are targeted.",
+    "Each of Articles 240 to 245 states that acts done under a court order or a permit issued under a law are not a crime.",
+    "Article 245 makes it a Class 4 felony to make, import, sell, share or obtain a device, program or password for use in committing the computer offences in Articles 240, 242, 243, 244, 247 or 248. Authorised testing and work to protect a computer system are excluded.",
+    "Article 246 makes sharing, making or storing child sexual abuse material through a computer system a Class 3 felony, with a defence for good-faith scientific, research, medical or law-enforcement use. A child is defined as anyone under 18.",
+    "Article 246 also makes sextortion a crime: threatening, including by email or social media, to share someone's intimate images or cause other harm in order to force sexual acts, intimate images or money from them. It is a Class 3 felony if the victim is a child and Class 4 otherwise. Sharing someone's intimate images without consent to take revenge or humiliate them is a Class 4 felony, with defences for journalism in the public interest and for criminal investigations.",
+    "Article 246 makes repeated online stalking a Class 5 felony, including tracking where a person lives or works, publishing their personal information, sending repeated threatening messages, or using fake profiles. Articles 247 to 249 make computer-related forgery a Class 5 felony, and computer-related fraud and copyright infringement under Law 23/2010 through a computer system Class 4 felonies. Article 250 defines terms such as computer, data, device and critical infrastructure."
+  ],
+  "whoIsAffected": "Anyone who uses computers, phones or social media, victims of online abuse and stalking, people accused of cyber offences, operators of critical systems such as utilities and banks, and police and prosecutors.",
+  "statedReasons": "The government says the bill makes the amendments to Law 9/2014 needed to make cybercrime-related acts criminal offences, and lists the acts it covers, from unauthorised access to copyright infringement.",
+  "sourceDoc": "Bill",
+  "pagesRead": 38,
+  "pagesTotal": 38,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

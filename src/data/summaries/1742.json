@@ -1,0 +1,22 @@
+{
+  "workId": "1742",
+  "titleDv": "ރީ-އެމްޕްލޯއިމަންޓްގެ ބިލު",
+  "summary": "This is a new law, the Re-employment Act, submitted on behalf of the government. It lets state employees who reach pension age stay on in their jobs, or come back to them, under one-year contracts renewed each year until they turn 75. The re-employment age runs from 65 to 75, and people who retired at pension age in the 7 years before the law starts can also apply. Employees can keep their old post, move to a different post in the same office, or keep the post with lighter duties and adjusted pay set under National Pay Commission standards. It overrides the retirement-age rule in Article 49(b) of the Civil Service Act (Law 5/2007), and applies the Employment Act (Law 2/2008) with some exceptions, such as no probation, no notice period and flexible working hours.",
+  "whyItMatters": "State workers would no longer have to leave at pension age if they want to keep working, and could earn a salary while also drawing most of their pension. Government offices and the Civil Service Commission would have to write new rules and handle these requests within set deadlines.",
+  "keyProvisions": [
+    "Article 3 covers everyone employed or contracted by state offices, but excludes the military, police, ministers and posts appointed under the Constitution or a law.",
+    "Articles 5 to 7 cover serving employees aged 65 to 75 and people who retired at pension age in the 7 years before the law starts. Re-employment is through a 12-month contract renewed each year.",
+    "Articles 8 to 12 allow keeping the same post, moving to another post in the same office, or keeping the post with changed duties and adjusted pay. The National Pay Commission must set the pay standards within 90 days, taking any pension the person receives into account.",
+    "Articles 14 to 17 say the Employment Act's probation rule and its notice rules in Article 22(a) and (b) do not apply, so re-employed staff can leave without 21 days' notice. Work hours and location can be flexible, and staff get at least 30 days of paid annual leave.",
+    "Article 18 lets re-employed staff keep receiving pension payments under the Pension Act (Law 8/2009), except the basic old-age pension. Re-employment time does not count toward service-based benefits.",
+    "Articles 19 to 21 set deadlines. Serving staff apply 6 months before turning 65, and those already retired apply within 4 months of the law starting. Employers must decide within 2 months and reply in writing."
+  ],
+  "whoIsAffected": "State employees at or near pension age, recent retirees from state jobs, the government offices that employ them, and the National Pay Commission, Civil Service Commission and Maldives Pension Administration Office.",
+  "statedReasons": "The note says the bill lets people in state jobs keep working until they turn 75, by setting the criteria and rules for re-employment.",
+  "sourceDoc": "Bill",
+  "pagesRead": 23,
+  "pagesTotal": 23,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

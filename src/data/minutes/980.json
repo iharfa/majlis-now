@@ -1,0 +1,128 @@
+{
+ "sittingId": "980",
+ "date": "2025-09-15",
+ "title": "6th special sitting of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo)",
+ "attendance": {
+  "present": 52,
+  "onLeave": 2,
+  "officialTravel": 2
+ },
+ "summary": "A short special sitting (13:01 to 13:36) held outside the regular session. The Majlis debated two committee reports on presidential nominees: the Independent Institutions Committee's report on the Civil Service Commission chair and deputy chair, and the Human Rights and Gender Committee's report on the Human Rights Commission deputy chair. Members mostly welcomed the nominees, while Vaikaradhoo's member opposed the Human Rights Commission nominee over concerns about presidential influence over commissions, leading to a short procedural exchange. All three nominees were approved by recorded vote. The attendance figures at the start (52) differ from the later vote tallies (70-71 present); the opening line of the text is partly garbled.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer",
+   "outcome": "Sitting opened by the Speaker"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "52 present, 2 on leave, 2 on official travel as announced at the start"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "5.1",
+   "title": "Committee report on appointing the Civil Service Commission chair (Mohamed Mujthaz) and deputy chair (Mohamed Naasih)",
+   "outcome": "debated; chair approved 68-0, deputy chair approved 64-1"
+  },
+  {
+   "n": "5.2",
+   "title": "Committee report on appointing the Human Rights Commission of the Maldives deputy chair (Mohamed Shafeeq Mahmood)",
+   "outcome": "debated; approved 67-1"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 4,
+   "positions": [
+    "Opposed the report, citing concern that the President's nomination power could be used to influence commissions and referring to past commission history."
+   ]
+  },
+  {
+   "name": "Hussain Riza Adam",
+   "constituency": "Maafushi",
+   "turns": 1,
+   "positions": [
+    "Presented the Independent Institutions Committee report recommending approval of the nominated Civil Service Commission chair and deputy chair."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the committee report and stressed the importance and integrity expected of the commission's leadership."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Raised civil servants' pay, unlawful dismissals and council staffing, calling on the commission to serve staff rather than only the President's wishes."
+   ]
+  },
+  {
+   "name": "Fathimath Sauda",
+   "constituency": "Nilandhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the Human Rights and Gender Committee report recommending approval of the nominated Human Rights Commission deputy chair."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Supported the nominee citing his government and airport-company experience, and said the commission had been inactive on key human rights issues."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order saying the Anti-Corruption Commission chair is chosen by the Majlis, not the President."
+   ]
+  }
+ ],
+ "decisions": [
+  "Mohamed Mujthaz approved as chair of the Civil Service Commission",
+  "Mohamed Naasih approved as deputy chair of the Civil Service Commission",
+  "Mohamed Shafeeq Mahmood approved as deputy chair of the Human Rights Commission of the Maldives",
+  "Chair accepted a point of order and asked members not to speak in ways that confuse the public"
+ ],
+ "votes": [
+  {
+   "what": "Appointment of Mohamed Mujthaz as Civil Service Commission chair",
+   "yes": 68,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appointment of Mohamed Naasih as Civil Service Commission deputy chair",
+   "yes": 64,
+   "no": 1,
+   "abstain": 0
+  },
+  {
+   "what": "Appointment of Mohamed Shafeeq Mahmood as Human Rights Commission deputy chair",
+   "yes": 67,
+   "no": 1,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 23,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

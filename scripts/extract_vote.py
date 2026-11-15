@@ -7,7 +7,7 @@ y-centre. Output: JSON { rows: [{constituency, result}], summary: {...} }.
 
 Usage: python scripts/extract_vote.py <pdf_path> <out_json>
 """
-import sys, json, re
+import os, sys, json, re
 import fitz
 from rapidocr_onnxruntime import RapidOCR
 
@@ -15,7 +15,8 @@ RESULTS = {"Yes", "No", "Abstain", "Not Present", "Not Voted", "No voting right"
 
 def boxes_for_page(ocr, doc, i, dpi=300):
     pix = doc[i].get_pixmap(dpi=dpi)
-    tmp = f"_ocr_p{i}.png"
+    os.makedirs("tmp", exist_ok=True)
+    tmp = os.path.join("tmp", f"_ocr_{os.getpid()}_p{i}.png")  # pid-unique so parallel runs don't collide
     pix.save(tmp)
     res, _ = ocr(tmp)
     out = []
@@ -39,50 +40,61 @@ def group_rows(boxes, ytol=14):
         rows.append(cur)
     return rows
 
-def parse_rollcall(pdf_path):
+SUMMARY_KEYS = ("Yes", "No", "Abstain", "Present", "Eligible to vote", "Voted", "Not Voted")
+
+def summary_from(boxes):
+    """Page-1 result box. Newer PDFs: 'Yes' | '83'. Older: 'Yes:' | ': 83', or 'Voted: 83' in one box."""
+    out = {}
+    for yc, xc, t in boxes:
+        m = re.fullmatch(r"([A-Za-z ]+?)\s*:?\s*(\d+)?", t.strip())
+        if not m or m.group(1) not in SUMMARY_KEYS:
+            continue
+        if m.group(2):
+            out.setdefault(m.group(1), int(m.group(2)))
+            continue
+        # find the number box on the same row (similar y, larger x)
+        for (yc2, xc2, t2) in boxes:
+            n = re.fullmatch(r":?\s*(\d+)", t2.strip())
+            if abs(yc2 - yc) <= 14 and xc2 > xc and n:
+                out.setdefault(m.group(1), int(n.group(1)))
+                break
+    return out
+
+def parse_rollcall(pdf_path, dpi=300):
     ocr = RapidOCR()
     doc = fitz.open(pdf_path)
     rows_out = []
     summary = {}
     date = None
     for i in range(len(doc)):
-        boxes, W = boxes_for_page(ocr, doc, i)
+        boxes, W = boxes_for_page(ocr, doc, i, dpi=dpi)
         # DPI-independent column boundaries (fractions of page width)
         id_max, con_lo, con_hi, res_lo = 0.16 * W, 0.45 * W, 0.70 * W, 0.70 * W
         if date is None:
             for (_yc, _xc, t) in boxes:
-                m = re.search(r"(\d{1,2})\.([A-Za-z]+)\.(\d{4})", t)
+                # '15.April.2025' (newer PDFs) or '4/15/2025 11:06:20 AM' (older ones)
+                m = re.search(r"(\d{1,2})\.([A-Za-z]+)\.(\d{4})|\d{1,2}/\d{1,2}/\d{4}", t)
                 if m:
                     date = m.group(0)
                     break
-        # page 1 carries the summary (Yes/No/Abstain/Present/...)
-        for j, (yc, xc, t) in enumerate(boxes):
-            key = t.rstrip(":").strip()
-            if key in ("Yes", "No", "Abstain", "Present", "Eligible to vote", "Voted", "Not Voted"):
-                # find the number box on the same row (similar y, larger x)
-                for (yc2, xc2, t2) in boxes:
-                    if abs(yc2 - yc) <= 14 and xc2 > xc and re.fullmatch(r"\d+", t2):
-                        summary.setdefault(key, int(t2))
-                        break
+        for k, v in summary_from(boxes).items():
+            summary.setdefault(k, v)
         # table rows
         for row in group_rows(boxes):
             row = sorted(row, key=lambda c: c[0])
             constituency = None
             result = None
             has_id = False
-            name = []
             for xc, t in row:
                 if xc < id_max and re.fullmatch(r"\d+", t):
                     has_id = True
-                elif id_max <= xc < con_lo:
-                    name.append(t)
                 elif con_lo <= xc < con_hi:
                     constituency = t
                 elif xc >= res_lo:
                     result = t
             # accept rows that look like a member line with a known result
             if result in RESULTS and (constituency or has_id):
-                rows_out.append({"constituency": constituency or "", "name": " ".join(name), "result": result})
+                rows_out.append({"constituency": constituency or "", "result": result})
     return {"rows": rows_out, "summary": summary, "date": date}
 
 if __name__ == "__main__":

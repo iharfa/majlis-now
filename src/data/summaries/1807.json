@@ -1,0 +1,22 @@
+{
+  "workId": "1807",
+  "titleDv": "ޤާނޫނު ނަންބަރު 10/2010 (ލޯކަލް ކައުންސިލްތަކުގެ އިންތިޚާބުގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill, presented by Hamad Abdulla, amends the Local Council Elections Act (Law No. 10/2010). It removes atoll councils from the Act, so the Act would cover elections only to city councils and island councils. It deletes Article 5, which sets how many members each atoll council elects. It also rewrites Articles 6 and 7 so that the number of members on city and island councils is whatever the Decentralisation Act (Law No. 7/2010) sets, instead of numbers fixed in the Elections Act.",
+  "whyItMatters": "Atoll council elections would no longer be governed by the Elections Act, and council sizes would follow the Decentralisation Act, so any change to that law would directly change how many councillors people elect.",
+  "keyProvisions": [
+    "Clause 1 amends Article 1(a) so the Act covers elections to city councils and island councils, dropping the reference to atoll councils.",
+    "Clause 2 amends Article 2(a) in the same way: local council elections are elections to city and island councils, and still include by-elections held when a seat falls vacant for a reason other than the council's term ending.",
+    "Clause 3 deletes Article 5, which currently says each administrative division with more than two constituencies elects one atoll councillor per constituency, and divisions with two constituencies elect 3 members atoll-wide.",
+    "Clause 4 replaces Article 6: city councils created under the Decentralisation Act will have the number of members that Act sets, instead of one member per constituency.",
+    "Clause 5 replaces Article 7: island councils will have the number of members the Decentralisation Act sets, replacing the current rule of 3 members for islands under 3,000 registered people and 5 members for islands above 3,000, with the Elections Commission announcing each island's number.",
+    "Clause 6 says the amendment takes effect once it is passed, ratified and published in the Government Gazette."
+  ],
+  "whoIsAffected": "Voters and candidates in local council elections, atoll, city and island councils, and the Elections Commission.",
+  "statedReasons": "The government says the bill is to state in the Local Council Elections Act that members of atoll and city councils are elected in the number set under the Decentralisation Act (Law No. 7/2010).",
+  "sourceDoc": "Bill",
+  "pagesRead": 8,
+  "pagesTotal": 8,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

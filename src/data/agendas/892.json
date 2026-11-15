@@ -1,0 +1,69 @@
+{
+  "sittingId": "892",
+  "date": "2024-10-30",
+  "title": "43rd sitting of the 20th Majlis",
+  "agendaNo": "އޖ/43/2024",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/43/2024).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Approval of the minutes of three previous sittings (minutes Nos. 36/2024 to 38/2024).",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 6,
+      "text": "Question time: Maradhoo MP Ahmed Didi asks the Minister of Fisheries and Ocean Resources, Ahmed Shiyam, on what date work will begin to expand the capacity of the Addu City Fisheries Complex, a government pledge that fishermen badly need.",
+      "kind": "question"
+    },
+    {
+      "n": 7,
+      "text": "First reading of the Bill amending the Political Parties Act (Law No. 4/2013), submitted on behalf of the government by Dhidhdhoo MP Abdul Latheef Mohamed.",
+      "kind": "bill"
+    },
+    {
+      "n": 8,
+      "text": "Preliminary debate on the Bill amending the Elections Commission Act (Law No. 8/2008), submitted on behalf of the government by Kelaa MP Abdulla Shareef.",
+      "kind": "bill"
+    },
+    {
+      "n": 9,
+      "text": "Unfinished business: continuing the debate on the Bill amending the Anti-Corruption Commission Act (Law No. 13/2008), submitted on behalf of the government by Felidhoo MP Adam Zahir.",
+      "kind": "bill"
+    },
+    {
+      "n": 10,
+      "text": "Voting on items from the day's business that have reached the voting stage.",
+      "kind": "vote"
+    },
+    {
+      "n": 11,
+      "text": "Any other business.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The sitting approved old minutes, questioned the fisheries minister on the Addu fisheries complex, introduced the Political Parties Act amendment, and debated the Elections Commission and Anti-Corruption Commission bills.",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

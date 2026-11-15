@@ -1,0 +1,194 @@
+{
+ "sittingId": "929",
+ "date": "2025-03-17",
+ "title": "15th Sitting of first Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 34,
+  "onLeave": 5,
+  "officialTravel": 1
+ },
+ "summary": "The sitting ran from 10:30 to 11:43. Most of it was a debate on the President's decision to return the Courts Act amendment bill (reducing the Supreme Court bench from seven judges to five) to the Majlis for reconsideration. The Majority Leader moved that the bill go to committee for further amendment, opposition and some other members argued it should be dropped or that it conflicts with the Constitution, and the committee referral passed 50 to 7. The Majlis then appointed two members to the Police Board by 64 votes to none, and referred an ambassador nomination and a rules amendment to committees. The text layer is somewhat garbled, so some individual arguments are summarised loosely.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "34 present, 5 on leave, 1 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Announcement of committee report deadlines (Rule 174): Tourism Act amendment, Sports Act amendment and Animal Handling and Protection bills",
+   "outcome": "deadlines announced (18 March, 17 April and 30 June 2025)"
+  },
+  {
+   "n": "4.2",
+   "title": "Change to Judiciary Committee membership (Rule 151)",
+   "outcome": "Faresmaathodaa member Ashraf Rasheed replaces Thulusdhoo member Ibrahim Naseem"
+  },
+  {
+   "n": "5.1",
+   "title": "Bill for the 5th amendment to the Courts Act (Law 22/2010), returned by the President for reconsideration",
+   "outcome": "debated; referred to the Judiciary Committee 50-7"
+  },
+  {
+   "n": "5.2",
+   "title": "President's nomination of Gila Ali, ambassador to Belgium, as non-resident ambassador to Denmark",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "5.3",
+   "title": "Consultation on removal of the Maldives Monetary Authority Deputy Governor",
+   "outcome": "item closed because the Deputy Governor had already resigned"
+  },
+  {
+   "n": "5.4",
+   "title": "Amendment to the Majlis rules submitted by Ihavandhoo member Ahmed Naseer",
+   "outcome": "referred to the General Committee"
+  },
+  {
+   "n": "6",
+   "title": "Security Services Committee report on two Police Board members from the public",
+   "outcome": "report presented; members then voted on the two nominees"
+  },
+  {
+   "n": "7.1",
+   "title": "Votes: committee referral of the Courts Act amendment bill and two Police Board appointments",
+   "outcome": "referral passed 50-7; Mohamed Sadiq and Ahmed Mizmadh each approved 64-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 3,
+   "positions": [
+    "Proposed sending the returned Courts Act bill to committee, saying pending Judicial Service Commission cases make the bill's judge-reduction timeline unworkable.",
+    "Raised a point of order, saying the President's letter did not specifically state that the bill had been passed contrary to the Constitution.",
+    "Presented the Security Services Committee report on candidates for the two Police Board seats."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Said the bill was unconstitutional and that cases against Supreme Court judges had already begun, so the bill's timeline no longer works.",
+    "Criticised government economic decisions and what he described as police treatment of MDP women protesters.",
+    "Argued the bill and related moves aim to bring independent institutions such as the Anti-Corruption Commission under government control."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Said MDP members and many lawyers had warned in committee that the bill conflicted with the Constitution, yet it was passed quickly without enough time.",
+    "Said the Majlis loses power when it passes bills as the President directs, and asked that the bill be opened for public comment until April."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 2,
+   "positions": [
+    "Said bills need more time and consultation rather than quick passage, and that both the courts and the Majlis should work independently.",
+    "Welcomed the President's decision to return the bill and said such bills should not be rushed in future."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Recalled the Supreme Court being locked down and judges detained under the earlier MDP government, and said the Supreme Court bench has changed with governments.",
+    "Questioned whether seven Supreme Court judges are needed for the population, citing about MVR 7.9 million a year for two more judges.",
+    "Asked why opposition parties did not reform the judiciary while in government."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Seconded the committee referral and said the Courts Act has been amended before, so this change is not unprecedented."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Said the Majlis should legislate more responsibly and consult lawyers, and that he did not accept parking the bill in committee; he wanted it set aside."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Noted legal advice that parts of the bill conflict with the Constitution, and said the bill should be removed from the Majlis."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Said the handling of the bill showed the Majlis passing laws to suit the leader's wishes, and supported removing the bill from the Majlis."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said past MDP-led governments changed Supreme Court judges, and that the bill was discussed in the PNC parliamentary group before being passed.",
+    "Supported the motion to send the bill to committee."
+   ]
+  }
+ ],
+ "decisions": [
+  "The returned Courts Act (5th amendment) bill was sent to the Judiciary Committee for further amendment, 50 to 7.",
+  "Mohamed Sadiq was approved as a Police Board member from the public, 64 to 0.",
+  "Ahmed Mizmadh was approved as a Police Board member from the public, 64 to 0.",
+  "Ashraf Rasheed replaces Ibrahim Naseem on the Judiciary Committee.",
+  "The nomination of Gila Ali as non-resident ambassador to Denmark was sent to the Foreign Relations Committee.",
+  "The Majlis rules amendment from Ahmed Naseer was sent to the General Committee.",
+  "The Monetary Authority Deputy Governor item was closed after the Deputy Governor resigned."
+ ],
+ "votes": [
+  {
+   "what": "Refer the Courts Act (5th amendment) bill, returned by the President, to committee for further amendment",
+   "yes": 50,
+   "no": 7,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Mohamed Sadiq as a public member of the Police Board",
+   "yes": 64,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Ahmed Mizmadh as a public member of the Police Board",
+   "yes": 64,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 37,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

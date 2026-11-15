@@ -1,0 +1,33 @@
+name: Refresh data from majlis.gov.mv
+
+# Weekly scrape of bills, sittings, committees and roll-call PDFs. Opens a PR
+# with the regenerated files so a human reviews the diff before it ships.
+# Translating new Dhivehi PDFs (summaries/, agendas/) is still a manual Claude step.
+on:
+  schedule:
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r scripts/requirements.txt
+      - run: npm run data:refresh
+      - run: python scripts/build_static.py
+      - name: List untranslated documents
+        run: node scripts/check_data.mjs --list-missing || true
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          branch: data/refresh
+          title: 'Data refresh from majlis.gov.mv'
+          commit-message: 'Refresh bills, sittings, committees and roll calls'
+          body: 'Automated scrape. Check the roll-call validation log in the workflow run before merging. New bills/sittings need AI summaries (see README).'
+          add-paths: |
+            src/data/*.json
+            src/data/*.ts
+            public/sitemap.xml

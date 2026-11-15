@@ -1,0 +1,81 @@
+{
+ "sittingId": "1012",
+ "date": "2026-01-06",
+ "title": "2nd special sitting of 2026",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 31,
+  "onLeave": 3,
+  "officialTravel": 1
+ },
+ "summary": "This was a short special sitting held outside the regular term (09:01 to 09:19). The only business was a Human Rights and Gender Committee report on the President's nomination of Dr. Aishath Rameela, a sitting commission member, to be President of the Human Rights Commission of the Maldives. One member spoke in the debate, then the Majlis voted 38 in favour, none against, and approved the appointment. The Speaker closed by explaining that the sitting was called on a signed motion for specific work and that remaining items are at committee stage.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening and prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "31 members present, 3 on leave, 1 on official travel announced by the chair"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair",
+   "outcome": "none"
+  },
+  {
+   "n": "5.1",
+   "title": "Human Rights and Gender Committee report on appointing Dr. Aishath Rameela as President of the Human Rights Commission of the Maldives",
+   "outcome": "report presented and debated; no further speakers after one member"
+  },
+  {
+   "n": "6",
+   "title": "Vote on the committee's decision",
+   "outcome": "passed 38-0; appointment approved"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Fathimath Sauda",
+   "constituency": "Nilandhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the committee report recommending the Majlis approve Dr. Aishath Rameela as President of the Human Rights Commission, noting the committee decided unanimously among members voting."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Said the Human Rights Commission must work independently of any political colour.",
+    "Argued the commission should publicly clarify facts quickly to counter misinformation.",
+    "Cited recent police-custody and protest cases where he felt the commission's role or information fell short."
+   ]
+  }
+ ],
+ "decisions": [
+  "Majlis approved the committee's report: Dr. Aishath Rameela to be President of the Human Rights Commission of the Maldives.",
+  "Chair announced no further agenda items; sitting closed."
+ ],
+ "votes": [
+  {
+   "what": "Approval of Dr. Aishath Rameela as President of the Human Rights Commission of the Maldives (20 votes needed; 93 total members, 39 present)",
+   "yes": 38,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 11,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

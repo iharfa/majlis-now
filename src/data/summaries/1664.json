@@ -1,0 +1,22 @@
+{
+  "workId": "1664",
+  "titleDv": "ޤާނޫނު ނަންބަރު 15/2010 (ދުންފަތުގެ ކޮންޓްރޯލްކުރުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Tobacco Control Act (Law No. 15/2010). It bans anyone born on or after 1 January 2007 from using tobacco products, and bans selling tobacco to them or to anyone under 21, which in practice means people born from 2007 onward can never legally buy tobacco. It requires sellers to hold a licence and sell only from registered premises, and bans anonymous sales through vending machines or online orders. It also bans importing machinery made for producing tobacco products, bans bringing in or using e-cigarettes and vapes, and gives police and customs detailed powers to seize vapes and destroy them within 45 days. The amendments would take effect on 1 November 2025.",
+  "whyItMatters": "Anyone born in 2007 or later would be barred from smoking or buying tobacco for life, not only until a certain age. Vape users would have their devices seized by police, and shops would have to check ID and hold a licence to sell tobacco.",
+  "keyProvisions": [
+    "Article 1 rewrites Article 6: no one born on or after 1 January 2007 may use tobacco products, no one may sell tobacco to such a person or to anyone under 21, and such people may not be involved in selling tobacco.",
+    "Article 2 adds Article 6-1: tobacco may only be sold with a licence issued under Article 28-1 at a registered place, anonymous sales by vending machine or online order are banned, and sellers must check an ID card or official document showing the buyer's age.",
+    "Articles 4 and 5 ban importing machinery and equipment made for producing tobacco products, and rewrite Article 10-2(b) so that bringing e-cigarettes, vaping devices and their refills into the Maldives, or using them, is banned.",
+    "Article 6 adds Article 10-3 and Article 12 adds Articles 29-1 to 29-3: police can seize a vape from a person found using or carrying it (using only the force needed), police or customs can seize vapes at import, storage or in passenger baggage, each seizure must be recorded, and seized devices must be destroyed within 45 days.",
+    "Article 10 restates Article 29(a)(1): fines of 1,000 to 1,000,000 rufiyaa set by regulation, and for smuggling or unlicensed trade a fine of 10 times the value of the goods plus duty, with a minimum of 1,000 rufiyaa.",
+    "Other changes: health warnings may be in Dhivehi or English (Article 11), passengers bringing tobacco for personal use are not counted as importers, the advertising ban in Article 14 now applies to everyone, and the Ministry makes the regulations (new Article 41-1)."
+  ],
+  "whoIsAffected": "Young people born in 2007 or later, people who vape, tobacco sellers and importers, and the police and customs officers who enforce the law.",
+  "statedReasons": "The note says the government is proposing the bill to stop tobacco use by people born on or after 1 January 2007, and to strengthen enforcement of the Tobacco Control Act.",
+  "sourceDoc": "Bill",
+  "pagesRead": 22,
+  "pagesTotal": 22,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

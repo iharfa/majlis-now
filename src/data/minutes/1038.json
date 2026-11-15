@@ -1,0 +1,274 @@
+{
+ "sittingId": "1038",
+ "date": "2026-06-17",
+ "title": "3rd Sitting of second session of 2026",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo); Deputy Speaker Ahmed Saleem (Eydhafushi) chaired part of item 6.1 until the 10:29 recess, then the Speaker resumed at 11:00",
+ "attendance": {
+  "present": 82,
+  "onLeave": 10,
+  "officialTravel": 1
+ },
+ "summary": "Members were told the President had nominated Mohamed Nizar to chair the Privatization and Corporatization Board, and the nomination was sent to the State-Owned Enterprises committee for review. The Majlis then debated the Human Organ Transplant Bill, which the President returned for reconsideration over concerns about detainee donors, penalty wording and implementation timelines; the chair closed debate and set the vote for the day's voting time. Preliminary debate then began on an MDP resolution to improve councillors' pay, with speakers split between backing it and calling it politically motivated; this part ends mid-debate. The text is somewhat garbled in places, so attendance figures were read with digit order corrected. This part picks up mid-debate on a motion by the Galolhu South member asking the Majlis to take up better pay for island and city councillors. MDP members backed it and said councillor pay is far below other staff; PNC members said they support fair pay in principle but opposed this motion, citing the economy and the lack of a pay structure. After a recess, the Majlis voted 62-0 to send the President's returned human transplant bill to the Social Committee, then rejected the councillor pay motion 14-48. The next sitting was set for 22 June 2026 at 9:00 am. The text begins mid-speech and is partly garbled, so some figures quoted by speakers are uncertain.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers",
+   "outcome": "Sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "82 present, 10 on leave, 1 on official travel (read from garbled text)"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Matters from the Speaker's table",
+   "outcome": "Chair moved on to the President's communications below"
+  },
+  {
+   "n": "5.1",
+   "title": "President's nomination of Mohamed Nizar as chair of the Privatization and Corporatization Board",
+   "outcome": "Referred to the State-Owned Enterprises committee for review"
+  },
+  {
+   "n": "5.2",
+   "title": "Human Organ Transplant Bill returned by the President for reconsideration",
+   "outcome": "Debated; debate closed by the chair, vote set for the day's voting time"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate on resolution to improve councillors' pay (moved by the member for South Galolhu)",
+   "outcome": "Preliminary debate in progress; continues into the next part"
+  },
+  {
+   "n": "Cont.",
+   "title": "Debate on motion by Galolhu South member Meekail Ahmed Nasym on a positive change to councillors' pay",
+   "outcome": "debate closed by the chair before the recess; proposer not present to reply"
+  },
+  {
+   "n": "Vote",
+   "title": "Sending the human transplant bill, returned by the President for reconsideration, to committee",
+   "outcome": "passed 62-0 (32 needed); sent to the Social Committee"
+  },
+  {
+   "n": "Vote",
+   "title": "Motion that the Majlis accept the councillor pay motion",
+   "outcome": "not accepted 14-48 (32 needed)"
+  },
+  {
+   "n": "Close",
+   "title": "Announcement of next sitting and close of sitting",
+   "outcome": "next sitting set for 22 June 2026 at 9:00 am"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 6,
+   "positions": [
+    "Moved that the returned organ transplant bill be sent to the relevant committee.",
+    "Said PNC backs better councillor pay in principle but not this resolution, which he called politically motivated.",
+    "Said the women's development committees were set up by the government and asked why MDP had not tabled its own motion about them.",
+    "Raised a point of order to dispute the Hanimaadhoo member's account of councillor pay and who set the WDC allowances; the chair ruled it not a point of order."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 5,
+   "positions": [
+    "Supported returning the bill to committee and said government bills get too little scrutiny there.",
+    "Argued the floor was being run contrary to the rules and the minority should get time to debate.",
+    "Fully supported the councillor pay resolution and rejected claims that it lacks good intent.",
+    "Said many councillors had raised concern about their pay and the motion was not politically driven; asked PNC members to accept it and refer it to committee."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 4,
+   "positions": [
+    "Said a bill being returned is neither new nor wrong, and raised a procedural point on how members address the chair.",
+    "Said MDP sees itself as a competitor not an enemy, and that returned bills should be studied properly in committee.",
+    "Backed the councillor pay resolution, saying pay harmonisation left councillors paid below administrative staff."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 3,
+   "positions": [
+    "Defended the committee process as slow because it awaited replies from outside bodies and earlier assemblies.",
+    "Said the President's suggested changes deserve further consideration.",
+    "Said councillor pay could be raised if needed, but given the economy and recent civil-service pay rises he could not support the motion now."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 3,
+   "positions": [
+    "Gave councillor pay figures before and after 2024 and said some council staff now earn more than councillors. Speech continues past this part.",
+    "Said councils received little from this government and cited large contract sums for building council offices, alleging wrongdoing in them.",
+    "Said councillor pay is small beside those sums and that civil-service pay had already been raised."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 2,
+   "positions": [
+    "Criticised the committee for taking about seven months on the bill and then having it returned.",
+    "Raised a point of order that committee work can proceed even when some members are absent."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Said organ transplant is a sensitive matter that cannot be settled within a day, and rebutted earlier remarks about the bill.",
+    "Said he backs fair pay in principle but opposed the motion for targeting one group, lacking a wider pay policy, and for its timing after the council elections."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 2,
+   "positions": [
+    "Said the bill raises Islamic-law questions scholars must examine and called for a board to check bills against Islamic principles.",
+    "Raised a point of order to explain the Islamic-law points to the public."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Supported sending the bill back to committee; said remarks in debate were confusing the public about what the bill does."
+   ]
+  },
+  {
+   "name": "Asma Rasheed",
+   "constituency": "Central Maafannu",
+   "turns": 1,
+   "positions": [
+    "As a committee member, said returned bills are routinely reworked and the President's changes can be considered and voted on."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Moved the resolution seeking members' views on improving councillors' pay, citing heavier duties and pay set below council staff."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution; said pay should follow organisational hierarchy and responsibility, and called for uniform pay harmonisation."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Said he could support a resolution that also covered council office staff, and questioned MDP's record on decentralisation."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Questioned the resolution's intent and asked whether decentralisation reform should be only pay rises; said councils now have more funds."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Said pay rises are hard given debt repayments, and that councillors do not all work equally."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the resolution dates from 11 May 2024 and appears aimed at MDP's internal election; listed government pay and council reforms."
+   ]
+  },
+  {
+   "name": "Abdulla Sodig",
+   "constituency": "North Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said councillor pay is for the Majlis to set and should be aligned with council administrative staff pay."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Said the motion aims to remove pay gaps, noted public-sector pay and pension spending has grown sharply, and urged PNC members to back it."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Supported the motion, saying island council heads earn less than other staff, and that pay gaps across sectors should be addressed."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion; said the decentralisation law makes councillor pay the Majlis's responsibility and urged sending it to the Finance Committee rather than rejecting it."
+   ]
+  }
+ ],
+ "decisions": [
+  "President's nomination of Mohamed Nizar as chair of the Privatization and Corporatization Board referred to the State-Owned Enterprises committee for review.",
+  "Debate on the returned Human Organ Transplant Bill closed; vote scheduled for the day's voting time.",
+  "Sitting recessed from 10:29 to 11:00.",
+  "The chair closed debate on the councillor pay motion because the proposer was not present to give a closing reply.",
+  "The Majlis voted 62-0 to send the human transplant bill, returned by the President under Article 91(a) of the Constitution, to the Social Committee.",
+  "The Majlis did not accept the councillor pay motion by Meekail Ahmed Nasym (14 for, 48 against; 32 needed).",
+  "Next sitting announced for 22 June 2026 at 9:00 am."
+ ],
+ "votes": [
+  {
+   "what": "Sending the human transplant bill (returned by the President) to committee; proposed by Ibrahim Shujau, seconded by Ali Moosa (93 members in total, 64 present, 62 voted)",
+   "yes": 62,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accepting the motion by Meekail Ahmed Nasym on a positive change to councillors' pay (93 members in total, 64 present, 62 voted, 32 needed)",
+   "yes": 14,
+   "no": 48,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 67,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

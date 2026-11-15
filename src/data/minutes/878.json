@@ -1,0 +1,179 @@
+{
+ "sittingId": "878",
+ "date": "2024-08-22",
+ "title": "33rd sitting of the 20th Majlis",
+ "presiding": "Deputy Speaker Ahmed Nazim",
+ "attendance": {
+  "present": 73,
+  "onLeave": 8,
+  "officialTravel": 4
+ },
+ "summary": "The 33rd sitting, the last of the 20th Majlis's first session, was held on the evening of 22 August 2024. Members debated the Judicial Committee's report recommending that Prosecutor General Hussain Shameem be dismissed. MDP members argued the committee had been held in secret against the rules, while PNC and allied members defended the closure and criticised the Prosecutor General's record in court cases. The Majlis then voted 65 to 9 with 1 abstention to approve the dismissal, and the chair announced end-of-term figures and that the second session starts on 1 October 2024. Some words and names in the text layer are garbled, so speaker gists are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "73 present, 8 on leave, 4 on official travel announced"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "none"
+  },
+  {
+   "n": "5.1",
+   "title": "Judicial Committee report on removing Prosecutor General Hussain Shameem from office",
+   "outcome": "debated by 13 members; report approved"
+  },
+  {
+   "n": "6",
+   "title": "Vote on removing the Prosecutor General",
+   "outcome": "passed 65-9, 1 abstention (38 needed)"
+  },
+  {
+   "n": "",
+   "title": "Closing remarks on the end of the first session",
+   "outcome": "chair gave term statistics and dates for the second session; sitting closed"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 3,
+   "positions": [
+    "Argued the committee's closed proceedings and the report breached Majlis rules.",
+    "Asked the chair to confirm reports that the Prosecutor General had resigned before continuing.",
+    "Said the Prosecutor General answered only one question and the committee should have been open."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 3,
+   "positions": [
+    "Said the Prosecutor General should be removed over how past cases were handled.",
+    "Raised the reported resignation and urged the removal vote to go ahead."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 3,
+   "positions": [
+    "Said rule 46 covers sittings, not committees, and that rule 167 allows closed committees.",
+    "Supported removal whatever view is taken of the bottle photo."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Voiced concern about growing use of closed committees while not opposing a Prosecutor General's removal.",
+    "Asked for confirmation of the reported resignation before voting."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the Judicial Committee report finding the Prosecutor General unfit for office under Article 228 and recommending his removal."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Cited rules 185, 180 and 181 to say closed committee meetings are permitted, so the sitting was not against the rules."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order objecting to the language used about the MDP parliamentary group leader."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order asking the chair to clarify media reports that the Prosecutor General had resigned."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Said many prosecutions failed in court and he has no confidence in the Prosecutor General; fully supports the report."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Said rule 46 does not support the objections about secrecy, and backed removing the Prosecutor General."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 1,
+   "positions": [
+    "Said the committee followed rules 167 and 185, and the Prosecutor General answered only one question."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Defended the committee's closure and criticised the Prosecutor General's handling of earlier cases; backed the report."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the report, citing the Prosecutor General's record and conduct."
+   ]
+  }
+ ],
+ "decisions": [
+  "The Majlis approved the Judicial Committee report and removed Prosecutor General Hussain Shameem from office, 65 to 9 with 1 abstention.",
+  "The chair said no resignation letter had reached the President's office or the Majlis Secretariat when the vote was held.",
+  "The chair announced the second session opens on 1 October 2024, with the first sitting on 3 or 7 October.",
+  "The chair said a new Prosecutor General must be appointed within 30 days, likely needing two sittings outside session with 3 days' notice."
+ ],
+ "votes": [
+  {
+   "what": "Removal of Prosecutor General Hussain Shameem from office (76 present, 38 needed)",
+   "yes": 65,
+   "no": 9,
+   "abstain": 1
+  }
+ ],
+ "pagesTotal": 28,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

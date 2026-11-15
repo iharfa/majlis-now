@@ -5,7 +5,8 @@ export interface RealCommittee {
   id: string; name: string; category: string; status: 'Ongoing' | 'Completed'
   chairId: string | null; viceChairId: string | null
   memberIds: string[]; formerMemberIds: string[]
-  meetingDates: string[]; works: number; url: string
+  meetingDates: string[]; works: number; url: string; fetchedAt: string
+  documents: { label: string; url: string; file: string }[]
 }
 
 export const REAL_COMMITTEES: RealCommittee[] = [
@@ -27,18 +28,33 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "239",
       "251",
       "255",
+      "203"
+    ],
+    "formerMemberIds": [
       "260"
     ],
-    "formerMemberIds": [],
     "meetingDates": [
-      "20 May 2026",
-      "04 May 2026",
-      "27 Apr 2026",
-      "08 Mar 2026",
-      "17 Feb 2026"
+      "09 Nov 2026",
+      "02 Nov 2026",
+      "21 Oct 2026",
+      "20 Oct 2026",
+      "12 Oct 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/115"
+    "documents": [
+      {
+        "label": "General Purpose Committee's Attendance report till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/115/Uv7ikw7wAX7DA52hf2ZmbjbtQcPBnhD47Q2xG1yC.xlsx",
+        "file": "tmp/docs/cmt-115-1.pdf"
+      },
+      {
+        "label": "General Purpose Committee's Attendance report till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/115/H3BuayNeiRWWxeTkzIjQNU5RWzQFHpzOF3dEcLHM.pdf",
+        "file": "tmp/docs/cmt-115-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/115",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "116",
@@ -52,27 +68,42 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "195",
       "198",
       "199",
-      "205",
       "212",
       "220",
       "261",
       "246",
-      "231"
+      "231",
+      "240"
     ],
     "formerMemberIds": [
       "178",
-      "233",
+      "205",
+      "206",
+      "250",
       "209"
     ],
     "meetingDates": [
-      "12 May 2026",
-      "04 May 2026",
-      "22 Apr 2026",
-      "26 Mar 2026",
-      "11 Feb 2026"
+      "21 Oct 2026",
+      "14 Oct 2026",
+      "07 Oct 2026",
+      "22 Aug 2026",
+      "16 Aug 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/116"
+    "documents": [
+      {
+        "label": "Petition Committee's Attendance report up to 31st August 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/116/zSnI6snWZJNqalt83DxD6wz4Y7jnHxRGXUhAv5u0.xlsx",
+        "file": "tmp/docs/cmt-116-1.pdf"
+      },
+      {
+        "label": "Petition Committee's Attendance report up to 31st August 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/116/yBlkY1Ark5QKJYM8rkuu29MmXlE83Hlth9jQKJdI.pdf",
+        "file": "tmp/docs/cmt-116-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/116",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "117",
@@ -99,14 +130,27 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "203"
     ],
     "meetingDates": [
-      "06 May 2026",
-      "15 Apr 2026",
-      "11 Feb 2026",
-      "11 Dec 2025",
-      "03 Dec 2025"
+      "19 Oct 2026",
+      "04 Aug 2026",
+      "28 Jul 2026",
+      "23 Jun 2026",
+      "06 May 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/117"
+    "documents": [
+      {
+        "label": "Attendance Report of Committee on Member’s Privileges and Ethics till 31st October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/117/9RUP2Z5YylnDw8i7S1DeIXPuacDeMW8tMPvgUJXF.xlsx",
+        "file": "tmp/docs/cmt-117-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Committee on Member’s Privileges and Ethics till 31st October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/117/rTgd8Ty9KKYrKB2gGsYmqUgcylnlbNHAftESH3lF.pdf",
+        "file": "tmp/docs/cmt-117-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/117",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "118",
@@ -130,14 +174,27 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     ],
     "formerMemberIds": [],
     "meetingDates": [
-      "05 May 2026",
-      "13 Apr 2026",
-      "08 Mar 2026",
-      "11 Feb 2026",
-      "01 Dec 2025"
+      "26 Oct 2026",
+      "12 Aug 2026",
+      "14 Jul 2026",
+      "23 Jun 2026",
+      "05 May 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/118"
+    "documents": [
+      {
+        "label": "Committee on Secondary Legislation's Attendance Report till October 2026 (20th majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/118/muivrELX04wYL3mC0vjgFtZCPt7wNFMR5goRe1TC.xlsx",
+        "file": "tmp/docs/cmt-118-1.pdf"
+      },
+      {
+        "label": "Committee on Secondary Legislation's Attendance Report till October 2026 (20th majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/118/sajsEuBnl03Zb2IFf93rE071afLcZZS0tYTpNv1E.pdf",
+        "file": "tmp/docs/cmt-118-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/118",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "119",
@@ -152,27 +209,41 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "177",
       "196",
       "197",
-      "206",
       "231",
       "252",
       "266",
       "254",
-      "185"
+      "185",
+      "200"
     ],
     "formerMemberIds": [
+      "206",
       "240",
       "178",
       "194"
     ],
     "meetingDates": [
-      "14 May 2026",
-      "26 Apr 2026",
-      "22 Apr 2026",
-      "21 Apr 2026",
-      "11 Feb 2026"
+      "27 Oct 2026",
+      "26 Oct 2026",
+      "21 Oct 2026",
+      "20 Oct 2026",
+      "19 Oct 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/119"
+    "documents": [
+      {
+        "label": "Attendance Report of Public Accounts Committee and sub-committees till 31st October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/119/08qIjqjdTnY4FUQeWywnj6h4LaT99NrG6ykdHcsV.xlsx",
+        "file": "tmp/docs/cmt-119-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Public Accounts Committee and sub-committees till 31st October (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/119/LQkRO0anGIEXHYG6jjiMAUioYFlCQoNeOR9hF8Kf.pdf",
+        "file": "tmp/docs/cmt-119-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/119",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "120",
@@ -180,37 +251,53 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "category": "State Institutions related Standing Committees",
     "status": "Ongoing",
     "chairId": "265",
-    "viceChairId": "185",
+    "viceChairId": "203",
     "memberIds": [
       "249",
       "265",
-      "185",
       "203",
-      "207",
       "218",
       "229",
-      "242",
       "222",
       "209",
-      "258"
+      "258",
+      "206",
+      "242",
+      "178"
     ],
     "formerMemberIds": [
+      "185",
       "192",
+      "207",
       "246",
       "223",
       "199",
       "237",
-      "239"
+      "239",
+      "268"
     ],
     "meetingDates": [
-      "31 May 2026",
-      "11 May 2026",
-      "15 Apr 2026",
-      "08 Mar 2026",
-      "10 Feb 2026"
+      "09 Nov 2026",
+      "08 Nov 2026",
+      "04 Nov 2026",
+      "29 Oct 2026",
+      "27 Oct 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/120"
+    "documents": [
+      {
+        "label": "Committee on Economic Affairs' Attendance report up to 30th September 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/120/NCBulgD8j9cfk03M95D2QA7Sp2sD0b0utNafV5dS.xlsx",
+        "file": "tmp/docs/cmt-120-1.pdf"
+      },
+      {
+        "label": "Committee on Economic Affairs' Attendance report up to 30th September 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/120/8irORl3NBvQ1xxhe8EPVGDWy9KcHFzywl9OPcZZW.pdf",
+        "file": "tmp/docs/cmt-120-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/120",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "121",
@@ -237,14 +324,27 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "213"
     ],
     "meetingDates": [
-      "11 May 2026",
-      "07 May 2026",
-      "06 May 2026",
-      "05 May 2026",
-      "29 Apr 2026"
+      "27 Oct 2026",
+      "26 Oct 2026",
+      "20 Oct 2026",
+      "18 Aug 2026",
+      "17 Aug 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/121"
+    "documents": [
+      {
+        "label": "Committee on Social Affairs' Attendance report up to July 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/121/27jhnvrk3DnS4llQAoTm8KrR01PXZJqbw8plqqhF.xlsx",
+        "file": "tmp/docs/cmt-121-1.pdf"
+      },
+      {
+        "label": "Committee on Social Affairs' Attendance report up to July 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/121/vYgtRiN25Fypd00k8OJXDHt8vHcyEfZPCuTMjkaC.pdf",
+        "file": "tmp/docs/cmt-121-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/121",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "122",
@@ -274,14 +374,27 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "191"
     ],
     "meetingDates": [
-      "06 May 2026",
-      "21 Apr 2026",
-      "27 Nov 2025",
-      "08 Nov 2025",
-      "06 Nov 2025"
+      "02 Nov 2026",
+      "26 Oct 2026",
+      "21 Oct 2026",
+      "20 Oct 2026",
+      "12 Aug 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/122"
+    "documents": [
+      {
+        "label": "Committee on National Security Services Attendance report - up to 31 October 2026",
+        "url": "https://majlis.gov.mv/storage/committee_files/122/lKFxUKIDxbeHs9j5c68eo42fxtu6N91sDMaFRYTx.xlsx",
+        "file": "tmp/docs/cmt-122-1.pdf"
+      },
+      {
+        "label": "Committee on National Security Services Attendance report - up to 31 October 2026",
+        "url": "https://majlis.gov.mv/storage/committee_files/122/q33HwWmPebea4VnEzeC1s4wJY2GjOfIz0qLiOjOI.pdf",
+        "file": "tmp/docs/cmt-122-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/122",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "123",
@@ -313,14 +426,27 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "177"
     ],
     "meetingDates": [
-      "12 May 2026",
-      "11 May 2026",
-      "27 Apr 2026",
-      "30 Mar 2026",
-      "16 Feb 2026"
+      "26 Oct 2026",
+      "20 Oct 2026",
+      "13 Oct 2026",
+      "12 Oct 2026",
+      "07 Oct 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/123"
+    "documents": [
+      {
+        "label": "Committee on Independent Institutions Attendance report up to October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/123/vlcDiiWJd8FeKFifgghpwM5oOPApk9tn423BAFYd.pdf",
+        "file": "tmp/docs/cmt-123-1.pdf"
+      },
+      {
+        "label": "Committee on Independent Institutions Attendance report up to October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/123/M15ez0G1UVrl9WMczYQBPRp0Ehixq5iadAA2ufgb.xlsx",
+        "file": "tmp/docs/cmt-123-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/123",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "124",
@@ -333,62 +459,90 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "191",
       "236",
       "177",
+      "181",
       "183",
       "186",
       "193",
       "195",
       "246",
       "249",
-      "235",
-      "250"
+      "235"
     ],
     "formerMemberIds": [
-      "181",
-      "264"
+      "264",
+      "250"
     ],
     "meetingDates": [
-      "13 May 2026",
-      "27 Apr 2026",
-      "11 Feb 2026",
-      "27 Nov 2025",
-      "22 Oct 2025"
+      "27 Oct 2026",
+      "20 Oct 2026",
+      "29 Jul 2026",
+      "22 Jun 2026",
+      "13 May 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/124"
+    "documents": [
+      {
+        "label": "Government Oversight Committee's Attendance report up to 31st August 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/124/baMn0TOSCaBNqHLW6eT50npqBNXR5PAUnGcCglqt.xlsx",
+        "file": "tmp/docs/cmt-124-1.pdf"
+      },
+      {
+        "label": "Government Oversight Committee's Attendance report up to 31st August 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/124/FMYMPEsXE7djVpkqPpbvPAABxOuJLPinUvn12uo6.pdf",
+        "file": "tmp/docs/cmt-124-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/124",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "125",
     "name": "Committee on National Development And Heritage",
     "category": "State Institutions related Standing Committees",
     "status": "Ongoing",
-    "chairId": "265",
+    "chairId": "192",
     "viceChairId": "176",
     "memberIds": [
       "194",
-      "265",
-      "176",
-      "184",
       "192",
+      "176",
       "216",
       "230",
       "252",
       "255",
-      "262",
-      "179"
+      "265",
+      "179",
+      "206",
+      "250"
     ],
     "formerMemberIds": [
+      "184",
       "239",
+      "262",
       "248"
     ],
     "meetingDates": [
-      "06 May 2026",
-      "27 Apr 2026",
-      "05 Mar 2026",
-      "17 Feb 2026",
-      "10 Dec 2025"
+      "13 Oct 2026",
+      "25 Aug 2026",
+      "24 Aug 2026",
+      "23 Aug 2026",
+      "22 Aug 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/125"
+    "documents": [
+      {
+        "label": "Committee on National Development and Heritage attendance report - Up to August 2026",
+        "url": "https://majlis.gov.mv/storage/committee_files/125/mV3RNGRKrWJzN3SFmWnwgVvNUKXD1h68lOgEW9Jp.xlsx",
+        "file": "tmp/docs/cmt-125-1.pdf"
+      },
+      {
+        "label": "Committee on National Development and Heritage attendance report - Up to August 2026",
+        "url": "https://majlis.gov.mv/storage/committee_files/125/tbZqrVjQ07ITR9kUwHwakwDVfZe8X1fsFNlgLivr.pdf",
+        "file": "tmp/docs/cmt-125-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/125",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "126",
@@ -414,14 +568,27 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "176"
     ],
     "meetingDates": [
-      "01 Jun 2026",
-      "14 May 2026",
-      "29 Apr 2026",
-      "21 Apr 2026",
-      "13 Apr 2026"
+      "28 Oct 2026",
+      "27 Oct 2026",
+      "26 Oct 2026",
+      "21 Oct 2026",
+      "20 Oct 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/126"
+    "documents": [
+      {
+        "label": "Foreign Relations Committee's Attendance report up to 31st August 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/126/PoV8wu5bnxJDYmM2TsGwlPaOaKDn7eLjoAOkodZe.xlsx",
+        "file": "tmp/docs/cmt-126-1.pdf"
+      },
+      {
+        "label": "Foreign Relations Committee's Attendance report up to 31st August 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/126/yNQi3gpNkiBlpLl5Wf4iy5cS9QL2ORqLgZY67yFg.pdf",
+        "file": "tmp/docs/cmt-126-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/126",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "127",
@@ -440,16 +607,35 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "238",
       "243",
       "245",
-      "266",
-      "267"
+      "267",
+      "268"
     ],
-    "formerMemberIds": [],
+    "formerMemberIds": [
+      "266",
+      "218"
+    ],
     "meetingDates": [
-      "13 May 2026",
-      "12 May 2026"
+      "27 Oct 2026",
+      "21 Oct 2026",
+      "12 Oct 2026",
+      "24 Aug 2026",
+      "23 Aug 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/127"
+    "documents": [
+      {
+        "label": "Committee on Decentralization's attendance report up to August 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/127/8i5rqwqlp5l5dS4JwZsB1nRfkYGbWZZrIBxKlOS3.pdf",
+        "file": "tmp/docs/cmt-127-1.pdf"
+      },
+      {
+        "label": "Committee on Decentralization's attendance report up to August 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/127/zitClDzqEvPyNUXzGcdd6kxcceQh04TXHM9pGrGS.xlsx",
+        "file": "tmp/docs/cmt-127-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/127",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "128",
@@ -483,14 +669,27 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "203"
     ],
     "meetingDates": [
-      "11 May 2026",
-      "21 Apr 2026",
-      "24 Feb 2026",
-      "17 Feb 2026",
-      "11 Feb 2026"
+      "28 Oct 2026",
+      "27 Oct 2026",
+      "20 Oct 2026",
+      "18 Oct 2026",
+      "14 Oct 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/128"
+    "documents": [
+      {
+        "label": "Judiciary Committee Attendance report up to October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/128/ViuJAotwuljWU0wq9yeK4AW36nObZ1G8xRyrGq0t.xlsx",
+        "file": "tmp/docs/cmt-128-1.pdf"
+      },
+      {
+        "label": "Judiciary Committee Attendance report up to October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/128/xQt5hRr7zWl1j15sCuGiMPeRQ26Z1Tv7KSZJeqpZ.pdf",
+        "file": "tmp/docs/cmt-128-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/128",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "129",
@@ -510,21 +709,35 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "263",
       "266",
       "176",
-      "240"
+      "268"
     ],
     "formerMemberIds": [
       "198",
-      "206"
+      "206",
+      "240"
     ],
     "meetingDates": [
-      "05 May 2026",
-      "15 Apr 2026",
-      "14 Apr 2026",
-      "01 Dec 2025",
-      "26 Nov 2025"
+      "26 Oct 2026",
+      "21 Oct 2026",
+      "11 Aug 2026",
+      "10 Aug 2026",
+      "05 Aug 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/129"
+    "documents": [
+      {
+        "label": "Attendance Report of the Committee on Environment and Climate Change up to October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/129/crGpQ6MsIdk8utpoc8mwtbAUaOnmGwnJatW8OzWx.pdf",
+        "file": "tmp/docs/cmt-129-1.pdf"
+      },
+      {
+        "label": "Attendance Report of the Committee on Environment and Climate Change up to October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/129/YOsDI30uQ2gLwFjmGc65p34YzAPgs95J1onwXQVJ.xlsx",
+        "file": "tmp/docs/cmt-129-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/129",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "130",
@@ -554,14 +767,27 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "206"
     ],
     "meetingDates": [
-      "12 May 2026",
-      "04 May 2026",
-      "27 Apr 2026",
-      "22 Apr 2026",
-      "15 Apr 2026"
+      "28 Oct 2026",
+      "21 Oct 2026",
+      "20 Oct 2026",
+      "07 Oct 2026",
+      "06 Oct 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/130"
+    "documents": [
+      {
+        "label": "Human Rights and Gender Committee's Attendance Report till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/130/uiskX3MfMhdG7OxTkIpIlip3RH5tkuDjDtRscBVI.pdf",
+        "file": "tmp/docs/cmt-130-1.pdf"
+      },
+      {
+        "label": "Human Rights and Gender Committee's Attendance Report till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/130/QAA8XUppXUVJXkxbDQWe3dM4SAENid5lifbkeUUL.xlsx",
+        "file": "tmp/docs/cmt-130-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/130",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "131",
@@ -575,26 +801,40 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "247",
       "187",
       "230",
-      "240",
       "253",
       "256",
       "257",
       "258",
       "260",
-      "193"
+      "193",
+      "205"
     ],
     "formerMemberIds": [
+      "240",
       "194"
     ],
     "meetingDates": [
-      "05 May 2026",
-      "27 Apr 2026",
-      "10 Feb 2026",
-      "25 Nov 2025",
-      "18 Nov 2025"
+      "10 Nov 2026",
+      "27 Oct 2026",
+      "12 Oct 2026",
+      "11 Aug 2026",
+      "03 Aug 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/131"
+    "documents": [
+      {
+        "label": "Committee on State Owned Enterprises and it's Sub-Committee's Attendance Report till October 2026 (20th majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/131/Dodgy8ukoapdJQio6xbrGGnBBVAWT7pUQO8RMOsO.pdf",
+        "file": "tmp/docs/cmt-131-1.pdf"
+      },
+      {
+        "label": "Committee on State Owned Enterprises and it's Sub-Committee's Attendance Report till October 2026 (20th majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/131/15axK9lGXpDqxLnKw6c1ge7lemzMgNKo4E13CMDp.xlsx",
+        "file": "tmp/docs/cmt-131-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/131",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "132",
@@ -618,18 +858,31 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     ],
     "formerMemberIds": [],
     "meetingDates": [
-      "05 May 2026",
-      "22 Apr 2026",
-      "14 Apr 2026",
-      "11 Feb 2026",
-      "26 Nov 2025"
+      "27 Oct 2026",
+      "21 Oct 2026",
+      "20 Oct 2026",
+      "19 Oct 2026",
+      "13 Oct 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/132"
+    "documents": [
+      {
+        "label": "Information and Communication Technology Committee's Attendance report up to October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/132/tsng4Uy0lwSRPJElJjZVH3Fvbj4KT6k6PUGaAjEu.xlsx",
+        "file": "tmp/docs/cmt-132-1.pdf"
+      },
+      {
+        "label": "Information and Communication Technology Committee's Attendance report up to October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/132/adzG097GWv9ofwOuMOzSBBlxYH4lL6Z0tdHV40MB.pdf",
+        "file": "tmp/docs/cmt-132-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/132",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "133",
-    "name": "Foreign Relations Sub Committee (To review Annual Reports)",
+    "name": "Foreign Relations Sub Committee (To review Annual Reports for the year 2023 of Ministry of Foreign Affairs and 17 missions)",
     "category": "Select Committees",
     "status": "Completed",
     "chairId": "247",
@@ -652,23 +905,36 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "11 Jun 2024"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/133"
+    "documents": [
+      {
+        "label": "Foreign Relations Committee's Sub Committee 1 Attendance Report up to August 2024",
+        "url": "https://majlis.gov.mv/storage/committee_files/133/2MOlgOGQdO5KMcmfDt7GQy6AK2Q45RALbGYVH1ep.pdf",
+        "file": "tmp/docs/cmt-133-1.pdf"
+      },
+      {
+        "label": "Foreign Relations Committee's Sub Committee 1 Attendance Report up to August 2024",
+        "url": "https://majlis.gov.mv/storage/committee_files/133/MydvV1E4gy85iB2pFn5Dt5pwq9marmCmosZEw2jp.xlsx",
+        "file": "tmp/docs/cmt-133-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/133",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "134",
     "name": "Public Accounts Committee's Sub Committee - 01 (To review Audit Reports)",
     "category": "Select Committees",
     "status": "Ongoing",
-    "chairId": "196",
+    "chairId": "197",
     "viceChairId": "197",
     "memberIds": [
-      "206",
       "196",
       "197",
       "231",
       "266"
     ],
     "formerMemberIds": [
+      "206",
       "178"
     ],
     "meetingDates": [
@@ -679,7 +945,20 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "19 Mar 2025"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/134"
+    "documents": [
+      {
+        "label": "Attendance Report of Sub-Committee 1 of Public Accounts Committee till 31st October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/134/gPSMCZQZZWpye6ushdXoeh9ikJClpYzoYdGyByBf.xlsx",
+        "file": "tmp/docs/cmt-134-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Sub-Committee 1 of Public Accounts Committee till 31st October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/134/aCQIBbzUlTlWzxLvlmXpHLoXgVS0JTM4BLaHtk3r.pdf",
+        "file": "tmp/docs/cmt-134-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/134",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "135",
@@ -699,28 +978,55 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "22 Jul 2024"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/135"
+    "documents": [
+      {
+        "label": "Attendance Report of Sub-Committee 4 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/135/a8Wcpzm1xoI0hPvPMWwY0pexUlcoiLKQI7QwdusN.xlsx",
+        "file": "tmp/docs/cmt-135-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Sub-Committee 4 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/135/D1ODs6emefNylPjPw4820ailPGPVNKUtMhoIu6cb.pdf",
+        "file": "tmp/docs/cmt-135-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/135",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "136",
     "name": "State Owned Enterprises Committee's Sub-Committee 6 (To review the status of state-owned enterprises in the utilities sector)",
     "category": "Select Committees",
     "status": "Ongoing",
-    "chairId": "260",
+    "chairId": "253",
     "viceChairId": "253",
     "memberIds": [
-      "240",
       "260",
       "253",
       "256"
     ],
-    "formerMemberIds": [],
+    "formerMemberIds": [
+      "240"
+    ],
     "meetingDates": [
       "27 Nov 2024",
       "30 Jul 2024"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/136"
+    "documents": [
+      {
+        "label": "Attendance Report of Sub-Committee 6 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/136/S7s1PMfFpbbD0QyXfjjmNtDCpH9dKHwMmMPnzOJ0.xlsx",
+        "file": "tmp/docs/cmt-136-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Sub-Committee 6 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/136/mshJ0ex4xbW9UyVKEvQx1pEyCK51vwyIAAG4frdO.pdf",
+        "file": "tmp/docs/cmt-136-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/136",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "137",
@@ -728,14 +1034,15 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "category": "Select Committees",
     "status": "Ongoing",
     "chairId": "256",
-    "viceChairId": "240",
+    "viceChairId": "260",
     "memberIds": [
       "258",
       "256",
-      "240",
       "260"
     ],
-    "formerMemberIds": [],
+    "formerMemberIds": [
+      "240"
+    ],
     "meetingDates": [
       "18 Feb 2025",
       "11 Dec 2024",
@@ -743,7 +1050,20 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "30 Jul 2024"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/137"
+    "documents": [
+      {
+        "label": "Attendance Report of Sub-Committee 7 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/137/HVIIl7anmyxiOimdM4E7GGaXblXbC7OdQ6m7sG49.xlsx",
+        "file": "tmp/docs/cmt-137-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Sub-Committee 7 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/137/lDvE2aqtq5lhzxZbGCxzGMrueEYB80PO9Cm2eC7T.pdf",
+        "file": "tmp/docs/cmt-137-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/137",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "138",
@@ -751,11 +1071,10 @@ export const REAL_COMMITTEES: RealCommittee[] = [
     "category": "State Institutions related Standing Committees",
     "status": "Ongoing",
     "chairId": "180",
-    "viceChairId": "175",
+    "viceChairId": "182",
     "memberIds": [
-      "214",
-      "180",
       "175",
+      "180",
       "182",
       "185",
       "188",
@@ -763,18 +1082,35 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "200",
       "229",
       "249",
-      "195"
+      "195",
+      "208"
     ],
     "formerMemberIds": [
+      "214",
       "233"
     ],
     "meetingDates": [
-      "05 Nov 2025",
-      "02 Nov 2025",
-      "11 Aug 2025"
+      "07 Oct 2026",
+      "10 Aug 2026",
+      "14 Jul 2026",
+      "29 Jun 2026",
+      "17 Jun 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/138"
+    "documents": [
+      {
+        "label": "Attendance report of the Housing Committee until August 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/138/RZo4wQO9iNRotwdEhttm1zAiKJq3uEOpV6mrB9ZP.pdf",
+        "file": "tmp/docs/cmt-138-1.pdf"
+      },
+      {
+        "label": "Attendance report of the Housing Committee until August 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/138/WwcA0N4YLQ0taYN6EN0Ya4h3p89XTatzJM2CLWxM.xlsx",
+        "file": "tmp/docs/cmt-138-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/138",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "139",
@@ -794,7 +1130,20 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "12 Aug 2024"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/139"
+    "documents": [
+      {
+        "label": "Attendance Report of Sub-Committee 1 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/139/Rm6iZ2xNreZAUheLP8c7P1fV37Pmr9yAkaBYawco.xlsx",
+        "file": "tmp/docs/cmt-139-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Sub-Committee 1 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/139/S1GaYHAI5vqBKxNjaGv8ggU0gDsqu1znbujSUfj0.pdf",
+        "file": "tmp/docs/cmt-139-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/139",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "140",
@@ -836,18 +1185,31 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "22 Aug 2024"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/140"
+    "documents": [
+      {
+        "label": "Joint Committee of Committee on National Development and Heritage and Committee on Decentralization's attendance report",
+        "url": "https://majlis.gov.mv/storage/committee_files/140/rin0MWnIFAp4Yx80QmhWRhvaY9ACtmhwBkbioeC8.pdf",
+        "file": "tmp/docs/cmt-140-1.pdf"
+      },
+      {
+        "label": "Joint Committee of Committee on National Development and Heritage and Committee on Decentralization's attendance report",
+        "url": "https://majlis.gov.mv/storage/committee_files/140/96941vwUrwrfNM8qbmbd0Ne1zEfguGQB8lECdIPN.xlsx",
+        "file": "tmp/docs/cmt-140-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/140",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "141",
     "name": "Committee of the Whole House",
     "category": "Select Committees",
     "status": "Ongoing",
-    "chairId": "240",
+    "chairId": "217",
     "viceChairId": "175",
     "memberIds": [
       "259",
-      "240",
+      "217",
       "175",
       "176",
       "177",
@@ -890,7 +1252,6 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "214",
       "215",
       "216",
-      "217",
       "218",
       "219",
       "220",
@@ -912,6 +1273,7 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "237",
       "238",
       "239",
+      "240",
       "241",
       "242",
       "243",
@@ -937,20 +1299,34 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "264",
       "265",
       "266",
-      "267"
+      "267",
+      "268"
     ],
     "formerMemberIds": [
       "233"
     ],
     "meetingDates": [
-      "24 Nov 2025",
-      "04 Nov 2025",
-      "20 Nov 2024",
-      "12 Nov 2024",
-      "30 Oct 2024"
+      "02 Nov 2026",
+      "18 Aug 2026",
+      "12 Aug 2026",
+      "15 Jul 2026",
+      "29 Jun 2026"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/141"
+    "documents": [
+      {
+        "label": "Attendance of Committee of the Whole House 2024",
+        "url": "https://majlis.gov.mv/storage/committee_files/141/Ydnt2hACw63EqvJNmfpIos6zsbrUdIiiUVD92rEg.pdf",
+        "file": "tmp/docs/cmt-141-1.pdf"
+      },
+      {
+        "label": "Attendance of Committee of the Whole House 2025",
+        "url": "https://majlis.gov.mv/storage/committee_files/141/un2gMCdLaXvzcUy61CAAqIJJI5t1ibg17o2GQvkk.pdf",
+        "file": "tmp/docs/cmt-141-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/141",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "142",
@@ -974,7 +1350,20 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "13 Aug 2024"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/142"
+    "documents": [
+      {
+        "label": "Attendance Report of Sub-Committee 5 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/142/JJOaUjLPmC4V3WNMU9GiDeuWHuC8eKRdPH5oKzCO.xlsx",
+        "file": "tmp/docs/cmt-142-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Sub-Committee 5 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/142/2qq1flM3mxpN1FMxbbaSWQ0y5qXAQVTguP18G5u9.pdf",
+        "file": "tmp/docs/cmt-142-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/142",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "143",
@@ -994,7 +1383,20 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "14 Aug 2024"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/143"
+    "documents": [
+      {
+        "label": "Attendance Report of Sub-Committee 8 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/143/Ft4zoczkVNS3TDQNeWO8AYKmzLUx9DZqFfefYnAf.pdf",
+        "file": "tmp/docs/cmt-143-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Sub-Committee 8 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/143/UL6bopMVWAk57RQNEbSVNB5LrFpFX6u1a8ZsJYFi.xlsx",
+        "file": "tmp/docs/cmt-143-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/143",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "144",
@@ -1017,7 +1419,20 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "19 Aug 2024"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/144"
+    "documents": [
+      {
+        "label": "Attendance Report of Sub-Committee 2 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/144/WpARqrfHE38W2hXDCCpNvZUfRvGkHr0eATguL779.xlsx",
+        "file": "tmp/docs/cmt-144-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Sub-Committee 2 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/144/fexTRApm0MOEaTuXgFRyxL6QdUDoVesOD21KG4Ww.pdf",
+        "file": "tmp/docs/cmt-144-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/144",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "145",
@@ -1041,7 +1456,20 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "29 Oct 2024"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/145"
+    "documents": [
+      {
+        "label": "Attendance Report of Sub-Committee 3 of State Owned Enterprises Committee till October 2026 (20th Majlis",
+        "url": "https://majlis.gov.mv/storage/committee_files/145/zwgXekektbKVhO9e1ToRzIqNSeXAYafZIDoBXxu8.xlsx",
+        "file": "tmp/docs/cmt-145-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Sub-Committee 3 of State Owned Enterprises Committee till October 2026 (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/145/2oOuNwmJDNktZHABQMyjY88fs4H2bfG8Ey2CMFj1.pdf",
+        "file": "tmp/docs/cmt-145-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/145",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "146",
@@ -1059,33 +1487,50 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "197",
       "203",
       "206",
-      "207",
       "209",
+      "218",
       "222",
       "229",
       "231",
       "232",
-      "240",
       "242",
       "252",
       "265",
       "266",
       "254",
       "258",
-      "237"
+      "178",
+      "200"
     ],
     "formerMemberIds": [
       "192",
       "194",
-      "218"
+      "207",
+      "240",
+      "237"
     ],
     "meetingDates": [
+      "09 Nov 2026",
+      "05 Nov 2026",
+      "04 Nov 2026",
       "19 Nov 2025",
-      "16 Nov 2025",
-      "15 Nov 2025"
+      "16 Nov 2025"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/146"
+    "documents": [
+      {
+        "label": "Attendance Report of Budget Committee for 2024 and 2025",
+        "url": "https://majlis.gov.mv/storage/committee_files/146/8YJVT98A86xldnIfknU8VNfLqz3PNzEf8Sjb3MPG.xlsx",
+        "file": "tmp/docs/cmt-146-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Budget Committee for 2024 and 2025",
+        "url": "https://majlis.gov.mv/storage/committee_files/146/xw8qU9MJSgAn0ercdH3RD6xSUA4WxFT2zuJYb57d.pdf",
+        "file": "tmp/docs/cmt-146-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/146",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "147",
@@ -1124,7 +1569,20 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "27 Oct 2024"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/147"
+    "documents": [
+      {
+        "label": "Attendance Report of Joint Committee of Public Accounts Committee and Committee on Economic Affairs",
+        "url": "https://majlis.gov.mv/storage/committee_files/147/kjFhARzy0jzDhla4JcEmRRntEhcvtqdg4lBPgEk6.xlsx",
+        "file": "tmp/docs/cmt-147-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Joint Committee of Public Accounts Committee and Committee on Economic Affairs",
+        "url": "https://majlis.gov.mv/storage/committee_files/147/WzjuUm2uJRAmjpvri1YN1NFlKOyG6145I8RF8WRM.pdf",
+        "file": "tmp/docs/cmt-147-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/147",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "149",
@@ -1151,7 +1609,20 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "23 Jun 2025"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/149"
+    "documents": [
+      {
+        "label": "Attendance Report of Sub-Committee 2 of Public Accounts Committee (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/149/Fa3EQ8WCxVptZjmPGwpyYX1emiiI4OrbM7tjtaWD.xlsx",
+        "file": "tmp/docs/cmt-149-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Sub-Committee 2 of Public Accounts Committee (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/149/zSTaHsybujqhdMl5kXwl888pNt4r7Pm8NGpLjgNF.pdf",
+        "file": "tmp/docs/cmt-149-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/149",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "150",
@@ -1177,7 +1648,20 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "30 Apr 2025"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/150"
+    "documents": [
+      {
+        "label": "20th Ad Hoc Committee on Tobacco Control Act (Law no.15/2010) Amendment bill's attendance report",
+        "url": "https://majlis.gov.mv/storage/committee_files/150/aXqWDFQ62TMKDFnVxqQQ8j7P5PTiysMYI5EiBLsP.pdf",
+        "file": "tmp/docs/cmt-150-1.pdf"
+      },
+      {
+        "label": "20th Ad Hoc Committee on Tobacco Control Act (Law no.15/2010) Amendment bill's attendance report",
+        "url": "https://majlis.gov.mv/storage/committee_files/150/2gArk1JVRB4QLgVE8U5fAMRlTj0BrNEcg0lgJgNr.xlsx",
+        "file": "tmp/docs/cmt-150-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/150",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "151",
@@ -1190,8 +1674,8 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "194",
       "190",
       "176",
-      "184",
       "186",
+      "188",
       "192",
       "205",
       "216",
@@ -1202,72 +1686,105 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "245",
       "252",
       "255",
-      "262",
       "263",
       "264",
       "265",
       "182",
       "179",
-      "213"
+      "206",
+      "250"
     ],
     "formerMemberIds": [
-      "188",
+      "184",
       "239",
       "248",
-      "218"
+      "262",
+      "218",
+      "213"
     ],
     "meetingDates": [
+      "04 Nov 2026",
+      "27 Oct 2026",
       "11 Aug 2025",
       "15 Jul 2025",
-      "14 Jul 2025",
-      "01 Jul 2025"
+      "14 Jul 2025"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/151"
+    "documents": [],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/151",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "152",
     "name": "National Development and Heritage Committee's Sub-Committee - 1 (To review Annual Reports)",
     "category": "Select Committees",
     "status": "Ongoing",
-    "chairId": "262",
-    "viceChairId": "230",
+    "chairId": "230",
+    "viceChairId": null,
     "memberIds": [
       "192",
-      "262",
       "230"
     ],
-    "formerMemberIds": [],
+    "formerMemberIds": [
+      "262"
+    ],
     "meetingDates": [
       "07 Oct 2025"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/152"
+    "documents": [
+      {
+        "label": "Committee on National Development and Heritage Sub Committee 1 - Attendance report Up to October 2025",
+        "url": "https://majlis.gov.mv/storage/committee_files/152/hQ7yU01Z9jk1PELratphEhGuQyYJXqsF1j2G7xUN.xlsx",
+        "file": "tmp/docs/cmt-152-1.pdf"
+      },
+      {
+        "label": "Committee on National Development and Heritage Sub Committee 1 - Attendance report Up to October 2025",
+        "url": "https://majlis.gov.mv/storage/committee_files/152/JSAo2Yvn2mv3hZnnT5EptrYB1tZMRZU2htlpL9gE.pdf",
+        "file": "tmp/docs/cmt-152-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/152",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "153",
     "name": "Public Accounts Committee's Sub Committee - 03 (To review Special Audits of Fenaka Corporation Limited)",
-    "category": "Select Committees",
-    "status": "Ongoing",
-    "chairId": "177",
+    "category": "Select Committees (Completed)",
+    "status": "Completed",
+    "chairId": "206",
     "viceChairId": "177",
     "memberIds": [
+      "217",
       "206",
       "177",
       "196",
-      "231"
-    ],
-    "formerMemberIds": [
+      "231",
       "240"
     ],
+    "formerMemberIds": [],
     "meetingDates": [
+      "14 Jul 2026",
       "04 Mar 2026",
       "09 Nov 2025",
       "05 Nov 2025",
       "29 Oct 2025"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/153"
+    "documents": [
+      {
+        "label": "Attendance Report of Sub-Committee 3 of Public Accounts Committee (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/153/ns6yKalO3xofNPemL4VieXAtEOIOFzwXIRltSlra.xlsx",
+        "file": "tmp/docs/cmt-153-1.pdf"
+      },
+      {
+        "label": "Attendance Report of Sub-Committee 3 of Public Accounts Committee (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/153/PhLxJqfAOJofI4o9AIxzB5KZQesKZV50W7hMngJz.pdf",
+        "file": "tmp/docs/cmt-153-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/153",
+    "fetchedAt": "2026-11-09"
   },
   {
     "id": "154",
@@ -1292,6 +1809,59 @@ export const REAL_COMMITTEES: RealCommittee[] = [
       "19 Nov 2025"
     ],
     "works": 0,
-    "url": "https://majlis.gov.mv/en/20-parliament/committee/154"
+    "documents": [
+      {
+        "label": "Ad Hoc Committee to review the Bill to Amend Act No. 10/2010 (Local Council Elections Act) and the Bill to Amend Act No. 7/2010 (Decentralization Act)’s attendance report (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/154/MwBXVSacjOVpcXm6HPUHIebkhiXcfI99wMKivNne.xlsx",
+        "file": "tmp/docs/cmt-154-1.pdf"
+      },
+      {
+        "label": "Ad Hoc Committee to review the Bill to Amend Act No. 10/2010 (Local Council Elections Act) and the Bill to Amend Act No. 7/2010 (Decentralization Act)’s attendance report (20th Majlis)",
+        "url": "https://majlis.gov.mv/storage/committee_files/154/XhctuIh6FVS22g8srOELvx5kMD9FBPOteVIJ2NnZ.pdf",
+        "file": "tmp/docs/cmt-154-2.pdf"
+      }
+    ],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/154",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "id": "155",
+    "name": "Joint Committee of Committee on National Development And Heritage and Committee on Social Affairs (Education Act Amendment Bill)",
+    "category": "Joint Committees",
+    "status": "Ongoing",
+    "chairId": "192",
+    "viceChairId": "176",
+    "memberIds": [
+      "190",
+      "192",
+      "176",
+      "179",
+      "182",
+      "186",
+      "188",
+      "194",
+      "205",
+      "206",
+      "216",
+      "221",
+      "223",
+      "226",
+      "230",
+      "245",
+      "250",
+      "252",
+      "255",
+      "263",
+      "264",
+      "265"
+    ],
+    "formerMemberIds": [],
+    "meetingDates": [
+      "04 Nov 2026"
+    ],
+    "works": 0,
+    "documents": [],
+    "url": "https://majlis.gov.mv/en/20-parliament/committee/155",
+    "fetchedAt": "2026-11-09"
   }
 ]

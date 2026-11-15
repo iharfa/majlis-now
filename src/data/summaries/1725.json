@@ -1,0 +1,22 @@
+{
+  "workId": "1725",
+  "titleDv": "ޤާނޫނު ނަންބަރު 8/2020 (ފެނާއި ނަރުދަމާގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the Water and Sewerage Act (No. 8/2020). The current law gives the state 5 years from the law's start to set up a suitable water and sewerage system on every inhabited island; the bill replaces that with a deadline of 2027 at the latest. It removes some ministry duties, including running a water-testing laboratory, giving councils financial assistance and reviewing the regulator's work, and repeals Article 15 on service providers' yearly plans. It gives the Authority power to set licensing rules and quality standards for engineers, plumbers and other technical workers, and standards for labs that test drinking water. It also replaces the performance report with an annual report and adds new fines, including for polluting groundwater.",
+  "whyItMatters": "Islands still without a proper water and sewerage system get a new deadline of 2027, and plumbers, engineers and utilities would face licensing rules, reporting duties and new fines.",
+  "keyProvisions": [
+    "Article 8(ނ): the state must arrange a suitable water and sewerage system on every inhabited island by 2027 at the latest, replacing the 5-year period from the law's start.",
+    "Article 8: the ministry's duty to set up a water-testing laboratory and its duty to review the regulator's plans are removed, and its support to councils becomes technical advice only, without financial assistance.",
+    "Article 11: the Authority sets licensing conditions, procedures and quality standards for water and sewerage technical workers and keeps a public register of them, and sets standards and conditions for labs testing public water.",
+    "Article 15 (yearly plan submitted to the ministry) is repealed, and Article 43 now requires every licensed provider to send an annual report, with next year's plan and last year's performance, to the council and the Authority before the end of March.",
+    "Article 25(ހ): a permit to set up a water and sewerage system needs an environmental impact report approved by the Environmental Protection Agency under regulations made under Law No. 4/93, instead of the named 2012 regulation.",
+    "Article 54 and 62: misuse of the water and sewerage system stays punishable by a fine of up to MVR 1,000,000 and is now defined, polluting groundwater is fined up to MVR 100,000, and banned acts with no set penalty are fined MVR 5,000 to MVR 100,000. The changes take effect when published in the Government Gazette."
+  ],
+  "whoIsAffected": "Island communities waiting for water and sewerage systems, councils, licensed water and sewerage providers, and engineers, plumbers and other technical workers in the sector.",
+  "statedReasons": "The government says the bill extends the 5-year period in the law for setting up water and sewerage systems on inhabited islands and makes amendments needed to run the law more effectively.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 12,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

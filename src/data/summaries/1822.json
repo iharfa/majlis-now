@@ -1,0 +1,22 @@
+{
+  "workId": "1822",
+  "titleDv": "ޤާނޫނު ނަންބަރު 30/2024 (ދައުލަތުގެ ފިސްކަލް ޒިންމާގެ ޤާނޫނު) އަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill, presented by the Huraa MP, amends the Fiscal Responsibility Act (Act No. 30/2024). It extends the deadline for drawing up, approving and publishing the first Fiscal Responsibility Charter from 6 months to 24 months after the Act took effect, and does the same for the deadline for the Minister to make and publish the Act's regulations. It removes Article 39(b), which defined when a reporting cycle counts as having started (after its first 18 months). It also adds two paragraphs saying that, within that 24-month period, the charter-related duties under the Act and Article 12 of the Act do not have to be complied with.",
+  "whyItMatters": "The government would have up to two years from the Act's start, instead of six months, to adopt the first fiscal responsibility charter and the Act's regulations, and some of the Act's duties would not apply during that time.",
+  "keyProvisions": [
+    "Clause 1 rewrites Article 39(a): the first Fiscal Responsibility Charter under Article 7 must be drawn up, approved as set out in Article 11 and published in the Government Gazette within 24 months of the Act taking effect, instead of 6 months.",
+    "Clause 2 repeals Article 39(b), which said a reporting cycle counts as having started once its first 18 months have passed.",
+    "Clause 3 adds Article 39(bh): despite anything in this or any other law, there is no obligation, during the period in paragraph (a), to comply with anything that must be done under the Act in connection with drawing up the charter.",
+    "Clause 3 also adds Article 39(lh): Article 12 of the Act does not have to be complied with during the period in paragraph (a).",
+    "Clause 4 rewrites Article 41 so that the Minister must make and publish the regulations required under the Act within 24 months of the Act taking effect, instead of 6 months.",
+    "Clause 5 says the amendment takes effect once it is passed, ratified and published in the Government Gazette."
+  ],
+  "whoIsAffected": "The Minister of Finance and government bodies responsible for the fiscal responsibility charter and regulations, and the public who rely on the fiscal rules the Act sets.",
+  "statedReasons": "The government says the bill is needed to resolve difficulties in drawing up the State's Fiscal Responsibility Charter required by Act No. 30/2024 and to review the principles for drawing it up.",
+  "sourceDoc": "Bill",
+  "pagesRead": 6,
+  "pagesTotal": 6,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

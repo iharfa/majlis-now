@@ -1,0 +1,312 @@
+{
+ "sittingId": "844",
+ "date": "2024-05-28",
+ "title": "1st sitting of the 20th Majlis",
+ "presiding": "Ahmed Siyam Mohamed (Meedhoo) as longest-serving member until the Speaker was elected; then Speaker Abdul Raheem Abdulla (Fonadhoo); Deputy Speaker Ahmed Nazim (Dhiggaru) after the midday recess",
+ "attendance": {
+  "present": 93,
+  "onLeave": null,
+  "officialTravel": null
+ },
+ "summary": "At the first sitting of the 20th Majlis, all 93 members were present. They elected a five-member committee to count secret ballots, then chose Abdul Raheem Abdulla (Fonadhoo) as Speaker with 71 votes against 14 for Ibrahim Nazil, and Ahmed Nazim (Dhiggaru) as Deputy Speaker with 80 votes against 12 for Ahmed Didi. The new Speaker took the chair and gave an address. The Majlis then debated how to work without its own rules yet, agreed to keep using the 19th Majlis rules until new ones are passed, and set the size of the standing committees.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers and start of the sitting by the longest-serving member",
+   "outcome": "Sitting opened under Ahmed Siyam Mohamed"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "93 members present"
+  },
+  {
+   "n": "3",
+   "title": "Announcing the day's agenda (agenda no. 2024/1)",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Electing a five-member temporary committee to count the secret votes for Speaker and Deputy Speaker",
+   "outcome": "passed 92-0; committee of Ibrahim Didi, Abdul Gafoor Moosa, Qasim Ibrahim, Mohamed Nazim, Mohamed Abbas"
+  },
+  {
+   "n": "5",
+   "title": "Secret ballot to elect the Speaker",
+   "outcome": "ballot held after a 10:44 to 11:18 break"
+  },
+  {
+   "n": "6",
+   "title": "Announcing the Speaker election result",
+   "outcome": "Abdul Raheem Abdulla (Fonadhoo) elected, 71 votes to 14, 7 invalid"
+  },
+  {
+   "n": "7",
+   "title": "Secret ballot to elect the Deputy Speaker",
+   "outcome": "ballot held"
+  },
+  {
+   "n": "8",
+   "title": "Announcing the Deputy Speaker election result",
+   "outcome": "Ahmed Nazim (Dhiggaru) elected, 80 votes to 12"
+  },
+  {
+   "n": "9",
+   "title": "Handing the chair to the Speaker and the Speaker's address",
+   "outcome": "Speaker took the chair and spoke; 30-minute recess followed"
+  },
+  {
+   "n": "10",
+   "title": "Chair's matter on the Majlis rules of procedure under Article 88 of the Constitution",
+   "outcome": "debated; passed 90-0 to keep using the 19th Majlis rules until new rules are passed, with the general committee to draft new rules by 26 June 2024"
+  },
+  {
+   "n": "11",
+   "title": "Forming the standing committees",
+   "outcome": "passed 88-0: 13 members for the Article 241 security services committee, 11 for other standing committees, party nominations due to the Secretariat by Sunday 2 June 2024"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 5,
+   "positions": [
+    "Nominated five members for the vote-counting committee and seconded the Speaker nomination.",
+    "Moved that the 19th Majlis rules apply until new rules pass, with the general committee drafting them by 26 June.",
+    "Moved the standing committee sizes and a deadline for parties to send committee names."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 4,
+   "positions": [
+    "Seconded the vote-counting committee nominations, the Deputy Speaker nomination and the standing committee motion."
+   ]
+  },
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 3,
+   "positions": [
+    "Supported the Speaker and Deputy Speaker nominations and welcomed the new Speaker.",
+    "Said the 19th Majlis rules can be used while amending them if needed."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Nominated Ibrahim Nazil for Speaker and Ahmed Didi for Deputy Speaker."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 2,
+   "positions": [
+    "Said the rules were made to last across Majlis terms and could be revised rather than replaced.",
+    "Asked the chair to clarify quorum wording before the standing committee numbers change."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Seconded the nomination of Ibrahim Nazil for Speaker."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 1,
+   "positions": [
+    "Seconded the nomination of Ahmed Didi for Deputy Speaker."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Said the 19th Majlis rules should apply until the Majlis amends its own rules."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported continuing under the existing rules until new rules are made."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported applying the 19th Majlis rules to this Majlis for now."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the motion and asked for arrangements so work continues without pause."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Supported continuing under the 19th Majlis rules until new rules are made."
+   ]
+  },
+  {
+   "name": "Fathimath Sauda",
+   "constituency": "Nilandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion as moved by Ibrahim Falah."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed carrying on under the old rules and urged a committee with as many parties as possible."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Asked that many members' views be reflected when the rules are amended."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the motion, including passing new rules before 26 June."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the motion and a committee including as many parties as possible."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Supported Ibrahim Falah's motion in full."
+   ]
+  },
+  {
+   "name": "Mohamed Afoo Hamid",
+   "constituency": "Kendhikulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Said continuing under the previous Majlis rules is the better course and backed the motion."
+   ]
+  },
+  {
+   "name": "Ismail Shafeeu",
+   "constituency": "Isdhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion."
+   ]
+  },
+  {
+   "name": "Ismail Nizar",
+   "constituency": "North Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported applying the 19th Majlis rules until this Majlis makes its own."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Said work must not stall for lack of rules and that amendments can be passed if needed."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Abdul Rahman",
+   "constituency": "Alifushi",
+   "turns": 1,
+   "positions": [
+    "Supported the motion."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the motion on handling rule amendments."
+   ]
+  }
+ ],
+ "decisions": [
+  "A five-member vote-counting committee was formed (92 in favour, none against).",
+  "Abdul Raheem Abdulla (Fonadhoo) was elected Speaker of the 20th Majlis.",
+  "Ahmed Nazim (Dhiggaru) was elected Deputy Speaker.",
+  "The Majlis will use the 19th Majlis rules until the 20th Majlis rules are passed; the general committee must draft them by 26 June 2024.",
+  "Standing committees set at 13 members for the Article 241 security services committee and 11 members for the others; parties and independents to send committee names to the Secretariat by Sunday 2 June 2024.",
+  "The next sitting is set for Monday 3 June 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Five-member temporary committee to count the secret ballots",
+   "yes": 92,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Secret ballot for Speaker: Abdul Raheem Abdulla (Fonadhoo) 71, Ibrahim Nazil (South Hithadhoo) 14, invalid 7",
+   "yes": 71,
+   "no": null,
+   "abstain": null
+  },
+  {
+   "what": "Secret ballot for Deputy Speaker: Ahmed Nazim (Dhiggaru) 80, Ahmed Didi (Maradhoo) 12",
+   "yes": 80,
+   "no": null,
+   "abstain": null
+  },
+  {
+   "what": "Apply 19th Majlis rules until new rules pass; general committee to draft new rules by 26 June 2024",
+   "yes": 90,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Standing committee sizes (13 for security services, 11 for others) and party nominations due by 2 June 2024",
+   "yes": 88,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 41,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

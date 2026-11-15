@@ -1,0 +1,206 @@
+{
+ "sittingId": "1055",
+ "date": "2026-07-28",
+ "title": "16th Sitting of Second session of 2026",
+ "presiding": "Ahmed Saleem (Deputy Speaker)",
+ "attendance": {
+  "present": 28,
+  "onLeave": 9,
+  "officialTravel": 6
+ },
+ "summary": "The sitting opened at 09:01 with routine business: attendance, the agenda, approval of earlier minutes, committee announcements and a letter from the President about a diplomatic appointment. Most of the part was a debate on a resolution by the member for Kendhoo asking MPs for their views on SOE staff being dismissed for political reasons; government-aligned members opposed it and opposition members backed it. After a recess (10:30 to 11:00) the Finance Committee presented its report on an Auditor General special audit of Fenaka Corporation's Addu City branches and projects, and debate on it began. The text is partly garbled, so speaker gists are approximate. The second half of the sitting continued the debate on the Finance Committee's report on the Auditor General's special audit of Fenaka Corporation's Addu City branches and projects for 2021 to 2023. Members argued over the audit's findings, spending in earlier and current governments, and political appointments, and the chair twice called members to order. At voting time the report was passed 53-0 with 54 members present, and the sitting was adjourned to Wednesday 29 July 2026 at 9:00.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "28 present, 9 on leave, 6 on official duty"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Approval of minutes of sittings 10 to 15",
+   "outcome": "no amendments proposed; declared accepted by the chair"
+  },
+  {
+   "n": "5.1",
+   "title": "Committee deadlines announced by the chair (IT committee: digital transformation and digital identity bills; independent institutions committee: two motions)",
+   "outcome": "announced"
+  },
+  {
+   "n": "6.1",
+   "title": "President's letter seeking Majlis view on appointing a permanent representative to the International Renewable Energy Agency",
+   "outcome": "read out and sent to the Foreign Relations Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "Resolution to gauge MPs' views on politically motivated dismissals of SOE employees (member for Kendhoo)",
+   "outcome": "debated; no vote recorded in this part"
+  },
+  {
+   "n": "8",
+   "title": "Matters from committees (after recess)",
+   "outcome": "began after recess"
+  },
+  {
+   "n": "8.1",
+   "title": "Finance Committee report on the Auditor General's special audit of Fenaka Corporation's Addu City branches and projects, 2021 to 2023",
+   "outcome": "report presented; debate begun, continues in next part"
+  },
+  {
+   "n": "(cont.)",
+   "title": "Finance Committee report on the Auditor General's special audit of Fenaka Corporation's Addu City branches and projects, 2021-2023",
+   "outcome": "debated; closed by the chair after all members wishing to speak had done so"
+  },
+  {
+   "n": "9.1",
+   "title": "Vote on the Finance Committee report on the Fenaka special audit",
+   "outcome": "passed 53-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 3,
+   "positions": [
+    "Opposed the resolution; compared dismissal figures and state finances under earlier governments and defended the President's public engagement.",
+    "Defended the Majlis workload, saying most core laws are already passed and members can table bills themselves.",
+    "Said the report covers 2021 to 2023 under the MDP government and should be read as that period's audit, and that it shows irregular spending and losses.",
+    "Said little auditing was done of companies in that period and the report shows what he called theft; the chair told him to sit down and keep order."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 2,
+   "positions": [
+    "On 7.1, opposed the resolution; said SOE headcounts and loans for salaries rose sharply before elections under the MDP government.",
+    "On 8.1, presented the Finance Committee's Fenaka Addu City audit report and its recommendations."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Backed much of the Fenaka report but questioned the practicality of the sewage treatment and staff reduction recommendations, and urged wider audits of loss-making companies.",
+    "Argued that public money is being wasted on political appointments under Article 115 of the Constitution, citing figures of billions of rufiyaa over the term; the chair asked him to stay on the topic."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the resolution, saying no evidence of unlawful political dismissals was given and SOEs were heavily staffed under the previous government."
+   ]
+  },
+  {
+   "name": "Ahmed Thariq",
+   "constituency": "Mahibadhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the resolution; said SOE jobs were expanded for political reasons in earlier governments, citing Fenaka and RDC.",
+    "Said fishing jobs shrank after the minimum wage policy pushed workers toward resorts."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution; said many workers are being dismissed after the council elections and that job losses hurt thousands of families."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Opposed the resolution; said SOE staffing and commissions grew under earlier MDP governments and this government has not hired comparably."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Opposed the resolution as baseless; listed dismissals from 2020 to 2023 and noted the resolution names no specific cases."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the resolution; said the Fenaka and STELCO engine house handovers went well, staff were offered three months' pay, and only three were dismissed."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the resolution; said staffing is a company board matter, and cited past dismissals and engine house contracts in Addu under the MDP government."
+   ]
+  },
+  {
+   "name": "Hussain Sameer",
+   "constituency": "Thoddoo",
+   "turns": 1,
+   "positions": [
+    "Supported the resolution; said technical staff are being dismissed in SOEs, with examples from his atoll, and that tribunal cases are rising."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the resolution; said staffing reviews follow audits and the law, and listed past dismissals under earlier governments."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the resolution; said the current government keeps its promise not to dismiss unlawfully and recalled dismissals under the MDP government."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the committee ordered the special audit because Fenaka's debt had grown, citing equipment bought far above market price, and said the committee referred cases to police and made recommendations."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of sittings 10 to 15 were declared accepted as no amendments were proposed.",
+  "The President's letter on the IRENA permanent representative appointment was sent to the Foreign Relations Committee.",
+  "The chair announced committee deadlines for the digital transformation, digital identity and two independent institutions matters.",
+  "A recess was held from 10:30 to 11:00.",
+  "The Finance Committee report on Fenaka's Addu City audit was tabled and debate began.",
+  "The Finance Committee report on the Fenaka Corporation special audit (Addu City branches and projects, 2021-2023) was passed by the Majlis.",
+  "The sitting was adjourned to Wednesday 29 July 2026 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Finance Committee report on the Auditor General's special audit of Fenaka Corporation's Addu City branches and projects, 2021-2023 (54 members present, 27 needed)",
+   "yes": 53,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 52,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,298 @@
+{
+ "sittingId": "861",
+ "date": "2024-07-22",
+ "title": "17th sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 49,
+  "onLeave": 3,
+  "officialTravel": 5
+ },
+ "summary": "The sitting opened at 09:02 with 49 members present. The chair welcomed visiting students and teachers from Funadhoo school and announced committee deadlines for several bills and a Human Rights Commission appointment. Members then held the preliminary debate on a government bill to amend the Legal Profession Act, which would make the Bar Council's executive committee lawyer-elected, remove the Attorney General from it, and allow more bodies to certify true copies of documents. Most speakers supported the bill, some asked the committee to revisit points such as the Attorney General's removal, the 100-lawyer removal rule and the bar exam, and the debate was recessed at 10:31 without a vote. After the break the chair took up two committee reports: the Foreign Relations Committee's report recommending consent to a Maldives-Sri Lanka treaty on mutual legal assistance in criminal matters (debate closed, vote to follow at voting time), and the start of the Finance Committee's report recommending that the President be advised to remove the Maldives Monetary Authority governor, where this part ends mid-presentation. Members debated the Finance Committee report advising the President to remove Maldives Monetary Authority Governor Ali Hashim. Supporters said he failed to attend the committee after repeated invitations and did not act on its warnings. Opponents said the report was political and that removing him would not fix the economy; the debate also covered COVID-era money printing and several points of order. After a break the Majlis approved joining the Sri Lanka mutual legal assistance treaty (72-0) and passed the advice to remove the governor (63-9).",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "49 present, 3 on leave, 5 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair (visiting Funadhoo school group; committee report deadlines under Rule 153)",
+   "outcome": "students and teachers welcomed; deadlines announced for committee reports on seven matters"
+  },
+  {
+   "n": "5.1",
+   "title": "Bill to amend the Legal Profession Act, Law 5/2019 (government bill, sponsored by North Hulhumale' member Hussain Shareef)",
+   "outcome": "preliminary debate held; recessed at 10:31 without a vote",
+   "workId": "1496"
+  },
+  {
+   "n": "7.1",
+   "title": "Foreign Relations Committee report on the treaty between Maldives and Sri Lanka on mutual legal assistance in criminal matters",
+   "outcome": "report presented recommending consent; debate closed; vote to be taken at the day's voting time"
+  },
+  {
+   "n": "7.2",
+   "title": "Finance Committee report on advising the President on removing the Maldives Monetary Authority governor",
+   "outcome": "report presented recommending removal advice; continues into part 2"
+  },
+  {
+   "n": "7.1",
+   "title": "Foreign Relations Committee report on joining the Sri Lanka treaty on mutual legal assistance in criminal matters",
+   "outcome": "debate closed in part 1; approved 72-0 in the vote under item 8.1"
+  },
+  {
+   "n": "7.2",
+   "title": "Finance Committee report on advising the President to remove MMA Governor Ali Hashim",
+   "outcome": "debated; advice to remove passed 63-9 in the vote under item 8.1"
+  },
+  {
+   "n": "8.1",
+   "title": "Votes on matters debated during the day",
+   "outcome": "two votes: treaty approved 72-0; governor removal advice passed 63-9"
+  },
+  {
+   "n": "9",
+   "title": "Other business and adjournment",
+   "outcome": "sitting closed; next sitting set for Tuesday 23 July 2024 at 9:00"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 6,
+   "positions": [
+    "Supported the bill as freeing the Bar Council from executive influence and delivering the government's pledge on judicial reform.",
+    "Contrasted it with earlier governments' reform promises and said the amendments give lawyers and applicants real relief.",
+    "Supported the report, saying the governor chose not to attend the committee, and urged members to work together on the economy."
+   ]
+  },
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 6,
+   "positions": [
+    "Supported the bill but differed on removing the Attorney General, arguing the AG's seat helps keep the President informed and does not itself compromise independence.",
+    "As Finance Committee rapporteur, presented the report on the Monetary Authority governor and said the governor did not attend, sending a written statement instead.",
+    "Said the committee found the governor unable to perform the Authority's functions and recommended advising removal.",
+    "Explained the committee's process and that the governor replied only in writing, citing illness, after repeated invitations."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 5,
+   "positions": [
+    "Recalled court suspensions of lawyers under earlier governments as the reason the 2019 Act was passed.",
+    "Said the present amendments are small, mainly removing the Attorney General from the executive and the true-copy certification.",
+    "Opposed the report, arguing that changing the governor would not fix economic management and calling it a dark day for the constitution."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 4,
+   "positions": [
+    "Supported the bill as protecting the Bar Council's independence and as part of wider judicial reform under the President.",
+    "As rapporteur of the Foreign Relations Committee, presented the Sri Lanka legal assistance treaty report and said the committee approved it unanimously.",
+    "In debate, said the treaty helps trace fugitives abroad and strengthens the justice system.",
+    "Supported the report, saying the governor was invited three times and did not attend, so the committee acted on its legal duty."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 4,
+   "positions": [
+    "Said he could not see how removing the Attorney General from the Bar Council advances judicial reform.",
+    "Argued that court rulings appear to shift when governments change, so citizens do not see the results they want.",
+    "Called the day a black day, defended COVID-era money printing, and said blaming the governor ignores government spending.",
+    "Said replacing the governor would not bring the public any economic relief."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 3,
+   "positions": [
+    "Raised a point of order that the previous speaker was not speaking to the bill; the chair did not uphold it as a point of order.",
+    "Supported the government's proposal, said the Bar Council's record of benefiting citizens is weak, and asked that the Attorney General remain on its executive.",
+    "Urged speakers to keep to the bill, said the council should not undermine judges, and alleged misuse of public funds under the previous government."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 3,
+   "positions": [
+    "Supported the report, arguing the governor's duty was to advise on policy and the committee had studied it carefully.",
+    "Raised two points of order about the order of debate and about remarks on Hajj."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Said the bill makes the Bar Council's executive committee lawyer-elected, removing the Attorney General, to separate it from government influence.",
+    "Said it also lets official bodies and diplomatic missions certify documents as true copies, easing paperwork for citizens.",
+    "Supported removal, saying the governor gave the public no information on the dollar black market and ignored the committee."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the bill, saying the government wants courts and the Bar Council free of political influence, and urged lawyers and judges to serve citizens honestly.",
+    "Said the governor lacked the courage and ability to act independently of the previous government's wishes, and so supported the report."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Raised two points of order objecting to a claim about a member's whereabouts, citing meeting records."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, noting that 100 lawyers can petition to remove an executive committee member and that true-copy certification helps Maldivians abroad.",
+    "Asked the committee to consider the Attorney General's removal carefully when reviewing the bill."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and asked the committee to amend Article 30(a)(2) so first-degree holders in Islamic Sharia, not only law, can be licensed as lawyers."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, noting six articles are amended, the Attorney General leaves the executive committee and true-copy stamps reduce reliance on third-party verification."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying the 2019 law placed a cabinet minister on the Bar Council and this amendment ends direct presidential influence over it."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Supported removing the Attorney General from the executive committee and the true-copy certification, but asked the committee to revisit the 100-lawyer removal rule in Article 16.",
+    "Raised concerns about lawyers' high fees and delayed court cases, urging closer Bar Council monitoring."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as freeing the Bar Council from government influence and urged it to uphold lawyers' discipline and public trust."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and proposed that island councils also be allowed to certify true copies, since residents of small islands struggle to reach licensed lawyers."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported removing the Attorney General from the Bar Council executive and backed true-copy certification by councils and schools.",
+    "Questioned whether students enrolled before the law took effect should have to sit the bar exam, and asked for faster handling of conduct complaints."
+   ]
+  },
+  {
+   "name": "Ali Ashrag",
+   "constituency": "Kinbidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as separating the Bar Council from outside influence and asked the committee to address students who must now sit the bar exam despite starting before the law."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that MDP-affiliated members were politicising a person's death during the debate; the chair did not accept it as a point of order."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the report, saying it looks like an effort to install an aligned governor, at odds with the President's stated support for independent institutions."
+   ]
+  },
+  {
+   "name": "Ahmed Thariq",
+   "constituency": "Mahibadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported removal, citing money printed and borrowing under the previous government while the governor stayed in post."
+   ]
+  }
+ ],
+ "decisions": [
+  "The chair announced committee report deadlines (Rule 153) for a Human Rights Commission appointment and bills on the Penal Code, copyright, sovereign wealth fund, fiscal responsibility, state debt and higher education.",
+  "Debate on the Legal Profession Act amendment was recessed at 10:31 (recess to 11:01) without a vote.",
+  "Debate on the Foreign Relations Committee report on the Sri Lanka treaty closed; the vote is set for the day's voting time.",
+  "The Majlis approved Maldives joining the treaty with Sri Lanka on mutual legal assistance in criminal matters (72 yes, 0 no).",
+  "The Majlis passed the advice to the President to remove MMA Governor Ali Hashim from office (63 yes, 9 no).",
+  "Debate on the Finance Committee report closed once party time allotments ran out.",
+  "The next sitting was set for Tuesday 23 July 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Approve Maldives joining the treaty with Sri Lanka on mutual legal assistance in criminal matters",
+   "yes": 72,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Advise the President to remove MMA Governor Ali Hashim from office",
+   "yes": 63,
+   "no": 9,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 79,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

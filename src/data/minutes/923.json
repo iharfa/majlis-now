@@ -1,0 +1,150 @@
+{
+ "sittingId": "923",
+ "date": "2025-02-26",
+ "title": "9th Sitting of first Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 42,
+  "onLeave": null,
+  "officialTravel": 0
+ },
+ "summary": "The sitting opened with 42 members present. Three ministers and the Attorney General answered written questions, which were read into the record, and the President's letter changing the work areas of three ministries was sent to a committee, along with the list of four applicants for the Police Board. The main debate was the Judiciary Committee's report on a bill amending the Courts Act: opposition members argued the committee had not dealt with the Majlis Counsel General's comments and linked the bill to the Supreme Court bench, while the committee chair said the changes repeated earlier provisions. After repeated warnings the Speaker named three members and removed them from the chamber, then held a roll-call vote (the electronic system had a fault) and the bill passed 68 to 9. The Speaker announced Ramadan sitting hours and the next sitting on 3 March 2025.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "42 members present; no member on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Approval of the minutes of sittings 4 to 6 of the session",
+   "outcome": "accepted as no member submitted amendments (Rule 240)"
+  },
+  {
+   "n": "5.1",
+   "title": "Announcements from the chair (Judiciary Committee membership change; urgent questions from the Velidhoo and Kanditheemu members)",
+   "outcome": "Kendhoo member named to Judiciary Committee in place of the North Galolhu member; urgent questions not taken as they did not meet the Rule 197 conditions"
+  },
+  {
+   "n": "6.1",
+   "title": "Written question from the Kendhoo member to the Minister of Islamic Affairs on Saudi Hajj quota allocation",
+   "outcome": "written answer read; to be published in the minutes unchanged"
+  },
+  {
+   "n": "6.2",
+   "title": "Written question from the North Galolhu member to the Attorney General on the legal basis for ending the reclamation agreement between HDC and CMC",
+   "outcome": "written answer read: the Attorney General's Office was not asked for and gave no advice on the settlement"
+  },
+  {
+   "n": "6.3",
+   "title": "Written question from the North Galolhu member to the Minister of Home Security and Technology on unanswered letters (addresses, electronic transactions regulations, police statistics)",
+   "outcome": "written answer read; member disputed part of it; published unchanged"
+  },
+  {
+   "n": "7.1",
+   "title": "President's letter on changes to the work areas of three ministries (Article 116(a) of the Constitution)",
+   "outcome": "referred to the committee that reviews how the government discharges its responsibilities"
+  },
+  {
+   "n": "7.2",
+   "title": "List of four applicants for the Police Board (Police Service Act, Article 75)",
+   "outcome": "referred to the Security Services Committee"
+  },
+  {
+   "n": "8.1",
+   "title": "Judiciary Committee report on the bill to amend the Courts Act (Law 2010/22), submitted by the Holhudhoo member",
+   "outcome": "debated; passed 68-9, none abstaining"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 10,
+   "positions": [
+    "Asked how Saudi Hajj quotas are allocated; argued the Counsel General's comments on the courts bill must be decided on the floor before the bill is debated or voted."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 9,
+   "positions": [
+    "Said the Home Security minister had not been scheduled in 14 days; argued the courts bill amounts to changing the Supreme Court bench and ignored the Counsel General's advice."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 6,
+   "positions": [
+    "Asked about the legal basis for ending the HDC-CMC reclamation agreement; said ministry replies on his letters were late; raised fear among residents after a killing on a small island."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 4,
+   "positions": [
+    "Presented the Judiciary Committee report: the bill repeats provisions from an earlier amendment, no court has questioned them, and the committee passed it before the Counsel General's comments arrived."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Disputed the committee reporter's account of how the Counsel General's comments were to be handled and said the matter should go back to the floor."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order on his urgent question about the Holhudhoo death case and continuing protests; the chair said the matter was not within the recent-events rule."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Said the Speaker's office should not have declined the Velidhoo urgent question and voiced concern about events on that island."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of sittings 4 to 6 accepted as no amendments were submitted.",
+  "Kendhoo member Mauroof Zakir placed on the Judiciary Committee in place of North Galolhu member Mohamed Ibrahim.",
+  "Urgent questions from the Velidhoo and Kanditheemu members were not taken up (Rule 197 conditions not met).",
+  "President's letter on the work areas of three ministries referred to the committee on government accountability.",
+  "List of four Police Board applicants referred to the Security Services Committee.",
+  "Courts Act (Law 2010/22) amendment bill passed 68-9 by roll call after the electronic voting system failed.",
+  "Three members (Vaikaradhoo, South Galolhu, Kendhoo) were named by the Speaker and removed from the chamber.",
+  "Ramadan sitting hours announced; next sitting set for Monday 3 March 2025 at 10:30."
+ ],
+ "votes": [
+  {
+   "what": "Passage of the bill amending the Courts Act (Law 2010/22), per the Judiciary Committee report; 79 members present, 39 needed to pass",
+   "yes": 68,
+   "no": 9,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 95,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

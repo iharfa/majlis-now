@@ -9,7 +9,6 @@ import {
   billsForTheme,
   votesForTheme,
   signalsForTheme,
-  issuesForTheme,
 } from '@/data'
 import { accentClasses } from '@/utils/accents'
 import { formatDate } from '@/utils/format'
@@ -22,7 +21,6 @@ export function ThemeDetailPage() {
   const bills = billsForTheme(theme.id)
   const votes = votesForTheme(theme.id)
   const signals = signalsForTheme(theme.id)
-  const issues = issuesForTheme(theme.id)
 
   return (
     <Container className="py-8">
@@ -56,20 +54,6 @@ export function ThemeDetailPage() {
         </section>
       )}
 
-      {issues.length > 0 && (
-        <section className="mb-section-gap">
-          <h2 className="font-headline-md text-headline-md mb-4">Decision points</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-gutter">
-            {issues.map((i) => (
-              <Link key={i.id} to={`/issues/${i.id}`} className="block bg-white rounded-2xl border border-outline-variant/30 p-6 hover:shadow-md transition-all">
-                <h3 className="font-headline-md text-lg">{i.title}</h3>
-                <p className="text-sm text-on-surface-variant mt-1">{i.plainLanguageQuestion}</p>
-              </Link>
-            ))}
-          </div>
-        </section>
-      )}
-
       {bills.length > 0 && (
         <section className="mb-section-gap">
           <h2 className="font-headline-md text-headline-md mb-4">Related bills</h2>
@@ -79,6 +63,10 @@ export function ThemeDetailPage() {
             ))}
           </div>
         </section>
+      )}
+
+      {bills.length === 0 && votes.length === 0 && (
+        <p className="text-on-surface-variant py-10">No bills in this theme have come before the 20th Parliament yet.</p>
       )}
 
       {votes.length > 0 && (

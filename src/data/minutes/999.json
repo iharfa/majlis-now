@@ -1,0 +1,174 @@
+{
+ "sittingId": "999",
+ "date": "2025-11-12",
+ "title": "18th Sitting of third session of 2025",
+ "presiding": "Ahmed Nazim (Deputy Speaker of the Majlis)",
+ "attendance": {
+  "present": 32,
+  "onLeave": 2,
+  "officialTravel": 8
+ },
+ "summary": "The 18th sitting opened at 09:00 on 12 November 2025 and went straight into the continuing debate on the proposed 2026 state budget (about MVR 64.2 billion). Ten members spoke in this part. Government-side members backed the budget and pointed to health, education, housing and island projects, while opposition members questioned project detail, debt, the deficit and spending priorities. The chair called a recess from 10:29 to 11:03, and the Milandhoo member's speech runs on into part 2. No vote was held in this part. This part continues the debate on the proposed 2026 state budget (agenda item 5). It opens with the end of the Milandhoo member's speech, who set 2026 council grants for his constituency's islands against 2025, then two more members spoke: Thimarafushi, who defended the budget's lump-sum project allocations, and Funadhoo, who argued the government is delivering projects and compared housing project unit costs with the previous government's. The chair ended the budget debate for the day because the Budget Committee was meeting at 1pm, and set the next sitting for 16 November 2025 at 9:00. The text layer is partly garbled, so some figures are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "Sitting opened at 09:00 with the opening prayer"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "32 members present, 2 on leave, 8 on official travel at the time of the opening"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda 18/3/2025 announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair",
+   "outcome": "None for the day"
+  },
+  {
+   "n": "5",
+   "title": "Debate on the proposed 2026 state budget",
+   "outcome": "Debate continued; 10 members spoke in this part; 34-minute recess; continues in part 2"
+  },
+  {
+   "n": "5",
+   "title": "Debate on the proposed 2026 state budget (Rule 230)",
+   "outcome": "debated; not concluded, to resume at a later budget debate sitting"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 1,
+   "positions": [
+    "Backed the 2026 budget, saying it prioritises digital services, health, education and civil servants' pay.",
+    "Welcomed Baarashu projects under way (harbour, mosque, police station, ring road) and hoped they finish in 2026."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Doubted the budget would be carried out as written, citing unfinished island projects and the MVR 110 billion 2025 budget.",
+    "Raised water and power shortages in Fuvahmulah and Addu, hospital delays, and state company staffing and spending.",
+    "Said he would still vote for the budget, citing his constituents' wish not to obstruct the government."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Noted overall budget is smaller than last year's but health (MVR 8.8bn) and education (5.6bn) allocations rise; thanked the government.",
+    "Said earlier budgets also gave little PSIP detail, and expects Finance Ministry to report to the Majlis quarterly.",
+    "Argued Aasandha and health spending cannot be cut; urged a firmer cap on borrowing and stronger zakat and tax collection."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the budget, citing MVR 64.2bn spending, 40.3bn revenue and 10.5bn for subsidies and aid.",
+    "Asked for faster housing, Kaadedhdhoo international airport, a tertiary hospital and a commercial harbour for Thinadhoo."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Said the fiscal strategy required under the Fiscal Responsibility Act was not published before the budget.",
+    "Questioned the deficit figures and the plan to fund the pension fund with T-bonds.",
+    "Called the budget high-spending, citing payroll and staffing rises, defence spending and drone purchases."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Fully supported the budget, saying it prioritises housing and health.",
+    "Argued the Aasandha system should be replaced with insurance and that past projects were awarded without bidding.",
+    "Said the coming year's large debt repayments stem from earlier government bonds."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the budget, noting rises for health, education, judiciary and civil service pay.",
+    "Listed Feydhoo items: 50 housing units, a new school, a sports complex, harbour and link road repairs.",
+    "Cited the reserves rising toward USD 900 million and lower deficit as signs of improvement."
+   ]
+  },
+  {
+   "name": "Munthazim Ibrahim",
+   "constituency": "Kaashidhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the budget, citing expected tax revenue above MVR 31bn and GDP growth of 6.6% in 2025 and 7% in 2026.",
+    "Listed Kaashidhoo and Gaafaru projects under way and urged the opposition to vote for the budget."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the budget and answered claims it lacks detail, saying it covers the sectors and projects people need.",
+    "Welcomed the Addu bridge, hospital upgrades, housing, fishers' payments and civil service pay rises."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Said the 2026 budget is smaller than 2025's and that MVR 9.3bn of sukuk and bond repayment is not in it.",
+    "Pointed to a shrinking deficit and the PSIP detail table (speech continues in part 2)."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 1,
+   "positions": [
+    "Said the 2026 budget (about MVR 64.2 billion) is detailed, and a lump-sum project allocation is better than listing every island project separately.",
+    "Said the Thimarafushi road, Veymandoo road and Kinbidhoo causeway have been budgeted in past years without being built, and expects them to progress now.",
+    "Welcomed the signed Thimarafushi hospital (30 beds) and Veymandoo road agreements, and asked members to vote for the budget."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Said projects from the 2025 budget are being carried out and 2025 is seen as a record year for project starts.",
+    "Compared the unit prices of recently awarded housing projects with those awarded under the previous MDP government.",
+    "Said the opposition has been spreading false claims about project awards; spoke within a 5-minute slot before the prayer break."
+   ]
+  }
+ ],
+ "decisions": [
+  "Chair called a recess from 10:29 to 11:03 and the budget debate resumed afterwards.",
+  "The chair had no announcements for the day.",
+  "The chair gave Funadhoo 5 minutes before the prayer break and said his remaining time would be given at a later budget debate sitting.",
+  "The chair decided not to continue the budget debate at this sitting because the Budget Committee met at 1pm.",
+  "The sitting ended; the next sitting was set for Sunday 16 November 2025 at 9:00."
+ ],
+ "votes": [],
+ "pagesTotal": 52,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

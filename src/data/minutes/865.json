@@ -1,0 +1,353 @@
+{
+ "sittingId": "865",
+ "date": "2024-07-30",
+ "title": "21st sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 54,
+  "onLeave": 3,
+  "officialTravel": 0
+ },
+ "summary": "The sitting opened with 54 members present. Members questioned the Minister of Climate Change, Environment and Energy about stalled Fenaka power projects on several islands, power cuts in Addu City, erosion and waste management. They then held the preliminary debate on a government bill to hold council by-elections within 183 days instead of 60; most speakers backed it, a few questioned its priority or its effect on representation. Debate on a legal profession bill closed and a debate on the Employment Act amendment was under way when this part ended. This part opens partway through a member's speech on the bill amending the Employment Act, which calls on the Labour Minister to enforce existing worker rights, asks for rest-day, overtime and probation protections to be strengthened, and says migrant workers' rights must be fully respected. The Majlis then took up the Finance Committee's report on the nominee for Maldives Monetary Authority Governor, which the committee said scored 94.43% in its assessment; two members spoke on it. After a break, the Majlis held three votes: it accepted for committee review a bill amending the Decentralisation Act (84-0, sent to the Decentralisation Committee) and a bill amending the Legal Profession Act (83-0, sent to the Judiciary Committee), and approved advising the President to appoint Ahmed Munawar as MMA Governor (78-0). The sitting closed with the next one set for Wednesday 31 July 2024 at 9:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer",
+   "outcome": "Sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "54 present, 3 on leave, none on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair",
+   "outcome": "None"
+  },
+  {
+   "n": "5.1",
+   "title": "Question to the Minister of Climate Change, Environment and Energy on the Kendhoo powerhouse, with follow-up questions",
+   "outcome": "Minister answered; many follow-up questions on Fenaka and island power projects"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate: bill to amend the Decentralisation Act (Act 7/2010) so council by-elections are held within 183 days instead of 60",
+   "outcome": "Debate concluded; to be put to vote at voting time"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill to amend the Legal Profession Act (Act 5/2019): continued preliminary debate",
+   "outcome": "Debate concluded; to be put to vote at voting time"
+  },
+  {
+   "n": "7.2",
+   "title": "Bill to amend the Employment Act (Act 2/2008): continued preliminary debate",
+   "outcome": "Debate under way; continues in next part"
+  },
+  {
+   "n": "",
+   "title": "Bill to amend the Employment Act (speech continued from previous part)",
+   "outcome": "debated; no vote in this part"
+  },
+  {
+   "n": "8.1",
+   "title": "Finance Committee report on the nomination of the Maldives Monetary Authority Governor",
+   "outcome": "debated; committee report then put to vote, passed 78-0"
+  },
+  {
+   "n": "",
+   "title": "Bill to amend the Law on Decentralisation of the Administrative Divisions (Law 7/2010), sponsored by the member for Isdhoo",
+   "outcome": "accepted 84-0-0; sent to the Decentralisation Committee"
+  },
+  {
+   "n": "",
+   "title": "Bill to amend the Legal Profession Act (Law 5/2019), sponsored by the member for North Hulhumale'",
+   "outcome": "accepted 83-0-0; sent to the Judiciary Committee"
+  },
+  {
+   "n": "",
+   "title": "Advice to the President on appointing the MMA Governor (Ahmed Munawar)",
+   "outcome": "passed 78-0-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Thoriq Ibrahim (Minister of Climate Change, Environment and Energy)",
+   "constituency": "",
+   "turns": 13,
+   "positions": [
+    "Said Fenaka's Kendhoo powerhouse is stalled for lack of funds and could finish in about six months once funded.",
+    "Said Addu City has 20 MW of generators with some broken; a new 1.5 MW unit and repairs due this year.",
+    "Said coastal studies and a vulnerability index are under way; the sandbank area is to be managed from December."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 4,
+   "positions": [
+    "Asked when the stalled Fenaka powerhouse in Kendhoo will be completed, and raised Kudarikilu, Kihadhoo, Kamadhoo plots and Fenaka staff contracts.",
+    "Raised a point of order that the chair rejected as promoting a party.",
+    "On the Employment Act bill, said enforcement agencies lag in applying the law."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order on the chair's remarks to members and the minister; the chair did not accept it.",
+    "Asked what is being done now and long term about Addu City's electricity problem."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 2,
+   "positions": [
+    "Asked about delays at the Thulusdhoo landfill contractor and how contractors who stall are chosen and removed.",
+    "Raised a point of order on by-election timing; the chair did not accept it."
+   ]
+  },
+  {
+   "name": "Ismail Shafeeu",
+   "constituency": "Isdhoo",
+   "turns": 2,
+   "positions": [
+    "Introduced the government bill: hold by-elections within 183 days to cut repeated election costs.",
+    "Closing remarks: about half of by-elections are uncontested with low turnout; asked that the bill go to committee."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the bill; said committee should ensure no by-election when a council keeps its quorum."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 2,
+   "positions": [
+    "Argued cost saving is not the main aim and doubted the amendment brings meaningful savings or is a priority."
+   ]
+  },
+  {
+   "name": "Abdulla Rasheed",
+   "constituency": "Dhangethi",
+   "turns": 1,
+   "positions": [
+    "Asked how soon erosion on islands in his constituency will be fixed and whether the EPA has rules for the protected sandbank area."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Noted the Kendhoo project's cost rose and it is unfinished; asked whether work given to non-performing contractors can be taken over."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Asked whether the former minister should answer for costly unfinished powerhouse projects, and who is accountable now."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Asked about plans for Kulhudhuffushi's Fenaka building, extra capacity, the MWSC relocation timeline and the solar project."
+   ]
+  },
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 1,
+   "positions": [
+    "Asked what became of MVR 26 million spent on the Madaveli powerhouse and when the problem for nearby residents will be resolved."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when Vaikaradhoo's largely built powerhouse will begin supplying electricity."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when work to fix Thulhaadhoo's low-voltage supply will actually start."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked about islands managing waste well, Hoarafushi's erosion, WAMCO's payroll growth and water and sewerage projects."
+   ]
+  },
+  {
+   "name": "Ahmed Zahir",
+   "constituency": "Maduvvari",
+   "turns": 1,
+   "positions": [
+    "Asked how far the Maduvvari electricity upgrade has progressed and when the Fenaka building at Meedhoo will be finished."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, citing election cost savings and better integrity and participation."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Said the amendment is not a priority now, urged revenue-raising bills instead and asked for it to be withdrawn."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and fewer council elections; said some councillors underperform and council spending needs review."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill but warned of a loophole where resignations could trigger elections; urged committee changes."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as a saving for councils and residents; said quorum rules need care."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and cutting councillor numbers to reduce state spending."
+   ]
+  },
+  {
+   "name": "Adam Zahir",
+   "constituency": "Felidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying about half of by-elections are uncontested and turnout is low; cited Elections Commission cost concerns."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Did not back the bill as drafted over lost representation, e.g. in Addu City council; would support if fixed in committee."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill but said councillor numbers should not be cut only to save money; frequent by-elections are unnecessary."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "As sponsor of the legal profession bill, urged committee to consult Islamic-law scholars on lawyers' Sharia training."
+   ]
+  },
+  {
+   "name": "Mohamed Shamin Habeeb",
+   "constituency": "Kurendhoo",
+   "turns": 1,
+   "positions": [
+    "On the Employment Act bill, urged that foreign workers work only for their permit holder and regulations be strengthened."
+   ]
+  },
+  {
+   "name": "Qasim Ibrahim",
+   "constituency": "Maamigili",
+   "turns": 1,
+   "positions": [
+    "As committee rapporteur, presented the Finance Committee report recommending the nominee for MMA Governor, who scored 94.43% against the 75% pass mark."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Said senior state appointments should be made with honesty and sincerity, and welcomed that the government is choosing people with education and experience."
+   ]
+  }
+ ],
+ "decisions": [
+  "Preliminary debate on the Decentralisation Act amendment (by-elections within 183 days) closed; vote set for voting time.",
+  "Preliminary debate on the Legal Profession Act amendment closed; vote set for voting time.",
+  "The bill amending the Decentralisation Act (Law 7/2010) was accepted by the Majlis and sent to the Decentralisation Committee.",
+  "The bill amending the Legal Profession Act (Law 5/2019) was accepted by the Majlis and sent to the Judiciary Committee.",
+  "The Majlis approved advising the President to appoint Ahmed Munawar as Governor of the Maldives Monetary Authority.",
+  "The sitting closed; the next sitting was set for Wednesday 31 July 2024 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the bill amending the Decentralisation Act (Law 7/2010) for committee review",
+   "yes": 84,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Accept the bill amending the Legal Profession Act (Law 5/2019) for committee review",
+   "yes": 83,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Advise the President to appoint Ahmed Munawar as MMA Governor",
+   "yes": 78,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 65,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

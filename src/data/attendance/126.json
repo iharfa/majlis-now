@@ -1,0 +1,629 @@
+{
+  "committeeId": "126",
+  "period": "2024-06-03 to 2026-08-23",
+  "meetings": 80,
+  "codes": {
+    "P": "present",
+    "S": "salaam (excused absence)",
+    "L": "leave (chuttee)",
+    "O": "official travel/duty (rasmee); counted as officialTravel",
+    "@": "present at another committee's meeting (counted as officialTravel)",
+    "-": "absent (did not attend)",
+    "©": "not required to attend (not counted as eligible)",
+    "N": "not a member of the committee at that time (not counted as eligible)"
+  },
+  "members": [
+    {
+      "mpId": "mp-237",
+      "name": "Ahmed Didi",
+      "constituency": "Maradhoo",
+      "present": 67,
+      "onLeave": 4,
+      "absent": 2,
+      "officialTravel": 7,
+      "eligible": 80
+    },
+    {
+      "mpId": "mp-247",
+      "name": "Ibrahim Hussain",
+      "constituency": "South Fuvahmulah",
+      "present": 70,
+      "onLeave": 3,
+      "absent": 2,
+      "officialTravel": 5,
+      "eligible": 80
+    },
+    {
+      "mpId": "mp-262",
+      "name": "Azim Abdul Azeez",
+      "constituency": "Vilingili",
+      "present": 70,
+      "onLeave": 4,
+      "absent": 5,
+      "officialTravel": 1,
+      "eligible": 80
+    },
+    {
+      "mpId": "mp-254",
+      "name": "Hanan Mohamed Rasheed",
+      "constituency": "Guraidhoo",
+      "present": 69,
+      "onLeave": 0,
+      "absent": 7,
+      "officialTravel": 4,
+      "eligible": 80
+    },
+    {
+      "mpId": "mp-228",
+      "name": "Hassan Zareer",
+      "constituency": "Mathiveri",
+      "present": 77,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 3,
+      "eligible": 80
+    },
+    {
+      "mpId": "mp-220",
+      "name": "Mohamed Abdul Rahman",
+      "constituency": "Hinnavaru",
+      "present": 65,
+      "onLeave": 1,
+      "absent": 11,
+      "officialTravel": 3,
+      "eligible": 80
+    },
+    {
+      "mpId": "mp-207",
+      "name": "Mohamed Afoo Hamid",
+      "constituency": "Kendhikulhudhoo",
+      "present": 37,
+      "onLeave": 5,
+      "absent": 31,
+      "officialTravel": 7,
+      "eligible": 80
+    },
+    {
+      "mpId": "mp-200",
+      "name": "Mohamed Dawoodh",
+      "constituency": "North Kulhudhuffushi",
+      "present": 72,
+      "onLeave": 0,
+      "absent": 2,
+      "officialTravel": 6,
+      "eligible": 80
+    },
+    {
+      "mpId": "mp-199",
+      "name": "Hussain Ziyad",
+      "constituency": "Vaikaradhoo",
+      "present": 74,
+      "onLeave": 0,
+      "absent": 4,
+      "officialTravel": 2,
+      "eligible": 80
+    },
+    {
+      "mpId": "mp-189",
+      "name": "Abdulla Rifau",
+      "constituency": "South Maafannu",
+      "present": 55,
+      "onLeave": 1,
+      "absent": 4,
+      "officialTravel": 10,
+      "eligible": 70
+    },
+    {
+      "mpId": "mp-184",
+      "name": "Ibrahim Muhammad",
+      "constituency": "North Mahchangolhi",
+      "present": 61,
+      "onLeave": 4,
+      "absent": 6,
+      "officialTravel": 9,
+      "eligible": 80
+    },
+    {
+      "mpId": "mp-176",
+      "name": "Abdulla Shazeem",
+      "constituency": "Central Hulhumale'",
+      "present": 8,
+      "onLeave": 2,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 10
+    }
+  ],
+  "meetingsList": [
+    {
+      "date": "2024-06-03",
+      "n": 1,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2024-06-04",
+      "n": 2,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2024-06-10",
+      "n": 3,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2024-06-11",
+      "n": 4,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2024-06-26",
+      "n": 5,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2024-06-26",
+      "n": 6,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2024-07-01",
+      "n": 7,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2024-07-15",
+      "n": 8,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2024-07-16",
+      "n": 9,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2024-08-07",
+      "n": 10,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2024-08-22",
+      "n": 11,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2024-10-15",
+      "n": 12,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2024-10-16",
+      "n": 13,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2024-10-24",
+      "n": 14,
+      "present": 7,
+      "total": 11
+    },
+    {
+      "date": "2024-10-28",
+      "n": 15,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2024-10-31",
+      "n": 16,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2024-11-14",
+      "n": 17,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2024-11-26",
+      "n": 18,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2024-12-03",
+      "n": 19,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2025-02-12",
+      "n": 1,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-02-12",
+      "n": 2,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-02-13",
+      "n": 3,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-02-13",
+      "n": 4,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-02-18",
+      "n": 5,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-02-18",
+      "n": 6,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-02-25",
+      "n": 7,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2025-03-04",
+      "n": 8,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-03-10",
+      "n": 9,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2025-03-11",
+      "n": 10,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-03-11",
+      "n": 11,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-03-17",
+      "n": 12,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2025-03-18",
+      "n": 13,
+      "present": 7,
+      "total": 11
+    },
+    {
+      "date": "2025-04-09",
+      "n": 14,
+      "present": 6,
+      "total": 11
+    },
+    {
+      "date": "2025-04-09",
+      "n": 15,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-04-14",
+      "n": 16,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-04-15",
+      "n": 17,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-05-07",
+      "n": 18,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2025-05-08",
+      "n": 25,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2025-06-02",
+      "n": 19,
+      "present": 7,
+      "total": 11
+    },
+    {
+      "date": "2025-06-02",
+      "n": 20,
+      "present": 7,
+      "total": 11
+    },
+    {
+      "date": "2025-06-16",
+      "n": 21,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-06-25",
+      "n": 22,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-06-30",
+      "n": 23,
+      "present": 7,
+      "total": 11
+    },
+    {
+      "date": "2025-07-21",
+      "n": 24,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2025-08-13",
+      "n": 26,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-10-02",
+      "n": 27,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2025-10-06",
+      "n": 28,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2025-10-07",
+      "n": 29,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2025-10-14",
+      "n": 30,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2025-10-14",
+      "n": 31,
+      "present": 7,
+      "total": 11
+    },
+    {
+      "date": "2025-11-04",
+      "n": 32,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2025-11-04",
+      "n": 33,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2025-11-12",
+      "n": 34,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2025-11-25",
+      "n": 35,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2025-11-26",
+      "n": 36,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2025-12-01",
+      "n": 37,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2025-12-01",
+      "n": 38,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2026-02-10",
+      "n": 1,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2026-02-10",
+      "n": 2,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2026-02-11",
+      "n": 3,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2026-02-11",
+      "n": 4,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2026-02-17",
+      "n": 5,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2026-04-13",
+      "n": 6,
+      "present": 7,
+      "total": 11
+    },
+    {
+      "date": "2026-04-13",
+      "n": 7,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2026-04-21",
+      "n": 8,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2026-04-30",
+      "n": 9,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2026-05-14",
+      "n": 10,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2026-06-01",
+      "n": 11,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2026-06-22",
+      "n": 12,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2026-06-22",
+      "n": 13,
+      "present": 10,
+      "total": 11
+    },
+    {
+      "date": "2026-07-01",
+      "n": 14,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2026-07-08",
+      "n": 15,
+      "present": 7,
+      "total": 11
+    },
+    {
+      "date": "2026-07-14",
+      "n": 16,
+      "present": 7,
+      "total": 11
+    },
+    {
+      "date": "2026-07-15",
+      "n": 17,
+      "present": 7,
+      "total": 11
+    },
+    {
+      "date": "2026-07-29",
+      "n": 18,
+      "present": 11,
+      "total": 11
+    },
+    {
+      "date": "2026-08-03",
+      "n": 19,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2026-08-04",
+      "n": 20,
+      "present": 9,
+      "total": 11
+    },
+    {
+      "date": "2026-08-12",
+      "n": 21,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2026-08-16",
+      "n": 22,
+      "present": 8,
+      "total": 11
+    },
+    {
+      "date": "2026-08-23",
+      "n": 23,
+      "present": 6,
+      "total": 11
+    }
+  ],
+  "sourceDocs": [
+    "https://majlis.gov.mv/storage/committee_files/126/PoV8wu5bnxJDYmM2TsGwlPaOaKDn7eLjoAOkodZe.xlsx",
+    "https://majlis.gov.mv/storage/committee_files/126/yNQi3gpNkiBlpLl5Wf4iy5cS9QL2ORqLgZY67yFg.pdf",
+    "https://majlis.gov.mv/en/20-parliament/committee/126"
+  ],
+  "pagesRead": 1,
+  "pagesTotal": 1,
+  "confidence": "High",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-06"
+}

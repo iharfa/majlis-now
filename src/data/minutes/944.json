@@ -1,0 +1,367 @@
+{
+ "sittingId": "944",
+ "date": "2025-05-12",
+ "title": "29th Sitting of first Session of 2025",
+ "presiding": "Abdul Raheem Abdulla (Speaker, Fonadhoo)",
+ "attendance": {
+  "present": 36,
+  "onLeave": 3,
+  "officialTravel": 2
+ },
+ "summary": "The sitting opened at 9:01 with routine announcements, including a change to the Judiciary Committee's membership. Most of the part was question time: 28 members put questions to the Minister of Construction, Housing and Infrastructure, mainly asking when stalled harbour, road, water and sewerage, reclamation, shore protection, airport and housing projects in their islands would start or finish. The minister generally cited contractor terminations, dredger and rock shortages and pending tenders, and often said he lacked exact dates. The part ended with the first reading of a government bill, then debate on the Civil Aviation bill, which was paused for a 30-minute recess. After a short break, the Speaker took up item 9, matters submitted by committees. The Finance Committee's report on the President's nominee for Deputy Governor of the Maldives Monetary Authority, Aishath Asna Hamdi, was presented and debated by four members, who broadly backed the nominee while raising wider concerns about the Monetary Authority's independence, public debt and anti-corruption enforcement. Parliament then voted 73 to 0 to approve the appointment, and the sitting was adjourned until 13 May 2025.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "Speaker opened the sitting"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "Chair reported 36 members present, 3 on leave, 2 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee meeting time announced (temporary committee on the Tobacco Control Act amendment bill)",
+   "outcome": "announced"
+  },
+  {
+   "n": "4.2",
+   "title": "Change to committee membership",
+   "outcome": "Judiciary Committee: North Feydhoo member Ismail Nizar to replace Kolamaafushi member Ibrahim Didi on the PNC allocation"
+  },
+  {
+   "n": "5.1",
+   "title": "Questions to the Minister of Construction, Housing and Infrastructure from Velidhoo member Mohamed Abbas and other members",
+   "outcome": "answered; minister said he could not give specific dates on several questions and offered to follow up"
+  },
+  {
+   "n": "5.2",
+   "title": "Question to the Minister of Construction, Housing and Infrastructure from Kendhoo member Mauroof Zakir",
+   "outcome": "answered; follow-up questions and further answers from the minister"
+  },
+  {
+   "n": "6.1",
+   "title": "President's letter on appointing a member to the Maldives Broadcasting Commission",
+   "outcome": "referred to the Independent Institutions Committee"
+  },
+  {
+   "n": "7.1",
+   "title": "First reading of the bill amending the Decentralisation Act (Act 2010/7), submitted by Hoarafushi member Ali Moosa for the government",
+   "outcome": "first reading read"
+  },
+  {
+   "n": "8.1",
+   "title": "Continued debate on the Civil Aviation bill of the Maldives, submitted by Central Hulhumale' member Abdulla Shazeem",
+   "outcome": "debated; 3h13m of debate time left; 30-minute recess called"
+  },
+  {
+   "n": "9",
+   "title": "Matters submitted by committees",
+   "outcome": "taken up after the break"
+  },
+  {
+   "n": "9.1",
+   "title": "Finance Committee report on the President's nominee for Deputy Governor of the Maldives Monetary Authority (Aishath Asna Hamdi)",
+   "outcome": "debated, then approved 73-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Abdulla Muthalib",
+   "constituency": "",
+   "turns": 38,
+   "positions": [
+    "As Minister of Construction, Housing and Infrastructure, answered project questions, citing contractor terminations, dredger and rock shortages and tenders.",
+    "Said many projects were handed to MTCC or MWSC and listed several as expected to start or finish this year.",
+    "Declined to give exact dates where he lacked specific information."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 3,
+   "positions": [
+    "Asked when Velidhoo harbour development, long stalled, would be completed.",
+    "Asked when practical work on Foddhoo harbour and the Lhohi sewerage would begin.",
+    "Called the report thorough and said he would vote yes; urged the nominee to act within the law and criticised the pace of the Anti-Corruption Commission."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 3,
+   "positions": [
+    "Asked about the status of the housing project and a council tender dispute in Thinadhoo.",
+    "Asked how far Thinadhoo's road tarring is and when a stalled jetty works would resume."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 2,
+   "positions": [
+    "Asked when road tarring and the ring road would start and about the Kinbidhoo causeway.",
+    "Asked for an update on council guidelines for allocating bandaara plots sent to the ministry."
+   ]
+  },
+  {
+   "name": "Abdul Hannan Aboobakuru",
+   "constituency": "Thulhaadhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when stalled water and sewerage works in Fehendhoo would be completed.",
+    "Said harbours at Thulhaadhoo, Goidhoo and Fehendhoo are deteriorating and asked if work would start this year."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 2,
+   "positions": [
+    "Asked why Fuvahmulah housing and road works had not started and how many plots the MDP government gave in Hulhumale, Male and Gulhifalhu.",
+    "In the Civil Aviation bill debate, raised concerns about foreign airlines' profits leaving and Fuvahmulah airport's condition."
+   ]
+  },
+  {
+   "name": "Ahmed Shakir",
+   "constituency": "Maavashu",
+   "turns": 2,
+   "positions": [
+    "Asked about delays in the Hithadhoo causeway, Kunahandhoo sewerage and Maavashu reclamation, and funding for state firms doing them.",
+    "Asked why PSIP use was below 60% and for an update on a loan scheme."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Asked when work on Magoodhoo airport would restart and how much public money would be wasted by the delay.",
+    "Said he scored the nominee as qualified but raised concerns about the Monetary Authority's independence and her answers on policy.",
+    "Asked the government to share information on the subsidy budget and national debt repayments."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Asked about progress on contractor-financed housing announced for the whole country.",
+    "Asked whether any housing project exists for registered Male residents waiting decades."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when work on Dhonfanu harbour's outer breakwater would start, citing damage to boats.",
+    "Asked about plans for Kendhoo harbour and the stalled Kudarikilu and Kihaadhoo sewerage."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked about Neyaalaidhoo roads, Vaikaradhoo harbour water, and Kurinbee water, sewerage and harbour works.",
+    "Supported the Civil Aviation bill but raised concerns about a five-year committee deciding airport sites."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Said Hithadhoo harbour works were very slow and asked for a completion date, citing a lack of consultation with residents."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when shore protection would be built for the reclaimed area at Maafaru, where much had eroded."
+   ]
+  },
+  {
+   "name": "Mohamed Shameez",
+   "constituency": "Madaveli",
+   "turns": 1,
+   "positions": [
+    "Asked about long-delayed sewerage works in Madaveli, when reclamation would be done, and about Nadhella sewerage and harbour."
+   ]
+  },
+  {
+   "name": "Abdulla Shareef",
+   "constituency": "Kelaa",
+   "turns": 1,
+   "positions": [
+    "Asked about progress on Kelaa harbour and reclamation, shore protection and the timing of road works in Filladhoo."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked how far the handover of the Holhudhoo water project had progressed and when it would finish."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether the Addu Link Road project is planned and how work will proceed, citing risks to residents."
+   ]
+  },
+  {
+   "name": "Ali Ashrag",
+   "constituency": "Kinbidhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about Vaandhoo harbour and reef protection and whether Kandoodhoo and Omadhoo sewerage can finish this year."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether Feydhoo harbour had been awarded and when work would begin, and about the Addu Link Road."
+   ]
+  },
+  {
+   "name": "Adam Shafeeq",
+   "constituency": "Makunudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked when shore protection at the reclaimed Makunudhoo airport land would finish, when the runway would start, and about the harbour."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Asked for timelines on harbour upgrades, the RTL harbour water problem, and an update on housing units."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked whether funds for the Hithadhoo-Hulhudhoo bridge were arranged and when the 500 flats would start."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked when the Hoarafushi coastal protection project would be completed."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Asked when water and sewerage in Noomaraa and Bilehfahi would start, and about the Bilehfahi airport and Kanditheemu dredging."
+   ]
+  },
+  {
+   "name": "Mohamed Abdul Rahman",
+   "constituency": "Hinnavaru",
+   "turns": 1,
+   "positions": [
+    "Asked when the stalled 100-unit housing project in Hinnavaru would restart and about water and sewerage works."
+   ]
+  },
+  {
+   "name": "Ibrahim Naseem",
+   "constituency": "Thulusdhoo",
+   "turns": 1,
+   "positions": [
+    "Said the Thulusdhoo water system, handed to Stelco, still gives no service, and asked about Dhiffushi reclamation."
+   ]
+  },
+  {
+   "name": "Mohamed Afoo Hamid",
+   "constituency": "Kendhikulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about stalled water and sewerage in Kendhikulhudhoo, and shore protection for Maalhendhoo and Kudafari."
+   ]
+  },
+  {
+   "name": "Hassan Waheed",
+   "constituency": "Vilifushi",
+   "turns": 1,
+   "positions": [
+    "Asked when Burunee harbour would start, shore protection at Madifushi, and the handover of Vilufushi's 100 housing units."
+   ]
+  },
+  {
+   "name": "Asadhulla Shihab",
+   "constituency": "Gemanafushi",
+   "turns": 1,
+   "positions": [
+    "Asked when Gemanafushi's stalled sewerage would be re-awarded, about the delayed road, and Dhevvadhoo erosion."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the Civil Aviation bill and argued for an airport in Dhaandhoo and for support to new airlines."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the Finance Committee report: after interviewing the nominee, the committee found she met the score threshold and recommended her appointment as Deputy Governor."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the nominee, citing her committee score average of 91.71 and her experience, and said a long debate on the report was unnecessary."
+   ]
+  }
+ ],
+ "decisions": [
+  "Judiciary Committee PNC allocation: Ismail Nizar (North Feydhoo) to replace Ibrahim Didi (Kolamaafushi).",
+  "President's letter on a Maldives Broadcasting Commission appointment referred to the Independent Institutions Committee.",
+  "First reading of the bill amending the Decentralisation Act (Act 2010/7) was read.",
+  "Debate on the Civil Aviation bill continued, then paused for a 30-minute recess.",
+  "Parliament approved the appointment of Aishath Asna Hamdi as Deputy Governor of the Maldives Monetary Authority, 73 votes in favour and none against.",
+  "The sitting was adjourned until Tuesday 13 May 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Appointment of Aishath Asna Hamdi as Deputy Governor of the Maldives Monetary Authority",
+   "yes": 73,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 61,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

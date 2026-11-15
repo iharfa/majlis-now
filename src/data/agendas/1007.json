@@ -1,0 +1,84 @@
+{
+  "sittingId": "1007",
+  "date": "2025-11-26",
+  "title": "25th Sitting of third session of 2025",
+  "agendaNo": "އޖ/25/3/2025",
+  "items": [
+    {
+      "n": 1,
+      "text": "Opening recitation (Hamd and Salawat); the sitting begins.",
+      "kind": "procedural"
+    },
+    {
+      "n": 2,
+      "text": "Roll call of members present at the sitting.",
+      "kind": "procedural"
+    },
+    {
+      "n": 3,
+      "text": "Announcement of the day's agenda (Agenda No. އޖ/25/3/2025).",
+      "kind": "procedural"
+    },
+    {
+      "n": 4,
+      "text": "Approval of the minutes of four previous sittings (minutes Nos. 18/3/2025 to 21/3/2025).",
+      "kind": "procedural"
+    },
+    {
+      "n": 5,
+      "text": "Announcements from the Chair.",
+      "kind": "procedural"
+    },
+    {
+      "n": 6,
+      "text": "Question by Galolhu North MP Mohamed Ibrahim to Minister of Health Abdulla Nazim Ibrahim: what preparations are under way to enforce the generational tobacco ban, what support is arranged for people in that generation who want to quit, and details of any study done on the impact of the decision.",
+      "kind": "question"
+    },
+    {
+      "n": 6,
+      "text": "Question by Galolhu North MP Mohamed Ibrahim to Minister of Health Abdulla Nazim Ibrahim: since the government has decided to study giving a cash prize or benefit to the whole population of islands that quit tobacco, how is this envisaged, can it be verified that nobody on an island uses tobacco, and how much would it cost the state.",
+      "kind": "question"
+    },
+    {
+      "n": 7,
+      "text": "From the Speaker's desk: the President's nomination for resident Ambassador of the Maldives to Japan (Constitution Article 115(d) and Section 14 of Law No. 20/2021, the Foreign Service Act) is sent to the relevant standing committee.",
+      "kind": "other"
+    },
+    {
+      "n": 8,
+      "text": "First reading of the Land Transport Bill, submitted on behalf of the government by Kurendhoo MP Mohamed Shamin Habeeb.",
+      "kind": "bill"
+    },
+    {
+      "n": 8,
+      "text": "First reading of the bill submitted on behalf of the government by Hithadhoo North MP Mohamed Sinan to amend Law No. 2/99 (Maldives Tourism Act).",
+      "kind": "bill"
+    },
+    {
+      "n": 8,
+      "text": "First reading of the resolution submitted by Galolhu South MP Meekail Ahmed Naseem noting discrimination between citizens by the judicial branch, to ascertain the views of members of Parliament.",
+      "kind": "resolution"
+    },
+    {
+      "n": 9,
+      "text": "Judiciary Committee report on the President's nominations for members of the Tax Appeal Tribunal, under Section 56(a)(1) of Law No. 3/2010 (Tax Administration Act).",
+      "kind": "report"
+    },
+    {
+      "n": 10,
+      "text": "Voting on items from the day's business that have reached the voting stage.",
+      "kind": "vote"
+    },
+    {
+      "n": 11,
+      "text": "Any other business.",
+      "kind": "other"
+    }
+  ],
+  "summary": "The sitting put two questions to the Health Minister on the generational tobacco ban, sent the Japan ambassador nominee to committee, gave first reading to the Land Transport Bill, a Tourism Act amendment and a resolution on court discrimination, and took up a report on Tax Appeal Tribunal nominees.",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

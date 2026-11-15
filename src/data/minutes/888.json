@@ -1,0 +1,171 @@
+{
+ "sittingId": "888",
+ "date": "2024-10-23",
+ "title": "39th sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 56,
+  "onLeave": 4,
+  "officialTravel": 5
+ },
+ "summary": "The sitting ran from 09:01 to 10:06. MPs put questions to the Minister of Tourism on opening islands, resorts and airports outside the main tourism zones, and the minister answered each one. The President's nomination for Deputy Commissioner General of Taxation was sent to the Economic Committee, and a tobacco control bill had its first reading. The House approved Maldives joining the International Atomic Energy Agency by 61 votes to 0.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening and prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "56 present, 4 on leave, 5 on official travel announced"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Approval of the minutes of the 34th and 35th sittings",
+   "outcome": "accepted by the chair, no amendments submitted"
+  },
+  {
+   "n": "5",
+   "title": "Chair's announcements: Committee of the Whole House meeting after the sitting on four bills (GST, Tourism Act, departure tax, export-import)",
+   "outcome": "announced"
+  },
+  {
+   "n": "6.1",
+   "title": "Questions to the Minister of Tourism, Ibrahim Faisal",
+   "outcome": "nine MPs asked ten questions, minister answered each"
+  },
+  {
+   "n": "7.1",
+   "title": "President's letter nominating a Deputy Commissioner General of Taxation (two names)",
+   "outcome": "sent to the Economic Committee"
+  },
+  {
+   "n": "8.1",
+   "title": "Bill to amend the Tobacco Control Act (2010/15), sponsored by the government via North Henveyru MP Ahmed Aifan",
+   "outcome": "first reading held"
+  },
+  {
+   "n": "9.1",
+   "title": "Foreign Relations Committee report on Maldives joining the International Atomic Energy Agency (IAEA)",
+   "outcome": "passed 61-0, 0 abstentions"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Faisal",
+   "constituency": "",
+   "turns": 10,
+   "positions": [
+    "As Minister of Tourism, said idle leased islands are being reviewed and a Tourism Act amendment is due in November.",
+    "Said investment banks, local-tourism beds and investor forums are being used to develop areas without tourism."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Asked what the government plans to add to Haa Dhaalu's tourist beds beyond the Hanimaadhoo airport, and what has been done on long-idle islands leased for tourism."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Asked when two islands near Velidhoo could become resorts and whether seaplane services to Noonu are planned.",
+    "Speaking for the Maldives Development Alliance, backed the IAEA report and regretted that no opposition member spoke on it."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "As committee rapporteur, presented the report recommending Maldives join the IAEA, citing its technical aid, health and food benefits.",
+    "Speaking for the PNC, said joining international bodies suits a small state and backed the government's foreign policy."
+   ]
+  },
+  {
+   "name": "Ahmed Riyaz",
+   "constituency": "Thimarafushi",
+   "turns": 1,
+   "positions": [
+    "Asked for an update on islands leased for tourism in Thaa atoll that saw no work, and on the three islands newly opened."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Asked what easier terms the minister has in mind to get long-idle leased islands developed, and why they have sat unbuilt."
+   ]
+  },
+  {
+   "name": "Ahmed Didi",
+   "constituency": "Maradhoo",
+   "turns": 1,
+   "positions": [
+    "Asked about funding for the Hankede project, why three reclaimed islands in Addu are not released for tourism, and reports of land given to the military."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Asked when work will begin on a Gonaafaru resort and whether other islands including Fushifaru will be opened for tourism."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked what economic benefit the Hanimaadhoo airport will bring and whether the north is developed enough for tourism."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Asked how soon the stalled Maarandhoo resort off Kolamaafushi, about ten years in the making, might reach completion and open for tourism."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Asked for an update on reopening Shangri-La in Addu, the investment forum plans and tax rises, and a change in fees charged on idle islands."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of the 34th and 35th sittings accepted as submitted.",
+  "President's nomination for Deputy Commissioner General of Taxation referred to the Economic Committee.",
+  "Maldives' participation in the International Atomic Energy Agency approved by the Majlis, 61 votes in favour, none against.",
+  "Next sitting set for Thursday 24 October 2024 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Foreign Relations Committee report on Maldives joining the IAEA (open vote, 31 needed to pass)",
+   "yes": 61,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 32,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

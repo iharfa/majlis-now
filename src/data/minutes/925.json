@@ -1,0 +1,168 @@
+{
+ "sittingId": "925",
+ "date": "2025-03-04",
+ "title": "11th Sitting of first Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 43,
+  "onLeave": 7,
+  "officialTravel": 1
+ },
+ "summary": "The sitting ran from 10:30 to 11:45 on 4 March 2025. South Hulhumale' member Dr Ahmed Shamheed tabled an urgent motion on the government's handling of the Supreme Court judges, but members voted 11 to 46 (1 abstaining) not to debate it. The main business was the preliminary debate on the government's Animal Keeping and Animal Protection Bill, introduced by Hinnavaru member Mohamed Abdul Rahman; speakers backed its aims while several asked for expert advice and attention to enforcement costs. The bill was accepted 43 to 0 and sent to the Social Committee for study.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "43 present, 7 on leave, 1 on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements from the chair: urgent motion by Dr Ahmed Shamheed on the Supreme Court judges (Rule 192)",
+   "outcome": "put to a vote on whether to debate; not accepted 11-46 with 1 abstention"
+  },
+  {
+   "n": "5.1",
+   "title": "Preliminary debate on the Animal Keeping and Animal Protection Bill (government bill, first reading 3 March 2025)",
+   "outcome": "debated by 11 members; accepted and sent to the Social Committee"
+  },
+  {
+   "n": "6",
+   "title": "Votes on matters ready for a vote",
+   "outcome": "bill accepted 43-0; sent to the Social Committee under Rule 106(r)"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the bill, saying animal protection is accepted worldwide and the lack of a law has left problems unresolved.",
+    "Said imported animals can bring diseases to people, and a clear law would show which agency is responsible."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Tabled an urgent motion expressing concern at government action over three suspended Supreme Court judges and alleged pressure on the court, calling on authorities to stop interfering."
+   ]
+  },
+  {
+   "name": "Mohamed Abdul Rahman",
+   "constituency": "Hinnavaru",
+   "turns": 1,
+   "positions": [
+    "Introduced the bill as the country's first animal welfare law, setting rules on keeping, trade, import, export, licensing, disease control and inspection of animals.",
+    "Asked members to debate it and send it to committee so it can pass soon."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, citing Islamic teaching on kindness to animals and respect for every living being.",
+    "Said most parliamentary work happens in committees, so members' presence there matters."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill, noting similar animal-protection laws and treaties elsewhere and welcoming a government first.",
+    "Said rules on animals also help address practical problems such as stray animals."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the aims but said the bill needs thorough study with technical experts before passing.",
+    "Warned that importing large or exotic animals could carry high costs and disease risks the state must be ready to handle."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill but stressed laws must be written so they can actually be enforced with available resources.",
+    "Urged the committee to take expert advice, and noted some animals can be unsafe for people."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as protecting animals and birds, saying protected animals also bring benefits and possible income to people.",
+    "Said such matters should be researched and studied before decisions are made."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Called the bill important for setting safe, sustainable standards for keeping and trading animals and quarantine of imports.",
+    "Said facilities are needed to hold animals seized from those breaking the law, and expected the committee to study this further."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying the stray cat problem in Male' showed the benefit of clear rules and penalties.",
+    "Said island residents still face hardships such as unsafe water and an unbuilt hospital, and asked the government to address those too."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill but said human safety and rights must come before animal protection, and that costs to the state should be weighed.",
+    "Asked the committee to seek technical experts because the bill is highly technical."
+   ]
+  }
+ ],
+ "decisions": [
+  "Dr Ahmed Shamheed's urgent motion on the Supreme Court judges was not accepted for debate (11 yes, 46 no, 1 abstain).",
+  "The Animal Keeping and Animal Protection Bill was accepted at the preliminary stage (43-0) and sent to the Social Committee.",
+  "The chair announced that the next sitting would be on 10 March 2025 at 10:30."
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate the urgent motion on the Supreme Court judges tabled by Dr Ahmed Shamheed",
+   "yes": 11,
+   "no": 46,
+   "abstain": 1
+  },
+  {
+   "what": "Whether to accept the Animal Keeping and Animal Protection Bill for committee study",
+   "yes": 43,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 34,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

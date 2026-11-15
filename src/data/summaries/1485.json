@@ -1,0 +1,22 @@
+{
+  "workId": "1485",
+  "titleDv": "ޤާނޫނު ނަންބަރު 7/2021 (ދިވެހިރާއްޖޭގެ މަތީ ތަޢުލީމާއި ތަމްރީނުގެ ޤާނޫނު) އަށް ...... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Maldives Higher Education and Training Act (Law No. 7/2021) by changing the rules for when a college can become a university. A college that has run in the Maldives without a break could qualify after 15 years instead of the current 20. A college asking to become a university would have to meet a new list of seven conditions, replacing the current single test of meeting Ministry standards and having suitable facilities. The new conditions cover the subject areas taught, student numbers, international rankings, memberships, research links and how many staff hold PhDs.",
+  "whyItMatters": "It changes which private and public colleges in the Maldives can call themselves universities, which affects the institutions students choose and the degrees they can get locally.",
+  "keyProvisions": [
+    "Article 32(h) is changed so a centre that has run continuously as a college in the Maldives for at least 15 years qualifies, down from 20 years. A centre that has run for 10 years as a university registered abroad and recognised by that country's government still qualifies.",
+    "Article 32(sh) is rewritten: a college must run university programmes at levels 7 and 9 of the Maldives National Qualifications Framework in at least 3 fields (for example arts and humanities, engineering and technology, life sciences and medicine, natural sciences, social sciences), and have at least 1,000 students on level 7 or higher courses.",
+    "Under the new Article 32(sh), the college must be rated or ranked in an international university rating or ranking, or have at least 5 years' experience running programmes of a university that is rated or ranked.",
+    "The college must also have been a member of an international association of universities and an international quality assurance body for at least 5 years, and have experience of international-level research with foreign universities and institutions.",
+    "At least 10 percent of the academic staff teaching its programmes must hold a PhD, and it must have facilities suitable for running a university that meet Ministry standards.",
+    "The changes take effect when the bill is ratified and published in the Government Gazette."
+  ],
+  "whoIsAffected": "Colleges in the Maldives that want university status, their students and staff, and the Ministry that registers higher education institutions.",
+  "statedReasons": "The note says the purpose is to strengthen the higher education sector and give parties with the facilities and capacity a chance to set up and run universities in the Maldives, by reviewing the conditions in Law 7/2021 for running a university.",
+  "sourceDoc": "Bill",
+  "pagesRead": 8,
+  "pagesTotal": 8,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

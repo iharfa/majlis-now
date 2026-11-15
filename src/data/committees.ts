@@ -1,4 +1,4 @@
-import type { Committee, CommitteeMeeting } from '@/types'
+import type { Committee, CommitteeAttendance, CommitteeMeeting } from '@/types'
 import { mps } from './roster'
 import { REAL_COMMITTEES, type RealCommittee } from './realCommittees'
 
@@ -6,6 +6,9 @@ import { REAL_COMMITTEES, type RealCommittee } from './realCommittees'
 // dates). Member profile IDs map directly to roster MP ids (mp-<id>).
 
 const ROSTER_IDS = new Set(mps.map((m) => m.id))
+const attendanceByCommittee = new Map(
+  Object.values(import.meta.glob<CommitteeAttendance>('./attendance/*.json', { eager: true, import: 'default' })).map((a) => [a.committeeId, a]),
+)
 const toMp = (id: string | null): string | undefined => {
   if (!id) return undefined
   const mpId = `mp-${id}`
@@ -49,12 +52,13 @@ function build(rc: RealCommittee): Committee {
     stalledItems: [],
     signalIds: [],
     sourceUrl: rc.url,
+    attendanceRecord: attendanceByCommittee.get(rc.id),
     sources: [
       {
         id: `src-cmt-${rc.id}`,
         label: 'Committee page — People’s Majlis',
         url: rc.url,
-        lastUpdated: '2026-06-15',
+        lastUpdated: rc.fetchedAt,
         kind: 'official',
       },
     ],

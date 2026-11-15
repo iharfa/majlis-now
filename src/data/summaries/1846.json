@@ -1,0 +1,21 @@
+{
+  "workId": "1846",
+  "titleDv": "ޤާނޫނު ނަންބަރު 5/2009 (އެއްގަމު ދަތުރުފަތުރުގެ ޤާނޫނު) އަށް ...... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill would rewrite Article 69 of the Land Transport Act so that every land vehicle driven in the Maldives must carry comprehensive motor insurance, not just basic cover. It lists what that cover must include: harm to other people and their property, damage to your own vehicle, fire, theft and natural-disaster losses, and costs for driver and passengers. The rule would start three months after the change, and the Maldives Monetary Authority would have three months to write regulations.",
+  "whyItMatters": "Every car and motorbike owner would have to buy fuller, likely pricier insurance, but would be better covered after a crash, theft or other damage.",
+  "keyProvisions": [
+    "Article 69(a) rewritten: land vehicles may only be driven in the Maldives with a comprehensive motor insurance policy",
+    "Article 69(b) defines comprehensive cover: third-party death, injury and property damage; damage to the insured's own vehicle; fire, theft and natural-disaster losses; costs for the driver and passengers; plus other items set by regulation",
+    "Article 69(c): the comprehensive-insurance requirement takes effect 3 months after the amendment",
+    "The Maldives Monetary Authority must draw up regulations on comprehensive motor insurance within 3 months",
+    "The amendment takes effect once ratified and published in the Government Gazette"
+  ],
+  "whoIsAffected": "All vehicle owners and drivers, insurance companies, and the Maldives Monetary Authority.",
+  "statedReasons": "The bill says third-party-only insurance leaves vehicle owners and accident victims without enough protection, so it would make comprehensive motor insurance compulsory to make sure accident losses are properly compensated.",
+  "sourceDoc": "Bill",
+  "pagesRead": 7,
+  "pagesTotal": 7,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

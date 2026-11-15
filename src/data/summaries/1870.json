@@ -1,0 +1,21 @@
+{
+  "workId": "1870",
+  "titleDv": "ސައިބަރ ސެކިއުރިޓީގެ ބިލު",
+  "summary": "This government bill creates the Maldives' first full cyber security law. It would set up a National Cyber Security Agency. It would name certain systems as 'critical information infrastructure' and give their owners security duties. It would also require cyber security service providers to be licensed and set rules for reporting cyber incidents. Only the first 12 of 68 pages were read: the cover, explanatory note, contents list and opening articles.",
+  "whyItMatters": "Banks, telecoms, utilities and government systems that people rely on every day would face legal security duties. A national agency would also become responsible for responding to hacks and outages.",
+  "keyProvisions": [
+    "Article 1: the law's purpose is to protect Maldives cyberspace and critical information infrastructure from cyber threats, set up a National Cyber Security Agency, set cyber security standards, and prevent and respond to incidents.",
+    "Article 3: it applies to government bodies, state companies and private parties that run information infrastructure, computer systems and related services in the Maldives.",
+    "Article 4 sets exceptions relating to the security services named in Articles 243 and 244 of the Constitution.",
+    "Per the contents list: Articles 22-30 create the National Cyber Security Agency, its duties, powers and head; Articles 31-45 cover naming critical information infrastructure and its owners' duties, such as audits and drills.",
+    "Per the contents list: Articles 46-59 cover licences for cyber security service providers and mandatory reporting of cyber security incidents."
+  ],
+  "whoIsAffected": "Operators of critical systems (government, utilities, telecoms, finance), cyber security companies, and anyone whose services depend on those systems.",
+  "statedReasons": "The government says the Maldives has no full legal framework for cyber security. The bill aims to create an institution to oversee cyberspace, protect critical information infrastructure, set cyber security standards in line with international practice, and organise the response to incidents.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 68,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

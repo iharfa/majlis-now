@@ -10,6 +10,7 @@ const STATUS_STYLES: Record<BillStatus, string> = {
   Rejected: 'bg-error-container text-on-error-container',
   Ratified: 'bg-primary-container text-on-primary-container',
   Stalled: 'bg-error-container text-on-error-container',
+  Withdrawn: 'bg-surface-container text-on-surface-variant',
 }
 
 export function StatusPill({ status, className }: { status: BillStatus; className?: string }) {

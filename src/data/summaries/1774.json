@@ -1,0 +1,22 @@
+{
+  "workId": "1774",
+  "titleDv": "އިންސާނުންގެ ގުނަވަން ޓްރާންސްޕްލާންޓްކުރުމުގެ ބިލު",
+  "summary": "This is a new government bill, with 78 articles in ten chapters, that would create the Human Organ Transplant Act. It allows only transplants from living donors; taking organs from people after death is not permitted under it. Donors must be Maldivian, at least 18, of sound mind, giving free and informed consent, and not in state custody, under charge or serving a sentence; close foreign relatives of a Maldivian patient may also donate. Buying, selling or paying for organs is banned, and each transplant must pass a hospital ethics committee, a clinical committee and a national authorisation committee. Breaking the rules carries fines and jail terms, with higher penalties for health workers and hospitals.",
+  "whyItMatters": "Organ transplants would become legal in the Maldives under one set of rules, with only licensed hospitals allowed to do them and patients usually relying on family members as donors. Organ trading would become a crime with fines of up to MVR 1.5 million for hospitals.",
+  "keyProvisions": [
+    "Articles 4 and 5 allow only living-donor transplants, and only of paired organs or organs that regenerate; ovaries and testicles cannot be transplanted.",
+    "Articles 7 and 9 set donor conditions (Maldivian citizen, aged 18 or over, sound mind, voluntary informed consent) and give priority to family donors (spouse, adult children, parents, grandparents, siblings), with non-family and swap-pair donations allowed when no compatible relative is available.",
+    "Article 11 bans any financial benefit for donating or receiving an organ, but allows the recipient to cover the donor's medical and administrative costs and lost income; Articles 10 and 15 let either side withdraw consent before the donor is put under anaesthesia.",
+    "Articles 17 to 33 create a 9-member Organ Transplant Council appointed by the President and chaired by the Director General of Health Services, which licenses hospitals, and an Organ Transplant Authorisation Committee formed by the Health Minister that approves each transplant within 7 days.",
+    "Articles 34 to 47 require hospitals to hold a separate 5-year licence for each organ type, with 24-hour specialist, ICU, lab and imaging services, plus their own clinical committee, ethics committee and transplant coordinator.",
+    "Articles 61, 62 and 66 to 69 allow a refused patient to complain to the Director General once and then seek judicial review at the High Court, and set penalties such as 12 to 18 months in jail and MVR 150,000 to 250,000 fines for removing organs without consent, and 6 to 12 months and MVR 75,000 to 150,000 for selling or buying organs."
+  ],
+  "whoIsAffected": "Patients with failing organs and their families, possible donors, hospitals and health workers, and the Health Ministry.",
+  "statedReasons": "The government says the bill creates a legal basis for an organ transplant system in the Maldives and sets standards so that transplant services are accessible, safe, of good quality and sustainable. It also sets out the rights and duties of service providers and patients.",
+  "sourceDoc": "Bill",
+  "pagesRead": 61,
+  "pagesTotal": 61,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

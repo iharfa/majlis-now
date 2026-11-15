@@ -1,0 +1,167 @@
+{
+ "sittingId": "948",
+ "date": "2025-06-02",
+ "title": "First Sitting of 2nd Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 39,
+  "onLeave": 4,
+  "officialTravel": 4
+ },
+ "summary": "The first sitting of the second session opened at 09:02 with 39 members present. South Hulhumale' member Dr. Ahmed Shamheed raised an urgent question on the 1 June power cut across Greater Male', but members voted 9 to 43 against debating it. The chair then sent three ambassador nominations to the Foreign Relations Committee and a set of Supreme Court judge nominations to the Judiciary Committee. Debate began on the government bill amending the Civil Aviation Authority Act; speakers backed it but spent much of their time trading arguments over the power cut and over trust, and the Speaker ended the sitting at 10:06 without concluding the debate. The text layer is partly garbled, so some names and figures are less certain.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "39 present, 4 on leave, 4 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee deadline announcement: National Development and Heritage Committee, civil air travel bill (Rule 174)",
+   "outcome": "deadline of 31 July 2025 announced"
+  },
+  {
+   "n": "4.2",
+   "title": "Change of committee membership: Judiciary Committee",
+   "outcome": "Vaikaradhoo member Hussain Ziyad assigned in place of Kendhoo member Mauroof Zakir (MDP seat)"
+  },
+  {
+   "n": "4.3",
+   "title": "Urgent question (Rule 192) by Dr. Ahmed Shamheed on the 1 June power outage across Greater Male'",
+   "outcome": "motion to debate it failed 9 yes, 43 no"
+  },
+  {
+   "n": "5.1",
+   "title": "Nomination of a non-resident ambassador to Nepal (letter from the President)",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "5.2",
+   "title": "Nomination of a non-resident ambassador to Ireland (letter from the President)",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "5.3",
+   "title": "Nomination of a non-resident ambassador to Ukraine (letter from the President)",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "5.4",
+   "title": "Nominations for Supreme Court judges (names from the Judicial Service Commission sent by the President)",
+   "outcome": "referred to the Judiciary Committee"
+  },
+  {
+   "n": "6.1",
+   "title": "Preliminary debate on the bill to amend the Maldives Civil Aviation Authority Act (Law 2/2012), government bill presented by Dhaandhoo member Mohamed Fazeel",
+   "outcome": "debated; Speaker ended the sitting before the debate concluded"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 3,
+   "positions": [
+    "Raised a point of order that the bill's name should be stated at least once during debate.",
+    "Supported the amendment but said trust is the issue, citing the outage, a pending financial investigation and recent Supreme Court changes."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 2,
+   "positions": [
+    "Presented the Civil Aviation Authority Act amendment, saying it strengthens the authority's powers, aviation safety and departure-tax auditing in line with ICAO standards.",
+    "Raised a point of order in reply to a remark by another member about the power cut."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 2,
+   "positions": [
+    "Said the amendment is modest, questioned why the aviation fee goes to the Finance Ministry rather than the authority, and called a five-hour outage unacceptable.",
+    "Argued that backup generators and emergency response at the main airport should be examined and officials held accountable."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 2,
+   "positions": [
+    "Defended the government, saying power problems were inherited, citing the Addu and Velana airport projects, and argued earlier governments left unresolved issues.",
+    "Said the opposition has had little time in government to judge and the debt left behind shaped current priorities."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Raised an urgent question on the 1 June power cut across Greater Male', citing effects on businesses, hospitals and the airport, and asked the House to take it up."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Backed the aim of the amendment but argued the airport power cut showed a government failure, and asked for an independent investigation the public could trust."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment and said he planned to propose an extra amendment on Friday prayer-time flight rules, which he said changed in 2009."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment, tracing how airport taxes have been collected and arguing an island nation needs a stronger air transport system and passenger protections."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and said the urgent question did not meet the rule, as power was restored within about two hours, comparing it to the 2014 water crisis."
+   ]
+  }
+ ],
+ "decisions": [
+  "The urgent question on the power outage was not taken up for debate (9 yes, 43 no, 52 voting, 27 needed).",
+  "Hussain Ziyad was assigned to the Judiciary Committee in place of Mauroof Zakir.",
+  "Ambassador nominations for Nepal, Ireland and Ukraine were sent to the Foreign Relations Committee.",
+  "Supreme Court judge nominations were sent to the Judiciary Committee.",
+  "The Speaker closed the sitting without concluding debate on the Civil Aviation Authority Act amendment bill."
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate the urgent question on the Greater Male' power outage",
+   "yes": 9,
+   "no": 43,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 30,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,227 @@
+{
+ "sittingId": "931",
+ "date": "2025-03-19",
+ "title": "17th Sitting of first Session of 2025",
+ "presiding": "Abdul Raheem Abdulla (Speaker, Fonadhoo)",
+ "attendance": {
+  "present": 39,
+  "onLeave": 8,
+  "officialTravel": 1
+ },
+ "summary": "The Majlis approved three nominations in separate votes: Hussain Shaheed as a Supreme Court judge, Hadha Ali Sharif as Maldives' permanent representative to UN ESCAP, and Geela Ali as non-resident ambassador to Denmark. The Supreme Court debate turned into a heated exchange over judicial independence and the Judicial Service Commission, with several points of order about staying on topic. The Majlis then debated the committee report on the Tourism Act amendment bill (island leasing, installment payments, cross-subsidy leases); an MDP-backed amendment failed 8-51 and the bill passed 55-7. The sitting ran 10:30 to 11:55, and the next sitting was set for 7 April 2025.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "Speaker opened the sitting with prayers"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "39 members present, 8 on leave, 1 on official travel at the opening"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcing the day's agenda",
+   "outcome": "Agenda announced by the chair"
+  },
+  {
+   "n": "4.1",
+   "title": "Passing the minutes of sittings 10/2025 to 13/2025",
+   "outcome": "Accepted as no member proposed amendments"
+  },
+  {
+   "n": "6.1",
+   "title": "Judiciary Committee report on appointing Hussain Shaheed as Supreme Court judge",
+   "outcome": "debated; passed 64-0 (no votes against, no abstentions)"
+  },
+  {
+   "n": "6.2",
+   "title": "Foreign Relations Committee report on appointing Hadha Ali Sharif as permanent representative to UN ESCAP",
+   "outcome": "debated; passed 65-0"
+  },
+  {
+   "n": "6.3",
+   "title": "Foreign Relations Committee report on appointing Geela Ali as non-resident ambassador to Denmark",
+   "outcome": "debated; passed 65-0"
+  },
+  {
+   "n": "6.4",
+   "title": "Economic Committee report on the bill to amend the Tourism Act (Law 2/99)",
+   "outcome": "debated; Ameen Faisal's amendment failed 8-51; bill passed 55-7"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 8,
+   "positions": [
+    "Backed the Tourism bill as the result of sector-wide consultation and unanimous committee approval.",
+    "Defended installment payment as normal business practice and contrasted the bill with island-lease deals under the previous MDP government.",
+    "Said he supported all the amendments and that the PNC majority backs the bill."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 6,
+   "positions": [
+    "On the Supreme Court report, said his vote depends on events around the court, including judges being suspended and replaced, and alleged government influence.",
+    "On the Tourism bill, objected to the open 'other purposes' wording for cross-subsidy leases, citing reports islands could be sought for defence imports.",
+    "Also raised concern about ministerial powers over leased islands and urged fewer regulations on investors."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 4,
+   "positions": [
+    "Presented the Foreign Relations Committee reports on the UN ESCAP and Denmark nominees, saying committee members approved them unanimously.",
+    "Said non-resident ambassador posts are filled by existing post-holders without extra pay, so they add no cost.",
+    "Defended the government's foreign policy and said opposition information to foreign envoys harms the country."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 3,
+   "positions": [
+    "Supported the ESCAP report but urged cutting political appointees, starting with embassies, given strained state finances.",
+    "Said public finances are tight, citing money printing and medicine shortages, and that MPs should speak for citizens.",
+    "Raised a point of order that members should address the chair when referring to others."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 3,
+   "positions": [
+    "Called for a ban on Israeli passports and prayers for Palestinians in Gaza.",
+    "On the bill, questioned what 'other purposes' in cross-subsidy leases means and raised installment and lease terms.",
+    "Seconded Ameen Faisal's amendment and raised a point of order about another member's remarks."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 2,
+   "positions": [
+    "Presented the Judiciary Committee report on the Supreme Court nominee, saying the committee found the legal requirements met.",
+    "Raised a point of order that remarks about the Anti-Corruption Commission president were outside the report under debate."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Described the Supreme Court nominee as well qualified and hoped for fair and just service.",
+    "Said strong independent institutions help nations develop, citing a book on why nations fail.",
+    "Urged the government to submit a bill changing the Judicial Service Commission's composition, citing the President's pledge."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that courts are overseen by the Judicial Service Commission and he did not accept claims of government influence."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that false claims should not be made in the Majlis during Ramadan, rejecting the money-printing claim."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Said people appointed to senior posts must serve sincerely and justly in the interest of the nation."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the Economic Committee report on the Tourism Act amendment bill, noting consultation with ministries, industry and the public and unanimous committee approval."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that debate on the bill must stay on the bill's subject."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that no clause of the bill concerns buying weapons."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Moved an amendment to clause 10 of the bill, redrafting the ministry's power to allow advertising of leased tourism land."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of sittings 10/2025 to 13/2025 accepted without amendment.",
+  "Majlis approved Hussain Shaheed as a Supreme Court judge (64 yes, 0 no).",
+  "Majlis approved Hadha Ali Sharif as permanent representative to UN ESCAP (65 yes, 0 no).",
+  "Majlis approved Geela Ali as non-resident ambassador to Denmark (65 yes, 0 no).",
+  "Ameen Faisal's amendment to the Tourism Act amendment bill was rejected (8 yes, 51 no).",
+  "Tourism Act (Law 2/99) amendment bill passed (55 yes, 7 no).",
+  "Next sitting set for Monday 7 April 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Appoint Hussain Shaheed as Supreme Court judge",
+   "yes": 64,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Hadha Ali Sharif as permanent representative to UN ESCAP",
+   "yes": 65,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Geela Ali as non-resident ambassador to Denmark",
+   "yes": 65,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Ameen Faisal's amendment to the Tourism Act amendment bill",
+   "yes": 8,
+   "no": 51,
+   "abstain": 0
+  },
+  {
+   "what": "Pass the Tourism Act (Law 2/99) amendment bill",
+   "yes": 55,
+   "no": 7,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 54,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

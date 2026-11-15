@@ -1,0 +1,21 @@
+{
+  "workId": "1871",
+  "titleDv": "ޑޭޓާ މަޢުލޫމާތު ޙިމާޔަތްކުރުމުގެ ބިލު",
+  "summary": "This government bill creates a data protection law for the Maldives. It sets rules for how organisations collect and use personal data. It gives people rights over their own data, such as seeing it, correcting it and asking for it to be deleted. It would create a Privacy Commissioner, make data controllers and processors register, require data breaches to be reported, and limit sending data abroad. Only the first 12 of 123 pages were read: the cover, explanatory note, contents list and opening articles.",
+  "whyItMatters": "Phone companies, banks, apps, employers and government offices that hold people's personal information would face legal limits. People would get a formal way to complain and to seek compensation.",
+  "keyProvisions": [
+    "Article 3: applies to data processed in the Maldives, and to organisations abroad that offer goods or services to, or monitor, people in the Maldives; it does not cover purely personal or household use.",
+    "Article 5 sets out separate treatment for processing data for journalism.",
+    "Per the contents list: Articles 17-24 create a Privacy Commissioner, and Articles 25-31 require data controllers and processors to register.",
+    "Per the contents list: Articles 56-64 give people rights to access, correct, delete and move their data and to object to its use; Articles 65-76 cover sending data across borders.",
+    "Per the contents list: Articles 77-87 require data breaches to be reported to the Commissioner and to affected people; Articles 88-101 cover complaints, compensation, fines and appeals."
+  ],
+  "whoIsAffected": "Everyone whose personal data is held in the Maldives, plus businesses, government bodies and foreign online services that process it.",
+  "statedReasons": "The government says the Maldives lacks a law protecting personal data. The bill aims to set processing principles and the duties of controllers and processors, protect people's rights, regulate cross-border transfers and breach handling, and create an independent Privacy Commissioner.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 123,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

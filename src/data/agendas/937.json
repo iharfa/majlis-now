@@ -1,0 +1,26 @@
+{
+  "sittingId": "937",
+  "date": "2025-04-23",
+  "title": "22nd Sitting of first Session of 2025",
+  "agendaNo": "އޖ/22/1/2025",
+  "items": [
+    { "n": 1, "text": "Opening recitation (Hamd and Salawat); the sitting begins.", "kind": "procedural" },
+    { "n": 2, "text": "Roll call of members present at the sitting.", "kind": "procedural" },
+    { "n": 3, "text": "Announcement of the day's agenda (Agenda No. އޖ/22/1/2025).", "kind": "procedural" },
+    { "n": 4, "text": "Approval of the minutes of three previous sittings (minutes Nos. 18/1/2025 to 20/1/2025).", "kind": "procedural" },
+    { "n": 5, "text": "Announcements from the Chair.", "kind": "procedural" },
+    { "n": 6, "text": "Question from Galolhu South MP Meekail Ahmed Naseem to the Minister of Homeland Security and Technology, Ali Ihusan: after it emerged that the Department of National Registration's database was used to forge identities on People's National Congress (PNC) membership forms, what steps are being taken to better protect personal data, and has any action been taken against senior ministry officials who signed as witnesses on the fake forms?", "kind": "question" },
+    { "n": 6, "text": "Question from Galolhu South MP Meekail Ahmed Naseem to the Minister of Homeland Security and Technology, Ali Ihusan: on 14 March 2025 at 19:04 President Dr Mohamed Muizzu phoned Adhadhu CEO Hussain Fiyaz Moosa and threatened him, and the journalist reported it to the police; what steps have the police taken to give him extra protection?", "kind": "question" },
+    { "n": 7, "text": "From the Speaker's desk: the President's nominee for membership of the Maldives Broadcasting Commission, under Article 6(b) of the Broadcasting Act (Law No. 16/2010), is sent to the relevant standing committee for review.", "kind": "other" },
+    { "n": 7, "text": "From the Speaker's desk: the President's nominee for Vice President of the Civil Service Commission, under Article 17(c) of the Civil Service Act (Law No. 5/2007), is sent to the relevant standing committee for review.", "kind": "other" },
+    { "n": 8, "text": "First reading of the Housing Bill, submitted on behalf of the government by Maafannu Central MP Asma Rasheed.", "kind": "bill" },
+    { "n": 9, "text": "Preliminary debate on the Housing Bill, submitted on behalf of the government by Maafannu Central MP Asma Rasheed.", "kind": "bill" },
+    { "n": 10, "text": "Voting on items from the day's business that have reached the voting stage.", "kind": "vote" },
+    { "n": 11, "text": "Any other business.", "kind": "other" }
+  ],
+  "summary": "The sitting approved old minutes, questioned the homeland security minister about forged PNC membership forms and a threat to a journalist, sent two presidential nominees to committees, and introduced and began debating the government's Housing Bill.",
+  "pagesRead": 4, "pagesTotal": 4,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

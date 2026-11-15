@@ -1,0 +1,227 @@
+{
+ "sittingId": "997",
+ "date": "2025-11-05",
+ "title": "16th Sitting of third session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 28,
+  "onLeave": 7,
+  "officialTravel": 6
+ },
+ "summary": "The 16th sitting opened at 09:02 on 5 November 2025 under Speaker Abdul Raheem Abdulla. MPs first debated the Velidhoo member's resolution calling on the government not to allow shark fishing: the proposer argued it would harm diving tourism and the reef ecosystem, while most other speakers opposed it, citing fishers' livelihoods and regulated, monitored fishing. They then debated the Kendhoo member's resolution on delays in handing over flats under the Gedhoruveriya housing scheme, with government-aligned members saying handover is on track and others urging speed. After a recess (10:30 to 11:01) debate began on a committee report on amendments to the Special Economic Zones Act; no votes were held in this part. The text is partly garbled, so figures such as attendance are read as printed. MPs debated a committee report on a bill to amend the Higher Education and Training Act (Law 2021/7). Three members spoke in favour, praising wider consultation and the chance for colleges to gain university status. The Majlis then held four votes: two member resolutions (on shark fishing and on delayed housing flats) were not accepted, while the Special Economic Zones Act amendment and the higher education amendment both passed. The sitting then closed.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "held"
+  },
+  {
+   "n": "2",
+   "title": "Announcement of attendance",
+   "outcome": "28 present, 7 on leave, 6 on official travel (as printed)"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "announced by the chair"
+  },
+  {
+   "n": "5.1",
+   "title": "Resolution from the Velidhoo member calling on the government not to allow shark catching or a shark fishery in the Maldives",
+   "outcome": "debated (proposer and seven other members spoke); proposer replied; vote left for the day's vote hour"
+  },
+  {
+   "n": "6.1",
+   "title": "Unfinished business: Kendhoo member's resolution on delays in handing over Gedhoruveriya and Binveriya housing flats",
+   "outcome": "debated; proposer absent so gave no closing reply; vote left for the day's vote hour"
+  },
+  {
+   "n": "7.1",
+   "title": "Committee report on the bill amending the Special Economic Zones Act (Law 2014/24), submitted by the Baarashu member",
+   "outcome": "debated (2 members spoke); no member amendments were received; third reading of the bill introduced as this part ends"
+  },
+  {
+   "n": "7.2",
+   "title": "Committee report on the bill to amend the Higher Education and Training Act (Law 2021/7), and its third reading",
+   "outcome": "debated; 3 members spoke in support; then passed 55-0"
+  },
+  {
+   "n": "8",
+   "title": "Resolution calling for permission to catch sharks and for a shark fishery in the Maldives (Velidhoo member)",
+   "outcome": "not accepted 10-44"
+  },
+  {
+   "n": "8",
+   "title": "Resolution on delays in handing over flats under the Gedhoruveriya and Binveriya housing projects (Kendhoo member)",
+   "outcome": "not accepted 11-40, 2 abstained"
+  },
+  {
+   "n": "8",
+   "title": "Bill to amend the Special Economic Zones Act (Law 2014/24), as concluded by committee (Baarashu member)",
+   "outcome": "passed 47-10"
+  },
+  {
+   "n": "8",
+   "title": "Bill to amend the Higher Education and Training Act (Law 2021/7), as concluded by committee",
+   "outcome": "passed 55-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 5,
+   "positions": [
+    "Proposed the shark resolution, saying shark fishing would hurt diving tourism, the reef food chain and shark numbers.",
+    "Said divers and dive operators had asked him to oppose shark fishing; said the resolution was not against fishers.",
+    "On the housing resolution, welcomed that recipients for the 4000 flats were chosen but urged meeting promised handover dates."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 3,
+   "positions": [
+    "Opposed the shark resolution, saying it looked unresearched and that fish stocks exist for people to eat.",
+    "Pointed to vessel tracking and sustainable-fishing rules; a point of order from the proposer was upheld during his speech.",
+    "On housing, said the government is finishing and handing over flats, and complaints about allocations should be examined."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "On sharks, took no firm side; called for a scientific study, licensing and monitoring and said tourism should not be the only economy.",
+    "On housing, urged faster handover of the 4000 flats and publication of the recipients' list and criteria."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 2,
+   "positions": [
+    "Did not support the shark resolution; said fishers face hardship and regulated, monitored fishing is possible alongside tourism.",
+    "As committee deputy chair, presented the report: wide consultation with universities, colleges and the ministry, site visits, and cross-party agreement on the changes."
+   ]
+  },
+  {
+   "name": "Ahmed Xamyr",
+   "constituency": "Central Mahchangolhi",
+   "turns": 2,
+   "positions": [
+    "Said critics calling the president's housing pledges false were wrong; the pledge was five years and work is under way.",
+    "Explained that flats were allocated by points under the 2023 announcement, with higher points getting three-bedroom flats.",
+    "Said flats are being finished before handover so residents avoid fit-out loans, with most handovers expected in November."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Opposed the shark resolution; said ordinary Maldivians need livelihoods beyond resort jobs and sea resources should be used sustainably."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Opposed the shark resolution; said shark fishing can be controlled under clear rules and that citizens who wish to do it should be allowed."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Opposed the shark resolution; said fishing was banned in 2010, northern fishers lost income, and offshore fishing does not affect tourism."
+   ]
+  },
+  {
+   "name": "Hussain Imran Latheef",
+   "constituency": "South Henveyru",
+   "turns": 1,
+   "positions": [
+    "Said both fishing and tourism matter; asked members not to politicise the issue and to rely on study, regulation and the two ministries working together."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Proposed amendments on the health-centre definition, tourism-related taxes and ongoing projects; said MDP could revisit its vote if they were included."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill; said special economic zones need special incentives to attract investment, existing projects should be covered, and PNC would support it."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the report; said the amendments set rules for higher education institutions and for colleges becoming universities.",
+    "Argued more local institutions would give Maldivian students more study options and attract foreign students."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Thanked the committee for its thorough work on the bill sent to it in July 2024.",
+    "Said it opens the way for more universities and gives well-run colleges a path to university status."
+   ]
+  }
+ ],
+ "decisions": [
+  "Debate on the Velidhoo member's shark resolution was closed; the vote was left for the day's vote hour.",
+  "Debate on the Kendhoo member's housing-flats resolution was closed without a closing reply because the proposer was absent; the vote was left for the vote hour.",
+  "The chair told the house that no member amendments had been received to the committee report on the Special Economic Zones Act amendment bill.",
+  "The sitting recessed from 10:30 to 11:01.",
+  "Resolution to allow shark catching and a shark fishery was not accepted by the Majlis.",
+  "Resolution on delayed handover of Gedhoruveriya and Binveriya flats was not accepted by the Majlis.",
+  "Special Economic Zones Act amendment bill (2014/24) passed.",
+  "Higher Education and Training Act amendment bill (2021/7) passed.",
+  "The sitting was closed."
+ ],
+ "votes": [
+  {
+   "what": "Accept resolution on shark catching and shark fishery (Velidhoo member)",
+   "yes": 10,
+   "no": 44,
+   "abstain": 0
+  },
+  {
+   "what": "Accept resolution on delayed Gedhoruveriya/Binveriya flats (Kendhoo member)",
+   "yes": 11,
+   "no": 40,
+   "abstain": 2
+  },
+  {
+   "what": "Pass Special Economic Zones Act amendment bill (2014/24)",
+   "yes": 47,
+   "no": 10,
+   "abstain": 0
+  },
+  {
+   "what": "Pass Higher Education and Training Act amendment bill (2021/7)",
+   "yes": 55,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 63,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

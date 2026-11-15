@@ -1,0 +1,226 @@
+{
+ "sittingId": "972",
+ "date": "2025-08-06",
+ "title": "22nd Sitting of second session of 2025",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 30,
+  "onLeave": 7,
+  "officialTravel": 7
+ },
+ "summary": "The sitting ran 9:02 to 13:42 under the Speaker. MPs debated for several hours the government's bill amending the Tax Administration Act (Act 2010/3), sponsored by Vilimale' MP Mohamed Ismail; speakers from the government and opposition backed it, with some raising concerns about uneven fines, tax waivers and enforcement. Two committee reports were then debated or presented, on the Thalassemia Control Act and the decentralisation (local councils) Act. In the afternoon votes all three bills were approved: the tax bill was accepted 60-0 and sent to the Economic Committee, the thalassemia bill passed 60-0, and the decentralisation bill passed 51-8. Parts of the text layer are garbled, so one attendance label (leave versus travel) is a best reading.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "Speaker opened the sitting"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of the sitting",
+   "outcome": "30 members present at the start, 7 on leave, 7 on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "Agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair",
+   "outcome": "Committee deadlines announced, including a Judiciary Committee deadline of 10 Aug 2025 for the bill amending Act 2025/8"
+  },
+  {
+   "n": "5.1",
+   "title": "Preliminary debate on the bill to amend the Tax Administration Act (Act 2010/3), sponsored by the government",
+   "outcome": "Debated by 14 members; accepted 60-0 and sent to the Economic Committee"
+  },
+  {
+   "n": "6.1",
+   "title": "Social Committee report on the bill to amend the Thalassemia Control Act (Act 2012/4)",
+   "outcome": "Report presented, debated by one member, passed 60-0"
+  },
+  {
+   "n": "6.2",
+   "title": "Decentralisation Committee report on the bill to amend the Act on running administrative divisions in a decentralised way (Act 2010/7)",
+   "outcome": "Report presented and debated; passed 51-8"
+  },
+  {
+   "n": "7",
+   "title": "Voting on matters ready for a vote",
+   "outcome": "Three votes taken, all passed"
+  },
+  {
+   "n": "8",
+   "title": "Closing; next sitting set for 11 Aug 2025 at 9:00",
+   "outcome": "Sitting closed"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 4,
+   "positions": [
+    "On the tax bill, supported it and said it is key legislation for state income.",
+    "On the decentralisation bill, said it limits council business ventures and hiring or land use in the last year of a term, and argued it does not remove council powers."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 3,
+   "positions": [
+    "On the tax bill, said penalties should be fair to both sides, including those the government owes money.",
+    "Said laws only work if followed up, and raised a minister's non-attendance for questions.",
+    "On the decentralisation bill, said councils' business limits and timing raise concerns for councils."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 2,
+   "positions": [
+    "As sponsor, said the tax bill gives MIRA clearer powers on filings, audits and penalties and improves tax compliance.",
+    "In closing, said members from all sides accepted the bill is needed and expects it to protect taxpayers' rights."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 2,
+   "positions": [
+    "On the tax bill, supported it but said small businesses face hardship from sudden MIRA audits and large fines.",
+    "On the thalassemia report, backed it and praised government support for affected families."
+   ]
+  },
+  {
+   "name": "Ahmed Nazim",
+   "constituency": "Dhiggaru",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as a way to raise state revenue and curb hidden wealth, and criticised past tax waivers and deferrals."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill but said enforcement also depends on courts and investigators following through on large tax and corruption cases."
+   ]
+  },
+  {
+   "name": "Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying enforcement of existing systems matters and the new information-gathering powers for MIRA are useful."
+   ]
+  },
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying no leader should waive taxes or fines, and urged a single system for collecting government fees."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Said a large amount of tax goes uncollected, so tax rules and penalties must apply equally to everyone."
+   ]
+  },
+  {
+   "name": "Ahmed Naseer",
+   "constituency": "Ihavandhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, saying it should make the tax system stronger and fairer, and noted debts the state owes are also a problem."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill; said power to waive taxes shifts to MIRA, and asked the committee to look at late government payments to contractors."
+   ]
+  },
+  {
+   "name": "Mohamed Shamin Habeeb",
+   "constituency": "Kurendhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill but said real gains come from enforcement, including foreigners running businesses under Maldivians' names."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill and asked the committee to consider double taxation and untaxed online and imported-goods trading."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and suggested deducting tax automatically at the bank when payments are made."
+   ]
+  },
+  {
+   "name": "Asma Rasheed",
+   "constituency": "Central Maafannu",
+   "turns": 1,
+   "positions": [
+    "Presented the Social Committee's unanimous report on the thalassemia bill: sets rules for the centre's director general and marriage of likely carriers."
+   ]
+  },
+  {
+   "name": "Ahmed Xamyr",
+   "constituency": "Central Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Presented the Decentralisation Committee's report on the Act 2010/7 amendment bill, passed by committee majority on 5 Aug 2025."
+   ]
+  }
+ ],
+ "decisions": [
+  "The bill to amend the Tax Administration Act (Act 2010/3) was accepted by the Majlis and sent to the Economic Committee for review.",
+  "The bill to amend the Thalassemia Control Act (Act 2012/4) was passed in line with the Social Committee's report.",
+  "The bill to amend Act 2010/7 on decentralised administration was passed in line with the Decentralisation Committee's report.",
+  "The chair announced committee deadlines, including 10 Aug 2025 for the Judiciary Committee on the bill amending Act 2025/8.",
+  "The next sitting was set for Monday 11 Aug 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Accept the Tax Administration Act (2010/3) amendment bill for review (61 present, 93 seats)",
+   "yes": 60,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Pass the Thalassemia Control Act (2012/4) amendment bill per committee report",
+   "yes": 60,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Pass the Act 2010/7 (decentralised administration) amendment bill per committee report",
+   "yes": 51,
+   "no": 8,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 51,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

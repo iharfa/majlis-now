@@ -1,0 +1,21 @@
+{
+  "workId": "1722",
+  "titleDv": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާގެ ޤާނޫނުއަސާސީއަށް ... ވަނަ އިސްލާހު ގެނައުމުގެ ބިލު",
+  "summary": "This bill amends the Constitution of the Maldives. It adds a new clause to Article 71 that sets how many MPs an administrative constituency gets based on its total population, from 1 member for 6,000 to 12,000 people up to 5 members for more than 36,000. It also adds two clauses to Article 72 requiring political parties to reserve 1 of every 10 constituencies they contest for a woman candidate. The new seat rules would start with the 21st People's Majlis, the second Majlis elected after the current one's term ends.",
+  "whyItMatters": "The number of MPs each area elects would follow its population, and parties would have to field women candidates in at least one in ten of the seats they contest.",
+  "keyProvisions": [
+    "Adds clause (n) to Article 71: from the 21st People's Majlis, the number of MPs is set by the total population of each administrative constituency.",
+    "The population bands are: 6,000 to 12,000 people gives 1 member, 12,000 to 18,000 gives 2, 18,000 to 24,000 gives 3, 24,000 to 36,000 gives 4, and more than 36,000 gives 5.",
+    "Adds clause (r) to Article 72: for every 10 constituencies a political party contests, it must reserve 1 for a woman candidate.",
+    "Adds clause (b) to Article 72: the Political Parties Act must set out the details of how this rule is carried out.",
+    "Clause 3 says the amendment takes effect once it is passed, ratified and published in the Government Gazette."
+  ],
+  "whoIsAffected": "Voters and constituencies whose number of MPs would change, political parties choosing candidates, women candidates, and the Elections Commission.",
+  "statedReasons": "The note says the bill makes the constitutional changes needed to reform the rules for setting the number of People's Majlis members and how members are elected.",
+  "sourceDoc": "Bill",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

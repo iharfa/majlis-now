@@ -1,0 +1,261 @@
+{
+ "sittingId": "864",
+ "date": "2024-07-29",
+ "title": "20th sitting of the 20th Majlis",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 53,
+  "onLeave": 4,
+  "officialTravel": 0
+ },
+ "summary": "The sitting opened at 9:01 with 53 members present, 4 on leave and none on official travel. Two government bills (amending the Decentralization Act and the Local Council Elections Act) had their first reading, and committee deadlines were announced. The rest of this part is the preliminary debate on the government's Employment Act amendment bill, sponsored by North Kulhudhuffushi, which changes how many foreign workers can be brought in and the fines and fees involved. Most speakers backed the bill while asking the committee to look at fee-setting powers, penalties and business impact; the debate was still running when this part ended. The text is partly garbled, so some details are approximate. The sitting continued the debate on a bill amending the Employment Act (Law 2/2008), which deals with foreign workers. Members who spoke supported the amendments and raised concerns about foreign worker numbers, workers' rights, unpaid visa fees and loopholes, asking the committee stage to look at them. After a recess for committee work, the Legal Profession Act (2019/5) amendment bill came up under unfinished business, but nobody asked to speak and the sponsor was absent, so the chair ended the sitting. The next sitting was set for 30 July 2024 at 9:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "53 present, 4 on leave, none on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Speaker's announcements",
+   "outcome": "visiting Practice Parliament for Youth participants welcomed"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee reporting deadlines (Rule 174)",
+   "outcome": "deadlines announced for Finance, Judiciary and Independent Institutions committees"
+  },
+  {
+   "n": "5.1",
+   "title": "Bill to amend Law 2010/7 (Decentralization Act), sponsored for the government by Isdhoo member Ismail Shafeeu",
+   "outcome": "first reading"
+  },
+  {
+   "n": "5.2",
+   "title": "Bill to amend Law 2010/10 (Local Council Elections Act), sponsored for the government by Kaashidhoo member Munthazim Ibrahim",
+   "outcome": "first reading"
+  },
+  {
+   "n": "6.1",
+   "title": "Bill to amend Law 2008/2 (Employment Act), preliminary debate",
+   "outcome": "debated; continues beyond this part"
+  },
+  {
+   "n": "",
+   "title": "Debate on the bill to amend the Employment Act (Law 2/2008), continued from part 1",
+   "outcome": "debated; members asked that points be considered at committee stage"
+  },
+  {
+   "n": "7.1",
+   "title": "Bill to amend the Legal Profession Act (Law 2019/5), submitted by the government through Hussain Shareef (North Hulhumale'), debate continued",
+   "outcome": "no member spoke and the sponsor was absent; sitting adjourned with the bill unfinished"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 2,
+   "positions": [
+    "Supports the bill; says about MVR 1.8 billion owed by foreign-worker cases, with only about MVR 80 million recovered.",
+    "Points to the new immigration watch platform and biometric records; expects committee amendments."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order about dismissive talk on foreign workers; the chair said it was not a point of order.",
+    "Concerned that moving the quota cap and fees into regulations reduces Parliament's say and could burden businesses.",
+    "Says migrants should not be called illegal as such; wants the Labour Relations Authority strengthened."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Supports the bill but warns committee stage must not shift too much power to ministers or cabinet.",
+    "Disagrees with the Holhudhoo member's tone on foreign workers; says unpaid visa and quota fees often stem from medical and cost issues.",
+    "Urges allowing Bangladeshi recruitment again for construction."
+   ]
+  },
+  {
+   "name": "Mohamed Dawoodh",
+   "constituency": "North Kulhudhuffushi",
+   "turns": 1,
+   "positions": [
+    "Sponsor: the bill aims to bring unlawful foreign workers under a proper system, protecting workers' rights, local jobs and national security."
+   ]
+  },
+  {
+   "name": "Munthazim Ibrahim",
+   "constituency": "Kaashidhoo",
+   "turns": 1,
+   "positions": [
+    "Supports the bill; cites 154,314 foreign workers in March statistics and says there is still no proper register.",
+    "Argues unlawful foreign workers cause economic and social losses and that the bill helps enforcement."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Questions removing the per-country cap and asks whether the bill's goal of fewer foreign workers is achieved.",
+    "Cites census and youth data on foreign workers and young people not working or studying."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Broadly supports; says the old per-country cap distorted the labour market and welcomes cabinet setting numbers.",
+    "Wants fee review timing clarified and says the MVR 50,000 fine per employee is high."
+   ]
+  },
+  {
+   "name": "Mohamed Fazeel",
+   "constituency": "Dhaandhoo",
+   "turns": 1,
+   "positions": [
+    "Point of order: Maldivians are missing from some trades because of low pay, not because foreigners arrived; chair ruled it not a point of order."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Supports; says foreign workers must pay their share of income and fees, and the state needs a firm system.",
+    "Says Bangladesh is about 60 percent of foreign workers and that policies should favour Maldivians."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supports; says the issue was neglected for about 15 years and describes the three main amendments.",
+    "Notes public comments and committee-stage amendments remain possible."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Supports; says many workers cannot be traced to a sponsor and the bill gives workers certainty and legal safety."
+   ]
+  },
+  {
+   "name": "Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supports; wants committee to consult the construction industry and others.",
+    "Wants more Maldivians in work, such as a national service scheme, and fewer foreign workers; says foreign workers have rights too."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Supports; says unlawful workers cost the state large fee income and create security and social problems.",
+    "Says the country needs both professional and unskilled foreign labour under clear rules."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Supports; estimates about 50,000 unregistered workers cost roughly MVR 17.5 million monthly in permit fees.",
+    "Wants routes for sending money abroad outside the rules closed and says foreign workers now dominate many sectors."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Supports; cites about 181,000 foreign workers, around 97,000 of them Bangladeshi.",
+    "Says the Maldives needs foreign labour for growth and opposition members also back the amendments."
+   ]
+  },
+  {
+   "name": "Ashraf Rasheed",
+   "constituency": "Faresmaathodaa",
+   "turns": 1,
+   "positions": [
+    "Supports; says no one knows how many foreign workers are lawful or unlawful, and the amendments are good.",
+    "Wants committee to hear workers and economic stakeholders."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Supports; says councils already must register foreign workers on their islands under the decentralization law.",
+    "Wants stronger enforcement and limits on foreign workers protesting over their home countries' issues. Speech continues past this part."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Called the foreign worker issue a sensitive one that could affect national security, citing marriages and children born from them.",
+    "Backed the government's bill, saying the committee stage will refine it and a clear system will let employers and workers be held accountable."
+   ]
+  },
+  {
+   "name": "Fathimath Sauda",
+   "constituency": "Nilandhoo",
+   "turns": 1,
+   "positions": [
+    "Said the proposed amendments will protect the rights of both Maldivian and foreign workers.",
+    "Asked the committee to consider the exploitation of foreign workers and loopholes in the law."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "Kolamaafushi",
+   "turns": 1,
+   "positions": [
+    "Thanked the government and the sponsor, and described the rise in foreign workers and agency profiteering as a serious problem.",
+    "Said foreign workers are needed for projects but must be paid properly, and called for stay limits and recovery of unpaid visa fees."
+   ]
+  }
+ ],
+ "decisions": [
+  "Government bills amending the Decentralization Act and the Local Council Elections Act received their first reading.",
+  "Committee reporting deadlines were announced for the Finance, Judiciary and Independent Institutions committees.",
+  "The chair ruled that two interventions (by Kendhoo and Dhaandhoo) were not points of order.",
+  "The sitting broke for 30 minutes from 10:30 and resumed around 11:02.",
+  "Preliminary debate on the Employment Act amendment bill continued without a decision in this part.",
+  "The chair paused the sitting at 11:30 to let committees meet and resumed it at about 13:00.",
+  "No member took the floor on the Legal Profession Act amendment bill and its sponsor was absent, so the chair adjourned the sitting with the bill unfinished.",
+  "The next sitting was announced for Tuesday 30 July 2024 at 9:00."
+ ],
+ "votes": [],
+ "pagesTotal": 48,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

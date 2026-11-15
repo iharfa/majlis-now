@@ -1,0 +1,145 @@
+{
+ "sittingId": "913",
+ "date": "2025-01-20",
+ "title": "Second special sitting of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla (Fonadhoo)",
+ "attendance": {
+  "present": null,
+  "onLeave": 6,
+  "officialTravel": 1
+ },
+ "summary": "At this second special sitting of 2025, held outside the regular session, the Speaker announced a letter from the President nominating two people for the Anti-Corruption Commission and sent it to the Independent Institutions Committee. Members then debated a committee report on the nominee for Vice President of the Human Rights Commission, and a report on four ministers appointed by the President. In the votes that followed, Moomina Waheed was approved as Human Rights Commission Vice President, and all four ministers received the Majlis's approval. The attendance paragraph of the text is partly garbled, so the attendance figures are uncertain.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "attendance announced"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "5.1",
+   "title": "President's letter nominating two people to the Anti-Corruption Commission",
+   "outcome": "letter read out; referred to the Independent Institutions Committee"
+  },
+  {
+   "n": "6.1",
+   "title": "Committee report on the Human Rights Commission Vice President nominee (Moomina Waheed)",
+   "outcome": "debated; passed 67-0 at the vote"
+  },
+  {
+   "n": "6.2",
+   "title": "Government Accountability Committee report on four ministers appointed by the President",
+   "outcome": "debated; all four approved at the vote"
+  },
+  {
+   "n": "7",
+   "title": "Votes on pending items",
+   "outcome": "five votes held; all passed"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hussain Hameed",
+   "constituency": "Kudahuvadhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the committee's report: after review, attending committee members agreed unanimously to approve the nominee as Human Rights Commission Vice President."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Said the committee's report appeared thorough and complete, and he had no major concerns to raise about it."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the report but said public trust in independent commissions is low, citing a recent personal-data incident, and asked for it to be handled independently."
+   ]
+  },
+  {
+   "name": "Mohamed Ismail",
+   "constituency": "Vilimale'",
+   "turns": 1,
+   "positions": [
+    "Presented the committee's report on the four ministers: institutions were written to, raised no issues, and attending committee members approved them unanimously."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Said ministers' approval can be withdrawn, and complained that some ministers do not answer members' calls or follow up on requests."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Reiterated opposition to the November 2024 constitutional amendment, and said criminal allegations against a minister should be looked into by the Majlis."
+   ]
+  }
+ ],
+ "decisions": [
+  "President's letter nominating two people to the Anti-Corruption Commission was referred to the Independent Institutions Committee.",
+  "Moomina Waheed (G. Jiyen) approved as Vice President of the Human Rights Commission of the Maldives.",
+  "Moosa Zameer approved as Minister of Finance and Planning.",
+  "Dr. Ali Haidar Ahmed approved as Minister of Higher Education, Labour and Skills Development.",
+  "Dr. Maryam Mariya approved as Minister of Agriculture and Animal Welfare.",
+  "Dr. Abdulla Muttalib approved as Minister of Construction, Housing and Infrastructure.",
+  "Next sitting announced for 4 pm the same day."
+ ],
+ "votes": [
+  {
+   "what": "Appoint Moomina Waheed as Vice President of the Human Rights Commission",
+   "yes": 67,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Moosa Zameer as Minister of Finance and Planning",
+   "yes": 69,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Dr. Ali Haidar Ahmed as Minister of Higher Education, Labour and Skills Development",
+   "yes": 63,
+   "no": 6,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Dr. Maryam Mariya as Minister of Agriculture and Animal Welfare",
+   "yes": 70,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Approve Dr. Abdulla Muttalib as Minister of Construction, Housing and Infrastructure",
+   "yes": 70,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 33,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

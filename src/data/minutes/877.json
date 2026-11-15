@@ -1,0 +1,348 @@
+{
+ "sittingId": "877",
+ "date": "2024-08-22",
+ "title": "32nd sitting of the 20th Majlis",
+ "presiding": "Deputy Speaker Ahmed Nazim",
+ "attendance": {
+  "present": 45,
+  "onLeave": 7,
+  "officialTravel": 4
+ },
+ "summary": "The sitting opened with routine business: minutes of sittings 25 to 28 were accepted, two Judiciary Committee seats were refilled, and a committee deadline was announced. Members then debated Economic, Social, Judiciary and Joint committee reports on seven bills, with the health services bill drawing the longest and most partisan exchange about past and present handling of Aasandha and hospitals. After a break the Majlis voted on all seven bills and passed them, five unanimously (77-0) and the built-environment and decentralisation bills 67-10. The chair closed by reporting that 82.9% of matters submitted to the Majlis were complete and that the last sitting of the session would be that night at 9:00 pm. Part of the opening attendance figures is garbled in the text. This part of the minutes contains only the electronic voting records, with no debate text. Members voted on four bills, with 80 members present and 79 eligible to vote (the Speaker does not vote). Two amendment bills passed unanimously among those voting, and two passed 67 to 10.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayers",
+   "outcome": "sitting opened at 9:00"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "45 present, 7 on leave, 4 on official travel as stated"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda 2024/Ej/32 announced"
+  },
+  {
+   "n": "4",
+   "title": "Adoption of minutes of sittings 25 to 28",
+   "outcome": "accepted, no amendments submitted"
+  },
+  {
+   "n": "5",
+   "title": "Chair announcements: Judiciary Committee membership changes",
+   "outcome": "Milandhoo and Thulusdhoo members replace the Hulhudhoo and Faresmaathodaa members"
+  },
+  {
+   "n": "5.1",
+   "title": "Committee deadline for the Urban Development Bill",
+   "outcome": "deadline of 10 October 2024 announced"
+  },
+  {
+   "n": "6.1",
+   "title": "Economic Committee report on the Foreign Investment Bill",
+   "outcome": "no debate; passed 77-0"
+  },
+  {
+   "n": "6.2",
+   "title": "Economic Committee report on the Business Registration Act (18/2014) amendment bill",
+   "outcome": "debated; passed 77-0"
+  },
+  {
+   "n": "6.3",
+   "title": "Economic Committee report on the Maldives Financial Securities Act (2/2006) amendment bill",
+   "outcome": "debated; passed 77-0"
+  },
+  {
+   "n": "6.4",
+   "title": "Social Committee report on the Health Services Act (29/2015) amendment bill",
+   "outcome": "debated at length; passed 77-0"
+  },
+  {
+   "n": "6.7",
+   "title": "Judiciary Committee report on the Legal Profession Act (5/2019) amendment bill",
+   "outcome": "debated; passed 77-0"
+  },
+  {
+   "n": "6.5",
+   "title": "Joint Committee report on the Built Environment Planning and Management Bill",
+   "outcome": "debated; passed 67-10"
+  },
+  {
+   "n": "6.6",
+   "title": "Joint Committee report on the Decentralised Administration Act (7/2010) amendment bill",
+   "outcome": "no debate; passed 67-10"
+  },
+  {
+   "n": "7",
+   "title": "Votes on the day's bills",
+   "outcome": "all seven bills passed"
+  },
+  {
+   "n": "8",
+   "title": "Chair's progress statement and close",
+   "outcome": "82.9% of submitted matters complete; final session sitting set for 9:00 pm that night"
+  },
+  {
+   "n": "",
+   "title": "Vote on the bill to amend Law No. 29/2015 (law on providing health services)",
+   "outcome": "passed 77-0"
+  },
+  {
+   "n": "",
+   "title": "Vote on the bill to amend Law No. 5/2019 (law on the legal profession of the Maldives)",
+   "outcome": "passed 77-0"
+  },
+  {
+   "n": "",
+   "title": "Vote on the bill on construction planning and procedure",
+   "outcome": "passed 67-10"
+  },
+  {
+   "n": "",
+   "title": "Vote on the bill to amend Law No. 7/2010 (Decentralization Act, administrative division procedures)",
+   "outcome": "passed 67-10"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Ali Fazad",
+   "constituency": "Central Fuvahmulah",
+   "turns": 3,
+   "positions": [
+    "Presented the Economic Committee reports on the business registration and financial securities bills.",
+    "Said the securities amendments align the law with the new foreign investment law, after consulting government bodies."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 3,
+   "positions": [
+    "Supported the business registration bill, saying registration shows how many firms operate and eases economic planning.",
+    "Called false reports on state finances irresponsible and urged setting clear rules for spending state money.",
+    "Urged faster court processes and said she would later propose adding 'Sharia and law' to who may practise as a lawyer."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 3,
+   "positions": [
+    "Said many firms were registered but contractors went unpaid, and criticised the previous government's contracts.",
+    "Wanted competitive markets for small firms, not registration alone; hoped the changes open opportunities for them.",
+    "Said health reform needs a master plan prioritising doctors and services over new hospital buildings."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 3,
+   "positions": [
+    "Said the health picture is unclear and raised IGM Hospital equipment shortages and Aasandha access problems.",
+    "Spoke after the chair cited the rule against disrupting a member; again stressed patient access concerns.",
+    "Backed the Legal Profession amendments, noting the Attorney General's removal from the Bar Council committee and simpler document certification."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 3,
+   "positions": [
+    "Presented the Joint Committee report on the built environment bill, passed in committee after four meetings and consultations.",
+    "Said committee members from all parties raised no concern about council powers, and councils would keep land decisions.",
+    "Presented the Decentralised Administration Act amendment report, passed in committee after consulting the housing ministry."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 2,
+   "positions": [
+    "Backed the business registration report but flagged a remaining provision on land held by firms whose shares pass to foreigners.",
+    "Argued the built environment bill weakens atoll and city councils and urged revision after consulting councillors."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 2,
+   "positions": [
+    "Presented the Judiciary Committee report: lawyers alone would run the Bar Council committee and schools could certify true copies.",
+    "Said the main aim is to keep government influence out of lawyers' affairs."
+   ]
+  },
+  {
+   "name": "Ali Moosa",
+   "constituency": "Hoarafushi",
+   "turns": 1,
+   "positions": [
+    "Said the bills bring Maldivian law in line with signed international agreements and urged passing them as the committee approved."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Urged passing the amendments quickly for the nation's sake and called for responsible talk about state finances."
+   ]
+  },
+  {
+   "name": "Asma Rasheed",
+   "constituency": "Central Maafannu",
+   "turns": 1,
+   "positions": [
+    "Presented the Social Committee report: amendments make preventive care part of the health system and set standards for it."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the report and said Aasandha and NSPA arrears and unpaid foreign debts were left by the previous administration."
+   ]
+  },
+  {
+   "name": "Ibrahim Muhammad",
+   "constituency": "North Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "Supported the bill as strengthening the system and using state funds better; criticised past handling of health assets."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Welcomed the bill's preventive-care focus and criticised the previous government's medicine import arrangements."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 1,
+   "positions": [
+    "Said the amendments suit the economic situation and criticised MDP-era health promises, such as the Velidhoo health centre."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Said Aasandha arrears of about MVR 1.1 billion hurt hospitals, and raised ambulance and service gaps in Fuvahmulah."
+   ]
+  },
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Cited rising NSPA arrears (MVR 491 million to about 1.5 billion) and asked the government to publish reserve figures."
+   ]
+  },
+  {
+   "name": "Ahmed Siyam Mohamed",
+   "constituency": "Meedhoo",
+   "turns": 1,
+   "positions": [
+    "Said the health sector had failed for over thirty years and Aasandha had not helped; supported rebuilding from the ground up."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of sittings 25 to 28 of 2024 accepted without amendments.",
+  "Judiciary Committee seats refilled: Milandhoo and Thulusdhoo members replace the Hulhudhoo and Faresmaathodaa members.",
+  "Committee deadline of 10 October 2024 announced for the Urban Development Bill.",
+  "Foreign Investment Bill passed 77-0.",
+  "Business Registration Act (18/2014) amendment bill passed 77-0.",
+  "Maldives Financial Securities Act (2/2006) amendment bill passed 77-0.",
+  "Health Services Act (29/2015) amendment bill passed 77-0.",
+  "Legal Profession Act (5/2019) amendment bill passed 77-0.",
+  "Built Environment Planning and Management Bill passed 67-10.",
+  "Decentralised Administration Act (7/2010) amendment bill passed 67-10.",
+  "Final sitting of the session set for 9:00 pm on 22 August 2024.",
+  "Bill to amend Law No. 29/2015 passed, 77 yes, 0 no.",
+  "Bill to amend Law No. 5/2019 passed, 77 yes, 0 no.",
+  "Bill on construction planning and procedure passed, 67 yes, 10 no.",
+  "Bill to amend Law No. 7/2010 passed, 67 yes, 10 no."
+ ],
+ "votes": [
+  {
+   "what": "Foreign Investment Bill (Economic Committee report)",
+   "yes": 77,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Business Registration Act (18/2014) amendment bill",
+   "yes": 77,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Maldives Financial Securities Act (2/2006) amendment bill",
+   "yes": 77,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Health Services Act (29/2015) amendment bill",
+   "yes": 77,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Legal Profession Act (5/2019) amendment bill",
+   "yes": 77,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Built Environment Planning and Management Bill",
+   "yes": 67,
+   "no": 10,
+   "abstain": 0
+  },
+  {
+   "what": "Decentralised Administration Act (7/2010) amendment bill",
+   "yes": 67,
+   "no": 10,
+   "abstain": 0
+  },
+  {
+   "what": "Bill to amend Law No. 29/2015 (health services law)",
+   "yes": 77,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Bill to amend Law No. 5/2019 (legal profession law)",
+   "yes": 77,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Bill on construction planning and procedure",
+   "yes": 67,
+   "no": 10,
+   "abstain": 0
+  },
+  {
+   "what": "Bill to amend Law No. 7/2010 (Decentralization Act)",
+   "yes": 67,
+   "no": 10,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 66,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

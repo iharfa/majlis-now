@@ -1,0 +1,22 @@
+{
+  "workId": "1912",
+  "titleDv": "ޤާނޫނު ނަންބަރު 26/2020 (ޔުޓިލިޓީ ރެގިއުލޭޓަރީ އޮތޯރިޓީގެ ޤާނޫނު) އަށް 2 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This amends the Utility Regulatory Authority Act, mainly to change how the regulator's board works. The board will have 7 members, including the chief executive, and must now include someone with legal expertise. Members serve 5-year terms and can be reappointed more than once. The President appoints the chairperson from among the board, but not the CEO, and the CEO gets no vote on board decisions. The bill also sets new quorum and meeting rules.",
+  "whyItMatters": "The Utility Regulatory Authority oversees electricity, water and sewerage services and the rules around them. Changing how its board is made up and makes decisions changes who controls that oversight.",
+  "keyProvisions": [
+    "Section 6(b): the board has 7 members, including the Authority's chief executive as an ex-officio member.",
+    "Section 7: apart from the CEO, members must have technical education and experience, one from each listed field, and a legal field is added to the list.",
+    "Members serve 5-year terms and, except those removed under section 9, can be reappointed for more than one term.",
+    "Section 8(a): the President appoints the chairperson from among board members other than the CEO.",
+    "Section 13: quorum is a majority of all members including the chair. A majority of members can request a meeting, which the chair must hold within 5 days. The CEO has no vote on board decisions.",
+    "The additional board member required by the change must be appointed within 30 days of the law taking effect."
+  ],
+  "whoIsAffected": "The Utility Regulatory Authority's board and management, and indirectly utility companies and people who pay utility bills.",
+  "statedReasons": "",
+  "sourceDoc": "Final Bill",
+  "pagesRead": 4,
+  "pagesTotal": 4,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

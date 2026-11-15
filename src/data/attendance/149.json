@@ -1,0 +1,166 @@
+{
+  "committeeId": "149",
+  "period": "2025-02-11 to 2025-11-19",
+  "meetings": 13,
+  "codes": {
+    "P": "present (attended)",
+    "S": "salaam (excused absence)",
+    "L": "leave",
+    "O": "official duty",
+    "@": "attending another committee's meeting",
+    "-": "absent (did not attend)",
+    "©": "not required to attend",
+    "N": "not a member of the committee at that meeting"
+  },
+  "members": [
+    {
+      "mpId": "mp-177",
+      "name": "Dr. Ahmed Shamheed",
+      "constituency": "South Hulhumale'",
+      "present": 13,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 13
+    },
+    {
+      "mpId": "mp-178",
+      "name": "Ahmed Aifan",
+      "constituency": "North Henveyru",
+      "present": 9,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 9
+    },
+    {
+      "mpId": "mp-206",
+      "name": "Mohamed Mamdooh",
+      "constituency": "Funadhoo",
+      "present": 12,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 13
+    },
+    {
+      "mpId": "mp-217",
+      "name": "Ahmed Saleem",
+      "constituency": "Eydhafushi",
+      "present": 5,
+      "onLeave": 0,
+      "absent": 8,
+      "officialTravel": 0,
+      "eligible": 13
+    },
+    {
+      "mpId": "mp-240",
+      "name": "Ahmed Nazim",
+      "constituency": "Dhiggaru",
+      "present": 13,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 13
+    },
+    {
+      "mpId": "mp-231",
+      "name": "Ahmed Azaan Marzooq",
+      "constituency": "Central Hithadhoo",
+      "present": 3,
+      "onLeave": 0,
+      "absent": 1,
+      "officialTravel": 0,
+      "eligible": 4
+    }
+  ],
+  "meetingsList": [
+    {
+      "date": "2025-02-11",
+      "n": 1,
+      "present": 5,
+      "total": 5
+    },
+    {
+      "date": "2025-02-16",
+      "n": 2,
+      "present": 5,
+      "total": 5
+    },
+    {
+      "date": "2025-03-18",
+      "n": 3,
+      "present": 4,
+      "total": 5
+    },
+    {
+      "date": "2025-04-23",
+      "n": 4,
+      "present": 4,
+      "total": 5
+    },
+    {
+      "date": "2025-05-06",
+      "n": 5,
+      "present": 5,
+      "total": 5
+    },
+    {
+      "date": "2025-05-06",
+      "n": 6,
+      "present": 4,
+      "total": 5
+    },
+    {
+      "date": "2025-05-06",
+      "n": 7,
+      "present": 4,
+      "total": 5
+    },
+    {
+      "date": "2025-05-08",
+      "n": 8,
+      "present": 4,
+      "total": 5
+    },
+    {
+      "date": "2025-06-23",
+      "n": 9,
+      "present": 4,
+      "total": 5
+    },
+    {
+      "date": "2025-08-04",
+      "n": 10,
+      "present": 4,
+      "total": 5
+    },
+    {
+      "date": "2025-08-05",
+      "n": 11,
+      "present": 5,
+      "total": 5
+    },
+    {
+      "date": "2025-10-14",
+      "n": 12,
+      "present": 4,
+      "total": 5
+    },
+    {
+      "date": "2025-11-19",
+      "n": 13,
+      "present": 3,
+      "total": 5
+    }
+  ],
+  "sourceDocs": [
+    "https://majlis.gov.mv/storage/committee_files/149/Fa3EQ8WCxVptZjmPGwpyYX1emiiI4OrbM7tjtaWD.xlsx",
+    "https://majlis.gov.mv/storage/committee_files/149/zSTaHsybujqhdMl5kXwl888pNt4r7Pm8NGpLjgNF.pdf"
+  ],
+  "pagesRead": 7,
+  "pagesTotal": 7,
+  "confidence": "High",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-06"
+}

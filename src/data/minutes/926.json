@@ -1,0 +1,110 @@
+{
+ "sittingId": "926",
+ "date": "2025-03-10",
+ "title": "12th Sitting of first Session of 2025",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 41,
+  "onLeave": 4,
+  "officialTravel": null
+ },
+ "summary": "The 12th sitting (10:31 to 11:04) was short. Members heard written answers from Foreign Minister Dr. Abdulla Khaleel to three questions from the North Galolhu member, covering foreign service staffing, the ban on Israeli passports and the Foreign Secretary's appointment. An urgent motion on repeated power cuts in Addu City failed to get enough votes to be debated (13 yes, 47 no). The Speaker sent three presidential nominations to the Foreign Relations Committee and a request to remove a Broadcasting Commission vice president to the Independent Institutions Committee. The attendance line for official travel has no readable number in the text.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and opening prayer",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "41 present, 4 on leave announced; official travel count unreadable"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda (agenda no. 2025/1/12)",
+   "outcome": "announced"
+  },
+  {
+   "n": "4",
+   "title": "Approval of minutes of earlier sittings (7th to 9th)",
+   "outcome": "accepted by the Speaker as no amendments were submitted"
+  },
+  {
+   "n": "6.1",
+   "title": "Question to the Foreign Minister: share of political appointees in the Foreign Service (20% cap)",
+   "outcome": "written answer read by the Secretary General, to be published unchanged in the minutes"
+  },
+  {
+   "n": "6.2",
+   "title": "Question to the Foreign Minister: why the June 2024 decision to bar Israeli passports has not been implemented",
+   "outcome": "written answer read; says an Immigration Act amendment is needed and is with the Security Services Committee"
+  },
+  {
+   "n": "6.3",
+   "title": "Question to the Foreign Minister: whether the Foreign Secretary meets the legal appointment requirements",
+   "outcome": "written answer read; Minister says the appointee meets the conditions"
+  },
+  {
+   "n": "6 (urgent)",
+   "title": "Urgent matter on repeated power cuts in Addu City (rule 192)",
+   "outcome": "vote to debate failed 13-47, not debated"
+  },
+  {
+   "n": "7.1",
+   "title": "Presidential nomination of Huda Ali Sharif as permanent representative to UN ESCAP",
+   "outcome": "sent to the Foreign Relations Committee"
+  },
+  {
+   "n": "7.2",
+   "title": "Presidential nominations of two non-resident ambassadors (Spain and New Zealand)",
+   "outcome": "sent to the Foreign Relations Committee"
+  },
+  {
+   "n": "7.3",
+   "title": "Removal of Maldives Broadcasting Commission vice president Mohamed Fazeen from commission membership",
+   "outcome": "sent to the Independent Institutions Committee"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 3,
+   "positions": [
+    "Asked how many Foreign Service staff are political appointees given the 20% legal cap, and what the actual figure is.",
+    "Asked why the June 2024 decision to bar Israeli passports from entering the Maldives has not been carried out.",
+    "Asked whether the Foreign Secretary meets the legal requirement of ten years' ministry experience."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Moved an urgent motion on repeated power cuts in Addu City, citing broken generators, missing spare parts and unmet government promises."
+   ]
+  }
+ ],
+ "decisions": [
+  "Minutes of the 7th to 9th sittings accepted as no amendments were submitted.",
+  "Urgent motion on Addu City power cuts not accepted for debate (13 yes, 47 no, 0 abstain; 60 voted).",
+  "UN ESCAP permanent representative nomination sent to the Foreign Relations Committee.",
+  "Two non-resident ambassador nominations (Spain and New Zealand) sent to the Foreign Relations Committee.",
+  "Request to remove Broadcasting Commission vice president Mohamed Fazeen sent to the Independent Institutions Committee.",
+  "Next sitting announced for Tuesday 11 March 2025 at 10:30."
+ ],
+ "votes": [
+  {
+   "what": "Whether to debate the urgent motion on Addu City power cuts (Ibrahim Nazil)",
+   "yes": 13,
+   "no": 47,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 19,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,22 @@
+{
+  "workId": "1981",
+  "titleDv": "މަރުގެ އަދަބު ކަނޑައެޅުމާއި އަދަބު ތަންފީޛުކުރުމާބެހޭ ބިލު",
+  "summary": "This government bill, presented by the Guraidhoo MP, creates a new standalone law setting out when a court may sentence a person to death and how a death sentence is carried out in the Maldives. A death sentence would be allowed only for hadd offences where the Penal Code (Law No. 9/2014) or another criminal law sets death as the penalty, after automatic review by the higher courts and a final ruling by the Supreme Court. In murder cases, every heir aged 15 or over must want qisas (retaliation), and any heir can withdraw that choice up to the moment of execution. A seven-member panel set up by the Maldives Correctional Service would check each case and set the execution date, and the method would be hanging, never carried out or shown in public. The law would override any other law that conflicts with it.",
+  "whyItMatters": "It would give the state a full legal procedure for carrying out executions, including for people whose death sentences are already final when the law takes effect. It also sets out the rights of condemned prisoners and the role of victims' families in deciding whether a sentence is carried out.",
+  "keyProvisions": [
+    "Articles 6 to 9 allow a death sentence only for a hadd offence that carries death under law, require the higher courts to review every death sentence even without an appeal, make it final only after the Supreme Court rules, and bar it if the Supreme Court finds the rights in Constitution Articles 42, 51 or 56, or the right to a lawyer, were not given.",
+    "Articles 10 and 25 require all heirs of a murder victim aged 15 or over to want qisas. If any heir withdraws before the execution starts, the Supreme Court must cancel the death sentence and send the case back to the trial court for a different penalty.",
+    "Article 12 delays an execution while the convict is pregnant or has a child under 2 years old, while a review or Supreme Court case is pending, or while the convict is seriously ill or mentally unfit until they recover.",
+    "Articles 16 to 24 start the process 6 months after the Supreme Court's final ruling. A 7-member panel (from the Correctional Service, Police, Prosecutor General's Office, Parliament, the Medical and Dental Council, and two Islamic scholars) sets the date within 30 days, notifies the convict, family, lawyer and victim's heirs within 72 hours, and must issue written permission before the execution can go ahead.",
+    "Articles 26 to 31 and 33 to 43 give the convict the right to seek a pardon or lighter sentence, a lawyer, up to ten family visits and a last will. They set hanging as the only method, done in the least painful way by trained officers, and ban public executions, filming or photographing them, and any act that degrades the convict or the body, which is handed to the family.",
+    "Articles 44 to 46 apply the law to death sentences already final when it takes effect, with procedures starting within 3 months, keep condemned prisoners separate from other inmates, and let a case be sent to the Supreme Court at any time before execution if new evidence of innocence or doubt about evidence emerges, which pauses the execution."
+  ],
+  "whoIsAffected": "People convicted of offences that can carry the death penalty, families of murder victims and of convicts, the courts, the Prosecutor General's Office, the Police and the Maldives Correctional Service.",
+  "statedReasons": "The government says the bill sets a firm legal basis for imposing and carrying out the death penalty, in line with the Constitution, international law principles and the rights of the public and the convict, including the conditions courts must meet, the steps for execution, the convict's rights and the grounds for delaying an execution.",
+  "sourceDoc": "Bill",
+  "pagesRead": 43,
+  "pagesTotal": 43,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-09"
+}

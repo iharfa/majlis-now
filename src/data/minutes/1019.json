@@ -1,0 +1,254 @@
+{
+ "sittingId": "1019",
+ "date": "2026-04-13",
+ "title": "6th Sitting of First session of 2026",
+ "presiding": "Ahmed Nazim (Deputy Speaker, per the minutes header)",
+ "attendance": {
+  "present": 32,
+  "onLeave": null,
+  "officialTravel": 10
+ },
+ "summary": "The sitting opened at 9:00 on Monday 13 April 2026. Before the main debate, the chair announced committee deadlines of 25 April for two bills, a written Health Minister reply on blood services and thalassemia was tabled, and an urgent matter from North Galolhu MP Mohamed Ibrahim about drug procurement was ruled inadmissible. Most of this part is the preliminary debate on his bill to amend the Land Act (1/2002), meant to let children whose parent died before the grandparent share in state 'bandara' plots. Several members backed the aim, while others, mostly from the ruling PNC, said a larger government Land Act bill is coming, and many speeches turned to past land and flat allocations and the local council election results. The debate was still open at the end of this part; the minutes text is partly garbled. This part picks up mid-debate on a North Galolhu bill to amend articles 15 and 17 of the Maldivian Land Act, where members argued over whether the changes fit the constitution and Islamic inheritance rules and traded remarks about the MDP and PNC. After the sponsor's closing words, the House voted not to accept the bill (10 for, 49 against). Debate then resumed on the government's National Service Bill, with PNC, MDA and MDP members speaking for and against it, and it was left unfinished for the next sitting. The text layer is garbled in places, so speaker gists are approximate.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening prayer and start of the sitting",
+   "outcome": "opened at 9:00"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "32 present and 10 on official travel reported by the chair; the leave figure is unreadable in the text"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "announced (agenda no. 2026/1/6)"
+  },
+  {
+   "n": "4.1",
+   "title": "Announcement of committee deadlines under Rule 174 (Tax Administration Act amendment bill; Pension Act amendment bill)",
+   "outcome": "both deadlines set for 25 April 2026"
+  },
+  {
+   "n": "5.1",
+   "title": "Written question by Mohamed Ibrahim (North Galolhu) to the Health Minister on the national blood service and thalassemia donor register",
+   "outcome": "minister's written reply tabled and to be published unedited"
+  },
+  {
+   "n": "6.1",
+   "title": "Bill to amend the Maldivian Land Act (No. 1/2002), by Mohamed Ibrahim (North Galolhu): preliminary debate",
+   "outcome": "debated; not finished in this part",
+   "workId": "1845"
+  },
+  {
+   "n": "6",
+   "title": "Bill to amend the Maldivian Land Act (No. 1/2002), articles 15 and 17 (sponsor: North Galolhu)",
+   "outcome": "debate closed after sponsor's reply; not accepted 10-49",
+   "workId": "1845"
+  },
+  {
+   "n": "7.1",
+   "title": "National Service Bill (government bill, sponsor South Kulhudhuffushi), continued debate",
+   "outcome": "debated; unfinished, continues at the next sitting",
+   "workId": "1836"
+  },
+  {
+   "n": "8",
+   "title": "Voting on matters ready for a vote",
+   "outcome": "Land Act amendment bill not accepted 10-49"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dr. Ahmed Shamheed",
+   "constituency": "South Hulhumale'",
+   "turns": 4,
+   "positions": [
+    "Called the aim useful but said the draft is narrow; preferred an obligatory-bequest (wasiyya) rule, as in other Islamic countries, and would back it only if urgent.",
+    "Said the government's announced new Land bill followed this amendment; criticised fuel prices and medicine shortages, and said the opposition would support the government where it should.",
+    "On the Land Act bill: said questions about Sharia need scholarly debate, pointed to bequests (wasiyya) as a route, and appeared to favour accepting the bill.",
+    "On the National Service Bill: opposed it, saying a minister decides placements, it offers only short internships, and it will not secure young people's futures."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 3,
+   "positions": [
+    "Asked why the national blood service and a thalassemia donor and patient register were still not in place, and why blood access problems had no modern fix.",
+    "As mover, said the bill fixes bandara (state) land rules so children whose parent died early are not left out; asked members to support it.",
+    "Closing on his Land Act bill: rejected treating each amendment as a religious matter, said he had consulted legal parties and scholars, and asked members to let the bill proceed."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 3,
+   "positions": [
+    "Said he supports the amendment and that such changes should be made with legal experts.",
+    "Argued housing and other rights were brought in by earlier MDP governments and defended their flat and land allocations.",
+    "Said he would vote for the National Service Bill, noting it gives young people a wage and a route into service.",
+    "Said no development project had been delivered in his constituency's islands in three years, citing the stalled Foddhoo harbour."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 3,
+   "positions": [
+    "Said the bill's aim is worth addressing but blamed past MDP governments for Malé housing problems and unplanned land allocations; defended the President's reclamation and the referendum as the public's voice.",
+    "On the Land Act bill: urged care with inheritance rules, saying changes must respect Article 10, Islamic principles and scholarly advice.",
+    "On the National Service Bill: said it prepares school leavers for work and reduces reliance on foreign labour, and disputed that it is just military training.",
+    "Rejected calls for the President to resign and urged waiting for the 2028 election."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Said he could not support the amendment, as a fuller Land Act bill is on the President's legislative agenda and piecemeal changes to Article 15 would not give a complete solution.",
+    "Supported the National Service Bill, arguing it builds a patriotic youth generation, and criticised MDP's attendance in the debate and its record on fisheries payments."
+   ]
+  },
+  {
+   "name": "Abdul Gafoor Moosa",
+   "constituency": "Hanimaadhoo",
+   "turns": 2,
+   "positions": [
+    "Said orphaned grandchildren should get state land, that any religious conflict should be settled with scholars, and that the two main parties should talk and revisit the constitutional amendments.",
+    "Opposed the National Service Bill as drafted, saying it should go to the national university to set a syllabus, and alleged jobs and promotions were used for campaigning."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 2,
+   "positions": [
+    "Said the government has decided to send a comprehensive new Land bill instead of small amendments; criticised past MDP land registrations and said PNC won the local council vote.",
+    "After the break, said small changes to a big law show a lack of consultation, and suggested the member refine or withdraw the amendment.",
+    "Continuing a speech begun in part 1: urged the sponsor to drop the piecemeal Land Act amendment, saying the government will send a new land law; criticised the MDP's record."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Said the matter has religious weight and needs scholars' advice; criticised past MDP land allocations and praised current Hulhumale' plot handovers and Rasmale. The chair asked him to stay on topic."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 1,
+   "positions": [
+    "Said that when an opposition member tabled a rights bill, ruling-party members talked about other things; argued the local election and referendum results showed voters rejected government policies."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 1,
+   "positions": [
+    "Said the Land Act needs many changes and the government is working on them; saw this sudden amendment as meant to cause trouble, and said he would not support it."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said inheritance of land is governed by Islamic rules and Malé land is scarce; said the government is creating special categories for these children in land and flat schemes."
+   ]
+  },
+  {
+   "name": "Husnee Mubarik",
+   "constituency": "Manadhoo",
+   "turns": 1,
+   "positions": [
+    "Said the issue matters but an Article 15 change alone may not solve it, and could face a court challenge as conflicting with Islamic Shari'a; called for a fuller bill."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Said the President's manifesto promised a modern land law and small amendments waste the chamber's time; disputed claims about the election result and said special help for these children is being arranged."
+   ]
+  },
+  {
+   "name": "Ahmed Saleem",
+   "constituency": "Eydhafushi",
+   "turns": 1,
+   "positions": [
+    "Called the amendment a small gesture rather than a real law; spoke on Islamic teaching on land, past flat allocations being rented out, and the MDP's election claims."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the amendment but said some concerns need committee work; noted the government plans its own bill, and urged the President to let members speak freely for their constituencies."
+   ]
+  },
+  {
+   "name": "Ibrahim Hussain",
+   "constituency": "South Fuvahmulah",
+   "turns": 1,
+   "positions": [
+    "Raised concerns that the amendment could affect heirs' rights under the constitution and Sharia, and asked for it to be reviewed again."
+   ]
+  },
+  {
+   "name": "Ibrahim Nazil",
+   "constituency": "South Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the proposed amendments to articles 15 and 17 of the Land Act.",
+    "Rejected claims that the MDP handed out election money and spoke about payments owed to fishermen."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Did not support the amendment as drafted, citing constitution articles 10 and 274 and Sharia on inheritance, and said the Majlis should legislate through careful study rather than election jibes."
+   ]
+  },
+  {
+   "name": "Ameen Faisal",
+   "constituency": "Kanditheemu",
+   "turns": 1,
+   "positions": [
+    "Said the National Service Bill would not build patriotism, argued schools need funding and mandates instead, and urged leaders not to breach public trust."
+   ]
+  }
+ ],
+ "decisions": [
+  "The chair announced 25 April 2026 as the committee deadline for the bill amending the Tax Administration Act (3/2010) and for the Independent Institutions Committee's review of the bill amending the Pension Act (8/2009).",
+  "The chair ruled the urgent matter filed by Mohamed Ibrahim (North Galolhu) on drug procurement not admissible, as the conditions in Rule 197 were not met.",
+  "The Health Minister's written reply to Mohamed Ibrahim's question was to be published in the minutes unedited.",
+  "A break was held from 10:30 to 11:02, after which the debate on the Land Act amendment bill resumed.",
+  "The Bill to amend the Maldivian Land Act (No. 1/2002) was not accepted for consideration.",
+  "Debate on the National Service Bill was left unfinished and will continue at the next sitting.",
+  "The chair adjourned the sitting until 09:00 on Tuesday 14 April 2026."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the Land Act (No. 1/2002) amendment bill (North Galolhu) for consideration; 93 members in total, 60 present, 59 voting, 30 needed",
+   "yes": 10,
+   "no": 49,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 82,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

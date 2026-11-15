@@ -1,0 +1,22 @@
+{
+  "workId": "1935",
+  "titleDv": "ޤާނޫނު ނަންބަރު 32/2024 (ބޭރު ފައިސާއާބެހޭ ޤާނޫނު) އަށް 1 ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This first amendment to the Foreign Currency Act tightens control over dollars in the Maldives. Selling or advertising foreign currency above the rate or band set by the Authority (the central bank) becomes an offence with fines up to MVR 1 million, or MVR 5 million for companies. Money-exchange businesses will need a licence. Tourism businesses and large foreign-currency earners must convert a fixed share of their dollar sales into rufiyaa at a bank every month.",
+  "whyItMatters": "It targets the black-market dollar rate many people pay when they need dollars for travel, study or imports, and changes how much foreign currency resorts and big businesses must bring into the banking system.",
+  "keyProvisions": [
+    "New sections 17-1 to 17-3: selling foreign currency above the official rate or outside the official band is an offence (fine MVR 25,000 to 1,000,000); advertising or promoting such trades, including online, is an offence (MVR 25,000 to 500,000); companies face MVR 100,000 to 5,000,000.",
+    "New section 6-1: running a money-exchange business requires a licence from the Authority, with regulations covering eligibility, deposits, fines, record-keeping and service standards.",
+    "Section 10 rewritten: Category A tourism establishments must convert 40% of monthly foreign-currency gross sales to rufiyaa at a bank; Category B can choose USD 25 per tourist or 20% of gross sales; 100% Maldivian-owned businesses in the large-earner group convert 7%; payments due before the 28th of the next month.",
+    "Non-tourism businesses earning at least USD 25 million a year in foreign currency are brought under conversion and registration rules, and new ones must register with the Authority by the end of January.",
+    "Section 12: the Authority may allow a lower conversion amount or longer deadline if a business shows it needs the currency for its foreign obligations.",
+    "Forex trades must not exceed the Authority's published rates or bands; foreign-currency deposit accounts must be at licensed banks; takes effect 1 September 2026."
+  ],
+  "whoIsAffected": "Anyone buying or selling dollars, money changers, resorts and other tourism businesses, and large companies earning foreign currency.",
+  "statedReasons": "",
+  "sourceDoc": "Final Bill",
+  "pagesRead": 10,
+  "pagesTotal": 10,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

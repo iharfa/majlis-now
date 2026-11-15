@@ -1,0 +1,100 @@
+{
+ "sittingId": "933",
+ "date": "2025-04-14",
+ "title": "19th Sitting of first Session of 2025",
+ "presiding": "Abdul Raheem Abdulla (Speaker)",
+ "attendance": {
+  "present": 44,
+  "onLeave": 2,
+  "officialTravel": 2
+ },
+ "summary": "The sitting opened with the chair announcing the day's agenda and committee meeting times, and the Speaker's table passed on the President's nominations of several non-resident ambassadors to the Foreign Relations committee. The Foreign Relations committee then reported on the President's nominee as non-resident ambassador to Azerbaijan, saying it had cleared the nominee unanimously. Four members spoke in the debate, with some of the discussion moving to broader remarks on the government and the Majlis's workload. After a recess, the Majlis voted to approve the nominee, 66 in favour and none against.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "announced: 44 present, 2 on leave, 2 on official duties at the start of the sitting"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Committee sitting time announced under rule 174: State and Enterprises Committee, on the President's request regarding the chair of the Privatization and Corporatization Board",
+   "outcome": "announced by the chair"
+  },
+  {
+   "n": "5.1",
+   "title": "President's nominations of non-resident ambassadors to Germany, Sweden, Sri Lanka, Seychelles, Australia and the Geneva missions, for the Majlis's consultation",
+   "outcome": "referred to the Foreign Relations committee"
+  },
+  {
+   "n": "6.1",
+   "title": "Foreign Relations committee report on the nominee for non-resident ambassador to Azerbaijan (Lt Gen (Retd) Abdul Raheem Abdul Latheef)",
+   "outcome": "debated, then approved 66-0"
+  },
+  {
+   "n": "7.1",
+   "title": "Vote on the committee report on the Azerbaijan non-resident ambassador nominee",
+   "outcome": "passed 66-0"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the report but questioned why the Majlis spends its time on little beyond ambassador nominations.",
+    "Criticised government delays on pledges and changes in state company leadership, and argued MPs should take on more legislative work."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order that the earlier speaker was straying from the report under debate.",
+    "Supported the report and thanked the committee; rejected claims that MPs lack work, citing committee duties.",
+    "Said island development projects are being handed to state-owned companies and expected ambassadors to help the economy."
+   ]
+  },
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 1,
+   "positions": [
+    "Presented the Foreign Relations committee's report: the nominee met the legal requirements and the committee cleared him unanimously."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the report and defended the current Majlis's record of legislation and amendments.",
+    "Said MPs spend recess time on committee and constituency work, and defended the government's policies."
+   ]
+  }
+ ],
+ "decisions": [
+  "Presidential nominations of ambassadors to Germany, Sweden, Sri Lanka, Seychelles, Australia and Geneva missions referred to the Foreign Relations committee.",
+  "Majlis approved the nominee for non-resident ambassador to the Republic of Azerbaijan, Lt Gen (Retd) Abdul Raheem Abdul Latheef, by 66 votes to 0.",
+  "Next sitting set for Tuesday 15 April 2025 at 9:00."
+ ],
+ "votes": [
+  {
+   "what": "Approval of the nominee for non-resident ambassador to Azerbaijan (open vote, 67 present)",
+   "yes": 66,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 18,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

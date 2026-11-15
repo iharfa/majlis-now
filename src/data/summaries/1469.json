@@ -1,0 +1,19 @@
+{
+  "workId": "1469",
+  "titleDv": "ޤާނޫނު ނަންބަރު 1/2007 (ދިވެހިރާއްޖޭގެ އިމިގްރޭޝަނުގެ ޤާނޫނު) އަށް .. ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This short bill amends the Maldives Immigration Act (Law No. 1/2007). It adds a new item (8) to the list in Article 8(a), which the margin heading indicates covers people who are not given permission to enter the Maldives. The new item names people who hold an Israeli passport. A note in brackets appears to extend this to people who carry an Israeli passport together with another country's passport. The scans are hard to read, so some details are uncertain.",
+  "whyItMatters": "Holders of Israeli passports would be refused entry to the Maldives, which affects travel, tourism and immigration officers at the border.",
+  "keyProvisions": [
+    "Clause 1 adds a new number (8) after number (7) in Article 8(a) of the Immigration Act.",
+    "The new Article 8(a)(8) lists people who hold an Israeli passport. A bracketed note appears to also cover people who hold an Israeli passport alongside another country's passport.",
+    "Clause 2 says the amendment takes effect on the day it is passed, ratified and published in the Government Gazette."
+  ],
+  "whoIsAffected": "Travellers holding Israeli passports, including dual nationals, and immigration authorities.",
+  "statedReasons": "The explanatory note links the bill to Israel's actions against Palestinians and to barring Israeli passport holders from entering the Maldives; the rest of the note is too hard to read reliably.",
+  "sourceDoc": "Bill",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-14"
+}

@@ -1,0 +1,20 @@
+{
+  "workId": "1845",
+  "titleDv": "ޤާނޫނު ނަންބަރު 1/2002 (ދިވެހިރާއްޖޭގެ ބިމާބެހޭ ޤާނޫނު) އަށް ...... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This bill would rewrite Article 15 of the Maldivian Land Act, which covers what happens when someone who was given a state housing plot dies. It says the buildings and fixed property on the plot pass to the heirs under inheritance rules, and the plot is registered in the heirs' names, with separate registrations if they ask. It also adds new clauses on the heirs' claims to the plot, including heirs who already hold land or a flat.",
+  "whyItMatters": "Families who inherit a government-allocated house plot would get clearer rules on how the plot and the house on it are shared and registered among the heirs.",
+  "keyProvisions": [
+    "Article 15 replaced, under the heading 'death of a person allocated a state plot'",
+    "15(a): when the person dies, the buildings and fixed property on the plot pass by inheritance rules, and the plot is registered to the heirs, with separate registrations on request",
+    "15(b)-(d): new clauses on how the heirs' shares in the plot and buildings are recognised, including one covering heirs who already hold land or a flat (these clauses were hard to read in the scan)",
+    "The amendment takes effect once ratified and published in the Government Gazette"
+  ],
+  "whoIsAffected": "Heirs and families of people given state residential plots, plus island councils and land registration authorities.",
+  "statedReasons": "The bill says the way Articles 15 and 17 of the Land Act are currently written causes problems for inherited state plots, and it proposes this amendment as a legal fix.",
+  "sourceDoc": "Bill",
+  "pagesRead": 5,
+  "pagesTotal": 5,
+  "confidence": "Low",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

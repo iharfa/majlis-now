@@ -1,0 +1,23 @@
+{
+  "sittingId": "1029",
+  "date": "2026-05-05",
+  "title": "16th Sitting of first session of 2026",
+  "agendaNo": "އޖ/16/1/2026",
+  "items": [
+    { "n": 1, "text": "Opening recitation (Hamd and Salawat); the sitting begins.", "kind": "procedural" },
+    { "n": 2, "text": "Roll call of members present at the sitting.", "kind": "procedural" },
+    { "n": 3, "text": "Announcement of the day's agenda (Agenda No. އޖ/16/1/2026).", "kind": "procedural" },
+    { "n": 4, "text": "Announcements from the Chair.", "kind": "procedural" },
+    { "n": 5, "text": "Motion under Rule 201 of the Standing Orders by Kendhoo MP Mauroof Zakir for a debate on the steps the government could take to help tourism businesses in the Maldives overcome difficulties caused by the war in the Middle East.", "kind": "other" },
+    { "n": 6, "text": "First reading of the resolution by Holhudhoo MP Abdul Sattar Mohamed calling for a stop to unlawful activities by some political parties that breach the Constitution and the Political Parties Act, and for legal action against them.", "kind": "resolution" },
+    { "n": 7, "text": "Preliminary debate on the resolution by Holhudhoo MP Abdul Sattar Mohamed calling for a stop to unlawful activities by some political parties and for legal action against them.", "kind": "resolution" },
+    { "n": 8, "text": "Voting on items from the day's business that have reached the voting stage.", "kind": "vote" },
+    { "n": 9, "text": "Any other business.", "kind": "other" }
+  ],
+  "summary": "The sitting was set to debate how the government could support tourism businesses hit by the Middle East war, and to introduce and debate a resolution against unlawful political-party activities.",
+  "pagesRead": 3,
+  "pagesTotal": 3,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

@@ -1,0 +1,20 @@
+{
+  "sittingId": "1035",
+  "date": "2026-06-01",
+  "title": "1st Sitting of Second session of 2026",
+  "agendaNo": "އޖ/1/2/2026",
+  "items": [
+    { "n": 1, "text": "Opening recitation (Hamd and Salawat); the sitting begins.", "kind": "procedural" },
+    { "n": 2, "text": "Roll call of members present at the sitting.", "kind": "procedural" },
+    { "n": 3, "text": "Announcement of the day's agenda (Agenda No. އޖ/1/2/2026).", "kind": "procedural" },
+    { "n": 4, "text": "Announcements from the Chair.", "kind": "procedural" },
+    { "n": 5, "text": "From the Speaker's desk: as the Deputy Speaker of Parliament has resigned, the election of a member to that post under Article 82(c) of the Constitution.", "kind": "other" },
+    { "n": 6, "text": "Voting on items from the day's business that have reached the voting stage.", "kind": "vote" }
+  ],
+  "summary": "The first sitting of the session was scheduled to elect a new Deputy Speaker after the previous one resigned.",
+  "pagesRead": 2,
+  "pagesTotal": 2,
+  "confidence": "High",
+  "model": "claude-fable-5-1",
+  "generatedAt": "2026-10-07"
+}

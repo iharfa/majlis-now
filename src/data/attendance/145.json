@@ -1,0 +1,110 @@
+{
+  "committeeId": "145",
+  "period": "2024-08-19 to 2024-12-10",
+  "meetings": 7,
+  "codes": {
+    "P": "present",
+    "S": "salaam (excused absence)",
+    "L": "leave (chuttee)",
+    "O": "official travel/duty (rasmee); counted as officialTravel",
+    "@": "present at another committee's meeting (counted as officialTravel)",
+    "-": "absent (did not attend)",
+    "©": "not required to attend (not counted as eligible)",
+    "N": "not a member of the committee at that time (not counted as eligible)"
+  },
+  "members": [
+    {
+      "mpId": "mp-253",
+      "name": "Ali Ashrag",
+      "constituency": "Kinbidhoo",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-260",
+      "name": "Ahmed Shakir",
+      "constituency": "Maavashu",
+      "present": 7,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 0,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-256",
+      "name": "Mohamed Ali",
+      "constituency": "Gadhdhoo",
+      "present": 6,
+      "onLeave": 0,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    },
+    {
+      "mpId": "mp-239",
+      "name": "Ibrahim Didi",
+      "constituency": "South Feydhoo",
+      "present": 5,
+      "onLeave": 1,
+      "absent": 0,
+      "officialTravel": 1,
+      "eligible": 7
+    }
+  ],
+  "meetingsList": [
+    {
+      "date": "2024-08-19",
+      "n": 1,
+      "present": 4,
+      "total": 4
+    },
+    {
+      "date": "2024-10-22",
+      "n": 2,
+      "present": 3,
+      "total": 4
+    },
+    {
+      "date": "2024-10-29",
+      "n": 3,
+      "present": 3,
+      "total": 4
+    },
+    {
+      "date": "2024-11-25",
+      "n": 4,
+      "present": 4,
+      "total": 4
+    },
+    {
+      "date": "2024-11-26",
+      "n": 5,
+      "present": 4,
+      "total": 4
+    },
+    {
+      "date": "2024-12-09",
+      "n": 6,
+      "present": 3,
+      "total": 4
+    },
+    {
+      "date": "2024-12-10",
+      "n": 7,
+      "present": 4,
+      "total": 4
+    }
+  ],
+  "sourceDocs": [
+    "https://majlis.gov.mv/storage/committee_files/145/Kzolb0eiwjBepzQjvpjWToogC0EWJB5yYMd7HxI6.pdf",
+    "https://majlis.gov.mv/storage/committee_files/145/l7C0Z6NTAjyixPZIInYvoJ2pnEIXv3FcXwH7QnVA.xlsx"
+  ],
+  "pagesRead": 1,
+  "pagesTotal": 5,
+  "confidence": "High",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-06"
+}

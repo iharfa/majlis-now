@@ -1,0 +1,157 @@
+{
+ "sittingId": "918",
+ "date": "2025-02-12",
+ "title": "4th Sitting of 1st Session of 2025",
+ "presiding": "Ahmed Nazim (Deputy Speaker)",
+ "attendance": {
+  "present": 36,
+  "onLeave": 1,
+  "officialTravel": 11
+ },
+ "summary": "The sitting (9:01 to 10:15 am) opened with five letters from the President, which were sent to committees: ambassador appointments, a treaty on literary and artistic works, and a rules amendment. The rest of the time went on the first-reading debate of a government bill to prevent crimes by gangs and other dangerous crimes, with nine members speaking. Most said they back the aim but raised worries about the word 'gangs', police powers, detention without a lawyer, and whether agencies enforce existing laws. The Majlis voted 42-0 to accept the bill and sent it to the Judiciary Committee.",
+ "items": [
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "36 present, 1 on leave, 11 on official travel"
+  },
+  {
+   "n": "5.1",
+   "title": "President's letter: non-resident ambassador to the Kingdom of Bhutan",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "5.2",
+   "title": "President's letter: permanent representative to the Organisation of Islamic Cooperation",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "5.3",
+   "title": "President's letter: joining the Berne Convention for the Protection of Literary and Artistic Works",
+   "outcome": "referred to the relevant standing committee"
+  },
+  {
+   "n": "5.4",
+   "title": "President's letter: non-resident ambassadors to the State of Kuwait and the Swiss Confederation",
+   "outcome": "referred to the Foreign Relations Committee"
+  },
+  {
+   "n": "5.5",
+   "title": "Proposed amendment to the Majlis rules of procedure, submitted by the member for South Maafannu",
+   "outcome": "referred to the General Committee"
+  },
+  {
+   "n": "6.1",
+   "title": "Bill to prevent crimes by gangs and other dangerous crimes (debate continued)",
+   "outcome": "debated; accepted 42-0 and sent to the Judiciary Committee"
+  },
+  {
+   "n": "7",
+   "title": "Vote on accepting the gangs and dangerous crimes bill",
+   "outcome": "passed 42-0, no abstentions"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 2,
+   "positions": [
+    "Said five minutes of floor time per member is too short for a bill like this.",
+    "Warned that wide police powers and long pre-trial detention could harm innocent people and families, and asked what pushes youth into crime."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Said the Majlis committees already have oversight powers over enforcement agencies.",
+    "Said the current government is acting on gangs and drugs, and criticised the previous administration and opposition remarks."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill as a way to protect people from organised and dangerous crime.",
+    "Said youth need jobs and opportunities, and that the law must be enforced and studied in committee."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Agreed crime must be stopped but asked what draws youth into gangs, citing few jobs, and noted police figures show many cases from Addu City."
+   ]
+  },
+  {
+   "name": "Mohamed Ibrahim",
+   "constituency": "North Galolhu",
+   "turns": 1,
+   "positions": [
+    "Asked why the 2010 and 2011 laws on gangs and weapons are not enforced.",
+    "Flagged broad wording on gang membership, property forfeiture and no lawyer for 48 hours, and urged jobs for youth."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 1,
+   "positions": [
+    "Said the law has concerns, including the 'gangs' label, and that weak enforcement is the real gap.",
+    "Urged giving youth jobs and opportunities instead of only harsher punishment."
+   ]
+  },
+  {
+   "name": "Abdulla Rifau",
+   "constituency": "South Maafannu",
+   "turns": 1,
+   "positions": [
+    "Questioned calling these groups 'gangs' and feared innocent people could be framed.",
+    "Asked agencies to enforce the law and for abandoned buildings in his area to be dealt with."
+   ]
+  },
+  {
+   "name": "Mohamed Musthafa Ibrahim",
+   "constituency": "West Maafannu",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and proposed renaming it from 'gang crimes' to 'organised crime'.",
+    "Asked the committee to look at who funds and encourages youth into crime."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 1,
+   "positions": [
+    "Said gang and weapons laws already exist but are poorly enforced, and questioned whether influential people face action.",
+    "Raised concern about police powers, including 48 hours without a lawyer, and hoped committee study fixes them."
+   ]
+  }
+ ],
+ "decisions": [
+  "The bill to prevent crimes by gangs and other dangerous crimes was accepted 42-0 and sent to the Judiciary Committee.",
+  "The President's letters on ambassador appointments were sent to the Foreign Relations Committee.",
+  "The letter on the Berne Convention was sent to the relevant standing committee.",
+  "The proposed amendment to the Majlis rules was sent to the General Committee.",
+  "The chair asked committees to finish pending work and the General Committee to finish two rules amendments quickly.",
+  "The next sitting was set for Monday 17 February 2025 at 9:00 am."
+ ],
+ "votes": [
+  {
+   "what": "Accepting the bill to prevent crimes by gangs and other dangerous crimes",
+   "yes": 42,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 35,
+ "parts": 1,
+ "confidence": "High",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

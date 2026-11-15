@@ -1,0 +1,21 @@
+{
+  "workId": "1859",
+  "titleDv": "ޤާނޫނު ނަންބަރު 16/2014 (ޖިންސީ ފުރައްސާރަކުރުމާއި ގޯނާކުރުން ހުއްޓުވުމުގެ ޤާނޫނު) އަށް ... ވަނަ އިޞްލާޙު ގެނައުމުގެ ބިލު",
+  "summary": "This government bill amends the 2014 law on preventing sexual harassment and abuse, mainly the duties of workplaces. Every employer would have to write and publish an anti-sexual-harassment policy. Employers would have to train staff, handle complaints according to that policy, protect complainants and witnesses, and appoint a compliance officer. The bill also changes how complaints are investigated and the penalties employers face. This summary covers only the first 12 of 42 pages.",
+  "whyItMatters": "Anyone who works would get clearer protection and a set process for reporting harassment at work. Employers of all sizes would take on new legal duties.",
+  "keyProvisions": [
+    "Replaces Article 7: every employer must prepare and publish a sexual harassment prevention policy covering its purpose, what counts as harassment, how to complain, how complaints are investigated, disciplinary steps and confidentiality.",
+    "Replaces Article 8: employers must inform and train staff on the law and policy, handle complaints under the policy, act when harassment happens, and review the policy regularly.",
+    "New Article 8-1: employers must appoint a compliance officer to advise on the law, help draft the policy, run awareness work and keep records of complaints.",
+    "Article 18 amendments: investigations of sexual harassment complaints are to be completed within 3 months.",
+    "Amends Articles 10, 14 and 17 on employer liability, what the enforcing authority can do, and fines (details only partly read)."
+  ],
+  "whoIsAffected": "Employees and employers in every workplace, and the authority that enforces the 2014 law.",
+  "statedReasons": "The government says the bill strengthens how Law 16/2014 prevents sexual harassment and abuse in workplaces. It does this by setting clearer duties for employers and better ways to handle complaints.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 42,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-06"
+}

@@ -1,0 +1,22 @@
+{
+  "workId": "1741",
+  "titleDv": "މޯލްޑިވްސް މީޑިއާ އެންޑް ބްރޯޑްކާސްޓިންގ ރެގިއުލޭޝަންގެ ބިލު",
+  "summary": "This bill merges the Maldives Media Council and the Maldives Broadcasting Commission into one new regulator, the Maldives Media and Broadcasting Commission. It repeals the newspapers and magazines law (Law No. 47/78) and the Media Council Act (Law No. 15/2008), and removes the articles of the Broadcasting Act (Law No. 16/2010) that set up the old commission and its complaints and penalty rules, so the new commission enforces that Act instead. The commission would register newspapers and magazines, keep a register of journalists and issue press passes, write a code of conduct for broadcasters, media workers and journalists, and hear complaints. It could fine, suspend or, through the courts, cancel the registration or licence of outlets that break the rules, including rules against spreading false news. The last 19 pages are an annex printing the Broadcasting Act articles to be repealed.",
+  "whyItMatters": "One state-linked body would decide who can publish a newspaper or website news outlet, who counts as a registered journalist, and what penalties media face for content, with fines on broadcasters rising to as much as 10% of the previous year's income.",
+  "keyProvisions": [
+    "Articles 3 to 7 create the Maldives Media and Broadcasting Commission as an independent legal body with duties including frequency planning and licensing under the Broadcasting Act, registering newspapers and magazines, keeping a register of journalists, setting a code of conduct and taking steps against false news.",
+    "Articles 8 to 15 repeal Laws 47/78 and 15/2008 and Articles 3 to 18, 20, 37 and 42 to 45 of Law 16/2010, dissolve the Media Council and Broadcasting Commission, end their members' posts, and move their staff, assets and records to the new commission; a 5-member interim commission picked by the Civil Service Commission runs it until members take office.",
+    "Articles 16 to 21 set 7 members: 3 appointed by the President with Parliament's approval, and 4 elected by secret ballot run by the Elections Commission, in which broadcasters, media outlets and online journalists registered for 5 years vote; members serve 5 years, at most 2 terms (Article 26).",
+    "Articles 38 to 44 require a code of conduct within 3 months covering accuracy, privacy, protection of sources, no promotion of religions other than Islam, no sexual content, age ratings and no false news; media must separate fact from opinion and must not publish information they know or suspect is false.",
+    "Articles 45 to 60 make it illegal to publish a newspaper or magazine in the Maldives without registering with the commission, set rules on names, owners and offices, and say these rules also apply to electronic media and online journalists, who can be listed in the journalists' register and given a press pass.",
+    "Articles 61 to 71 let the commission monitor content and decide complaints within 30 days; penalties include public warnings, ordered corrections or apologies, fines of up to 10% of a broadcaster's previous year's income, MVR 5,000 to 100,000 for newspapers and MVR 5,000 to 25,000 for journalists, temporary suspension, and cancellation through a court; a Media Content Adjudication Committee with 4 elected media representatives hears content complaints, and decisions can be appealed to court within 6 months."
+  ],
+  "whoIsAffected": "Newspapers, online news sites, broadcasters, journalists and editors, staff of the Media Council and Broadcasting Commission, and members of the public who file complaints about media content.",
+  "statedReasons": "The note says the bill aims to guarantee and develop press freedom while stopping the spread of false news, setting standards that media and journalists must follow, making it simpler to register newspapers and magazines, and creating a separate body to regulate media including broadcasting.",
+  "sourceDoc": "Bill",
+  "pagesRead": 70,
+  "pagesTotal": 70,
+  "confidence": "High",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

@@ -1,0 +1,15 @@
+{
+  "workId": "1962",
+  "summary": "Independent MP Abdul Hannan Aboobakuru (Thulhaadhoo) proposed changing Section 191 of Parliament's Standing Orders, which sets out how resolutions are handled. The change requires a vote on whether to accept a resolution before its first debate, sends accepted resolutions to the relevant committee, drops rejected ones, and sends resolutions passed after the committee stage for ratification the same way as bills. The General Committee approved it with wording changes, and Parliament passed the committee's report on 27 October 2026.",
+  "keyPoints": [
+    "Before the first debate, MPs vote on whether to accept the resolution; if they say no, it lapses and cannot be debated further.",
+    "An accepted resolution goes to the relevant committee after the first debate.",
+    "Once the committee stage ends and Parliament passes it, the resolution is sent for ratification under the same process as a bill.",
+    "The General Committee met once, on 20 October 2026, and unanimously approved the change, rewording clauses (b) and (c).",
+    "MP Mohamed Ibrahim (Galolhu Uthuru) proposed deleting the ratification clause; this was rejected 11 to 55, and the report then passed 56 to 11."
+  ],
+  "outcome": "Amendment to the Standing Orders passed by Parliament on 27 October 2026",
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

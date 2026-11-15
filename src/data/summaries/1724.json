@@ -1,0 +1,22 @@
+{
+  "workId": "1724",
+  "titleDv": "މޯލްޑިވްސް މީޑިއާ އެންޑް ބްރޯޑްކާސްޓިންގ ކޮމިޝަން ބިލު",
+  "summary": "This bill would create the Maldives Media and Broadcasting Commission. The commission would take over the work of the Broadcasting Commission set up by the Broadcasting Act (No. 16/2010) and of a second body under another law, No. 15/2008. Other laws would be changed so that references to those bodies point to the new commission. It would have 7 commissioners, with rules on how long they serve and who may be one. This summary covers the first 12 of 70 pages. The scans are readable in outline but some detail is uncertain.",
+  "whyItMatters": "Journalists, broadcasters and media outlets would answer to one regulator instead of two, under new membership and appointment rules.",
+  "keyProvisions": [
+    "Articles 3 and 4 set up the Maldives Media and Broadcasting Commission and say how it relates to the Commission under Law No. 16/2010.",
+    "Article 2 sets out the aims of the law and Articles 6 and 7 list what the commission does. The text refers to Article 28 of the Constitution and to the commission's functions under Law No. 16/2010.",
+    "Article 8 ends two older laws, No. 47/78 and No. 15/2008. Articles 9 to 11 change Law No. 16/2010 so that its references to the commission and the council now refer to the new commission.",
+    "Articles 12 to 14 handle the move from the old bodies. They deal with the existing members and officials and with the transfer of work from Law No. 47/78.",
+    "Article 16 sets the commission at 7 members. Article 17 splits the seats into groups of 4 and 3, but the scans do not clearly show who picks each group.",
+    "Article 18 lists who can be a commissioner, including a minimum age of 18 and conditions that mention a five-year period. The remaining conditions are hard to read."
+  ],
+  "whoIsAffected": "Journalists, newspapers, broadcasters and other media organisations, and the two regulators being merged.",
+  "statedReasons": "The explanatory note says the bill brings the Broadcasting Commission and the media body together under one commission; the rest of the reasons are hard to read.",
+  "sourceDoc": "Bill",
+  "pagesRead": 12,
+  "pagesTotal": 70,
+  "confidence": "Medium",
+  "model": "claude-sonnet-5-5",
+  "generatedAt": "2026-10-14"
+}

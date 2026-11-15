@@ -1,0 +1,22 @@
+{
+  "workId": "1716",
+  "titleDv": "ނަފްސާނީ ސިއްހަތުގެ ބިލު",
+  "summary": "This is a government bill for a new Mental Health Act, a full new law rather than an amendment. It lists rights for people with mental health conditions, sets up a National Centre for Mental Health that takes over the existing Centre for Mental Health, and creates a National Mental Health Review Board appointed by the President to set standards, monitor treatment centres and hear complaints. It sets rules on consent, on when someone who cannot consent can be treated or admitted, on emergencies, on referrals by police and courts, and on people in custody or serving sentences. The bill has 82 sections in 11 chapters. Some later pages, especially the parts on police, court orders and the budget, are hard to read in the scan, so some details there are uncertain.",
+  "whyItMatters": "It would set out in law when a person can be assessed, treated or admitted for a mental health condition without their own consent, and give patients and families a board to complain to. It would also oblige the state to provide mental health services on every island and pay for some care.",
+  "keyProvisions": [
+    "Sections 3 to 12 give people with mental health conditions rights to information about their illness, the best available treatment, dignity, non-discrimination, confidentiality, jobs, property, education and contact with visitors, and ban publishing a patient's information or photo in the media without consent.",
+    "Sections 13 to 26 create the National Centre for Mental Health, led by a Chief Executive appointed by the Minister, and a National Mental Health Review Board of experts and community members serving five-year terms. Within 2 years every island's health centre or hospital is to offer mental health services and every atoll is to have mental health consultants (Section 18).",
+    "Sections 29 to 45 set out who can consent to treatment, who can ask for treatment on behalf of a person who cannot consent, and when a provider can treat without consent (risk of harm to self, others or property, or a law or court order). A second psychiatrist must agree before treating a person who cannot consent, and an assessment report is due within 24 hours (Sections 38 and 39).",
+    "Section 55 bans secluding patients unless a psychiatrist or treatment team decides it is needed, and Section 61 limits admission against the wishes of a person who can consent to cases of danger, for no more than 1 month.",
+    "Sections 69 to 74 cover people in detention or serving sentences: they must be assessed if suspected of having a mental illness, and the Centre must arrange treatment within 14 days of its decision. Section 71 says being intoxicated by drugs or alcohol alone does not make someone a person with a mental illness.",
+    "Section 76 lets the Centre fine anyone who breaks the law between MVR 10,000 and MVR 50,000. Section 59 makes the state pay ambulance fees for mental health emergencies, and Section 68 makes the state pay for care of people with no guardian or no home."
+  ],
+  "whoIsAffected": "People with mental health conditions and their families and guardians, psychiatrists, doctors and other health workers, police and prison services, and the Health Ministry.",
+  "statedReasons": "The government says the bill is to promote mental wellbeing in the Maldives, set up a system to treat mental illness across the whole country, protect the rights and safety of people with mental health conditions, and set the standards for mental health treatment and services.",
+  "sourceDoc": "Bill",
+  "pagesRead": 72,
+  "pagesTotal": 72,
+  "confidence": "Medium",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-11-01"
+}

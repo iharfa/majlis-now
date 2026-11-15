@@ -1,0 +1,268 @@
+{
+ "sittingId": "851",
+ "date": "2024-06-30",
+ "title": "8th sitting of the 20th Majlis",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 58,
+  "onLeave": 3,
+  "officialTravel": 0
+ },
+ "summary": "The 8th sitting opened with a roll call, the day's agenda and a debate on the government's State Debt Bill, which sets rules for how the state, local councils and state companies borrow, manage and report debt. Sponsor Mohamed Mamdooh and many members backed the bill, while the debate repeatedly turned to blame over past borrowing, with several points of order. After a recess the Foreign Relations Committee presented its report on ambassador nominations for Turkey and Pakistan, and began presenting its report on the Samoa Agreement with the EU; this part ends mid-debate on that item. The debate on the committee report about signing the Samoa Agreement (the EU and African, Caribbean and Pacific states partnership) wrapped up, with a member for Vaikaradhoo saying he supports signing it, noting the committee attached reservations on points that clash with the Constitution and Islam. After a recess, Parliament voted three times: approving the ambassadors to Turkey and Pakistan, and Maldives signing the Samoa Agreement. Each vote passed 82-0, and the Speaker then announced a panel discussion for International Day of Parliaments and adjourned.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Opening of the sitting and prayer",
+   "outcome": "opened by the Speaker"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "58 present, 3 on leave, none on official travel"
+  },
+  {
+   "n": "3",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4",
+   "title": "Announcements by the chair",
+   "outcome": "none made"
+  },
+  {
+   "n": "5.1",
+   "title": "Preliminary debate on the State Debt Bill (submitted by the government, sponsored by Funadhoo member)",
+   "outcome": "debated; 30-minute recess taken, debate continued to the end of this part"
+  },
+  {
+   "n": "6.1",
+   "title": "Committee report on appointing ambassadors to Turkey and Pakistan",
+   "outcome": "report presented; Hussain Ziyad supported it; to be put to the day's vote"
+  },
+  {
+   "n": "6.2",
+   "title": "Committee report on signing the Samoa Agreement (EU and African, Caribbean and Pacific states)",
+   "outcome": "report presented and debate begun; continues in the next part"
+  },
+  {
+   "n": "",
+   "title": "Debate on the committee report on Maldives signing the Samoa Agreement (continued from earlier part)",
+   "outcome": "debate closed; one more member spoke, then the vote was set for after the recess"
+  },
+  {
+   "n": "7",
+   "title": "Votes on matters ready for a vote",
+   "outcome": "three votes held, all passed 82-0"
+  },
+  {
+   "n": "7.1",
+   "title": "Vote on appointing Lt Gen (Retd) Abdul Raheem Abdul Latheef as Ambassador to the Republic of Turkey",
+   "outcome": "passed 82-0-0"
+  },
+  {
+   "n": "7.1",
+   "title": "Vote on appointing Alfadhil Mohamed Thaha as Ambassador to the Islamic Republic of Pakistan (replacing the Saudi Arabia posting)",
+   "outcome": "passed 82-0-0"
+  },
+  {
+   "n": "7.1",
+   "title": "Vote on Maldives signing the Samoa Agreement (EU-OACPS Partnership Agreement)",
+   "outcome": "passed 82-0-0"
+  },
+  {
+   "n": "8",
+   "title": "Other business: panel discussion for International Day of Parliaments",
+   "outcome": "Speaker announced a 4:00 pm panel at the Maldives National University and invited members; sitting adjourned"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 4,
+   "positions": [
+    "Argued the economy needs repair and that borrowing needs limits, and backed the bill.",
+    "As committee rapporteur, presented the ambassador nominations and Samoa Agreement reports."
+   ]
+  },
+  {
+   "name": "Meekail Ahmed Nasym",
+   "constituency": "South Galolhu",
+   "turns": 3,
+   "positions": [
+    "Said repayment financing is in place and there is no cause for worry about the economy.",
+    "Raised a point of order over a member's remarks on Covid vaccines being false."
+   ]
+  },
+  {
+   "name": "Mauroof Zakir",
+   "constituency": "Kendhoo",
+   "turns": 3,
+   "positions": [
+    "Said his party supports the bill and wants it passed quickly, not to mislead people.",
+    "Asked the committee to adjust the bill to current government policy, and listed stalled projects."
+   ]
+  },
+  {
+   "name": "Mohamed Mamdooh",
+   "constituency": "Funadhoo",
+   "turns": 2,
+   "positions": [
+    "Presented the State Debt Bill as setting rules for state borrowing and debt management, and urged quick passage with cross-party support.",
+    "Answered the debate, saying the government's debt and economic steps are being taken in an orderly way."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Raised a point of order on a member's claims about election promises.",
+    "Supported the bill but argued it is no substitute for stronger audits and said this is a poor time to raise taxes."
+   ]
+  },
+  {
+   "name": "Ibrahim Didi",
+   "constituency": "South Feydhoo",
+   "turns": 2,
+   "positions": [
+    "Thanked the sponsor and criticised past borrowing and spending, saying citizens, not members, carry the debt.",
+    "Responded to a point of order and said support for the bill had come late."
+   ]
+  },
+  {
+   "name": "Ibrahim Shujau",
+   "constituency": "Baarashu",
+   "turns": 2,
+   "positions": [
+    "Supported the bill, praising the planned debt management office and ministerial accountability, and criticised past debt growth."
+   ]
+  },
+  {
+   "name": "Hussain Ziyad",
+   "constituency": "Vaikaradhoo",
+   "turns": 2,
+   "positions": [
+    "Supported the foreign relations committee report on the ambassadors to Turkey and Pakistan.",
+    "Supports signing the Samoa Agreement, while noting concerns in the report; says the committee's reservations address clashes with the Constitution and Islam."
+   ]
+  },
+  {
+   "name": "Munthazim Ibrahim",
+   "constituency": "Kaashidhoo",
+   "turns": 1,
+   "positions": [
+    "Fully supported the bill and cited growth in national debt over past governments as the reason it is needed."
+   ]
+  },
+  {
+   "name": "Ahmed Azaan Marzooq",
+   "constituency": "Central Hithadhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill, saying it protects against reckless borrowing, and called for strong audits and enforcement of state companies."
+   ]
+  },
+  {
+   "name": "Abdul Sattar Mohamed",
+   "constituency": "Holhudhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill as vital for managing debt, said it opens financing options for local councils, and hoped committee review would finish quickly."
+   ]
+  },
+  {
+   "name": "Hassan Mufeed Abdul Gadir",
+   "constituency": "Milandhoo",
+   "turns": 1,
+   "positions": [
+    "Welcomed and fully backed the bill, saying spending rules and standards were missing in the past."
+   ]
+  },
+  {
+   "name": "Saudulla Hilmy",
+   "constituency": "North Thinadhoo",
+   "turns": 1,
+   "positions": [
+    "Backed the bill as important, citing the 44 clauses and the need to repay debt within means."
+   ]
+  },
+  {
+   "name": "Mohamed Shahid",
+   "constituency": "Hulhudhoo",
+   "turns": 1,
+   "positions": [
+    "Supported the bill and urged opposition parties to back the government in managing debt."
+   ]
+  },
+  {
+   "name": "Ahmed Aifan",
+   "constituency": "North Henveyru",
+   "turns": 1,
+   "positions": [
+    "Backed the bill, saying such a law is needed to protect the country, and called for tracing where past borrowed funds went."
+   ]
+  },
+  {
+   "name": "Ibrahim Falah",
+   "constituency": "Inguraidhoo",
+   "turns": 1,
+   "positions": [
+    "Raised a point of order that members must give accurate information and not alarm the public about stalled projects."
+   ]
+  },
+  {
+   "name": "Hussain Imran Latheef",
+   "constituency": "South Henveyru",
+   "turns": 1,
+   "positions": [
+    "Said the bill's value should be explained to the public, and warned unmanaged debt can hurt investor trust and raise prices."
+   ]
+  },
+  {
+   "name": "Hussain Shareef",
+   "constituency": "North Hulhumale'",
+   "turns": 1,
+   "positions": [
+    "Backed the bill and compared past debt with what he said the current government has repaid."
+   ]
+  }
+ ],
+ "decisions": [
+  "The day's agenda was announced and no further chair announcements were made.",
+  "A 30-minute recess was taken during the State Debt Bill debate (10:32 to 11:01).",
+  "The ambassador nominations report for Turkey and Pakistan was presented and left for the day's vote.",
+  "The Samoa Agreement committee report was presented; debate was still under way at the end of this part.",
+  "Debate on the Samoa Agreement committee report was closed and voting was set for 1 pm.",
+  "Lt Gen (Retd) Abdul Raheem Abdul Latheef approved as Ambassador to Turkey (82 yes, 0 no).",
+  "Alfadhil Mohamed Thaha approved as Ambassador to Pakistan (82 yes, 0 no).",
+  "Maldives approved to sign the Samoa Agreement (82 yes, 0 no).",
+  "Sitting adjourned; next sitting set for Monday in July 2024 at 9:00 am."
+ ],
+ "votes": [
+  {
+   "what": "Appointment of Lt Gen (Retd) Abdul Raheem Abdul Latheef as Ambassador to the Republic of Turkey",
+   "yes": 82,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appointment of Alfadhil Mohamed Thaha as Ambassador to the Islamic Republic of Pakistan",
+   "yes": 82,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Maldives signing the Samoa Agreement (EU-OACPS Partnership Agreement)",
+   "yes": 82,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 58,
+ "parts": 2,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}

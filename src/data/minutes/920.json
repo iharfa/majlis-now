@@ -1,0 +1,197 @@
+{
+ "sittingId": "920",
+ "date": "2025-02-18",
+ "title": "6th Sitting of first Session of 2025",
+ "presiding": "Speaker Abdul Raheem Abdulla",
+ "attendance": {
+  "present": 48,
+  "onLeave": 3,
+  "officialTravel": 0
+ },
+ "summary": "The sitting opened at 09:03 with 48 members recorded present at the start. The chair announced a membership swap on the Judiciary Committee, then five committee reports were presented: a government bill amending the Decentralisation Act (Law 7/2010), a review of changes to three ministries' work areas, and three Foreign Relations Committee reports on ambassador appointments and the Berne Convention. Only a handful of members spoke on the reports, mostly backing them. After a recess from 09:33 to 10:00, members held 12 open votes and every item passed with no votes against; the next sitting was set for 19 February at 09:00.",
+ "items": [
+  {
+   "n": "1",
+   "title": "Praises and prayers; opening of the sitting",
+   "outcome": "sitting opened"
+  },
+  {
+   "n": "2",
+   "title": "Attendance of members",
+   "outcome": "48 present, 3 on leave, none on official travel"
+  },
+  {
+   "n": "3.1",
+   "title": "Announcement of the day's agenda",
+   "outcome": "agenda announced"
+  },
+  {
+   "n": "4.1",
+   "title": "Announcement of committee membership changes (Judiciary Committee: North Galolhu member Mohamed Ibrahim replaces Kendhoo member Mauroof Zakir)",
+   "outcome": "announced by the chair"
+  },
+  {
+   "n": "5.1",
+   "title": "Decentralisation Committee report on the bill to amend the Decentralisation Act (Law 7/2010), a government bill sponsored by Central Mahchangolhi member Ahmed Xamyr",
+   "outcome": "no debate; bill passed 72-0"
+  },
+  {
+   "n": "5.2",
+   "title": "Government Oversight Committee report on the 17 Nov 2023 changes to the work areas of the ministries of Higher Education, Labour and Skills Development; Homeland Security and Technology; and Health",
+   "outcome": "debated; changes approved 65-0"
+  },
+  {
+   "n": "5.3",
+   "title": "Foreign Relations Committee report on presidential nominees for permanent representative to the IMO, IRENA, WTO and OIC",
+   "outcome": "debated; all four nominees approved (73-0, 73-0, 72-0, 74-0)"
+  },
+  {
+   "n": "5.4",
+   "title": "Foreign Relations Committee report on presidential nominees as non-resident ambassador to Canada, Egypt, Bhutan, Kuwait and the Swiss Confederation",
+   "outcome": "debated; all five nominees approved (71-0, 71-0, 72-0, 73-0, 74-0)"
+  },
+  {
+   "n": "5.5",
+   "title": "Foreign Relations Committee report on Maldives joining the Berne Convention for the Protection of Literary and Artistic Works",
+   "outcome": "debated; accession approved 72-0"
+  },
+  {
+   "n": "6.1",
+   "title": "Votes on the day's reports",
+   "outcome": "12 votes held between about 10:06 and 10:29; all passed with zero against"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Hassan Zareer",
+   "constituency": "Mathiveri",
+   "turns": 3,
+   "positions": [
+    "Presented the report on the IMO, IRENA, WTO and OIC representatives, saying the committee found all four nominees qualified and passed them unanimously.",
+    "Presented the report on non-resident ambassadors to Canada, Egypt, Kuwait, Bhutan and Switzerland, noting the nominees already serve in other posts with no extra pay.",
+    "Presented the Berne Convention report, saying joining would protect Maldivian artists' works abroad and let them earn royalties; the committee agreed unanimously."
+   ]
+  },
+  {
+   "name": "Mohamed Abbas",
+   "constituency": "Velidhoo",
+   "turns": 2,
+   "positions": [
+    "Backed the reports, said envoys are paid from public money and should serve the country and people, and regretted opposition members stayed silent.",
+    "Said the MDA fully supports the reports and urged the appointed envoys not to treat posts as holiday destinations but to work for economy and tourism."
+   ]
+  },
+  {
+   "name": "Ahmed Xamyr",
+   "constituency": "Central Mahchangolhi",
+   "turns": 1,
+   "positions": [
+    "As sponsor, said the Decentralisation Committee passed the bill with 8 members voting at its 16 February meeting and asked the House to approve it."
+   ]
+  },
+  {
+   "name": "Abdul Latheef Mohamed",
+   "constituency": "Dhidhdhoo",
+   "turns": 1,
+   "positions": [
+    "Presented the committee's report on the changes made to three ministries' work areas under the president's 17 November 2023 order."
+   ]
+  },
+  {
+   "name": "Dr. Anara Naeem",
+   "constituency": "Huraa",
+   "turns": 1,
+   "positions": [
+    "Supported the report, saying ministry changes are normal, laws must adapt, and parliament should keep giving the government room to restructure."
+   ]
+  }
+ ],
+ "decisions": [
+  "Judiciary Committee membership change announced: North Galolhu member Mohamed Ibrahim replaces Kendhoo member Mauroof Zakir.",
+  "Bill to amend the Decentralisation Act (Law 7/2010) passed 72-0.",
+  "Changes to the work areas of three ministries (Higher Education, Labour and Skills Development; Homeland Security and Technology; Health) approved 65-0.",
+  "Permanent representatives approved: Hisham Adam (IMO), Mohamed Hussain Shareef (IRENA), Dr. Salma Rasheed (WTO), Ahmed Sareer (OIC).",
+  "Non-resident ambassadors approved: Abdul Gafoor Mohamed (Canada), Ahmed Sareer (Egypt and Kuwait), Shiuneen Rasheed (Bhutan), Dr. Salma Rasheed (Swiss Confederation).",
+  "Maldives' accession to the Berne Convention for the Protection of Literary and Artistic Works approved 72-0.",
+  "Sitting closed at 10:31; next sitting set for 19 February 2025 at 09:00."
+ ],
+ "votes": [
+  {
+   "what": "Bill to amend the Decentralisation Act (Law 7/2010)",
+   "yes": 72,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Government Oversight Committee report on changes to three ministries (Higher Education, Labour and Skills; Homeland Security and Technology; Health)",
+   "yes": 65,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Hisham Adam as permanent representative to the International Maritime Organization",
+   "yes": 73,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Mohamed Hussain Shareef as permanent representative to the International Renewable Energy Agency",
+   "yes": 73,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Dr. Salma Rasheed as permanent representative to the World Trade Organization",
+   "yes": 72,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Ahmed Sareer as permanent representative to the Organisation of Islamic Cooperation",
+   "yes": 74,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Abdul Gafoor Mohamed as non-resident ambassador to Canada",
+   "yes": 71,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Ahmed Sareer as non-resident ambassador to Egypt",
+   "yes": 71,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Ahmed Sareer as non-resident ambassador to Kuwait",
+   "yes": 73,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Shiuneen Rasheed as non-resident ambassador to Bhutan",
+   "yes": 72,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Appoint Dr. Salma Rasheed as non-resident ambassador to the Swiss Confederation",
+   "yes": 74,
+   "no": 0,
+   "abstain": 0
+  },
+  {
+   "what": "Maldives joining the Berne Convention for the Protection of Literary and Artistic Works",
+   "yes": 72,
+   "no": 0,
+   "abstain": 0
+  }
+ ],
+ "pagesTotal": 64,
+ "parts": 1,
+ "confidence": "Medium",
+ "model": "claude-sonnet-5-5",
+ "generatedAt": "2026-10-06"
+}
