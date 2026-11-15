@@ -30,6 +30,7 @@ export function Footer() {
         </div>
         <div className="flex gap-6 text-sm">
           <Link to="/sittings" className="text-outline hover:text-primary font-label-bold">Sittings</Link>
+          <Link to="/hansard" className="text-outline hover:text-primary font-label-bold">Hansard</Link>
           <Link to="/insights" className="text-outline hover:text-primary font-label-bold">Insights</Link>
           <Link to="/business" className="text-outline hover:text-primary font-label-bold">Other business</Link>
           <Link to="/issues" className="text-outline hover:text-primary font-label-bold">Issues</Link>

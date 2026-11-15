@@ -6,6 +6,7 @@ import { AiBadge } from '@/components/ui/AiBadge'
 import { NotFoundPage } from './NotFoundPage'
 import { sittingById, billById } from '@/data'
 import { formatDate } from '@/utils/format'
+import { hansardFor } from '@/data/hansard'
 
 const KIND_ICON: Record<string, string> = {
   procedural: 'rule', bill: 'description', resolution: 'gavel', report: 'summarize',
@@ -16,6 +17,7 @@ export function SittingDetailPage() {
   const { id } = useParams()
   const s = id ? sittingById(id) : undefined
   if (!s) return <NotFoundPage />
+  const hs = hansardFor(s.id)
   const bills = s.billIds.map(billById).filter((b): b is NonNullable<typeof b> => !!b)
 
   return (
@@ -144,6 +146,12 @@ export function SittingDetailPage() {
         </div>
 
         <aside className="space-y-gutter">
+          {hs && (
+            <Link to={`/hansard/${hs.id}`} className="block bg-primary text-on-primary rounded-2xl p-6 hover:brightness-110 transition-all">
+              <span className="flex items-center gap-2 font-headline-md"><Icon name="record_voice_over" /> Read the Hansard</span>
+              <span className="block text-sm mt-1 opacity-90">{hs.speeches} speeches, translated in full and linked to each member.</span>
+            </Link>
+          )}
           {bills.length > 0 && (
             <div className="bg-white rounded-2xl border border-outline-variant/30 p-6">
               <h3 className="font-headline-md text-headline-md mb-3">Bills at this sitting</h3>

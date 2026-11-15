@@ -8,6 +8,7 @@ import { StatusPill } from '@/components/ui/StatusPill'
 import { NotFoundPage } from './NotFoundPage'
 import { mpById, partyById, constituencyById, votesByMP, committeesForMP, attendanceForMP, billsSponsoredBy, speechesByMP, committeeAttendanceForMP } from '@/data'
 import { floorRank } from '@/data/insights'
+import { hansard, hansardForMP } from '@/data/hansard'
 import { cn } from '@/utils/cn'
 import { formatDate, pct } from '@/utils/format'
 
@@ -22,6 +23,7 @@ export function MPDetailPage() {
   const attendance = attendanceForMP(mp.id)
   const sponsored = billsSponsoredBy(mp.id)
   const speeches = speechesByMP(mp.id)
+  const hansardSpeeches = hansardForMP(mp.id)
   const cmtAttendance = committeeAttendanceForMP(mp.id)
   const rank = floorRank(mp.id)
   const isSpeaker = mp.leadershipRole === 'Speaker'
@@ -146,6 +148,25 @@ export function MPDetailPage() {
             ))}
           </ul>
           {speeches.length > 12 && <p className="text-label-sm text-outline mt-3">Showing the 12 most recent of {speeches.length} sittings.</p>}
+        </section>
+      )}
+
+      {hansardSpeeches.length > 0 && (
+        <section className="bg-white rounded-2xl border border-outline-variant/30 p-6 mb-gutter">
+          <h2 className="font-headline-md text-headline-md mb-1">In the Hansard</h2>
+          <p className="text-sm text-on-surface-variant mb-4">
+            Full speeches, translated from the verbatim minutes. Only {hansard.coverage.sittingsDone} of {hansard.coverage.sittingsTotal} sittings are transcribed so far.
+          </p>
+          <ul className="divide-y divide-outline-variant/40">
+            {hansardSpeeches.map(({ sitting, speeches: n, words }) => (
+              <li key={sitting.id} className="py-3">
+                <Link to={`/hansard/${sitting.id}?mp=${mp.id}`} className="flex items-center justify-between gap-3">
+                  <span className="font-label-bold text-on-surface hover:text-primary truncate">{sitting.title}</span>
+                  <span className="text-label-sm text-outline shrink-0">{formatDate(sitting.date)} · {n} speech{n === 1 ? '' : 'es'} · {words.toLocaleString()} words</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
         </section>
       )}
 

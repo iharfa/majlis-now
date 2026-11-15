@@ -21,6 +21,8 @@ const SittingsPage = lazy(() => import('@/pages/SittingsPage').then((m) => ({ de
 const SittingDetailPage = lazy(() => import('@/pages/SittingDetailPage').then((m) => ({ default: m.SittingDetailPage })))
 const SearchPage = lazy(() => import('@/pages/SearchPage').then((m) => ({ default: m.SearchPage })))
 const BusinessPage = lazy(() => import('@/pages/BusinessPage').then((m) => ({ default: m.BusinessPage })))
+const HansardPage = lazy(() => import('@/pages/HansardPage').then((m) => ({ default: m.HansardPage })))
+const HansardSittingPage = lazy(() => import('@/pages/HansardSittingPage').then((m) => ({ default: m.HansardSittingPage })))
 const InsightsPage = lazy(() => import('@/pages/InsightsPage').then((m) => ({ default: m.InsightsPage })))
 
 const TITLES: Array<[RegExp, string]> = [
@@ -32,6 +34,7 @@ const TITLES: Array<[RegExp, string]> = [
   [/^\/issues/, 'Issues & themes'],
   [/^\/committees/, 'Committees'],
   [/^\/sittings/, 'Sittings'],
+  [/^\/hansard/, 'Hansard'],
   [/^\/search/, 'Search'],
   [/^\/insights/, 'Insights'],
   [/^\/business/, 'Other business'],
@@ -89,6 +92,8 @@ export function App() {
               <Route path="committees/:id" element={<CommitteeDetailPage />} />
               <Route path="sittings" element={<SittingsPage />} />
               <Route path="sittings/:id" element={<SittingDetailPage />} />
+              <Route path="hansard" element={<HansardPage />} />
+              <Route path="hansard/:id" element={<HansardSittingPage />} />
               <Route path="search" element={<SearchPage />} />
               <Route path="insights" element={<InsightsPage />} />
               <Route path="business" element={<BusinessPage />} />

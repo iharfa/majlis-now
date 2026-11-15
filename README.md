@@ -17,6 +17,7 @@ Everything on the site is built from official majlis.gov.mv records. Nothing is 
 | Roll-call votes (member by member) | the labelled vote PDFs on each work page (scanned images) | `scripts/build_real_votes.py` OCRs them (RapidOCR), maps rows to the roster by constituency, and **asserts the tally matches the PDF's printed summary** → `src/data/realRollcalls.ts` |
 | Committees: members, chairs, meetings | `/committee/<id>` pages | `scripts/scrape_committees.py` → `src/data/realCommittees.ts` |
 | Sittings + agenda PDFs | `/sittings`, `/sitting/session/<id>` | `scripts/fetch_sittings.py` → `src/data/sittings.json` |
+| **Hansard** (who said what, speech by speech) | the verbatim sitting minutes PDFs (Dhivehi) | Claude (Opus) transcribes each page, splits the text at every speaker heading and translates each speech; speakers are matched to the roster by constituency → `public/hansard/<sittingId>.json` + index/coverage in `src/data/hansard.json` (see below) |
 | **Plain-English bill summaries** and **agenda translations** | the Dhivehi bill / agenda PDFs | Claude (Opus) reads the rendered pages and writes `src/data/summaries/<workId>.json`, `src/data/agendas/<sittingId>.json`; each carries confidence, model and date, and the UI labels it "AI translation" |
 
 Two kinds of floor vote are distinguished: **acceptance** (vote to take the bill up — it then goes to committee) and **passage** (the final vote). The result is always derived from the counted rows, never from page text.
@@ -39,6 +40,18 @@ A GitHub Action (`refresh-data.yml`) runs the scrape weekly and opens a PR for r
 ### Translating new documents
 
 `npm run check -- --list-missing` lists bills and sittings with no AI summary yet. For each one, render pages with `python scripts/render_pages.py <pdf> tmp/pages/<pdf-basename> 110 12` (the output folder is keyed by PDF, since a bill can have several), have Claude read them, and write the JSON in the shape of an existing file in `src/data/summaries/` or `src/data/agendas/`. Keep the confidence honest; the UI shows it.
+
+### Hansard (sitting minutes)
+
+```bash
+python scripts/prepare_hansard.py 1085 1084        # render minutes pages to tmp/hansard/<sid>/pNN.png + text layer
+# OCR agents: docs/hansard-ocr-agent-prompt.md, ~10 pages each -> tmp/hansard/<sid>/pNN.txt
+python scripts/build_hansard.py number 1085 1084   # numbered.txt + chunks.json (chunks cut at speaker headings)
+# speech agents: docs/hansard-speech-agent-prompt.md, one per chunk -> speeches.<k>.json
+python scripts/build_hansard.py build              # public/hansard/*.json + src/data/hansard.json; prints PROBLEM lines
+```
+
+`build` checks that the speeches tile every line of the minutes and that every member/chair speech maps to a roster MP; fix any `PROBLEM` before publishing. Coverage on the /hansard page is computed against every sitting's minutes PDF in `tmp/docs`.
 
 ## Stack
 

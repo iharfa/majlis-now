@@ -9,6 +9,7 @@ const NAV = [
   { to: '/mps', label: 'MPs' },
   { to: '/votes', label: 'Votes' },
   { to: '/sittings', label: 'Sittings' },
+  { to: '/hansard', label: 'Hansard' },
   { to: '/issues', label: 'Issues' },
   { to: '/business', label: 'Business' },
   { to: '/insights', label: 'Insights' },
@@ -31,7 +32,7 @@ export function TopAppBar() {
           <span className="font-display-lg text-headline-md tracking-tighter text-primary">Majlis Now</span>
         </Link>
 
-        <nav className="hidden md:flex items-center gap-8 h-full">
+        <nav className="hidden md:flex items-center gap-4 lg:gap-8 h-full">
           {NAV.map((item) => (
             <NavLink
               key={item.to}
