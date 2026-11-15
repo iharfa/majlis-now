@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 5,
+  "sittingsDone": 6,
   "sittingsTotal": 226,
-  "pagesDone": 203,
+  "pagesDone": 268,
   "pagesTotal": 13244,
-  "speeches": 160
+  "speeches": 235
  },
  "sittings": [
   {
@@ -265,6 +265,102 @@
    "words": 6780,
    "voices": 1,
    "speakers": []
+  },
+  {
+   "id": "1079",
+   "date": "2026-10-28",
+   "title": "11th Sitting of third session of 2026",
+   "pages": 65,
+   "speeches": 75,
+   "words": 24261,
+   "voices": 17,
+   "speakers": [
+    {
+     "mpId": "mp-206",
+     "speeches": 4,
+     "words": 2646
+    },
+    {
+     "mpId": "mp-197",
+     "speeches": 8,
+     "words": 1710
+    },
+    {
+     "mpId": "mp-203",
+     "speeches": 1,
+     "words": 1703
+    },
+    {
+     "mpId": "mp-244",
+     "speeches": 1,
+     "words": 1538
+    },
+    {
+     "mpId": "mp-214",
+     "speeches": 1,
+     "words": 1437
+    },
+    {
+     "mpId": "mp-190",
+     "speeches": 1,
+     "words": 1411
+    },
+    {
+     "mpId": "mp-227",
+     "speeches": 1,
+     "words": 1391
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 1,
+     "words": 1355
+    },
+    {
+     "mpId": "mp-177",
+     "speeches": 3,
+     "words": 1266
+    },
+    {
+     "mpId": "mp-184",
+     "speeches": 1,
+     "words": 1016
+    },
+    {
+     "mpId": "mp-183",
+     "speeches": 2,
+     "words": 787
+    },
+    {
+     "mpId": "mp-251",
+     "speeches": 1,
+     "words": 771
+    },
+    {
+     "mpId": "mp-248",
+     "speeches": 1,
+     "words": 730
+    },
+    {
+     "mpId": "mp-194",
+     "speeches": 2,
+     "words": 701
+    },
+    {
+     "mpId": "mp-192",
+     "speeches": 1,
+     "words": 646
+    },
+    {
+     "mpId": "mp-230",
+     "speeches": 1,
+     "words": 379
+    },
+    {
+     "mpId": "mp-217",
+     "speeches": 1,
+     "words": 337
+    }
+   ]
   }
  ]
 }
