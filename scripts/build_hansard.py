@@ -15,7 +15,8 @@ CHUNK_CHARS = 28000  # ~10-12 pages of dense Dhivehi per speech agent
 
 def lines_of(sid):
     out = []
-    for f in sorted(glob.glob(f"{ROOT}/{sid}/p[0-9][0-9].txt")):
+    pages = [f for f in glob.glob(f"{ROOT}/{sid}/p*.txt") if re.fullmatch(r"p\d+\.txt", os.path.basename(f))]
+    for f in sorted(pages, key=lambda f: int(re.search(r"p(\d+)\.txt$", f).group(1))):  # p01..p99, then p100+
         page = int(re.search(r"p(\d+)\.txt$", f).group(1))
         for ln in open(f, encoding="utf-8").read().splitlines():
             if ln.strip():
@@ -115,7 +116,7 @@ def build():
             if here:
                 cur = here[-1]
         st = sittings.get(sid, {})
-        pages = len(glob.glob(os.path.join(d, "p[0-9][0-9].png")))
+        pages = len(glob.glob(os.path.join(d, "p[0-9]*.png")))
         rec = {"id": sid, "date": st.get("date"), "title": st.get("title"), "pages": pages, "sourceUrl": st.get("minutesPdf"),
                "items": [{"n": i["n"], "title": i["title"]} for i in sorted(items, key=lambda i: i["line"])], "speeches": out}
         json.dump(rec, open(f"public/hansard/{sid}.json", "w", encoding="utf-8", newline="\n"), ensure_ascii=False, indent=1)
