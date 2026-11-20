@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 20,
+  "sittingsDone": 21,
   "sittingsTotal": 226,
-  "pagesDone": 1162,
+  "pagesDone": 1236,
   "pagesTotal": 13248,
-  "speeches": 1374
+  "speeches": 1456
  },
  "sittings": [
   {
@@ -1783,6 +1783,112 @@
      "mpId": "mp-253",
      "speeches": 1,
      "words": 257
+    }
+   ]
+  },
+  {
+   "id": "1063",
+   "date": "2026-08-16",
+   "title": "24th Sitting of Second session of 2026",
+   "pages": 74,
+   "speeches": 82,
+   "words": 26127,
+   "voices": 20,
+   "speakers": [
+    {
+     "mpId": "mp-177",
+     "speeches": 9,
+     "words": 3954
+    },
+    {
+     "mpId": "mp-214",
+     "speeches": 3,
+     "words": 3318
+    },
+    {
+     "mpId": "mp-209",
+     "speeches": 1,
+     "words": 2060
+    },
+    {
+     "mpId": "mp-190",
+     "speeches": 1,
+     "words": 1911
+    },
+    {
+     "mpId": "mp-206",
+     "speeches": 2,
+     "words": 1286
+    },
+    {
+     "mpId": "mp-218",
+     "speeches": 1,
+     "words": 1135
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 1,
+     "words": 1036
+    },
+    {
+     "mpId": "mp-200",
+     "speeches": 1,
+     "words": 928
+    },
+    {
+     "mpId": "mp-224",
+     "speeches": 1,
+     "words": 862
+    },
+    {
+     "mpId": "mp-192",
+     "speeches": 1,
+     "words": 801
+    },
+    {
+     "mpId": "mp-244",
+     "speeches": 1,
+     "words": 741
+    },
+    {
+     "mpId": "mp-247",
+     "speeches": 1,
+     "words": 650
+    },
+    {
+     "mpId": "mp-189",
+     "speeches": 1,
+     "words": 606
+    },
+    {
+     "mpId": "mp-230",
+     "speeches": 1,
+     "words": 595
+    },
+    {
+     "mpId": "mp-264",
+     "speeches": 1,
+     "words": 594
+    },
+    {
+     "mpId": "mp-191",
+     "speeches": 2,
+     "words": 590
+    },
+    {
+     "mpId": "mp-248",
+     "speeches": 1,
+     "words": 469
+    },
+    {
+     "mpId": "mp-184",
+     "speeches": 1,
+     "words": 111
+    },
+    {
+     "mpId": "mp-178",
+     "speeches": 1,
+     "words": 73
     }
    ]
   }
