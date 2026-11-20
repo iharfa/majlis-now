@@ -59,6 +59,19 @@ def norm(s):
     return re.sub(r"[^a-z]", "", (s or "").lower())
 
 
+def index_entry(rec):
+    out, spk = rec["speeches"], {}
+    for s in out:
+        if s["mpId"] and s["role"] == "member":
+            v = spk.setdefault(s["mpId"], [0, 0])
+            v[0] += 1
+            v[1] += s["words"]
+    return {"id": rec["id"], "date": rec["date"], "title": rec["title"], "pages": rec["pages"], "speeches": len(out),
+            "words": sum(s["words"] for s in out),
+            "voices": len({(s["name"], s["role"] == "chair") for s in out if s["role"] != "other" and s["role"] != "chair"}),
+            "speakers": [{"mpId": k, "speeches": v[0], "words": v[1]} for k, v in sorted(spk.items(), key=lambda x: -x[1][1])]}
+
+
 def build():
     mps = roster()
     by_con = {norm(m["constituency"]): m for m in mps}
@@ -120,16 +133,12 @@ def build():
         rec = {"id": sid, "date": st.get("date"), "title": st.get("title"), "pages": pages, "sourceUrl": st.get("minutesPdf"),
                "items": [{"n": i["n"], "title": i["title"]} for i in sorted(items, key=lambda i: i["line"])], "speeches": out}
         json.dump(rec, open(f"public/hansard/{sid}.json", "w", encoding="utf-8", newline="\n"), ensure_ascii=False, indent=1)
-        spk = {}
-        for s in out:
-            if s["mpId"] and s["role"] == "member":
-                v = spk.setdefault(s["mpId"], [0, 0])
-                v[0] += 1
-                v[1] += s["words"]
-        index.append({"id": sid, "date": rec["date"], "title": rec["title"], "pages": pages, "speeches": len(out),
-                      "words": sum(s["words"] for s in out),
-                      "voices": len({(s["name"], s["role"] == "chair") for s in out if s["role"] != "other" and s["role"] != "chair"}),
-                      "speakers": [{"mpId": k, "speeches": v[0], "words": v[1]} for k, v in sorted(spk.items(), key=lambda x: -x[1][1])]})
+        index.append(index_entry(rec))
+    # sittings built on another machine (no tmp/hansard/<sid>/ here): keep their committed records
+    done = {x["id"] for x in index}
+    for f in glob.glob("public/hansard/*.json"):
+        if os.path.basename(f)[:-5] not in done:
+            index.append(index_entry(json.load(open(f, encoding="utf-8"))))
     # coverage of the full dataset = every sitting's minutes PDF we hold
     tot_s = tot_p = 0
     for s in sittings.values():
