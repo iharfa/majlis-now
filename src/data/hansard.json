@@ -13,6 +13,9 @@
    "title": "16th Sitting of third session of 2026",
    "pages": 51,
    "speeches": 31,
+   "lowConfidenceSpeeches": 6,
+   "lowConfidence": true,
+   "issue": null,
    "words": 19421,
    "voices": 12,
    "speakers": [
@@ -84,6 +87,9 @@
    "title": "15th Sitting of third session of 2026",
    "pages": 35,
    "speeches": 25,
+   "lowConfidenceSpeeches": 4,
+   "lowConfidence": true,
+   "issue": null,
    "words": 14188,
    "voices": 7,
    "speakers": [
@@ -125,6 +131,9 @@
    "title": "14th Sitting of Third session of 2026",
    "pages": 60,
    "speeches": 56,
+   "lowConfidenceSpeeches": 7,
+   "lowConfidence": false,
+   "issue": null,
    "words": 21602,
    "voices": 12,
    "speakers": [
@@ -191,6 +200,9 @@
    "title": "13th Sitting of Third session of 2026",
    "pages": 39,
    "speeches": 40,
+   "lowConfidenceSpeeches": 5,
+   "lowConfidence": false,
+   "issue": null,
    "words": 13244,
    "voices": 12,
    "speakers": [
@@ -262,6 +274,9 @@
    "title": "12th Sitting of Third session of 2026",
    "pages": 18,
    "speeches": 8,
+   "lowConfidenceSpeeches": 0,
+   "lowConfidence": false,
+   "issue": null,
    "words": 6780,
    "voices": 1,
    "speakers": []
@@ -272,6 +287,9 @@
    "title": "11th Sitting of third session of 2026",
    "pages": 65,
    "speeches": 75,
+   "lowConfidenceSpeeches": 12,
+   "lowConfidence": true,
+   "issue": null,
    "words": 24261,
    "voices": 17,
    "speakers": [
@@ -368,6 +386,9 @@
    "title": "10th Sitting of third session of 2026",
    "pages": 54,
    "speeches": 58,
+   "lowConfidenceSpeeches": 9,
+   "lowConfidence": true,
+   "issue": null,
    "words": 19126,
    "voices": 14,
    "speakers": [
@@ -449,6 +470,9 @@
    "title": "9th Sitting of third session of 2026",
    "pages": 72,
    "speeches": 85,
+   "lowConfidenceSpeeches": 11,
+   "lowConfidence": false,
+   "issue": null,
    "words": 26750,
    "voices": 17,
    "speakers": [
@@ -550,6 +574,9 @@
    "title": "8th Sitting of third session of 2026",
    "pages": 58,
    "speeches": 55,
+   "lowConfidenceSpeeches": 11,
+   "lowConfidence": true,
+   "issue": null,
    "words": 21186,
    "voices": 17,
    "speakers": [
@@ -646,6 +673,9 @@
    "title": "7th Sitting of third session of 2026",
    "pages": 55,
    "speeches": 50,
+   "lowConfidenceSpeeches": 6,
+   "lowConfidence": false,
+   "issue": null,
    "words": 19205,
    "voices": 17,
    "speakers": [
@@ -742,6 +772,9 @@
    "title": "6th Sitting of Third session of 2026",
    "pages": 67,
    "speeches": 93,
+   "lowConfidenceSpeeches": 8,
+   "lowConfidence": false,
+   "issue": null,
    "words": 22216,
    "voices": 24,
    "speakers": [
@@ -868,6 +901,9 @@
    "title": "5th Sitting of Third session of 2026",
    "pages": 33,
    "speeches": 36,
+   "lowConfidenceSpeeches": 5,
+   "lowConfidence": false,
+   "issue": null,
    "words": 11648,
    "voices": 13,
    "speakers": [
@@ -944,6 +980,9 @@
    "title": "4th Sitting of third session of 2026",
    "pages": 50,
    "speeches": 50,
+   "lowConfidenceSpeeches": 6,
+   "lowConfidence": false,
+   "issue": null,
    "words": 17032,
    "voices": 14,
    "speakers": [
@@ -1025,6 +1064,9 @@
    "title": "3rd Sitting of third session of 2026",
    "pages": 38,
    "speeches": 43,
+   "lowConfidenceSpeeches": 5,
+   "lowConfidence": false,
+   "issue": null,
    "words": 13911,
    "voices": 15,
    "speakers": [
@@ -1106,6 +1148,9 @@
    "title": "2nd Sitting of third session of 2026",
    "pages": 44,
    "speeches": 50,
+   "lowConfidenceSpeeches": 8,
+   "lowConfidence": true,
+   "issue": null,
    "words": 16113,
    "voices": 19,
    "speakers": [
@@ -1212,6 +1257,9 @@
    "title": "1st Sitting of Third session of 2026",
    "pages": 47,
    "speeches": 64,
+   "lowConfidenceSpeeches": 6,
+   "lowConfidence": false,
+   "issue": null,
    "words": 16319,
    "voices": 18,
    "speakers": [
@@ -1308,6 +1356,9 @@
    "title": "28th Sitting of second session of 2026",
    "pages": 142,
    "speeches": 165,
+   "lowConfidenceSpeeches": 8,
+   "lowConfidence": false,
+   "issue": null,
    "words": 47240,
    "voices": 21,
    "speakers": [
@@ -1424,6 +1475,9 @@
    "title": "27th Sitting of second session of 2026",
    "pages": 73,
    "speeches": 87,
+   "lowConfidenceSpeeches": 5,
+   "lowConfidence": false,
+   "issue": null,
    "words": 25223,
    "voices": 22,
    "speakers": [
@@ -1540,6 +1594,9 @@
    "title": "26th Sitting of second session of 2026",
    "pages": 87,
    "speeches": 216,
+   "lowConfidenceSpeeches": 10,
+   "lowConfidence": false,
+   "issue": null,
    "words": 24412,
    "voices": 28,
    "speakers": [
@@ -1686,6 +1743,9 @@
    "title": "25th Sitting of second session of 2026",
    "pages": 74,
    "speeches": 87,
+   "lowConfidenceSpeeches": 14,
+   "lowConfidence": true,
+   "issue": null,
    "words": 25094,
    "voices": 19,
    "speakers": [
@@ -1792,6 +1852,9 @@
    "title": "24th Sitting of Second session of 2026",
    "pages": 74,
    "speeches": 82,
+   "lowConfidenceSpeeches": 5,
+   "lowConfidence": false,
+   "issue": null,
    "words": 26127,
    "voices": 20,
    "speakers": [
@@ -1898,6 +1961,9 @@
    "title": "23rd Sitting of second session of 2026",
    "pages": 66,
    "speeches": 117,
+   "lowConfidenceSpeeches": 8,
+   "lowConfidence": false,
+   "issue": null,
    "words": 22049,
    "voices": 23,
    "speakers": [
@@ -2019,6 +2085,9 @@
    "title": "22nd Sitting of Second session of 2026",
    "pages": 79,
    "speeches": 162,
+   "lowConfidenceSpeeches": 10,
+   "lowConfidence": false,
+   "issue": null,
    "words": 25179,
    "voices": 27,
    "speakers": [
@@ -2155,6 +2224,9 @@
    "title": "21st Sitting of second session of 2026",
    "pages": 54,
    "speeches": 148,
+   "lowConfidenceSpeeches": 5,
+   "lowConfidence": false,
+   "issue": null,
    "words": 15630,
    "voices": 23,
    "speakers": [
@@ -2271,6 +2343,9 @@
    "title": "20th Sitting of second session of 2026",
    "pages": 54,
    "speeches": 72,
+   "lowConfidenceSpeeches": 10,
+   "lowConfidence": true,
+   "issue": "Pages 43-51 are poor scans; much of that part was guessed and marked [unclear].",
    "words": 17200,
    "voices": 15,
    "speakers": [
@@ -2352,6 +2427,9 @@
    "title": "19th Sitting of second session of 2026",
    "pages": 70,
    "speeches": 166,
+   "lowConfidenceSpeeches": 4,
+   "lowConfidence": false,
+   "issue": null,
    "words": 22840,
    "voices": 30,
    "speakers": [
@@ -2508,6 +2586,9 @@
    "title": "18th Sitting of Second session of 2026",
    "pages": 77,
    "speeches": 177,
+   "lowConfidenceSpeeches": 4,
+   "lowConfidence": false,
+   "issue": null,
    "words": 24042,
    "voices": 32,
    "speakers": [
@@ -2674,6 +2755,9 @@
    "title": "17th Sitting of Second session of 2026",
    "pages": 66,
    "speeches": 68,
+   "lowConfidenceSpeeches": 7,
+   "lowConfidence": false,
+   "issue": null,
    "words": 23993,
    "voices": 17,
    "speakers": [
@@ -2770,6 +2854,9 @@
    "title": "16th Sitting of Second session of 2026",
    "pages": 52,
    "speeches": 43,
+   "lowConfidenceSpeeches": 7,
+   "lowConfidence": true,
+   "issue": null,
    "words": 20261,
    "voices": 15,
    "speakers": [
@@ -2851,6 +2938,9 @@
    "title": "15th Sitting of Second session of 2026",
    "pages": 37,
    "speeches": 47,
+   "lowConfidenceSpeeches": 6,
+   "lowConfidence": false,
+   "issue": null,
    "words": 13117,
    "voices": 16,
    "speakers": [
@@ -2942,6 +3032,9 @@
    "title": "14th Sitting of Second session of 2026",
    "pages": 51,
    "speeches": 74,
+   "lowConfidenceSpeeches": 9,
+   "lowConfidence": false,
+   "issue": null,
    "words": 18185,
    "voices": 17,
    "speakers": [
@@ -3033,6 +3126,9 @@
    "title": "13th Sitting of Second session of 2026",
    "pages": 68,
    "speeches": 203,
+   "lowConfidenceSpeeches": 6,
+   "lowConfidence": false,
+   "issue": null,
    "words": 20780,
    "voices": 35,
    "speakers": [
@@ -3204,6 +3300,9 @@
    "title": "12th Sitting of second session of 2026",
    "pages": 54,
    "speeches": 140,
+   "lowConfidenceSpeeches": 3,
+   "lowConfidence": false,
+   "issue": null,
    "words": 15505,
    "voices": 21,
    "speakers": [
@@ -3315,6 +3414,9 @@
    "title": "11th Sitting of Second session of 2026",
    "pages": 53,
    "speeches": 82,
+   "lowConfidenceSpeeches": 2,
+   "lowConfidence": false,
+   "issue": null,
    "words": 16799,
    "voices": 18,
    "speakers": [
@@ -3406,6 +3508,9 @@
    "title": "10th Sitting of Second session of 2026",
    "pages": 43,
    "speeches": 80,
+   "lowConfidenceSpeeches": 2,
+   "lowConfidence": false,
+   "issue": null,
    "words": 13245,
    "voices": 18,
    "speakers": [
@@ -3497,6 +3602,9 @@
    "title": "9th Sitting of second session of 2026",
    "pages": 64,
    "speeches": 126,
+   "lowConfidenceSpeeches": 11,
+   "lowConfidence": false,
+   "issue": null,
    "words": 21316,
    "voices": 27,
    "speakers": [
@@ -3638,6 +3746,9 @@
    "title": "8th Sitting of second session of 2026",
    "pages": 55,
    "speeches": 107,
+   "lowConfidenceSpeeches": 7,
+   "lowConfidence": false,
+   "issue": null,
    "words": 17426,
    "voices": 25,
    "speakers": [
@@ -3764,6 +3875,9 @@
    "title": "7th Sitting of second session of 2026",
    "pages": 46,
    "speeches": 77,
+   "lowConfidenceSpeeches": 5,
+   "lowConfidence": true,
+   "issue": "Page 2 has a broken text layer in the PDF, so its Dhivehi text is garbled.",
    "words": 16183,
    "voices": 20,
    "speakers": [
@@ -3870,6 +3984,9 @@
    "title": "6th Sitting of second session of 2026",
    "pages": 100,
    "speeches": 183,
+   "lowConfidenceSpeeches": 11,
+   "lowConfidence": false,
+   "issue": null,
    "words": 33211,
    "voices": 28,
    "speakers": [
@@ -4016,6 +4133,9 @@
    "title": "5th Sitting of second session of 2026",
    "pages": 69,
    "speeches": 201,
+   "lowConfidenceSpeeches": 4,
+   "lowConfidence": false,
+   "issue": null,
    "words": 19189,
    "voices": 34,
    "speakers": [
@@ -4197,6 +4317,9 @@
    "title": "4th Sitting of second session of 2026",
    "pages": 44,
    "speeches": 52,
+   "lowConfidenceSpeeches": 2,
+   "lowConfidence": false,
+   "issue": null,
    "words": 14974,
    "voices": 16,
    "speakers": [
@@ -4288,6 +4411,9 @@
    "title": "3rd Sitting of second session of 2026",
    "pages": 67,
    "speeches": 95,
+   "lowConfidenceSpeeches": 10,
+   "lowConfidence": false,
+   "issue": null,
    "words": 23493,
    "voices": 21,
    "speakers": [
@@ -4404,6 +4530,9 @@
    "title": "2nd Sitting of second session of 2026",
    "pages": 45,
    "speeches": 51,
+   "lowConfidenceSpeeches": 7,
+   "lowConfidence": false,
+   "issue": null,
    "words": 14494,
    "voices": 12,
    "speakers": [
@@ -4470,6 +4599,9 @@
    "title": "1st Sitting of Second session of 2026",
    "pages": 15,
    "speeches": 26,
+   "lowConfidenceSpeeches": 0,
+   "lowConfidence": false,
+   "issue": null,
    "words": 4212,
    "voices": 6,
    "speakers": [
@@ -4506,6 +4638,9 @@
    "title": "20th Sitting of First session of 2026",
    "pages": 4,
    "speeches": 8,
+   "lowConfidenceSpeeches": 0,
+   "lowConfidence": false,
+   "issue": null,
    "words": 456,
    "voices": 0,
    "speakers": []
@@ -4516,6 +4651,9 @@
    "title": "19th Sitting of First session of 2026",
    "pages": 56,
    "speeches": 107,
+   "lowConfidenceSpeeches": 3,
+   "lowConfidence": false,
+   "issue": null,
    "words": 16761,
    "voices": 16,
    "speakers": [
@@ -4602,6 +4740,9 @@
    "title": "19h Sitting of first session of 2026",
    "pages": 4,
    "speeches": 4,
+   "lowConfidenceSpeeches": 0,
+   "lowConfidence": false,
+   "issue": null,
    "words": 1089,
    "voices": 0,
    "speakers": []
@@ -4612,6 +4753,9 @@
    "title": "18th Sitting of first session of 2026",
    "pages": 47,
    "speeches": 56,
+   "lowConfidenceSpeeches": 4,
+   "lowConfidence": false,
+   "issue": null,
    "words": 16029,
    "voices": 19,
    "speakers": [
@@ -4718,6 +4862,9 @@
    "title": "17th Sitting of First session of 2026",
    "pages": 20,
    "speeches": 34,
+   "lowConfidenceSpeeches": 0,
+   "lowConfidence": false,
+   "issue": null,
    "words": 5279,
    "voices": 4,
    "speakers": [
@@ -4749,6 +4896,9 @@
    "title": "16th Sitting of first session of 2026",
    "pages": 59,
    "speeches": 61,
+   "lowConfidenceSpeeches": 9,
+   "lowConfidence": false,
+   "issue": null,
    "words": 23201,
    "voices": 19,
    "speakers": [
@@ -4855,6 +5005,9 @@
    "title": "15th Sitting of First session of 2026",
    "pages": 79,
    "speeches": 209,
+   "lowConfidenceSpeeches": 3,
+   "lowConfidence": false,
+   "issue": null,
    "words": 25155,
    "voices": 26,
    "speakers": [
@@ -4986,6 +5139,9 @@
    "title": "14th Sitting of First session of 2026",
    "pages": 129,
    "speeches": 91,
+   "lowConfidenceSpeeches": 13,
+   "lowConfidence": false,
+   "issue": null,
    "words": 42327,
    "voices": 19,
    "speakers": [
@@ -5097,6 +5253,9 @@
    "title": "13th Sitting of First session of 2026",
    "pages": 80,
    "speeches": 202,
+   "lowConfidenceSpeeches": 6,
+   "lowConfidence": false,
+   "issue": null,
    "words": 25385,
    "voices": 27,
    "speakers": [
@@ -5238,6 +5397,9 @@
    "title": "12th Sitting of First session of 2026",
    "pages": 40,
    "speeches": 47,
+   "lowConfidenceSpeeches": 1,
+   "lowConfidence": false,
+   "issue": null,
    "words": 13943,
    "voices": 13,
    "speakers": [
@@ -5314,6 +5476,9 @@
    "title": "11th Sitting of first session of 2026",
    "pages": 72,
    "speeches": 130,
+   "lowConfidenceSpeeches": 11,
+   "lowConfidence": false,
+   "issue": null,
    "words": 25191,
    "voices": 24,
    "speakers": [
@@ -5440,6 +5605,9 @@
    "title": "10th Sitting of First session of 2026",
    "pages": 73,
    "speeches": 94,
+   "lowConfidenceSpeeches": 8,
+   "lowConfidence": false,
+   "issue": null,
    "words": 26628,
    "voices": 26,
    "speakers": [
@@ -5581,6 +5749,9 @@
    "title": "9th Sitting of First session of 2026",
    "pages": 63,
    "speeches": 81,
+   "lowConfidenceSpeeches": 6,
+   "lowConfidence": false,
+   "issue": null,
    "words": 22703,
    "voices": 19,
    "speakers": [
@@ -5677,6 +5848,9 @@
    "title": "8th Sitting of First session of 2026",
    "pages": 70,
    "speeches": 107,
+   "lowConfidenceSpeeches": 7,
+   "lowConfidence": false,
+   "issue": null,
    "words": 22567,
    "voices": 20,
    "speakers": [
@@ -5783,6 +5957,9 @@
    "title": "7th Sitting of First session of 2026",
    "pages": 66,
    "speeches": 87,
+   "lowConfidenceSpeeches": 6,
+   "lowConfidence": false,
+   "issue": null,
    "words": 23260,
    "voices": 21,
    "speakers": [
@@ -5899,6 +6076,9 @@
    "title": "6th Sitting of First session of 2026",
    "pages": 82,
    "speeches": 82,
+   "lowConfidenceSpeeches": 7,
+   "lowConfidence": true,
+   "issue": "Some pages are unreadable scans and were left out.",
    "words": 30699,
    "voices": 20,
    "speakers": [
@@ -6005,6 +6185,9 @@
    "title": "5th Sitting of First session of 2026",
    "pages": 71,
    "speeches": 83,
+   "lowConfidenceSpeeches": 5,
+   "lowConfidence": false,
+   "issue": null,
    "words": 22888,
    "voices": 12,
    "speakers": [
@@ -6071,6 +6254,9 @@
    "title": "4th Sitting of First session of 2026",
    "pages": 90,
    "speeches": 102,
+   "lowConfidenceSpeeches": 7,
+   "lowConfidence": false,
+   "issue": null,
    "words": 32060,
    "voices": 20,
    "speakers": [
@@ -6182,6 +6368,9 @@
    "title": "3rd Sitting of First session of 2026",
    "pages": 46,
    "speeches": 70,
+   "lowConfidenceSpeeches": 4,
+   "lowConfidence": false,
+   "issue": null,
    "words": 15604,
    "voices": 18,
    "speakers": [
@@ -6278,6 +6467,9 @@
    "title": "2nd Sitting of First session of 2026",
    "pages": 32,
    "speeches": 48,
+   "lowConfidenceSpeeches": 1,
+   "lowConfidence": false,
+   "issue": null,
    "words": 10079,
    "voices": 9,
    "speakers": [
@@ -6329,6 +6521,9 @@
    "title": "1st Sitting of First session of 2026",
    "pages": 66,
    "speeches": 9,
+   "lowConfidenceSpeeches": 1,
+   "lowConfidence": false,
+   "issue": null,
    "words": 26058,
    "voices": 0,
    "speakers": []
@@ -6339,6 +6534,9 @@
    "title": "2nd special sitting of 2026",
    "pages": 11,
    "speeches": 10,
+   "lowConfidenceSpeeches": 1,
+   "lowConfidence": false,
+   "issue": null,
    "words": 3083,
    "voices": 2,
    "speakers": [
@@ -6360,6 +6558,9 @@
    "title": "1st special sitting of 2026",
    "pages": 93,
    "speeches": 91,
+   "lowConfidenceSpeeches": 10,
+   "lowConfidence": false,
+   "issue": null,
    "words": 33959,
    "voices": 16,
    "speakers": [
@@ -6446,6 +6647,9 @@
    "title": "28th Sitting of third session of 2025",
    "pages": 65,
    "speeches": 50,
+   "lowConfidenceSpeeches": 5,
+   "lowConfidence": false,
+   "issue": null,
    "words": 21223,
    "voices": 12,
    "speakers": [
@@ -6512,6 +6716,9 @@
    "title": "27th Sitting of third session of 2025",
    "pages": 59,
    "speeches": 57,
+   "lowConfidenceSpeeches": 3,
+   "lowConfidence": false,
+   "issue": null,
    "words": 20427,
    "voices": 12,
    "speakers": [
@@ -6578,6 +6785,9 @@
    "title": "26th Sitting of third session of 2025",
    "pages": 105,
    "speeches": 99,
+   "lowConfidenceSpeeches": 6,
+   "lowConfidence": false,
+   "issue": null,
    "words": 37038,
    "voices": 19,
    "speakers": [
@@ -6684,6 +6894,9 @@
    "title": "25th Sitting of third session of 2025",
    "pages": 84,
    "speeches": 136,
+   "lowConfidenceSpeeches": 1,
+   "lowConfidence": false,
+   "issue": null,
    "words": 25972,
    "voices": 24,
    "speakers": [
@@ -6805,6 +7018,9 @@
    "title": "24th Sitting of third session of 2025",
    "pages": 60,
    "speeches": 62,
+   "lowConfidenceSpeeches": 9,
+   "lowConfidence": false,
+   "issue": null,
    "words": 21379,
    "voices": 22,
    "speakers": [
@@ -6926,6 +7142,9 @@
    "title": "23rd Sitting of third session of 2025",
    "pages": 57,
    "speeches": 55,
+   "lowConfidenceSpeeches": 8,
+   "lowConfidence": false,
+   "issue": null,
    "words": 21319,
    "voices": 20,
    "speakers": [
@@ -7032,6 +7251,9 @@
    "title": "22nd Sitting of third session of 2025",
    "pages": 148,
    "speeches": 127,
+   "lowConfidenceSpeeches": 16,
+   "lowConfidence": true,
+   "issue": "Some pages are unreadable scans and were left out.",
    "words": 52111,
    "voices": 20,
    "speakers": [
@@ -7138,6 +7360,9 @@
    "title": "21st Sitting of third session of 2025",
    "pages": 74,
    "speeches": 52,
+   "lowConfidenceSpeeches": 9,
+   "lowConfidence": true,
+   "issue": null,
    "words": 29702,
    "voices": 19,
    "speakers": [
@@ -7239,6 +7464,9 @@
    "title": "20th Sitting of third session of 2025",
    "pages": 60,
    "speeches": 47,
+   "lowConfidenceSpeeches": 4,
+   "lowConfidence": false,
+   "issue": null,
    "words": 23935,
    "voices": 17,
    "speakers": [
@@ -7335,6 +7563,9 @@
    "title": "19th Sitting of third session of 2025",
    "pages": 49,
    "speeches": 34,
+   "lowConfidenceSpeeches": 2,
+   "lowConfidence": false,
+   "issue": null,
    "words": 20040,
    "voices": 11,
    "speakers": [
@@ -7401,6 +7632,9 @@
    "title": "18th Sitting of third session of 2025",
    "pages": 52,
    "speeches": 32,
+   "lowConfidenceSpeeches": 7,
+   "lowConfidence": true,
+   "issue": null,
    "words": 20146,
    "voices": 12,
    "speakers": [
@@ -7472,6 +7706,9 @@
    "title": "17th Sitting of third session of 2025",
    "pages": 38,
    "speeches": 35,
+   "lowConfidenceSpeeches": 3,
+   "lowConfidence": false,
+   "issue": null,
    "words": 11722,
    "voices": 8,
    "speakers": [
@@ -7523,6 +7760,9 @@
    "title": "16th Sitting of third session of 2025",
    "pages": 63,
    "speeches": 60,
+   "lowConfidenceSpeeches": 7,
+   "lowConfidence": false,
+   "issue": null,
    "words": 24317,
    "voices": 13,
    "speakers": [
@@ -7599,6 +7839,9 @@
    "title": "15th Sitting of third session of 2025",
    "pages": 38,
    "speeches": 46,
+   "lowConfidenceSpeeches": 4,
+   "lowConfidence": false,
+   "issue": null,
    "words": 14372,
    "voices": 14,
    "speakers": [
@@ -7675,6 +7918,9 @@
    "title": "14th Sitting of third session of 2025",
    "pages": 11,
    "speeches": 8,
+   "lowConfidenceSpeeches": 0,
+   "lowConfidence": false,
+   "issue": null,
    "words": 3525,
    "voices": 1,
    "speakers": []
@@ -7685,6 +7931,9 @@
    "title": "13th Sitting of third session of 2025",
    "pages": 40,
    "speeches": 54,
+   "lowConfidenceSpeeches": 5,
+   "lowConfidence": false,
+   "issue": null,
    "words": 14271,
    "voices": 18,
    "speakers": [
@@ -7781,6 +8030,9 @@
    "title": "12th Sitting of third session of 2025",
    "pages": 63,
    "speeches": 123,
+   "lowConfidenceSpeeches": 10,
+   "lowConfidence": false,
+   "issue": null,
    "words": 22106,
    "voices": 17,
    "speakers": [
@@ -7877,6 +8129,9 @@
    "title": "11th Sitting of third session of 2025",
    "pages": 73,
    "speeches": 143,
+   "lowConfidenceSpeeches": 5,
+   "lowConfidence": false,
+   "issue": null,
    "words": 22878,
    "voices": 25,
    "speakers": [
@@ -8008,6 +8263,9 @@
    "title": "10th Sitting of third session of 2025",
    "pages": 76,
    "speeches": 184,
+   "lowConfidenceSpeeches": 7,
+   "lowConfidence": false,
+   "issue": null,
    "words": 23684,
    "voices": 31,
    "speakers": [
@@ -8169,6 +8427,9 @@
    "title": "9th Sitting of third session of 2025",
    "pages": 83,
    "speeches": 74,
+   "lowConfidenceSpeeches": 9,
+   "lowConfidence": false,
+   "issue": null,
    "words": 30116,
    "voices": 17,
    "speakers": [

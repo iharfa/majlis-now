@@ -16,6 +16,8 @@ export interface HansardSpeech {
   dv: string
   en: string
   words: number
+  /** the source could not be read clearly somewhere in this speech ([unclear], [?] or an unreadable scan) */
+  lowConfidence?: boolean
 }
 
 export interface HansardSitting {
@@ -38,6 +40,10 @@ export interface HansardIndexEntry {
   /** distinct people who spoke from the floor (members, ministers, officials) */
   voices: number
   speakers: { mpId: string; speeches: number; words: number }[]
+  lowConfidenceSpeeches: number
+  /** many speeches carry unclear-source markers, or a known problem with the source (see issue) */
+  lowConfidence: boolean
+  issue: string | null
 }
 
 export const hansard = index as {

@@ -3,6 +3,7 @@ import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { Container } from '@/components/ui/Container'
 import { Avatar } from '@/components/ui/Avatar'
 import { Icon } from '@/components/ui/Icon'
+import { ConfidenceBadge } from '@/components/ui/ConfidenceBadge'
 import { NotFoundPage } from './NotFoundPage'
 import { mpById, partyById } from '@/data'
 import { hansardFor, type HansardSitting, type HansardSpeech } from '@/data/hansard'
@@ -58,6 +59,15 @@ export function HansardSittingPage() {
         {formatDate(entry.date)} · {entry.speeches} speeches · {entry.pages} pages of minutes ·{' '}
         <Link to={`/sittings/sitting-${entry.id}`} className="text-primary hover:underline">Sitting overview</Link>
       </p>
+      {entry.lowConfidence && (
+        <div className="mt-4 bg-error-container/40 rounded-2xl p-4 text-sm text-on-surface">
+          <ConfidenceBadge level="Low" />
+          <p className="mt-1">
+            {entry.issue ? `${entry.issue} ` : ''}
+            {entry.lowConfidenceSpeeches} of {entry.speeches} speeches have passages the source did not show clearly; they are labelled below. Check those against the official minutes.
+          </p>
+        </div>
+      )}
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-gutter mt-8">
         <div className="lg:col-span-2 space-y-4">
@@ -149,6 +159,11 @@ function Speech({ s, itemTitle, showItem, sourceUrl }: { s: HansardSpeech; itemT
             <p className="text-label-sm text-outline">
               {ROLE_LABEL[s.role]}{s.constituency ? ` · ${s.constituency}` : ''}{party ? ` · ${party.shortName}` : ''}
             </p>
+            {s.lowConfidence && (
+              <span title="Part of this speech could not be read clearly in the source; look for [unclear] and compare with the Dhivehi or the source page.">
+                <ConfidenceBadge level="Low" className="mt-1" />
+              </span>
+            )}
           </div>
           <a href={`#s${s.n}`} className="text-label-sm text-outline hover:text-primary shrink-0" title="Link to this speech">#{s.n} · {pages}</a>
         </header>
