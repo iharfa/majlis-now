@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 52,
+  "sittingsDone": 54,
   "sittingsTotal": 226,
-  "pagesDone": 2893,
+  "pagesDone": 3020,
   "pagesTotal": 13248,
-  "speeches": 4530
+  "speeches": 4696
  },
  "sittings": [
   {
@@ -2262,6 +2262,87 @@
      "mpId": "mp-193",
      "speeches": 1,
      "words": 39
+    }
+   ]
+  },
+  {
+   "id": "1059",
+   "date": "2026-08-05",
+   "title": "20th Sitting of second session of 2026",
+   "pages": 54,
+   "speeches": 72,
+   "words": 17200,
+   "voices": 15,
+   "speakers": [
+    {
+     "mpId": "mp-214",
+     "speeches": 5,
+     "words": 2195
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 4,
+     "words": 1600
+    },
+    {
+     "mpId": "mp-194",
+     "speeches": 1,
+     "words": 1151
+    },
+    {
+     "mpId": "mp-175",
+     "speeches": 1,
+     "words": 780
+    },
+    {
+     "mpId": "mp-239",
+     "speeches": 1,
+     "words": 758
+    },
+    {
+     "mpId": "mp-191",
+     "speeches": 1,
+     "words": 756
+    },
+    {
+     "mpId": "mp-230",
+     "speeches": 2,
+     "words": 675
+    },
+    {
+     "mpId": "mp-247",
+     "speeches": 1,
+     "words": 671
+    },
+    {
+     "mpId": "mp-177",
+     "speeches": 3,
+     "words": 661
+    },
+    {
+     "mpId": "mp-184",
+     "speeches": 1,
+     "words": 645
+    },
+    {
+     "mpId": "mp-227",
+     "speeches": 1,
+     "words": 555
+    },
+    {
+     "mpId": "mp-218",
+     "speeches": 3,
+     "words": 205
+    },
+    {
+     "mpId": "mp-200",
+     "speeches": 1,
+     "words": 197
+    },
+    {
+     "mpId": "mp-206",
+     "speeches": 1,
+     "words": 41
     }
    ]
   },
@@ -5108,6 +5189,147 @@
      "mpId": "mp-202",
      "speeches": 1,
      "words": 25
+    }
+   ]
+  },
+  {
+   "id": "1023",
+   "date": "2026-04-21",
+   "title": "10th Sitting of First session of 2026",
+   "pages": 73,
+   "speeches": 94,
+   "words": 26628,
+   "voices": 26,
+   "speakers": [
+    {
+     "mpId": "mp-194",
+     "speeches": 7,
+     "words": 3198
+    },
+    {
+     "mpId": "mp-209",
+     "speeches": 2,
+     "words": 2118
+    },
+    {
+     "mpId": "mp-175",
+     "speeches": 2,
+     "words": 1941
+    },
+    {
+     "mpId": "mp-177",
+     "speeches": 2,
+     "words": 1686
+    },
+    {
+     "mpId": "mp-239",
+     "speeches": 4,
+     "words": 1567
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 1,
+     "words": 1131
+    },
+    {
+     "mpId": "mp-234",
+     "speeches": 1,
+     "words": 1128
+    },
+    {
+     "mpId": "mp-214",
+     "speeches": 2,
+     "words": 969
+    },
+    {
+     "mpId": "mp-263",
+     "speeches": 1,
+     "words": 816
+    },
+    {
+     "mpId": "mp-195",
+     "speeches": 2,
+     "words": 815
+    },
+    {
+     "mpId": "mp-193",
+     "speeches": 1,
+     "words": 788
+    },
+    {
+     "mpId": "mp-247",
+     "speeches": 1,
+     "words": 765
+    },
+    {
+     "mpId": "mp-248",
+     "speeches": 1,
+     "words": 750
+    },
+    {
+     "mpId": "mp-265",
+     "speeches": 1,
+     "words": 715
+    },
+    {
+     "mpId": "mp-260",
+     "speeches": 1,
+     "words": 697
+    },
+    {
+     "mpId": "mp-242",
+     "speeches": 1,
+     "words": 618
+    },
+    {
+     "mpId": "mp-204",
+     "speeches": 1,
+     "words": 597
+    },
+    {
+     "mpId": "mp-224",
+     "speeches": 1,
+     "words": 549
+    },
+    {
+     "mpId": "mp-230",
+     "speeches": 1,
+     "words": 548
+    },
+    {
+     "mpId": "mp-229",
+     "speeches": 1,
+     "words": 544
+    },
+    {
+     "mpId": "mp-264",
+     "speeches": 1,
+     "words": 413
+    },
+    {
+     "mpId": "mp-182",
+     "speeches": 1,
+     "words": 367
+    },
+    {
+     "mpId": "mp-226",
+     "speeches": 2,
+     "words": 342
+    },
+    {
+     "mpId": "mp-183",
+     "speeches": 2,
+     "words": 291
+    },
+    {
+     "mpId": "mp-261",
+     "speeches": 1,
+     "words": 240
+    },
+    {
+     "mpId": "mp-218",
+     "speeches": 1,
+     "words": 76
     }
    ]
   }
