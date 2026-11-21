@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 80,
+  "sittingsDone": 81,
   "sittingsTotal": 226,
-  "pagesDone": 4695,
+  "pagesDone": 4843,
   "pagesTotal": 13248,
-  "speeches": 6504
+  "speeches": 6631
  },
  "sittings": [
   {
@@ -7023,6 +7023,112 @@
      "mpId": "mp-214",
      "speeches": 1,
      "words": 72
+    }
+   ]
+  },
+  {
+   "id": "1004",
+   "date": "2025-11-19",
+   "title": "22nd Sitting of third session of 2025",
+   "pages": 148,
+   "speeches": 127,
+   "words": 52111,
+   "voices": 20,
+   "speakers": [
+    {
+     "mpId": "mp-214",
+     "speeches": 5,
+     "words": 5780
+    },
+    {
+     "mpId": "mp-194",
+     "speeches": 7,
+     "words": 3669
+    },
+    {
+     "mpId": "mp-209",
+     "speeches": 3,
+     "words": 3610
+    },
+    {
+     "mpId": "mp-218",
+     "speeches": 4,
+     "words": 2888
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 3,
+     "words": 2540
+    },
+    {
+     "mpId": "mp-177",
+     "speeches": 4,
+     "words": 2157
+    },
+    {
+     "mpId": "mp-229",
+     "speeches": 2,
+     "words": 2101
+    },
+    {
+     "mpId": "mp-183",
+     "speeches": 2,
+     "words": 1436
+    },
+    {
+     "mpId": "mp-203",
+     "speeches": 3,
+     "words": 1426
+    },
+    {
+     "mpId": "mp-240",
+     "speeches": 2,
+     "words": 1336
+    },
+    {
+     "mpId": "mp-197",
+     "speeches": 2,
+     "words": 1302
+    },
+    {
+     "mpId": "mp-230",
+     "speeches": 2,
+     "words": 1130
+    },
+    {
+     "mpId": "mp-206",
+     "speeches": 1,
+     "words": 1074
+    },
+    {
+     "mpId": "mp-239",
+     "speeches": 1,
+     "words": 954
+    },
+    {
+     "mpId": "mp-190",
+     "speeches": 1,
+     "words": 605
+    },
+    {
+     "mpId": "mp-231",
+     "speeches": 1,
+     "words": 463
+    },
+    {
+     "mpId": "mp-252",
+     "speeches": 1,
+     "words": 417
+    },
+    {
+     "mpId": "mp-200",
+     "speeches": 1,
+     "words": 214
+    },
+    {
+     "mpId": "mp-182",
+     "speeches": 2,
+     "words": 63
     }
    ]
   },
