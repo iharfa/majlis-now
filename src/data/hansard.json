@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 72,
+  "sittingsDone": 74,
   "sittingsTotal": 226,
-  "pagesDone": 4281,
+  "pagesDone": 4352,
   "pagesTotal": 13248,
-  "speeches": 6071
+  "speeches": 6141
  },
  "sittings": [
   {
@@ -6679,6 +6679,127 @@
    ]
   },
   {
+   "id": "1006",
+   "date": "2025-11-25",
+   "title": "24th Sitting of third session of 2025",
+   "pages": 60,
+   "speeches": 62,
+   "words": 21379,
+   "voices": 22,
+   "speakers": [
+    {
+     "mpId": "mp-175",
+     "speeches": 3,
+     "words": 1937
+    },
+    {
+     "mpId": "mp-214",
+     "speeches": 2,
+     "words": 1699
+    },
+    {
+     "mpId": "mp-203",
+     "speeches": 1,
+     "words": 1029
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 1,
+     "words": 1025
+    },
+    {
+     "mpId": "mp-230",
+     "speeches": 1,
+     "words": 997
+    },
+    {
+     "mpId": "mp-177",
+     "speeches": 1,
+     "words": 978
+    },
+    {
+     "mpId": "mp-228",
+     "speeches": 1,
+     "words": 854
+    },
+    {
+     "mpId": "mp-251",
+     "speeches": 1,
+     "words": 820
+    },
+    {
+     "mpId": "mp-248",
+     "speeches": 1,
+     "words": 807
+    },
+    {
+     "mpId": "mp-193",
+     "speeches": 1,
+     "words": 773
+    },
+    {
+     "mpId": "mp-238",
+     "speeches": 1,
+     "words": 766
+    },
+    {
+     "mpId": "mp-206",
+     "speeches": 1,
+     "words": 746
+    },
+    {
+     "mpId": "mp-224",
+     "speeches": 1,
+     "words": 708
+    },
+    {
+     "mpId": "mp-247",
+     "speeches": 1,
+     "words": 665
+    },
+    {
+     "mpId": "mp-265",
+     "speeches": 1,
+     "words": 642
+    },
+    {
+     "mpId": "mp-258",
+     "speeches": 1,
+     "words": 558
+    },
+    {
+     "mpId": "mp-191",
+     "speeches": 1,
+     "words": 555
+    },
+    {
+     "mpId": "mp-218",
+     "speeches": 1,
+     "words": 546
+    },
+    {
+     "mpId": "mp-200",
+     "speeches": 1,
+     "words": 539
+    },
+    {
+     "mpId": "mp-222",
+     "speeches": 1,
+     "words": 419
+    },
+    {
+     "mpId": "mp-182",
+     "speeches": 1,
+     "words": 297
+    },
+    {
+     "mpId": "mp-197",
+     "speeches": 1,
+     "words": 224
+    }
+   ]
+  },
+  {
    "id": "1003",
    "date": "2025-11-18",
    "title": "21st Sitting of third session of 2025",
@@ -6874,6 +6995,16 @@
      "words": 328
     }
    ]
+  },
+  {
+   "id": "995",
+   "date": "2025-10-30",
+   "title": "14th Sitting of third session of 2025",
+   "pages": 11,
+   "speeches": 8,
+   "words": 3525,
+   "voices": 1,
+   "speakers": []
   }
  ]
 }
