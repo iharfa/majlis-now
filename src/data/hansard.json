@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 61,
+  "sittingsDone": 63,
   "sittingsTotal": 226,
-  "pagesDone": 3513,
+  "pagesDone": 3666,
   "pagesTotal": 13248,
-  "speeches": 5391
+  "speeches": 5574
  },
  "sittings": [
   {
@@ -5576,6 +5576,102 @@
    ]
   },
   {
+   "id": "1022",
+   "date": "2026-04-20",
+   "title": "9th Sitting of First session of 2026",
+   "pages": 63,
+   "speeches": 81,
+   "words": 22703,
+   "voices": 19,
+   "speakers": [
+    {
+     "mpId": "mp-194",
+     "speeches": 1,
+     "words": 2518
+    },
+    {
+     "mpId": "mp-177",
+     "speeches": 3,
+     "words": 2227
+    },
+    {
+     "mpId": "mp-228",
+     "speeches": 1,
+     "words": 1472
+    },
+    {
+     "mpId": "mp-234",
+     "speeches": 1,
+     "words": 1458
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 2,
+     "words": 1336
+    },
+    {
+     "mpId": "mp-175",
+     "speeches": 1,
+     "words": 1327
+    },
+    {
+     "mpId": "mp-239",
+     "speeches": 1,
+     "words": 1068
+    },
+    {
+     "mpId": "mp-209",
+     "speeches": 2,
+     "words": 1056
+    },
+    {
+     "mpId": "mp-189",
+     "speeches": 2,
+     "words": 963
+    },
+    {
+     "mpId": "mp-204",
+     "speeches": 1,
+     "words": 638
+    },
+    {
+     "mpId": "mp-203",
+     "speeches": 2,
+     "words": 179
+    },
+    {
+     "mpId": "mp-192",
+     "speeches": 1,
+     "words": 93
+    },
+    {
+     "mpId": "mp-260",
+     "speeches": 1,
+     "words": 88
+    },
+    {
+     "mpId": "mp-229",
+     "speeches": 1,
+     "words": 82
+    },
+    {
+     "mpId": "mp-215",
+     "speeches": 1,
+     "words": 77
+    },
+    {
+     "mpId": "mp-182",
+     "speeches": 1,
+     "words": 61
+    },
+    {
+     "mpId": "mp-183",
+     "speeches": 1,
+     "words": 51
+    }
+   ]
+  },
+  {
    "id": "1021",
    "date": "2026-04-15",
    "title": "8th Sitting of First session of 2026",
@@ -5860,6 +5956,117 @@
      "mpId": "mp-192",
      "speeches": 1,
      "words": 414
+    }
+   ]
+  },
+  {
+   "id": "1017",
+   "date": "2026-02-17",
+   "title": "4th Sitting of First session of 2026",
+   "pages": 90,
+   "speeches": 102,
+   "words": 32060,
+   "voices": 20,
+   "speakers": [
+    {
+     "mpId": "mp-214",
+     "speeches": 4,
+     "words": 3942
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 4,
+     "words": 2684
+    },
+    {
+     "mpId": "mp-177",
+     "speeches": 5,
+     "words": 1827
+    },
+    {
+     "mpId": "mp-203",
+     "speeches": 3,
+     "words": 1779
+    },
+    {
+     "mpId": "mp-175",
+     "speeches": 2,
+     "words": 1772
+    },
+    {
+     "mpId": "mp-218",
+     "speeches": 3,
+     "words": 1590
+    },
+    {
+     "mpId": "mp-194",
+     "speeches": 2,
+     "words": 1010
+    },
+    {
+     "mpId": "mp-261",
+     "speeches": 1,
+     "words": 864
+    },
+    {
+     "mpId": "mp-228",
+     "speeches": 1,
+     "words": 800
+    },
+    {
+     "mpId": "mp-229",
+     "speeches": 2,
+     "words": 766
+    },
+    {
+     "mpId": "mp-210",
+     "speeches": 1,
+     "words": 695
+    },
+    {
+     "mpId": "mp-234",
+     "speeches": 1,
+     "words": 692
+    },
+    {
+     "mpId": "mp-200",
+     "speeches": 2,
+     "words": 666
+    },
+    {
+     "mpId": "mp-248",
+     "speeches": 1,
+     "words": 587
+    },
+    {
+     "mpId": "mp-264",
+     "speeches": 1,
+     "words": 565
+    },
+    {
+     "mpId": "mp-195",
+     "speeches": 1,
+     "words": 535
+    },
+    {
+     "mpId": "mp-185",
+     "speeches": 2,
+     "words": 504
+    },
+    {
+     "mpId": "mp-184",
+     "speeches": 1,
+     "words": 444
+    },
+    {
+     "mpId": "mp-225",
+     "speeches": 1,
+     "words": 389
+    },
+    {
+     "mpId": "mp-227",
+     "speeches": 1,
+     "words": 338
     }
    ]
   },
