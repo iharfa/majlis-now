@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 55,
+  "sittingsDone": 56,
   "sittingsTotal": 226,
-  "pagesDone": 3099,
+  "pagesDone": 3228,
   "pagesTotal": 13248,
-  "speeches": 4905
+  "speeches": 4996
  },
  "sittings": [
   {
@@ -4977,6 +4977,117 @@
      "mpId": "mp-197",
      "speeches": 1,
      "words": 27
+    }
+   ]
+  },
+  {
+   "id": "1027",
+   "date": "2026-04-29",
+   "title": "14th Sitting of First session of 2026",
+   "pages": 129,
+   "speeches": 91,
+   "words": 42327,
+   "voices": 19,
+   "speakers": [
+    {
+     "mpId": "mp-194",
+     "speeches": 3,
+     "words": 3457
+    },
+    {
+     "mpId": "mp-214",
+     "speeches": 2,
+     "words": 2867
+    },
+    {
+     "mpId": "mp-217",
+     "speeches": 2,
+     "words": 1535
+    },
+    {
+     "mpId": "mp-228",
+     "speeches": 2,
+     "words": 1283
+    },
+    {
+     "mpId": "mp-177",
+     "speeches": 4,
+     "words": 1179
+    },
+    {
+     "mpId": "mp-229",
+     "speeches": 2,
+     "words": 1092
+    },
+    {
+     "mpId": "mp-239",
+     "speeches": 4,
+     "words": 1063
+    },
+    {
+     "mpId": "mp-218",
+     "speeches": 1,
+     "words": 1042
+    },
+    {
+     "mpId": "mp-203",
+     "speeches": 1,
+     "words": 900
+    },
+    {
+     "mpId": "mp-178",
+     "speeches": 1,
+     "words": 813
+    },
+    {
+     "mpId": "mp-248",
+     "speeches": 1,
+     "words": 769
+    },
+    {
+     "mpId": "mp-266",
+     "speeches": 1,
+     "words": 736
+    },
+    {
+     "mpId": "mp-210",
+     "speeches": 1,
+     "words": 714
+    },
+    {
+     "mpId": "mp-261",
+     "speeches": 2,
+     "words": 640
+    },
+    {
+     "mpId": "mp-204",
+     "speeches": 1,
+     "words": 594
+    },
+    {
+     "mpId": "mp-193",
+     "speeches": 1,
+     "words": 576
+    },
+    {
+     "mpId": "mp-258",
+     "speeches": 1,
+     "words": 532
+    },
+    {
+     "mpId": "mp-267",
+     "speeches": 1,
+     "words": 338
+    },
+    {
+     "mpId": "mp-200",
+     "speeches": 1,
+     "words": 248
+    },
+    {
+     "mpId": "mp-249",
+     "speeches": 1,
+     "words": 196
     }
    ]
   },
