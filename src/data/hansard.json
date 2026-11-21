@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 68,
+  "sittingsDone": 69,
   "sittingsTotal": 226,
-  "pagesDone": 4006,
+  "pagesDone": 4065,
   "pagesTotal": 13248,
-  "speeches": 5833
+  "speeches": 5890
  },
  "sittings": [
   {
@@ -6397,6 +6397,72 @@
      "mpId": "mp-265",
      "speeches": 1,
      "words": 155
+    }
+   ]
+  },
+  {
+   "id": "1009",
+   "date": "2025-12-01",
+   "title": "27th Sitting of third session of 2025",
+   "pages": 59,
+   "speeches": 57,
+   "words": 20427,
+   "voices": 12,
+   "speakers": [
+    {
+     "mpId": "mp-218",
+     "speeches": 4,
+     "words": 2114
+    },
+    {
+     "mpId": "mp-206",
+     "speeches": 3,
+     "words": 1852
+    },
+    {
+     "mpId": "mp-239",
+     "speeches": 2,
+     "words": 1230
+    },
+    {
+     "mpId": "mp-182",
+     "speeches": 2,
+     "words": 1116
+    },
+    {
+     "mpId": "mp-209",
+     "speeches": 1,
+     "words": 1057
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 1,
+     "words": 1055
+    },
+    {
+     "mpId": "mp-175",
+     "speeches": 1,
+     "words": 926
+    },
+    {
+     "mpId": "mp-183",
+     "speeches": 2,
+     "words": 910
+    },
+    {
+     "mpId": "mp-214",
+     "speeches": 2,
+     "words": 835
+    },
+    {
+     "mpId": "mp-247",
+     "speeches": 1,
+     "words": 804
+    },
+    {
+     "mpId": "mp-204",
+     "speeches": 1,
+     "words": 320
     }
    ]
   },
