@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 46,
+  "sittingsDone": 49,
   "sittingsTotal": 226,
-  "pagesDone": 2578,
+  "pagesDone": 2701,
   "pagesTotal": 13248,
-  "speeches": 3954
+  "speeches": 4151
  },
  "sittings": [
   {
@@ -4430,6 +4430,92 @@
    "speakers": []
   },
   {
+   "id": "1033",
+   "date": "2026-05-14",
+   "title": "19th Sitting of First session of 2026",
+   "pages": 56,
+   "speeches": 107,
+   "words": 16761,
+   "voices": 16,
+   "speakers": [
+    {
+     "mpId": "mp-185",
+     "speeches": 12,
+     "words": 1516
+    },
+    {
+     "mpId": "mp-218",
+     "speeches": 8,
+     "words": 1131
+    },
+    {
+     "mpId": "mp-208",
+     "speeches": 2,
+     "words": 1075
+    },
+    {
+     "mpId": "mp-194",
+     "speeches": 4,
+     "words": 870
+    },
+    {
+     "mpId": "mp-228",
+     "speeches": 1,
+     "words": 606
+    },
+    {
+     "mpId": "mp-225",
+     "speeches": 1,
+     "words": 604
+    },
+    {
+     "mpId": "mp-203",
+     "speeches": 2,
+     "words": 477
+    },
+    {
+     "mpId": "mp-188",
+     "speeches": 2,
+     "words": 400
+    },
+    {
+     "mpId": "mp-177",
+     "speeches": 2,
+     "words": 396
+    },
+    {
+     "mpId": "mp-183",
+     "speeches": 5,
+     "words": 373
+    },
+    {
+     "mpId": "mp-210",
+     "speeches": 1,
+     "words": 276
+    },
+    {
+     "mpId": "mp-238",
+     "speeches": 2,
+     "words": 243
+    },
+    {
+     "mpId": "mp-209",
+     "speeches": 2,
+     "words": 223
+    },
+    {
+     "mpId": "mp-227",
+     "speeches": 1,
+     "words": 186
+    },
+    {
+     "mpId": "mp-244",
+     "speeches": 1,
+     "words": 5
+    }
+   ]
+  },
+  {
    "id": "1032",
    "date": "2026-05-13",
    "title": "19h Sitting of first session of 2026",
@@ -4438,6 +4524,143 @@
    "words": 1089,
    "voices": 0,
    "speakers": []
+  },
+  {
+   "id": "1031",
+   "date": "2026-05-12",
+   "title": "18th Sitting of first session of 2026",
+   "pages": 47,
+   "speeches": 56,
+   "words": 16029,
+   "voices": 19,
+   "speakers": [
+    {
+     "mpId": "mp-214",
+     "speeches": 2,
+     "words": 1809
+    },
+    {
+     "mpId": "mp-206",
+     "speeches": 2,
+     "words": 1355
+    },
+    {
+     "mpId": "mp-204",
+     "speeches": 2,
+     "words": 1213
+    },
+    {
+     "mpId": "mp-175",
+     "speeches": 1,
+     "words": 1005
+    },
+    {
+     "mpId": "mp-242",
+     "speeches": 1,
+     "words": 973
+    },
+    {
+     "mpId": "mp-230",
+     "speeches": 1,
+     "words": 852
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 1,
+     "words": 742
+    },
+    {
+     "mpId": "mp-189",
+     "speeches": 1,
+     "words": 722
+    },
+    {
+     "mpId": "mp-248",
+     "speeches": 1,
+     "words": 722
+    },
+    {
+     "mpId": "mp-247",
+     "speeches": 1,
+     "words": 588
+    },
+    {
+     "mpId": "mp-210",
+     "speeches": 1,
+     "words": 497
+    },
+    {
+     "mpId": "mp-265",
+     "speeches": 1,
+     "words": 478
+    },
+    {
+     "mpId": "mp-252",
+     "speeches": 1,
+     "words": 464
+    },
+    {
+     "mpId": "mp-179",
+     "speeches": 1,
+     "words": 453
+    },
+    {
+     "mpId": "mp-231",
+     "speeches": 1,
+     "words": 411
+    },
+    {
+     "mpId": "mp-195",
+     "speeches": 1,
+     "words": 403
+    },
+    {
+     "mpId": "mp-192",
+     "speeches": 1,
+     "words": 335
+    },
+    {
+     "mpId": "mp-227",
+     "speeches": 1,
+     "words": 265
+    },
+    {
+     "mpId": "mp-181",
+     "speeches": 1,
+     "words": 215
+    }
+   ]
+  },
+  {
+   "id": "1030",
+   "date": "2026-05-11",
+   "title": "17th Sitting of First session of 2026",
+   "pages": 20,
+   "speeches": 34,
+   "words": 5279,
+   "voices": 4,
+   "speakers": [
+    {
+     "mpId": "mp-183",
+     "speeches": 6,
+     "words": 812
+    },
+    {
+     "mpId": "mp-210",
+     "speeches": 1,
+     "words": 577
+    },
+    {
+     "mpId": "mp-214",
+     "speeches": 2,
+     "words": 158
+    },
+    {
+     "mpId": "mp-217",
+     "speeches": 1,
+     "words": 148
+    }
+   ]
   },
   {
    "id": "1029",
