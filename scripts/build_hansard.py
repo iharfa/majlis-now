@@ -111,6 +111,8 @@ def build():
             if not m and s["role"] in ("member", "chair"):
                 m = by_name.get(norm(s.get("name")))  # never for ministers: MPs can't be ministers, a shared name is a different person
             alt = by_name.get(norm(s.get("name"))) if s["role"] in ("member", "chair") else None
+            if m and alt and alt["id"] != m["id"] and norm(alt["constituency"]) == norm(m["constituency"]):
+                m = alt  # seat changed hands (North Hithadhoo 2026): by_con holds the later MP, the name says which one spoke
             if m and alt and alt["id"] != m["id"] and norm(s.get("name")) not in dup:  # e.g. Funadhoo vs Fonadhoo misread: name says one MP, seat says another
                 problems.append(f"{sid} speech {n}: name {s.get('name')} is {alt['constituency']} but seat given as {s.get('constituency')}")
             if s["role"] in ("member", "chair") and not m:
