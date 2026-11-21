@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 74,
+  "sittingsDone": 76,
   "sittingsTotal": 226,
-  "pagesDone": 4352,
+  "pagesDone": 4493,
   "pagesTotal": 13248,
-  "speeches": 6141
+  "speeches": 6332
  },
  "sittings": [
   {
@@ -6679,6 +6679,127 @@
    ]
   },
   {
+   "id": "1007",
+   "date": "2025-11-26",
+   "title": "25th Sitting of third session of 2025",
+   "pages": 84,
+   "speeches": 136,
+   "words": 25972,
+   "voices": 24,
+   "speakers": [
+    {
+     "mpId": "mp-182",
+     "speeches": 5,
+     "words": 815
+    },
+    {
+     "mpId": "mp-214",
+     "speeches": 2,
+     "words": 655
+    },
+    {
+     "mpId": "mp-218",
+     "speeches": 2,
+     "words": 466
+    },
+    {
+     "mpId": "mp-210",
+     "speeches": 1,
+     "words": 233
+    },
+    {
+     "mpId": "mp-239",
+     "speeches": 1,
+     "words": 172
+    },
+    {
+     "mpId": "mp-235",
+     "speeches": 1,
+     "words": 147
+    },
+    {
+     "mpId": "mp-237",
+     "speeches": 1,
+     "words": 143
+    },
+    {
+     "mpId": "mp-180",
+     "speeches": 1,
+     "words": 125
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 1,
+     "words": 105
+    },
+    {
+     "mpId": "mp-196",
+     "speeches": 1,
+     "words": 97
+    },
+    {
+     "mpId": "mp-227",
+     "speeches": 1,
+     "words": 94
+    },
+    {
+     "mpId": "mp-238",
+     "speeches": 1,
+     "words": 87
+    },
+    {
+     "mpId": "mp-215",
+     "speeches": 1,
+     "words": 78
+    },
+    {
+     "mpId": "mp-216",
+     "speeches": 1,
+     "words": 77
+    },
+    {
+     "mpId": "mp-251",
+     "speeches": 1,
+     "words": 74
+    },
+    {
+     "mpId": "mp-265",
+     "speeches": 1,
+     "words": 73
+    },
+    {
+     "mpId": "mp-175",
+     "speeches": 1,
+     "words": 68
+    },
+    {
+     "mpId": "mp-260",
+     "speeches": 1,
+     "words": 66
+    },
+    {
+     "mpId": "mp-183",
+     "speeches": 1,
+     "words": 54
+    },
+    {
+     "mpId": "mp-208",
+     "speeches": 1,
+     "words": 48
+    },
+    {
+     "mpId": "mp-192",
+     "speeches": 1,
+     "words": 37
+    },
+    {
+     "mpId": "mp-231",
+     "speeches": 1,
+     "words": 32
+    }
+   ]
+  },
+  {
    "id": "1006",
    "date": "2025-11-25",
    "title": "24th Sitting of third session of 2025",
@@ -6796,6 +6917,112 @@
      "mpId": "mp-197",
      "speeches": 1,
      "words": 224
+    }
+   ]
+  },
+  {
+   "id": "1005",
+   "date": "2025-11-24",
+   "title": "23rd Sitting of third session of 2025",
+   "pages": 57,
+   "speeches": 55,
+   "words": 21319,
+   "voices": 20,
+   "speakers": [
+    {
+     "mpId": "mp-239",
+     "speeches": 2,
+     "words": 1740
+    },
+    {
+     "mpId": "mp-183",
+     "speeches": 2,
+     "words": 1696
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 2,
+     "words": 1458
+    },
+    {
+     "mpId": "mp-197",
+     "speeches": 1,
+     "words": 1244
+    },
+    {
+     "mpId": "mp-228",
+     "speeches": 1,
+     "words": 1212
+    },
+    {
+     "mpId": "mp-217",
+     "speeches": 2,
+     "words": 1135
+    },
+    {
+     "mpId": "mp-194",
+     "speeches": 1,
+     "words": 1118
+    },
+    {
+     "mpId": "mp-209",
+     "speeches": 1,
+     "words": 1084
+    },
+    {
+     "mpId": "mp-218",
+     "speeches": 1,
+     "words": 1054
+    },
+    {
+     "mpId": "mp-229",
+     "speeches": 1,
+     "words": 1016
+    },
+    {
+     "mpId": "mp-189",
+     "speeches": 1,
+     "words": 971
+    },
+    {
+     "mpId": "mp-265",
+     "speeches": 1,
+     "words": 842
+    },
+    {
+     "mpId": "mp-237",
+     "speeches": 1,
+     "words": 793
+    },
+    {
+     "mpId": "mp-260",
+     "speeches": 1,
+     "words": 733
+    },
+    {
+     "mpId": "mp-242",
+     "speeches": 1,
+     "words": 670
+    },
+    {
+     "mpId": "mp-227",
+     "speeches": 1,
+     "words": 552
+    },
+    {
+     "mpId": "mp-226",
+     "speeches": 1,
+     "words": 490
+    },
+    {
+     "mpId": "mp-204",
+     "speeches": 1,
+     "words": 445
+    },
+    {
+     "mpId": "mp-214",
+     "speeches": 1,
+     "words": 72
     }
    ]
   },
