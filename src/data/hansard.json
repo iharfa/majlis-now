@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 67,
+  "sittingsDone": 68,
   "sittingsTotal": 226,
-  "pagesDone": 3940,
+  "pagesDone": 4006,
   "pagesTotal": 13248,
-  "speeches": 5824
+  "speeches": 5833
  },
  "sittings": [
   {
@@ -6216,6 +6216,16 @@
      "words": 67
     }
    ]
+  },
+  {
+   "id": "1013",
+   "date": "2026-02-05",
+   "title": "1st Sitting of First session of 2026",
+   "pages": 66,
+   "speeches": 9,
+   "words": 26058,
+   "voices": 0,
+   "speakers": []
   },
   {
    "id": "1012",
