@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 49,
+  "sittingsDone": 50,
   "sittingsTotal": 226,
-  "pagesDone": 2701,
+  "pagesDone": 2741,
   "pagesTotal": 13248,
-  "speeches": 4151
+  "speeches": 4198
  },
  "sittings": [
   {
@@ -4765,6 +4765,82 @@
      "mpId": "mp-265",
      "speeches": 1,
      "words": 430
+    }
+   ]
+  },
+  {
+   "id": "1025",
+   "date": "2026-04-27",
+   "title": "12th Sitting of First session of 2026",
+   "pages": 40,
+   "speeches": 47,
+   "words": 13943,
+   "voices": 13,
+   "speakers": [
+    {
+     "mpId": "mp-194",
+     "speeches": 5,
+     "words": 2783
+    },
+    {
+     "mpId": "mp-209",
+     "speeches": 2,
+     "words": 2099
+    },
+    {
+     "mpId": "mp-214",
+     "speeches": 1,
+     "words": 1619
+    },
+    {
+     "mpId": "mp-175",
+     "speeches": 1,
+     "words": 1213
+    },
+    {
+     "mpId": "mp-183",
+     "speeches": 2,
+     "words": 1196
+    },
+    {
+     "mpId": "mp-177",
+     "speeches": 1,
+     "words": 719
+    },
+    {
+     "mpId": "mp-210",
+     "speeches": 1,
+     "words": 690
+    },
+    {
+     "mpId": "mp-218",
+     "speeches": 1,
+     "words": 623
+    },
+    {
+     "mpId": "mp-192",
+     "speeches": 1,
+     "words": 565
+    },
+    {
+     "mpId": "mp-190",
+     "speeches": 1,
+     "words": 514
+    },
+    {
+     "mpId": "mp-204",
+     "speeches": 1,
+     "words": 432
+    },
+    {
+     "mpId": "mp-184",
+     "speeches": 1,
+     "words": 314
+    },
+    {
+     "mpId": "mp-197",
+     "speeches": 1,
+     "words": 33
     }
    ]
   }
