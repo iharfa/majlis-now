@@ -1,10 +1,10 @@
 {
  "coverage": {
-  "sittingsDone": 56,
+  "sittingsDone": 57,
   "sittingsTotal": 226,
-  "pagesDone": 3228,
+  "pagesDone": 3260,
   "pagesTotal": 13248,
-  "speeches": 4996
+  "speeches": 5044
  },
  "sittings": [
   {
@@ -5572,6 +5572,57 @@
      "mpId": "mp-218",
      "speeches": 1,
      "words": 76
+    }
+   ]
+  },
+  {
+   "id": "1015",
+   "date": "2026-02-10",
+   "title": "2nd Sitting of First session of 2026",
+   "pages": 32,
+   "speeches": 48,
+   "words": 10079,
+   "voices": 9,
+   "speakers": [
+    {
+     "mpId": "mp-214",
+     "speeches": 4,
+     "words": 2046
+    },
+    {
+     "mpId": "mp-194",
+     "speeches": 4,
+     "words": 1016
+    },
+    {
+     "mpId": "mp-183",
+     "speeches": 3,
+     "words": 781
+    },
+    {
+     "mpId": "mp-177",
+     "speeches": 1,
+     "words": 589
+    },
+    {
+     "mpId": "mp-225",
+     "speeches": 1,
+     "words": 327
+    },
+    {
+     "mpId": "mp-239",
+     "speeches": 2,
+     "words": 252
+    },
+    {
+     "mpId": "mp-229",
+     "speeches": 2,
+     "words": 173
+    },
+    {
+     "mpId": "mp-199",
+     "speeches": 1,
+     "words": 67
     }
    ]
   }
